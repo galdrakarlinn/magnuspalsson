@@ -1,0 +1,191 @@
+/* style.css */
+
+/* General body styling */
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.7;
+    background: #fafafa;
+    color: #222;
+  }
+  
+  /* Navigation adjustments */
+  nav ul li a {
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  
+  nav ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Landing page headline */
+  main.container h1 {
+    font-size: 3.5rem;
+    margin-bottom: 0.5rem;
+    letter-spacing: -0.02em;
+  }
+  
+  main.container h3 {
+    color: #666;
+    font-weight: 400;
+  }
+  
+  /* Section headers */
+  h2 {
+    margin-top: 2rem;
+    font-size: 2rem;
+  }
+  
+  h3 {
+    margin-top: 1.5rem;
+    font-size: 1.25rem;
+    color: #555;
+  }
+  
+  /* Gallery grid */
+  .grid {
+    gap: 2rem;
+  }
+  
+  .grid figure {
+    margin: 0;
+    text-align: center;
+  }
+  
+  .grid figure img {
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transition: transform 0.25s ease-in-out, box-shadow 0.25s ease-in-out;
+  }
+  
+  .grid figure img:hover {
+    transform: scale(1.03);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.12);
+  }
+  
+  /* Captions */
+  figcaption {
+    margin-top: 0.5rem;
+    font-size: 0.95rem;
+    color: #555;
+  }
+  
+  /* Footer */
+  footer {
+    margin-top: 4rem;
+    text-align: center;
+    color: #888;
+    font-size: 0.9rem;
+  }
+  
+  footer a {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
+  
+  /* === Navigation dropdown styles === */
+.navbar {
+  background: #fff;
+  padding: 1rem;
+  border-bottom: 1px solid #ccc;
+  font-family: sans-serif;
+}
+
+.navbar .menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 2rem;
+}
+
+.navbar .menu li {
+  position: relative;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #000;
+  font-weight: 500;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+/* Dropdown */
+.navbar .submenu {
+  list-style: none;
+  position: absolute;
+  top: 100%;   /* sits exactly below parent */
+  left: 0;
+  display: none;
+  background: #fff;
+  border: 1px solid #ddd;
+  padding: 0.25rem 0;   /* less padding so no gap */
+  min-width: 180px;
+  z-index: 1000;
+  margin: 0;           /* remove gaps */
+}
+
+.navbar .submenu li {
+  display: block;
+  padding: 0;
+}
+
+
+.navbar .submenu a {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #000;
+  font-size: 0.9rem;   /* smaller text */
+  font-weight: 400;    /* lighter than main nav */
+  white-space: nowrap;
+}
+
+.navbar .submenu a:hover {
+  background: #f2f2f2;
+  color: #000;
+}
+
+/* Keep submenu open when hovering parent OR submenu */
+.navbar .dropdown:hover .submenu,
+.navbar .submenu:hover {
+  display: block;
+}
+/* Shared archival list style (for exhibitions, awards, films, etc.) */
+.archival section {
+  margin-bottom: 1.2rem;
+}
+
+.archival .year {
+  font-weight: bold;
+  font-size: 1rem;
+  margin: 0.8rem 0 0.2rem 0;
+}
+
+.archival ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.archival li {
+  margin: 0.1rem 0;
+  line-height: 1.3;
+}
+.under-construction {
+  background-color: #fff3cd;
+  color: #856404;
+  border: 1px solid #ffeeba;
+  padding: 1em;
+  margin: 1em 0;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2em;
+  border-radius: 4px;
+}
