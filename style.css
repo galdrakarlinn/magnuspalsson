@@ -189,3 +189,28 @@ body {
   font-size: 1.2em;
   border-radius: 4px;
 }
+/* All exhibitions pages */
+.container.archival {
+  max-width: 900px;
+  margin: 2em auto;
+  padding: 0 1em;
+  line-height: 1.6;
+}
+
+/* Years */
+.container.archival .year {
+  font-weight: bold;
+  margin-top: 1.5em;
+  font-size: 1.1em;
+  color: #444;
+}
+
+/* Exhibition title */
+.container.archival .title {
+  font-style: italic;
+}
+
+/* Venue */
+.container.archival .venue {
+  font-weight: 600;
+}
