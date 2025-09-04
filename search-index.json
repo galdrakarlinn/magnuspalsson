@@ -1,0 +1,94 @@
+{
+  "searchableContent": [
+    {
+      "id": "work_berdreyminn",
+      "title": "Berdreyminn",
+      "type": "work",
+      "page": "works",
+      "year": 1985,
+      "url": "works.html?work=berdreyminn",
+      "content": "Berdreyminn multi-layered work exploring memory place performance documentation Nordic Voices Reykjavik Art Museum",
+      "snippet": "A multi-layered work exploring memory and place through performance, documentation, and sculptural elements."
+    },
+    {
+      "id": "work_hundljod",
+      "title": "Hundljóð",
+      "type": "work", 
+      "page": "works",
+      "year": 1990,
+      "url": "works.html?work=hundljod",
+      "content": "Hundljóð sound poetry voice language performance Nordic Arts Centre Helsinki",
+      "snippet": "Sound poetry work combining voice, performance, and linguistic experimentation."
+    },
+    {
+      "id": "work_master_plaster_caster",
+      "title": "Master Plaster Caster",
+      "type": "work",
+      "page": "works", 
+      "year": 2013,
+      "url": "works.html?work=master_plaster_caster",
+      "content": "Master Plaster Caster sculpture installation authenticity reproduction Contemporary Matters Reykjavik Art Museum plaster mixed media",
+      "snippet": "Sculptural installation exploring themes of reproduction, authenticity, and artistic legacy."
+    },
+    {
+      "id": "work_naemur",
+      "title": "Næmur",
+      "type": "work",
+      "page": "works",
+      "year": 1988, 
+      "url": "works.html?work=naemur",
+      "content": "Næmur performance vulnerability presence photography Body Mind Gallery i8 Reykjavik",
+      "snippet": "A sensitive exploration of vulnerability and presence through performance and photographic documentation."
+    },
+    {
+      "id": "work_skyggn",
+      "title": "Skyggn", 
+      "type": "work",
+      "page": "works",
+      "year": 1992,
+      "url": "works.html?work=skyggn",
+      "content": "Skyggn perception shadow liminal visibility light Living Art Museum Reykjavik mixed media",
+      "snippet": "Work exploring perception, shadow, and the liminal spaces between visibility and invisibility."
+    },
+    {
+      "id": "work_augustus",
+      "title": "Augustus My God I Have It",
+      "type": "work",
+      "page": "works",
+      "year": 1984,
+      "url": "works.html?work=augustus_my_god",
+      "content": "Augustus My God I Have It sound poetry audio art book performance language revelation discovery power of language Nordic Sound Art Festival",
+      "snippet": "A groundbreaking sound poetry work that crosses boundaries between audio art, book, and performance."
+    },
+    {
+      "id": "work_yxn",
+      "title": "YXN",
+      "type": "work", 
+      "page": "works",
+      "year": 2002,
+      "url": "works.html?work=yxn_2002",
+      "content": "YXN sound video cows heat yxna chewing cud field text headphones poem boy country horses Steinþór Birgisson Selfoss Ingólfsfjall large screen installation",
+      "snippet": "Sound and video work featuring film of cows in heat with poetry read through 4 hanging headphones."
+    },
+    {
+      "id": "exhibition_yxn_sculptors_union",
+      "title": "30th Anniversary of the Sculptors Union",
+      "type": "group-exhibition",
+      "page": "exhibitions-group", 
+      "year": 2002,
+      "url": "exhibitions-group.html#year-2002",
+      "content": "30th Anniversary Sculptors Union Hafnarhús Reykjavik YXN sound video cows headphones 15 artists participated exhibition catalog",
+      "snippet": "Group exhibition featuring YXN - sound and video work with film of cows and poetry heard through 4 headphones."
+    },
+    {
+      "id": "exhibition_royal_academy_2002",
+      "title": "Royal Academy Summer Exhibition",
+      "type": "group-exhibition", 
+      "page": "exhibitions-group",
+      "year": 2002,
+      "url": "exhibitions-group.html", 
+      "content": "Royal Academy Summer Exhibition Royal Academy Arts London UK",
+      "snippet": "Group exhibition at Royal Academy of Arts, London, UK."
+    }
+  ]
+}

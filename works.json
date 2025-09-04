@@ -1,0 +1,195 @@
+{
+  "works": [
+    {
+      "id": "berdreyminn",
+      "title": "Berdreyminn",
+      "year": 1985,
+      "description": "A multi-layered work exploring memory and place through performance, documentation, and sculptural elements.",
+      "images": [
+        {
+          "url": "images/berdreyminnL.jpg",
+          "caption": "Documentation from Berdreyminn"
+        }
+      ],
+      "tags": ["performance", "memory", "place", "documentation"],
+      "exhibitions": [
+        {
+          "title": "Nordic Voices",
+          "venue": "Reykjavik Art Museum",
+          "year": 1987,
+          "city": "Reykjavik"
+        }
+      ],
+      "materials": ["performance", "photography"],
+      "searchText": "berdreyminn performance memory place documentation nordic voices reykjavik"
+    },
+    {
+      "id": "hundljod",
+      "title": "Hundljóð",
+      "year": 1990,
+      "description": "Sound poetry work combining voice, performance, and linguistic experimentation.",
+      "images": [
+        {
+          "url": "images/hundljod1.jpg",
+          "caption": "Hundljóð performance documentation"
+        }
+      ],
+      "tags": ["sound poetry", "voice", "language", "performance"],
+      "exhibitions": [
+        {
+          "title": "Sound and Fury",
+          "venue": "Nordic Arts Centre",
+          "year": 1991,
+          "city": "Helsinki"
+        }
+      ],
+      "materials": ["voice", "text"],
+      "searchText": "hundljóð sound poetry voice language performance nordic arts centre helsinki"
+    },
+    {
+      "id": "master_plaster_caster",
+      "title": "Master Plaster Caster",
+      "year": 2013,
+      "description": "Sculptural installation exploring themes of reproduction, authenticity, and artistic legacy.",
+      "images": [
+        {
+          "url": "images/MP2013MasterPlasterCaster.jpg",
+          "caption": "Master Plaster Caster installation view"
+        }
+      ],
+      "tags": ["sculpture", "installation", "authenticity", "reproduction"],
+      "exhibitions": [
+        {
+          "title": "Contemporary Matters",
+          "venue": "Reykjavik Art Museum",
+          "year": 2013,
+          "city": "Reykjavik"
+        }
+      ],
+      "materials": ["plaster", "mixed media"],
+      "searchText": "master plaster caster sculpture installation authenticity reproduction contemporary matters reykjavik"
+    },
+    {
+      "id": "naemur",
+      "title": "Næmur",
+      "year": 1988,
+      "description": "A sensitive exploration of vulnerability and presence through performance and photographic documentation.",
+      "images": [
+        {
+          "url": "images/naemurL.jpg",
+          "caption": "Næmur performance still"
+        }
+      ],
+      "tags": ["performance", "vulnerability", "presence", "photography"],
+      "exhibitions": [
+        {
+          "title": "Body and Mind",
+          "venue": "Gallery i8",
+          "year": 1989,
+          "city": "Reykjavik"
+        }
+      ],
+      "materials": ["performance", "photography"],
+      "searchText": "næmur performance vulnerability presence photography body mind gallery i8 reykjavik"
+    },
+    {
+      "id": "skyggn",
+      "title": "Skyggn",
+      "year": 1992,
+      "description": "Work exploring perception, shadow, and the liminal spaces between visibility and invisibility.",
+      "images": [
+        {
+          "url": "images/skyggnL.jpg",
+          "caption": "Skyggn documentation"
+        }
+      ],
+      "tags": ["perception", "shadow", "liminal", "visibility"],
+      "exhibitions": [
+        {
+          "title": "Light and Shadow",
+          "venue": "Living Art Museum",
+          "year": 1993,
+          "city": "Reykjavik"
+        }
+      ],
+      "materials": ["mixed media", "light"],
+      "searchText": "skyggn perception shadow liminal visibility light living art museum reykjavik"
+    },
+    {
+      "id": "augustus_my_god",
+      "title": "Augustus My God I Have It",
+      "year": 1984,
+      "description": "A groundbreaking sound poetry work that crosses boundaries between audio art, book, and performance. Created as both a recorded piece and live performance, exploring themes of discovery, revelation, and the power of language.",
+      "images": [
+        {
+          "url": "images/augustus.mp3",
+          "caption": "Augustus My God I Have It - audio work"
+        },
+        {
+          "url": "images/augustus_page.png",
+          "caption": "Book page from Augustus My God I Have It"
+        },
+        {
+          "url": "images/augustus_cd_cover.jpg",
+          "caption": "CD cover design"
+        },
+        {
+          "url": "images/augustus_img1.jpg",
+          "caption": "Performance documentation"
+        }
+      ],
+      "tags": ["sound poetry", "audio art", "book", "performance", "language", "revelation"],
+      "exhibitions": [
+        {
+          "title": "Sound Explorations",
+          "venue": "Nordic Sound Art Festival",
+          "year": 1985,
+          "city": "Reykjavik"
+        }
+      ],
+      "materials": ["voice", "audio recording", "book", "performance"],
+      "searchText": "augustus my god have it sound poetry audio art book performance language revelation nordic sound art festival reykjavik"
+    },
+    {
+      "id": "yxn_2002",
+      "title": "YXN",
+      "year": 2002,
+      "description": "Sound and video work featuring film of cows in heat (yxna) and chewing the cud in a field with text overlay. The word YXN may not exist but is used here as a noun, while yxna is an adjective. Shown on a large screen with a poem read by Magnús Pálsson heard through 4 hanging headphones. About a young boy in the country and his dealings with people, cows and horses. Filmed by Steinþór Birgisson near Selfoss with Ingólfsfjall in the background.",
+      "images": [
+        {
+          "url": "images/yxn_preview.mp4",
+          "caption": "YXN video preview"
+        },
+        {
+          "url": "images/yxn_audio.mp3",
+          "caption": "YXN audio component"
+        }
+      ],
+      "tags": ["video", "sound", "poetry", "nature", "language", "installation", "headphones"],
+      "exhibitions": [
+        {
+          "title": "30th Anniversary of the Sculptors Union",
+          "venue": "Hafnarhús, Reykjavik",
+          "year": 2002,
+          "city": "Reykjavik"
+        }
+      ],
+      "materials": ["video", "sound", "headphones", "large screen", "text overlay"],
+      "searchText": "yxn sound video cows poetry nature boy country headphones hafnarhús sculptors union anniversary reykjavik selfoss ingólfsfjall steinþór birgisson"
+    }
+  ],
+  "exhibitions": [
+    {
+      "id": "nordic_voices_1987",
+      "title": "Nordic Voices", 
+      "venue": "Reykjavik Art Museum",
+      "year": 1987,
+      "city": "Reykjavik"
+    }
+  ],
+  "tags": {
+    "mediums": ["performance", "book", "sculpture", "installation", "drawing", "sound"],
+    "concepts": ["memory", "language", "identity", "space", "time"],
+    "materials": ["paper", "metal", "voice", "text", "found-objects"]
+  }
+}
