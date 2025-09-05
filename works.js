@@ -59,11 +59,13 @@ class WorksManager {
     
     closeBtn.addEventListener('click', () => {
       modal.style.display = 'none';
+      this.refreshWorkCards();
     });
     
     window.addEventListener('click', (e) => {
       if (e.target === modal) {
         modal.style.display = 'none';
+        this.refreshWorkCards();
       }
     });
   }
@@ -241,6 +243,13 @@ class WorksManager {
             ` : `
               <img src="${media.url}" alt="${media.caption}" />
               <p class="image-caption">${media.caption}</p>
+              ${media.photographer || media.copyright ? `
+                <p class="photo-credit">
+                  ${media.photographer ? `Photo: ${media.photographer}${media.year ? `, ${media.year}` : ''}` : ''}
+                  ${media.photographer && media.copyright ? '<br>' : ''}
+                  ${media.copyright ? `${media.copyright}` : ''}
+                </p>
+              ` : ''}
             `;
           }).join('')}
         </div>
@@ -302,6 +311,13 @@ class WorksManager {
         this.showWorkModal(workId);
       }, 100);
     }
+  }
+
+  refreshWorkCards() {
+    // Force complete re-render of the works grid to fix rendering issues
+    setTimeout(() => {
+      this.renderWorks();
+    }, 100);
   }
 }
 

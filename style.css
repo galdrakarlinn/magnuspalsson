@@ -687,8 +687,19 @@ body {
 .image-caption {
   font-size: 0.9rem;
   color: #666;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.5rem;
   font-style: italic;
+}
+
+.photo-credit {
+  font-size: 0.8rem;
+  color: #999;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  line-height: 1.4;
+  padding: 0.5rem;
+  background: #f8f9fa;
+  border-left: 3px solid #dee2e6;
 }
 
 .work-info h2 {

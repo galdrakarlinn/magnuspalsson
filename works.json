@@ -1,27 +1,63 @@
 {
   "works": [
     {
-      "id": "berdreyminn",
-      "title": "Berdreyminn",
-      "year": 1985,
-      "description": "A multi-layered work exploring memory and place through performance, documentation, and sculptural elements.",
+      "id": "berdreyminn_skyggn_naemur_1969",
+      "title": "Berdreyminn, Skyggn, Næmur",
+      "year": 1969,
+      "description": "Three significant works from 1969: Berdreyminn (exploring memory and place), Skyggn (exploring perception and shadow), and Næmur (exploring vulnerability and presence). These works represent an important period in Magnús Pálsson's development, documented together in the 1994 catalog.",
       "images": [
         {
-          "url": "images/berdreyminnL.jpg",
-          "caption": "Documentation from Berdreyminn"
+          "url": "images/skyggn_berdreyminn_naemur_1969/berdreyminnL.jpg",
+          "caption": "Berdreyminn - performance documentation",
+          "photographer": "Unknown",
+          "year": "1969",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/skyggn_berdreyminn_naemur_1969/skyggnL.jpg",
+          "caption": "Skyggn - exploring perception and shadow",
+          "photographer": "Unknown",
+          "year": "1969",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/skyggn_berdreyminn_naemur_1969/naemurL.jpg",
+          "caption": "Næmur - vulnerability and presence documentation",
+          "photographer": "Unknown",
+          "year": "1969",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/skyggn_berdreyminn_naemur_1969/Bestu styki 1.JPG",
+          "caption": "1969 works documentation detail 1",
+          "photographer": "Unknown",
+          "year": "1969",
+          "copyright": "© Estate of Magnús Pálsson"
         }
       ],
-      "tags": ["performance", "memory", "place", "documentation"],
+      "tags": ["performance", "memory", "perception", "vulnerability", "shadow", "presence", "1960s", "trilogy"],
       "exhibitions": [
         {
           "title": "Nordic Voices",
           "venue": "Reykjavik Art Museum",
           "year": 1987,
           "city": "Reykjavik"
+        },
+        {
+          "title": "Body and Mind",
+          "venue": "Gallery i8",
+          "year": 1989,
+          "city": "Reykjavik"
+        },
+        {
+          "title": "Light and Shadow",
+          "venue": "Living Art Museum",
+          "year": 1993,
+          "city": "Reykjavik"
         }
       ],
-      "materials": ["performance", "photography"],
-      "searchText": "berdreyminn performance memory place documentation nordic voices reykjavik"
+      "materials": ["performance", "photography", "mixed media"],
+      "searchText": "berdreyminn skyggn næmur 1969 performance memory perception vulnerability shadow presence trilogy catalog nordic voices body mind light shadow reykjavik"
     },
     {
       "id": "hundljod",
@@ -31,7 +67,10 @@
       "images": [
         {
           "url": "images/hundljod1.jpg",
-          "caption": "Hundljóð performance documentation"
+          "caption": "Hundljóð performance documentation",
+          "photographer": "Sigurður Guðmundsson",
+          "year": "1990",
+          "copyright": "© Sigurður Guðmundsson"
         }
       ],
       "tags": ["sound poetry", "voice", "language", "performance"],
@@ -70,52 +109,6 @@
       "searchText": "master plaster caster sculpture installation authenticity reproduction contemporary matters reykjavik"
     },
     {
-      "id": "naemur",
-      "title": "Næmur",
-      "year": 1988,
-      "description": "A sensitive exploration of vulnerability and presence through performance and photographic documentation.",
-      "images": [
-        {
-          "url": "images/naemurL.jpg",
-          "caption": "Næmur performance still"
-        }
-      ],
-      "tags": ["performance", "vulnerability", "presence", "photography"],
-      "exhibitions": [
-        {
-          "title": "Body and Mind",
-          "venue": "Gallery i8",
-          "year": 1989,
-          "city": "Reykjavik"
-        }
-      ],
-      "materials": ["performance", "photography"],
-      "searchText": "næmur performance vulnerability presence photography body mind gallery i8 reykjavik"
-    },
-    {
-      "id": "skyggn",
-      "title": "Skyggn",
-      "year": 1992,
-      "description": "Work exploring perception, shadow, and the liminal spaces between visibility and invisibility.",
-      "images": [
-        {
-          "url": "images/skyggnL.jpg",
-          "caption": "Skyggn documentation"
-        }
-      ],
-      "tags": ["perception", "shadow", "liminal", "visibility"],
-      "exhibitions": [
-        {
-          "title": "Light and Shadow",
-          "venue": "Living Art Museum",
-          "year": 1993,
-          "city": "Reykjavik"
-        }
-      ],
-      "materials": ["mixed media", "light"],
-      "searchText": "skyggn perception shadow liminal visibility light living art museum reykjavik"
-    },
-    {
       "id": "augustus_my_god",
       "title": "Augustus My God I Have It",
       "year": 1984,
@@ -127,15 +120,24 @@
         },
         {
           "url": "images/augustus_page.png",
-          "caption": "Book page from Augustus My God I Have It"
+          "caption": "Book page from Augustus My God I Have It",
+          "photographer": "Archive scan",
+          "year": "1984",
+          "copyright": "© Estate of Magnús Pálsson"
         },
         {
           "url": "images/augustus_cd_cover.jpg",
-          "caption": "CD cover design"
+          "caption": "CD cover design",
+          "photographer": "Archive photo",
+          "year": "1984",
+          "copyright": "© Estate of Magnús Pálsson"
         },
         {
           "url": "images/augustus_img1.jpg",
-          "caption": "Performance documentation"
+          "caption": "Performance documentation",
+          "photographer": "Ragnhildur Stefánsdóttir",
+          "year": "1984",
+          "copyright": "© Ragnhildur Stefánsdóttir"
         }
       ],
       "tags": ["sound poetry", "audio art", "book", "performance", "language", "revelation"],
@@ -176,6 +178,114 @@
       ],
       "materials": ["video", "sound", "headphones", "large screen", "text overlay"],
       "searchText": "yxn sound video cows poetry nature boy country headphones hafnarhús sculptors union anniversary reykjavik selfoss ingólfsfjall steinþór birgisson"
+    },
+    {
+      "id": "thyrlulending",
+      "title": "Þyrlulending (Helicopter Landing)",
+      "year": 1976,
+      "description": "Sculptural work documenting and referencing the Sikorski helicopter landing. A work exploring themes of aviation, technology, and place through documentation and sculptural intervention.",
+      "images": [
+        {
+          "url": "images/thyrlulending/thyrlulending_mp02_web.jpg",
+          "caption": "Helicopter Landing documentation MP 02",
+          "photographer": "Unknown",
+          "year": "1976",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/thyrlulending/Helicopter Lund 2012.jpg",
+          "caption": "Helicopter Lund 2012 documentation",
+          "photographer": "Unknown",
+          "year": "2012",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/thyrlulending/thyrlulending_main_1976.jpg",
+          "caption": "Þyrlulending main documentation",
+          "photographer": "Unknown",
+          "year": "1976",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/thyrlulending/IMG_1894.jpg",
+          "caption": "Additional documentation",
+          "photographer": "Unknown",
+          "year": "1976",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/thyrlulending/thyrlulending_mp01a.jpg",
+          "caption": "Helicopter Landing documentation MP 01a",
+          "photographer": "Unknown",
+          "year": "1976",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/thyrlulending/thyrlulending_mp02.jpg",
+          "caption": "Helicopter Landing documentation MP 02",
+          "photographer": "Unknown",
+          "year": "1976",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["sculpture", "aviation", "technology", "place", "documentation", "sikorski", "helicopter"],
+      "exhibitions": [],
+      "materials": ["mixed media", "documentation", "sculpture"],
+      "searchText": "þyrlulending helicopter landing sculpture aviation technology place documentation sikorski mixed media magnús pálsson 1976"
+    },
+    {
+      "id": "bestu_stykkin",
+      "title": "Bestu stykkin",
+      "year": 1965,
+      "description": "Sculptural installation from 1965, also known as Frúöld and Menchenhoopje. Part of Magnús Pálsson's exploration of form, space and materials during his early career, representing some of his best pieces from this formative period.",
+      "images": [
+        {
+          "url": "images/bestu-stykkin/Bestu stykin.JPG",
+          "caption": "Bestu stykkin installation view",
+          "photographer": "Unknown",
+          "year": "1965",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/bestu-stykkin/fruold_1965.jpg",
+          "caption": "Frúöld (alternative view of Bestu stykkin)",
+          "photographer": "Unknown",
+          "year": "1965",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/bestu-stykkin/menchenhoopje_A_1969.jpg",
+          "caption": "Menchenhoopje installation view A (Bestu stykkin)",
+          "photographer": "Unknown",
+          "year": "1969",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/bestu-stykkin/menchenhoopje_B_gallerisúm_1969.jpg",
+          "caption": "Menchenhoopje outside Galleri SÚM (Bestu stykkin)",
+          "photographer": "Unknown",
+          "year": "1969",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/bestu-stykkin/Bestu stykkin 1969.jpg",
+          "caption": "Bestu stykkin documentation 1969",
+          "photographer": "Unknown",
+          "year": "1969",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/bestu-stykkin/Bestu styki 2.JPG",
+          "caption": "Bestu stykkin detail view",
+          "photographer": "Unknown",
+          "year": "1965",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["sculpture", "installation", "early work", "1960s", "form", "space"],
+      "exhibitions": [],
+      "materials": ["mixed media", "sculpture"],
+      "searchText": "bestu stykkin sculpture installation early work 1960s form space mixed media magnús pálsson"
     }
   ],
   "exhibitions": [
