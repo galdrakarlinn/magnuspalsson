@@ -3,8 +3,7 @@ class WorksManager {
     this.allWorks = [];
     this.filteredWorks = [];
     this.currentFilters = {
-      search: '',
-      yearRange: { min: 1960, max: 2024 },
+      decades: [],
       tags: []
     };
     
@@ -14,8 +13,11 @@ class WorksManager {
   async init() {
     await this.loadWorks();
     this.setupEventListeners();
+    this.setupCategoryCollapse();
     this.renderWorks();
     this.renderTagFilters();
+    this.renderDecades();
+    this.setupClearButton(); // Setup clear button AFTER filters are rendered
     this.checkForDirectWorkLink();
   }
 
@@ -33,26 +35,6 @@ class WorksManager {
   }
 
   setupEventListeners() {
-    // Search input
-    const searchInput = document.getElementById('search-input');
-    searchInput.addEventListener('input', (e) => {
-      this.currentFilters.search = e.target.value.toLowerCase();
-      this.filterWorks();
-    });
-
-    // Year range slider
-    const yearRange = document.getElementById('year-range');
-    yearRange.addEventListener('input', (e) => {
-      this.currentFilters.yearRange.max = parseInt(e.target.value);
-      this.filterWorks();
-    });
-
-    // Clear filters
-    const clearFilters = document.getElementById('clear-filters');
-    clearFilters.addEventListener('click', () => {
-      this.clearAllFilters();
-    });
-
     // Modal functionality
     const modal = document.getElementById('work-modal');
     const closeBtn = modal.querySelector('.close');
@@ -70,18 +52,89 @@ class WorksManager {
     });
   }
 
+  setupCategoryCollapse() {
+    // Load pinned states from localStorage
+    const pinnedCategories = JSON.parse(localStorage.getItem('pinnedCategories') || '[]');
+    
+    document.querySelectorAll('.filter-category').forEach(category => {
+      const categoryName = category.dataset.category;
+      const header = category.querySelector('.category-header');
+      const content = category.querySelector('.category-content');
+      const expandBtn = category.querySelector('.expand-btn');
+      const pinBtn = category.querySelector('.pin-btn');
+      
+      // Set initial pinned state
+      if (pinnedCategories.includes(categoryName)) {
+        category.classList.add('pinned');
+        content.classList.remove('collapsed');
+        expandBtn.textContent = '▲';
+        pinBtn.style.opacity = '1';
+      }
+      
+      // Header click to expand/collapse
+      header.addEventListener('click', (e) => {
+        // Don't trigger on pin button clicks
+        if (e.target === pinBtn) return;
+        
+        const isCollapsed = content.classList.contains('collapsed');
+        const isPinned = category.classList.contains('pinned');
+        
+        if (isCollapsed) {
+          // Expand
+          content.classList.remove('collapsed');
+          expandBtn.textContent = '▲';
+          
+          // If not pinned, auto-collapse other categories
+          if (!isPinned) {
+            document.querySelectorAll('.filter-category:not(.pinned)').forEach(otherCategory => {
+              if (otherCategory !== category) {
+                const otherContent = otherCategory.querySelector('.category-content');
+                const otherExpandBtn = otherCategory.querySelector('.expand-btn');
+                otherContent.classList.add('collapsed');
+                otherExpandBtn.textContent = '▼';
+              }
+            });
+          }
+        } else {
+          // Collapse (only if not pinned)
+          if (!isPinned) {
+            content.classList.add('collapsed');
+            expandBtn.textContent = '▼';
+          }
+        }
+      });
+      
+      // Pin button functionality
+      pinBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const isPinned = category.classList.contains('pinned');
+        
+        if (isPinned) {
+          // Unpin
+          category.classList.remove('pinned');
+          pinBtn.style.opacity = '0.3';
+          const updatedPinned = pinnedCategories.filter(name => name !== categoryName);
+          localStorage.setItem('pinnedCategories', JSON.stringify(updatedPinned));
+        } else {
+          // Pin
+          category.classList.add('pinned');
+          content.classList.remove('collapsed');
+          expandBtn.textContent = '▲';
+          pinBtn.style.opacity = '1';
+          const updatedPinned = [...pinnedCategories, categoryName];
+          localStorage.setItem('pinnedCategories', JSON.stringify(updatedPinned));
+        }
+      });
+    });
+  }
+
   filterWorks() {
     this.filteredWorks = this.allWorks.filter(work => {
-      // Search filter
-      if (this.currentFilters.search) {
-        const searchMatch = work.searchText.toLowerCase().includes(this.currentFilters.search) ||
-                           work.title.toLowerCase().includes(this.currentFilters.search) ||
-                           work.description.toLowerCase().includes(this.currentFilters.search);
-        if (!searchMatch) return false;
+      // Decade filter
+      if (this.currentFilters.decades.length > 0) {
+        const workDecade = Math.floor(work.year / 10) * 10;
+        if (!this.currentFilters.decades.includes(workDecade)) return false;
       }
-
-      // Year filter
-      if (work.year > this.currentFilters.yearRange.max) return false;
 
       // Tags filter
       if (this.currentFilters.tags.length > 0) {
@@ -97,6 +150,18 @@ class WorksManager {
 
   renderWorks() {
     const grid = document.getElementById('works-grid');
+    const counter = document.getElementById('works-count');
+    
+    // Update count display
+    if (counter) {
+      const totalWorks = this.allWorks.length;
+      const filteredCount = this.filteredWorks.length;
+      if (filteredCount === totalWorks) {
+        counter.textContent = `${totalWorks} works`;
+      } else {
+        counter.textContent = `${filteredCount} of ${totalWorks} works`;
+      }
+    }
     
     if (this.filteredWorks.length === 0) {
       grid.innerHTML = '<p class="no-results">No works found matching your criteria.</p>';
@@ -220,18 +285,45 @@ class WorksManager {
   }
 
   renderTagFilters() {
-    const tagsFilter = document.getElementById('tags-filter');
     const allTags = [...new Set(this.allWorks.flatMap(work => work.tags))].sort();
     
-    tagsFilter.innerHTML = allTags.map(tag => `
-      <label class="tag-checkbox">
-        <input type="checkbox" value="${tag}" />
+    // Categorize tags
+    const categories = {
+      medium: ['sculpture', 'sound poetry', 'video', 'installation', 'audio art', 'book', 'headphones'],
+      concepts: ['negative space', 'positive space', 'materializing immaterial', 'void', 'absence', 'memory', 'perception', 'vulnerability', 'shadow', 'presence', 'death', 'mortality', 'dreams', 'authenticity', 'reproduction', 'revelation', 'irony', 'time', 'place', 'nature', 'landscape', 'mountain', 'technology', 'aviation'],
+      historical: ['1960s', '1970s', 'debut exhibition', 'anti-art', 'provocation', 'public reaction', 'destruction', 'dieter roth', 'frúöld', 'ásmundarsalur', 'SÚM', 'vatnsstígur', 'living art museum', 'sikorski', 'helicopter', 'collaboration', 'documentation', 'conversations', 'interviews', 'philosophy', 'existentialism', 'trilogy']
+    };
+
+    // Render medium tags
+    this.renderTagCategory('medium-tags', allTags.filter(tag => categories.medium.includes(tag)));
+    
+    // Render concept tags
+    this.renderTagCategory('concept-tags', allTags.filter(tag => categories.concepts.includes(tag)));
+    
+    // Render historical tags
+    this.renderTagCategory('historical-tags', allTags.filter(tag => categories.historical.includes(tag)));
+    
+    // Render remaining uncategorized tags in concepts
+    const categorizedTags = [...categories.medium, ...categories.concepts, ...categories.historical];
+    const uncategorized = allTags.filter(tag => !categorizedTags.includes(tag));
+    if (uncategorized.length > 0) {
+      this.renderTagCategory('concept-tags', [...allTags.filter(tag => categories.concepts.includes(tag)), ...uncategorized]);
+    }
+  }
+
+  renderTagCategory(containerId, tags) {
+    const container = document.getElementById(containerId);
+    if (!container || tags.length === 0) return;
+    
+    container.innerHTML = tags.map(tag => `
+      <label class="tag-checkbox" for="tag-${tag.replace(/\s+/g, '-')}">
+        <input type="checkbox" id="tag-${tag.replace(/\s+/g, '-')}" value="${tag}" title="${tag}" />
         <span>${tag}</span>
       </label>
     `).join('');
 
     // Add event listeners to tag checkboxes
-    tagsFilter.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+    container.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
       checkbox.addEventListener('change', (e) => {
         if (e.target.checked) {
           this.currentFilters.tags.push(e.target.value);
@@ -241,6 +333,45 @@ class WorksManager {
         this.filterWorks();
       });
     });
+  }
+
+  renderDecades() {
+    const container = document.getElementById('decade-tags');
+    if (!container) return;
+
+    // Get all unique decades from works
+    const decades = [...new Set(this.allWorks.map(work => Math.floor(work.year / 10) * 10))].sort();
+    
+    container.innerHTML = decades.map(decade => `
+      <label class="tag-checkbox" for="decade-${decade}">
+        <input type="checkbox" id="decade-${decade}" value="${decade}" title="${decade}s" />
+        <span>${decade}s</span>
+      </label>
+    `).join('');
+
+    // Add event listeners to decade checkboxes
+    container.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+      checkbox.addEventListener('change', (e) => {
+        if (e.target.checked) {
+          this.currentFilters.decades.push(parseInt(e.target.value));
+        } else {
+          this.currentFilters.decades = this.currentFilters.decades.filter(decade => decade !== parseInt(e.target.value));
+        }
+        this.filterWorks();
+      });
+    });
+  }
+
+  setupClearButton() {
+    const clearFilters = document.getElementById('clear-works-filters');
+    
+    if (clearFilters) {
+      clearFilters.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        this.clearAllFilters();
+      });
+    }
   }
 
   getOwnershipInfo(workId) {
@@ -354,20 +485,29 @@ class WorksManager {
   }
 
   clearAllFilters() {
-    // Reset search
-    document.getElementById('search-input').value = '';
-    this.currentFilters.search = '';
-
-    // Reset year range
-    document.getElementById('year-range').value = 2024;
-    this.currentFilters.yearRange.max = 2024;
-
-    // Reset tag checkboxes
-    document.querySelectorAll('#tags-filter input[type="checkbox"]').forEach(cb => {
-      cb.checked = false;
-    });
+    // Reset the filter state
     this.currentFilters.tags = [];
+    this.currentFilters.decades = [];
+    
+    // Uncheck all checkboxes visually
+    const allCheckboxes = document.querySelectorAll('.filter-sidebar input[type="checkbox"]');
+    allCheckboxes.forEach(cb => {
+      if (cb.checked) {
+        cb.checked = false;
+      }
+    });
 
+    // Collapse all unpinned categories after clearing
+    document.querySelectorAll('.filter-category:not(.pinned)').forEach(category => {
+      const content = category.querySelector('.category-content');
+      const expandBtn = category.querySelector('.expand-btn');
+      if (content && expandBtn) {
+        content.classList.add('collapsed');
+        expandBtn.textContent = '▼';
+      }
+    });
+
+    // Re-render with empty filters
     this.filterWorks();
   }
 
@@ -393,5 +533,7 @@ class WorksManager {
 
 // Initialize when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
-  new WorksManager();
+  if (!window.worksManagerInstance) {
+    window.worksManagerInstance = new WorksManager();
+  }
 });
