@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Admin - Archive Metadata – Magnús Pálsson</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+  <style>
+    .metadata-section {
+      margin: 2rem 0;
+      padding: 1rem;
+      background: rgba(0,0,0,0.02);
+      border-radius: 8px;
+    }
+    .work-entry {
+      margin: 1rem 0;
+      padding: 1rem;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+    }
+    .work-images {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin: 1rem 0;
+    }
+    .work-images img {
+      max-width: 100px;
+      max-height: 100px;
+      object-fit: cover;
+    }
+    pre {
+      background: #f4f4f4;
+      padding: 1rem;
+      overflow-x: auto;
+      font-size: 0.85rem;
+    }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      margin: 2rem 0;
+    }
+    .stat-card {
+      background: white;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .file-list {
+      font-family: monospace;
+      font-size: 0.9rem;
+    }
+    .tag {
+      display: inline-block;
+      padding: 0.2rem 0.5rem;
+      background: #e0e0e0;
+      border-radius: 3px;
+      margin: 0.2rem;
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navigation placeholder -->
+  <div id="nav-placeholder"></div>
+
+  <main class="container">
+    <h1>Archive Admin & Metadata</h1>
+    
+    <!-- Statistics -->
+    <div class="stats" id="stats">
+      <div class="stat-card">
+        <h3>Total Works</h3>
+        <p id="total-works">Loading...</p>
+      </div>
+      <div class="stat-card">
+        <h3>Total Images</h3>
+        <p id="total-images">Loading...</p>
+      </div>
+      <div class="stat-card">
+        <h3>Total Exhibitions</h3>
+        <p id="total-exhibitions">Loading...</p>
+      </div>
+      <div class="stat-card">
+        <h3>Year Range</h3>
+        <p id="year-range">Loading...</p>
+      </div>
+    </div>
+
+    <!-- Archive Standards -->
+    <section class="metadata-section">
+      <h2>Archive Standards</h2>
+      <details>
+        <summary>View Standards Document</summary>
+        <pre id="standards-content">Loading...</pre>
+      </details>
+    </section>
+
+    <!-- Works Data -->
+    <section class="metadata-section">
+      <h2>Works Database</h2>
+      <details>
+        <summary>View Raw JSON</summary>
+        <pre id="works-json">Loading...</pre>
+      </details>
+      
+      <h3>Works Overview</h3>
+      <div id="works-list"></div>
+    </section>
+
+    <!-- Search Index -->
+    <section class="metadata-section">
+      <h2>Search Index</h2>
+      <details>
+        <summary>View Search Index</summary>
+        <pre id="search-json">Loading...</pre>
+      </details>
+    </section>
+
+    <!-- File Structure -->
+    <section class="metadata-section">
+      <h2>Image Files Status</h2>
+      <div id="file-status"></div>
+    </section>
+  </main>
+
+  <!-- Footer placeholder -->
+  <div id="footer-placeholder"></div>
+
+  <!-- Scripts -->
+  <script src="nav.js"></script>
+  <script src="footer.js"></script>
+  <script>
+    async function loadAdminData() {
+      try {
+        // Load works data
+        const worksResponse = await fetch('works.json');
+        const worksData = await worksResponse.json();
+        
+        // Display statistics
+        document.getElementById('total-works').textContent = worksData.works.length;
+        
+        let totalImages = 0;
+        let years = [];
+        worksData.works.forEach(work => {
+          totalImages += work.images.length;
+          years.push(work.year);
+        });
+        document.getElementById('total-images').textContent = totalImages;
+        
+        const minYear = Math.min(...years);
+        const maxYear = Math.max(...years);
+        document.getElementById('year-range').textContent = `${minYear} - ${maxYear}`;
+        
+        // Count exhibitions
+        let exhibitions = new Set();
+        worksData.works.forEach(work => {
+          work.exhibitions.forEach(ex => {
+            exhibitions.add(`${ex.title}-${ex.year}`);
+          });
+        });
+        document.getElementById('total-exhibitions').textContent = exhibitions.size;
+        
+        // Display raw JSON
+        document.getElementById('works-json').textContent = JSON.stringify(worksData, null, 2);
+        
+        // Display works list
+        const worksList = document.getElementById('works-list');
+        worksList.innerHTML = worksData.works.map(work => `
+          <div class="work-entry">
+            <h4>${work.title} (${work.year})</h4>
+            <p><strong>ID:</strong> ${work.id}</p>
+            <p><strong>Images:</strong> ${work.images.length} files</p>
+            <div class="work-images">
+              ${work.images.slice(0, 3).map(img => 
+                img.url.endsWith('.mp3') || img.url.endsWith('.mp4') || img.url.endsWith('.pdf') ?
+                `<div style="width:100px;height:100px;background:#f0f0f0;display:flex;align-items:center;justify-content:center;font-size:0.8rem;">${img.url.split('.').pop().toUpperCase()}</div>` :
+                `<img src="${img.url}" alt="${work.title}" onerror="this.style.display='none'">`
+              ).join('')}
+              ${work.images.length > 3 ? `<div style="width:100px;height:100px;display:flex;align-items:center;justify-content:center;">+${work.images.length - 3} more</div>` : ''}
+            </div>
+            <div class="tags">
+              ${work.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+            </div>
+            <details>
+              <summary>View Full Data</summary>
+              <pre>${JSON.stringify(work, null, 2)}</pre>
+            </details>
+          </div>
+        `).join('');
+        
+        // Load search index
+        const searchResponse = await fetch('search-index.json');
+        const searchData = await searchResponse.json();
+        document.getElementById('search-json').textContent = JSON.stringify(searchData, null, 2);
+        
+      } catch (error) {
+        console.error('Error loading admin data:', error);
+      }
+    }
+    
+    // Load data when page loads
+    document.addEventListener('DOMContentLoaded', loadAdminData);
+  </script>
+</body>
+</html>

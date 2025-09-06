@@ -125,14 +125,14 @@ class WorksManager {
                  </video>
                  <div class="video-indicator">▶</div>` :
               isAudio && displayMedia !== firstMedia ?
-                `<img src="${displayMedia.thumbnail || displayMedia.url}" alt="${work.title}" loading="lazy" />
+                `<img src="${this.getThumbPath(displayMedia.thumbnail || displayMedia.url)}" alt="${work.title}" loading="lazy" />
                  <div class="audio-indicator">♪</div>` :
               isAudio ?
                 `<div class="audio-placeholder">
                    <div class="audio-icon">♪</div>
                    <div class="audio-title">${work.title}</div>
                  </div>` :
-                `<img src="${firstMedia.thumbnail || firstMedia.url}" alt="${work.title}" loading="lazy" />`
+                `<img src="${this.getThumbPath(firstMedia.thumbnail || firstMedia.url)}" alt="${work.title}" loading="lazy" />`
             ) : '<div class="no-image">No media available</div>'}
             <div class="work-overlay">
               <h3>${work.title}</h3>
@@ -184,6 +184,41 @@ class WorksManager {
     return url.toLowerCase().includes('.pdf');
   }
 
+  // Helper functions for optimized images
+  getThumbPath(url) {
+    // Skip non-images (video, audio, PDF)
+    if (this.isVideoFile(url) || this.isAudioFile(url) || this.isPDFFile(url)) {
+      return url;
+    }
+    
+    // Convert image path to thumbnail version
+    const parts = url.split('/');
+    if (parts.length >= 3) {
+      const fileName = parts[parts.length - 1];
+      const fileBase = fileName.substring(0, fileName.lastIndexOf('.'));
+      parts[parts.length - 1] = 'thumbs';
+      return parts.join('/') + '/' + fileBase + '-thumb.jpg';
+    }
+    return url;
+  }
+
+  getMediumPath(url) {
+    // Skip non-images (video, audio, PDF)
+    if (this.isVideoFile(url) || this.isAudioFile(url) || this.isPDFFile(url)) {
+      return url;
+    }
+    
+    // Convert image path to medium version
+    const parts = url.split('/');
+    if (parts.length >= 3) {
+      const fileName = parts[parts.length - 1];
+      const fileBase = fileName.substring(0, fileName.lastIndexOf('.'));
+      parts[parts.length - 1] = 'medium';
+      return parts.join('/') + '/' + fileBase + '-medium.jpg';
+    }
+    return url;
+  }
+
   renderTagFilters() {
     const tagsFilter = document.getElementById('tags-filter');
     const allTags = [...new Set(this.allWorks.flatMap(work => work.tags))].sort();
@@ -208,10 +243,32 @@ class WorksManager {
     });
   }
 
+  getOwnershipInfo(workId) {
+    const ownershipMap = {
+      'bestu_stykkin': {
+        owner: 'The Living Art Museum (Nýlistasafnið)',
+        url: 'https://sarpur.is/Adfang.aspx?AdfangID=1396243',
+        catalogNumber: 'N-277'
+      },
+      'vidtol_um_daudann_2011': {
+        owner: 'National Gallery of Iceland (Listasafn Íslands)',
+        url: 'https://www.listasafn.is/list/safneign/li-8249/',
+        catalogNumber: 'LÍ-8249'
+      },
+      'thyrlulending': {
+        owner: 'Reykjavík Art Museum',
+        url: 'https://listasafnreykjavikur.is/safneign?q=Sekúndurnar',
+        altTitle: 'Sekúndurnar þar til Sikorskyþyrlan snertir'
+      }
+    };
+    return ownershipMap[workId] || null;
+  }
+
   showWorkModal(workId) {
     const work = this.allWorks.find(w => w.id === workId);
     if (!work) return;
 
+    const ownership = this.getOwnershipInfo(workId);
     const modalBody = document.getElementById('modal-body');
     modalBody.innerHTML = `
       <div class="work-detail">
@@ -241,7 +298,7 @@ class WorksManager {
               </div>
               <p class="image-caption">${media.caption}</p>
             ` : `
-              <img src="${media.url}" alt="${media.caption}" />
+              <img src="${this.getMediumPath(media.url)}" alt="${media.caption}" />
               <p class="image-caption">${media.caption}</p>
               ${media.photographer || media.copyright ? `
                 <p class="photo-credit">
@@ -257,6 +314,15 @@ class WorksManager {
           <h2>${work.title}</h2>
           <p class="work-year">${work.year}</p>
           <p class="work-description">${work.description}</p>
+          ${ownership ? `
+            <div class="ownership-info">
+              <h3>Collection</h3>
+              <p><strong>Owned by:</strong> <a href="${ownership.url}" target="_blank">${ownership.owner}</a></p>
+              ${ownership.catalogNumber ? `<p class="catalog-number">Catalog: ${ownership.catalogNumber}</p>` : ''}
+              ${ownership.altTitle ? `<p class="alt-title">Also listed as: "${ownership.altTitle}"</p>` : ''}
+              <p><a href="collections.html">View full collections page →</a></p>
+            </div>
+          ` : ''}
           <div class="work-tags">
             ${work.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
           </div>
@@ -271,8 +337,12 @@ class WorksManager {
             </div>
           ` : ''}
           <div class="search-related">
-            <button class="search-button" onclick="window.searchForWork('${work.title}')">
-              🔍 Search archive for "${work.title}"
+            <button class="search-button" onclick='window.searchForWork(${JSON.stringify({
+              primary: work.title.split('(')[0].trim(),
+              alternative: ownership?.altTitle || null,
+              workId: work.id
+            })})'>
+              🔍 Search archive for this work
             </button>
             <p class="search-help">Find exhibitions, reviews, and other references to this work</p>
           </div>

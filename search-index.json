@@ -2,11 +2,11 @@
   "searchableContent": [
     {
       "id": "work_berdreyminn",
-      "title": "Berdreyminn",
+      "title": "Berdreyminn, Skyggn, Næmur",
       "type": "work",
       "page": "works",
       "year": 1985,
-      "url": "works.html?work=berdreyminn",
+      "url": "works.html?work=berdreyminn_skyggn_naemur_1969",
       "content": "Berdreyminn multi-layered work exploring memory place performance documentation Nordic Voices Reykjavik Art Museum",
       "snippet": "A multi-layered work exploring memory and place through performance, documentation, and sculptural elements."
     },
@@ -32,21 +32,21 @@
     },
     {
       "id": "work_naemur",
-      "title": "Næmur",
+      "title": "Berdreyminn, Skyggn, Næmur (Næmur)",
       "type": "work",
       "page": "works",
       "year": 1988, 
-      "url": "works.html?work=naemur",
+      "url": "works.html?work=berdreyminn_skyggn_naemur_1969",
       "content": "Næmur performance vulnerability presence photography Body Mind Gallery i8 Reykjavik",
       "snippet": "A sensitive exploration of vulnerability and presence through performance and photographic documentation."
     },
     {
       "id": "work_skyggn",
-      "title": "Skyggn", 
+      "title": "Berdreyminn, Skyggn, Næmur (Skyggn)", 
       "type": "work",
       "page": "works",
       "year": 1992,
-      "url": "works.html?work=skyggn",
+      "url": "works.html?work=berdreyminn_skyggn_naemur_1969",
       "content": "Skyggn perception shadow liminal visibility light Living Art Museum Reykjavik mixed media",
       "snippet": "Work exploring perception, shadow, and the liminal spaces between visibility and invisibility."
     },
@@ -89,6 +89,135 @@
       "url": "exhibitions-group.html", 
       "content": "Royal Academy Summer Exhibition Royal Academy Arts London UK",
       "snippet": "Group exhibition at Royal Academy of Arts, London, UK."
+    },
+    {
+      "id": "exhibition_vidtol_um_daudann_national_gallery",
+      "title": "Viðtöl um dauðann (Interviews about death)",
+      "type": "solo-exhibition",
+      "page": "exhibitions-solo",
+      "year": 2011,
+      "url": "exhibitions-solo.html",
+      "content": "Viðtöl um dauðann Interviews about death National Gallery Iceland Reykjavík solo exhibition mortality conversations philosophy existentialism Læknablaðið 2005/91",
+      "snippet": "Solo exhibition exploring death and mortality through conversations and interviews at National Gallery of Iceland, Reykjavík."
+    },
+    {
+      "id": "work_thyrlulending",
+      "title": "Þyrlulending (Helicopter Landing)",
+      "type": "work",
+      "page": "works",
+      "year": 1976,
+      "url": "works.html?work=thyrlulending",
+      "content": "Þyrlulending Helicopter Landing sculpture aviation technology place documentation sikorski mixed media magnús pálsson 1976",
+      "snippet": "Sculptural work documenting and referencing the Sikorski helicopter landing, exploring themes of aviation, technology, and place."
+    },
+    {
+      "id": "work_bestu_stykkin",
+      "title": "Bestu stykkin",
+      "type": "work",
+      "page": "works",
+      "year": 1965,
+      "url": "works.html?work=bestu_stykkin",
+      "content": "Bestu stykkin frúöld cloth figures debut solo exhibition ásmundarsalur dieter roth ironic titles empty skins anti-art provocation public reaction ugly idiotic destruction concrete SÚM vatnsstígur living art museum magnús pálsson 1965 1967",
+      "snippet": "Three surviving sculptures from a larger anti-art series of cloth figures called Frúöld, featuring ironic titles suggested by Dieter Roth."
+    },
+    {
+      "id": "work_vidtol_um_daudann",
+      "title": "Viðtöl um dauðann",
+      "type": "work",
+      "page": "works",
+      "year": 2011,
+      "url": "works.html?work=vidtol_um_daudann_2011",
+      "content": "viðtöl um dauðann conversations death mortality interviews philosophy existentialism collaboration documentation national gallery iceland reykjavík læknablaðið magnús pálsson 2011",
+      "snippet": "A profound exploration of death and mortality through conversations and interviews, exhibited at National Gallery of Iceland."
+    },
+    {
+      "id": "work_draumur_hlynsins",
+      "title": "Draumur hlynsins um fjall",
+      "type": "work",
+      "page": "works",
+      "year": 1974,
+      "url": "works.html?work=draumur_hlynsins_um_fjall_1974",
+      "content": "draumur hlynsins um fjall dreams sound landscape mountain collaboration edda jónsdóttir performance 1974 poetry magnús pálsson",
+      "snippet": "A poetic work exploring dreams, sound, and landscape, created in collaboration with Edda Jónsdóttir in 1974."
+    },
+    {
+      "id": "exhibition_debut_asmundarsalur_1967",
+      "title": "Bestu stykkin",
+      "type": "solo-exhibition",
+      "page": "exhibitions-solo",
+      "year": 1967,
+      "url": "exhibitions-solo.html#year-1967",
+      "content": "Bestu stykkin solo exhibition Ásmundarsalur Reykjavik 1967 Frúöld cloth figures anti-art provocation public reaction Dieter Roth ironic titles debut",
+      "snippet": "Solo exhibition at Ásmundarsalur featuring Magnús Pálsson's controversial debut with the Bestu stykkin (Frúöld) cloth figure series."
+    },
+    {
+      "id": "exhibition_sum_iii_1969",
+      "title": "SÚM III",
+      "type": "group-exhibition",
+      "page": "exhibitions-group",
+      "year": 1969,
+      "url": "exhibitions-group.html#year-1969",
+      "content": "SÚM III Gallery SÚM Reykjavik 1969 Bestu stykkin Frúöld concrete destruction anti-art aftermath magnús pálsson",
+      "snippet": "SÚM III exhibition where Bestu stykkin/Frúöld works were covered in concrete after public rejection."
+    },
+    {
+      "id": "exhibition_kjarvalsstadur_1994",
+      "title": "Retrospective Exhibition",
+      "type": "solo-exhibition",
+      "page": "exhibitions-solo",
+      "year": 1994,
+      "url": "exhibitions-solo.html#year-1994",
+      "content": "Retrospective Exhibition Kjarvalstaðir Reykjavik Art Museum 1994 catalog Bestu stykkin Frúöld documentation magnús pálsson",
+      "snippet": "Retrospective exhibition at Kjarvalstaðir featuring comprehensive documentation and catalog."
+    },
+    {
+      "id": "exhibition_hafnarhus_2019",
+      "title": "Retrospective – Myndheimur: Eitthvað úr engu",
+      "type": "solo-exhibition",
+      "page": "exhibitions-solo",
+      "year": 2019,
+      "url": "exhibitions-solo.html#year-2019",
+      "content": "Retrospective Myndheimur Eitthvað úr engu Visual Realm Something from Nothing Hafnarhús Reykjavik Art Museum 2019 Bestu stykkin magnús pálsson",
+      "snippet": "Major retrospective 'The Visual Realm of Magnús Pálsson. Something from Nothing' at Reykjavík Art Museum – Hafnarhús."
+    },
+    {
+      "id": "collections_page",
+      "title": "Collections and Public Works",
+      "type": "collections",
+      "page": "collections",
+      "url": "collections.html",
+      "content": "Collections Public Works museum institutional holdings Listasafn Íslands National Gallery Iceland Living Art Museum Nýlistasafnið Reykjavík Art Museum ownership catalog",
+      "snippet": "Comprehensive documentation of works by Magnús Pálsson in museum collections, institutional archives, and public installations."
+    },
+    {
+      "id": "collection_helicopter",
+      "title": "Sekúndurnar þar til Sikorskyþyrlan snertir",
+      "type": "collection-work",
+      "page": "collections",
+      "year": 1976,
+      "url": "collections.html#reykjavik-art-museum",
+      "content": "Sekúndurnar þar til Sikorskyþyrlan snertir Seconds Before Sikorsky Helicopter Touches Þyrlulending Helicopter Landing Reykjavík Art Museum Installation 1976",
+      "snippet": "Installation work at Reykjavík Art Museum, also known as 'Þyrlulending' (Helicopter Landing)."
+    },
+    {
+      "id": "collection_bestu_stykkin",
+      "title": "Bestu stykkin (Frúöld series)",
+      "type": "collection-work",
+      "page": "collections",
+      "year": 1965,
+      "url": "collections.html#living-art-museum",
+      "content": "Bestu stykkin Frúöld series sculpture Living Art Museum Nýlistasafnið three surviving pieces cloth figures N-277",
+      "snippet": "Three surviving pieces from the original cloth figure series at The Living Art Museum (Nýlistasafnið), catalog N-277."
+    },
+    {
+      "id": "collection_vidtol",
+      "title": "Viðtöl um dauðann",
+      "type": "collection-work",
+      "page": "collections",
+      "year": 2003,
+      "url": "collections.html#national-gallery",
+      "content": "Viðtöl um dauðann Interviews about Death Helga Hansdóttir National Gallery Iceland Listasafn Íslands New Media LÍ-8249",
+      "snippet": "New Media work co-created with Helga Hansdóttir at National Gallery of Iceland, catalog LÍ-8249."
     }
   ]
 }

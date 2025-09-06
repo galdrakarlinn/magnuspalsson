@@ -1,5 +1,47 @@
 /* style.css */
 
+/* Override Pico CSS default colors to black and white theme */
+:root {
+  --primary: #000;
+  --primary-hover: #333;
+  --primary-focus: #666;
+  --secondary: #666;
+  --contrast: #000;
+  --contrast-hover: #333;
+  --contrast-focus: #666;
+}
+
+/* Links - override blue defaults */
+a {
+  color: #000 !important;
+}
+
+a:hover {
+  color: #333 !important;
+}
+
+a:focus {
+  color: #666 !important;
+}
+
+/* Button overrides */
+button, [type="button"], [type="reset"], [type="submit"] {
+  background-color: #000 !important;
+  border-color: #000 !important;
+  color: #fff !important;
+}
+
+button:hover, [type="button"]:hover, [type="reset"]:hover, [type="submit"]:hover {
+  background-color: #333 !important;
+  border-color: #333 !important;
+}
+
+/* Form elements */
+input:focus, textarea:focus, select:focus {
+  border-color: #000 !important;
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1) !important;
+}
+
 /* General body styling */
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -99,7 +141,7 @@ body {
   align-items: center;
 }
 
-/* Navigation search */
+/* Navigation search - Minimalistic design */
 .nav-search {
   position: relative;
   min-width: 300px;
@@ -113,23 +155,26 @@ body {
 
 #global-search {
   width: 100%;
-  padding: 0.5rem 2.5rem 0.5rem 1rem;
-  border: 2px solid #e0e0e0;
-  border-radius: 25px;
+  padding: 0.75rem 2.5rem 0.75rem 0.75rem;
+  border: 1px solid #000;
+  border-radius: 0;
   font-size: 0.9rem;
-  transition: border-color 0.3s;
+  background: #fff;
+  color: #000;
+  transition: all 0.2s;
 }
 
 .search-icon {
   position: absolute;
-  right: 1rem;
-  color: #666;
+  right: 0.75rem;
+  color: #000;
   pointer-events: none;
 }
 
 #global-search:focus {
-  border-color: #007bff;
+  border: 2px solid #000;
   outline: none;
+  background: #fff;
 }
 
 .search-dropdown {
@@ -138,9 +183,9 @@ body {
   left: 0;
   right: 0;
   background: white;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border: 1px solid #000;
+  border-radius: 0;
+  box-shadow: none;
   max-height: 400px;
   overflow-y: auto;
   z-index: 2000;
@@ -149,13 +194,14 @@ body {
 
 .search-result {
   padding: 0.75rem 1rem;
-  border-bottom: 1px solid #f0f0f0;
+  border-bottom: 1px solid #000;
   cursor: pointer;
   transition: background-color 0.2s;
 }
 
 .search-result:hover {
-  background: #f8f9fa;
+  background: #000;
+  color: #fff;
 }
 
 .search-result:last-child {
@@ -315,16 +361,19 @@ body {
 #search-input {
   width: 100%;
   padding: 0.75rem;
-  border: 2px solid #e0e0e0;
-  border-radius: 4px;
+  border: 1px solid #000;
+  border-radius: 0;
   font-size: 1rem;
+  background: #fff;
+  color: #000;
   margin-bottom: 1rem;
-  transition: border-color 0.2s;
+  transition: all 0.2s;
 }
 
 #search-input:focus {
-  border-color: #007bff;
+  border: 2px solid #000;
   outline: none;
+  background: #fff;
 }
 
 .filters {
@@ -758,22 +807,24 @@ body {
 }
 
 .search-button {
-  background: linear-gradient(135deg, #007bff, #0056b3);
+  background: #000;
   color: white;
-  border: none;
+  border: 1px solid #000;
   padding: 0.75rem 1.5rem;
-  border-radius: 25px;
+  border-radius: 0;
   cursor: pointer;
   font-size: 0.9rem;
   font-weight: 500;
-  transition: all 0.3s;
-  box-shadow: 0 2px 8px rgba(0, 123, 255, 0.3);
+  transition: all 0.2s;
+  box-shadow: none;
 }
 
 .search-button:hover {
-  background: linear-gradient(135deg, #0056b3, #004085);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 123, 255, 0.4);
+  background: #fff;
+  color: #000;
+  border: 1px solid #000;
+  transform: none;
+  box-shadow: none;
 }
 
 .search-help {

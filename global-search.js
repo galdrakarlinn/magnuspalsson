@@ -190,10 +190,25 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // Global function to search for a specific work from modal
-window.searchForWork = function(workTitle) {
+window.searchForWork = function(searchData) {
   const globalSearchInput = document.getElementById('global-search');
   if (globalSearchInput) {
-    globalSearchInput.value = workTitle;
+    // Handle both string (legacy) and object (new) formats
+    let searchTerm;
+    if (typeof searchData === 'string') {
+      searchTerm = searchData;
+    } else {
+      // Use just the primary title without parenthetical additions
+      searchTerm = searchData.primary;
+      
+      // Special handling for specific works
+      if (searchData.workId === 'thyrlulending') {
+        // Just search for the simple Icelandic name
+        searchTerm = 'Þyrlulending';
+      }
+    }
+    
+    globalSearchInput.value = searchTerm;
     globalSearchInput.focus();
     
     // Close the modal first
@@ -207,7 +222,7 @@ window.searchForWork = function(workTitle) {
       // Find the GlobalSearch instance and trigger search manually
       const searchInstance = window.globalSearchInstance;
       if (searchInstance) {
-        searchInstance.performSearch(workTitle);
+        searchInstance.performSearch(searchTerm);
       } else {
         // Fallback - trigger input event
         const event = new Event('input', { bubbles: true });
