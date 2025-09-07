@@ -135,6 +135,13 @@ body {
   }
   
   /* === Navigation dropdown styles === */
+/* Make the nav placeholder sticky */
+#nav-placeholder {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
 .navbar {
   background: #fff;
   padding: 1rem;
@@ -143,6 +150,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 /* Navigation search - Minimalistic design */
@@ -359,19 +367,6 @@ body {
   justify-content: space-between;
 }
 
-.clear-btn {
-  padding: 0.25rem 0.5rem !important;
-  font-size: 0.75rem !important;
-  background: transparent !important;
-  border: 1px solid #000 !important;
-  color: #000 !important;
-  cursor: pointer;
-}
-
-.clear-btn:hover {
-  background: #000 !important;
-  color: #fff !important;
-}
 
 .toggle-btn {
   padding: 0.25rem 0.5rem !important;
@@ -1217,41 +1212,6 @@ body {
   border-bottom: none;
 }
 
-.search-related {
-  margin-top: 2rem;
-  padding: 1.5rem;
-  background: #f8f9fa;
-  border-radius: 8px;
-  text-align: center;
-}
-
-.search-button {
-  background: #000;
-  color: white;
-  border: 1px solid #000;
-  padding: 0.75rem 1.5rem;
-  border-radius: 0;
-  cursor: pointer;
-  font-size: 0.9rem;
-  font-weight: 500;
-  transition: all 0.2s;
-  box-shadow: none;
-}
-
-.search-button:hover {
-  background: #fff;
-  color: #000;
-  border: 1px solid #000;
-  transform: none;
-  box-shadow: none;
-}
-
-.search-help {
-  margin: 0.5rem 0 0 0;
-  font-size: 0.85rem;
-  color: #666;
-  font-style: italic;
-}
 
 /* Responsive adjustments */
 @media (max-width: 768px) {

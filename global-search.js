@@ -16,11 +16,9 @@ class GlobalSearch {
   }
 
   async init() {
-    console.log('GlobalSearch: Initializing...');
     await this.loadSearchIndex();
     this.setupEventListeners();
     this.restoreSearchState();
-    console.log('GlobalSearch: Ready!');
   }
 
   async loadSearchIndex() {
@@ -40,14 +38,8 @@ class GlobalSearch {
     this.searchFilters = document.getElementById('search-filters');
     
     if (!this.searchInput || !this.searchResults) {
-      console.log('GlobalSearch: Elements not found', {
-        searchInput: !!this.searchInput,
-        searchResults: !!this.searchResults
-      });
       return;
     }
-    
-    console.log('GlobalSearch: Event listeners attached');
 
     this.searchInput.addEventListener('input', (e) => {
       const query = e.target.value.trim();
@@ -324,7 +316,7 @@ class GlobalSearch {
           <button class="search-close-btn" onclick="window.globalSearchInstance.hideResults(); window.globalSearchInstance.hideFilters(); event.stopPropagation();">×</button>
         </div>
         ${results.map(result => `
-          <div class="search-result" onclick="console.log('Navigating to:', '${result.url}'); window.location.href='${result.url}'; return false;">
+          <div class="search-result" onclick="window.location.href='${result.url}'; return false;">
             <div class="search-result-header">
               <div class="search-result-badge search-badge-${result.type}">${this.getTypeBadge(result.type)}</div>
               ${result.year ? `<div class="search-result-year">${result.year}</div>` : ''}
@@ -573,7 +565,7 @@ class GlobalSearch {
         }
       }
     } catch (error) {
-      console.log('Could not restore search state:', error);
+      // Could not restore search state
     }
   }
 
@@ -599,49 +591,13 @@ class GlobalSearch {
 }
 
 // Initialize global search when DOM is loaded
-document.addEventListener('DOMContentLoaded', () => {
+// Check if DOM is already loaded (for dynamically loaded scripts)
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', () => {
+    window.globalSearchInstance = new GlobalSearch();
+  });
+} else {
+  // DOMContentLoaded has already fired
   window.globalSearchInstance = new GlobalSearch();
-});
+}
 
-// Global function to search for a specific work from modal
-window.searchForWork = function(searchData) {
-  const globalSearchInput = document.getElementById('global-search');
-  if (globalSearchInput) {
-    // Handle both string (legacy) and object (new) formats
-    let searchTerm;
-    if (typeof searchData === 'string') {
-      searchTerm = searchData;
-    } else {
-      // Use just the primary title without parenthetical additions
-      searchTerm = searchData.primary;
-      
-      // Special handling for specific works
-      if (searchData.workId === 'thyrlulending') {
-        // Just search for the simple Icelandic name
-        searchTerm = 'Þyrlulending';
-      }
-    }
-    
-    globalSearchInput.value = searchTerm;
-    globalSearchInput.focus();
-    
-    // Close the modal first
-    const modal = document.getElementById('work-modal');
-    if (modal) {
-      modal.style.display = 'none';
-    }
-    
-    // Small delay then trigger search and show results
-    setTimeout(() => {
-      // Find the GlobalSearch instance and trigger search manually
-      const searchInstance = window.globalSearchInstance;
-      if (searchInstance) {
-        searchInstance.performSearch(searchTerm);
-      } else {
-        // Fallback - trigger input event
-        const event = new Event('input', { bubbles: true });
-        globalSearchInput.dispatchEvent(event);
-      }
-    }, 100);
-  }
-};

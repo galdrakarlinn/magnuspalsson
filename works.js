@@ -401,6 +401,12 @@ class WorksManager {
 
     const ownership = this.getOwnershipInfo(workId);
     const modalBody = document.getElementById('modal-body');
+    
+    // Reset modal scroll position to top
+    const modalContent = document.querySelector('.modal-content');
+    if (modalContent) {
+      modalContent.scrollTop = 0;
+    }
     modalBody.innerHTML = `
       <div class="work-detail">
         <div class="work-images">
@@ -467,16 +473,6 @@ class WorksManager {
               </ul>
             </div>
           ` : ''}
-          <div class="search-related">
-            <button class="search-button" onclick='window.searchForWork(${JSON.stringify({
-              primary: work.title.split('(')[0].trim(),
-              alternative: ownership?.altTitle || null,
-              workId: work.id
-            })})'>
-              🔍 Search archive for this work
-            </button>
-            <p class="search-help">Find exhibitions, reviews, and other references to this work</p>
-          </div>
         </div>
       </div>
     `;
