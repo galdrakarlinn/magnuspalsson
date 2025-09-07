@@ -57,7 +57,7 @@
       "page": "works",
       "year": 1984,
       "url": "works.html?work=augustus_my_god",
-      "content": "Augustus My God I Have It sound poetry audio art book performance language revelation discovery power of language Nordic Sound Art Festival",
+      "content": "Augustus My God I Have It sound poetry audio art book performance language revelation discovery power of language Nordic Sound Art Festival Smekkleysa polypoetry festival 2006 compilation",
       "snippet": "A groundbreaking sound poetry work that crosses boundaries between audio art, book, and performance."
     },
     {
@@ -107,7 +107,7 @@
       "page": "works",
       "year": 1976,
       "url": "works.html?work=thyrlulending",
-      "content": "Þyrlulending Helicopter Landing sculpture aviation technology place documentation sikorski mixed media magnús pálsson 1976",
+      "content": "Þyrlulending Helicopter Landing sculpture installation negative space positive space materializing immaterial void absence aviation technology place documentation sikorski helicopter time mixed media magnús pálsson 1976",
       "snippet": "Sculptural work documenting and referencing the Sikorski helicopter landing, exploring themes of aviation, technology, and place."
     },
     {
@@ -137,7 +137,7 @@
       "page": "works",
       "year": 1974,
       "url": "works.html?work=draumur_hlynsins_um_fjall_1974",
-      "content": "draumur hlynsins um fjall dreams sound landscape mountain collaboration edda jónsdóttir performance 1974 poetry magnús pálsson",
+      "content": "draumur hlynsins um fjall sculpture negative space positive space materializing immaterial dreams sound landscape mountain collaboration edda jónsdóttir void absence poetry 1970s magnús pálsson 1974",
       "snippet": "A poetic work exploring dreams, sound, and landscape, created in collaboration with Edda Jónsdóttir in 1974."
     },
     {
@@ -218,6 +218,53 @@
       "url": "collections.html#national-gallery",
       "content": "Viðtöl um dauðann Interviews about Death Helga Hansdóttir National Gallery Iceland Listasafn Íslands New Media LÍ-8249",
       "snippet": "New Media work co-created with Helga Hansdóttir at National Gallery of Iceland, catalog LÍ-8249."
+    },
+    {
+      "id": "collection_vallanes_model",
+      "title": "Líkan af Vallanesi (Model of Vallanes)",
+      "type": "collection-work",
+      "page": "collections",
+      "year": 1976,
+      "url": "collections.html#national-museum",
+      "content": "Vallanes model village architectural detailed fathers descriptions plastic 1976 National Museum Iceland Þjóðminjasafn three identical models Canada East Iceland Museum sarpur",
+      "snippet": "Detailed model of Vallanes village created from father's descriptions. One of three identical models at National Museum of Iceland, 1976."
+    },
+    {
+      "id": "studios_page",
+      "title": "Studios & Workspaces",
+      "type": "page",
+      "page": "studios",
+      "url": "studios.html",
+      "content": "studios workspaces Vesturgata Mýrargata Mile End Place London Hvarf garage Þingholtsstræti Freyjugötu Nauthólsvík Iðnó theater National Theatre Korpúlfsstaðir Ásmundarsalur Sólvallagata Grundarstígur Klapparstígur Brautarholt Skólavörðustígur creative process workspace evolution artistic practice",
+      "snippet": "Documentation of Magnús Pálsson's various studio spaces across Reykjavík and internationally, showing the evolution of his working environments over six decades."
+    },
+    {
+      "id": "studio_hvarf_garage",
+      "title": "Hvarf - Garage Studio", 
+      "type": "studio",
+      "page": "studios",
+      "year": 1967,
+      "url": "studios.html#hvarf-garage",
+      "content": "Hvarf garage studio workspace 1967 October fire destroyed Bestu stykkin period black white photographs rural converted space materials storage",
+      "snippet": "Converted garage studio at Hvarf documented in October 1967, destroyed by fire. Rare photographs show the workspace during the Bestu stykkin period."
+    },
+    {
+      "id": "studio_mile_end_london",
+      "title": "Mile End Place, London",
+      "type": "studio", 
+      "page": "studios",
+      "url": "studios.html#mile-end",
+      "content": "Mile End Place London international studio East London European art scene UK community workspace British connections",
+      "snippet": "International studio space in East London representing connections to the broader European art scene."
+    },
+    {
+      "id": "studio_grundarstígur",
+      "title": "Grundarstígur Shared Studio",
+      "type": "studio",
+      "page": "studios", 
+      "url": "studios.html#grundarstígur",
+      "content": "Grundarstígur shared studio Ragnar Kjartansson Dieter Roth collaboration plaster casting conceptual art techniques artistic exchanges material practices",
+      "snippet": "Shared studio space with sculptor Ragnar Kjartansson and Dieter Roth, crucial for developing plaster casting techniques and conceptual approaches."
     }
   ]
 }
