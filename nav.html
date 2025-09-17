@@ -1,77 +1,71 @@
 <!-- nav.html -->
 <nav class="navbar">
-  <div class="nav-search">
+  <!-- Mobile Header -->
+  <div class="nav-header">
+    <div class="nav-brand">
+      <a href="index.html" class="brand-link">Magnús Pálsson</a>
+    </div>
+
+    <!-- Mobile Search Toggle -->
+    <button class="search-toggle-btn" id="mobile-search-toggle">
+      <span class="search-icon">🔍</span>
+    </button>
+
+    <!-- Hamburger Menu Button -->
+    <button class="hamburger-btn" id="hamburger-btn">
+      <span class="hamburger-line"></span>
+      <span class="hamburger-line"></span>
+      <span class="hamburger-line"></span>
+    </button>
+  </div>
+
+  <!-- Mobile Search (Hidden by default) -->
+  <div class="mobile-search" id="mobile-search">
     <div class="search-input-wrapper">
-      <input type="text" id="global-search" placeholder="Search archive..." />
+      <input type="text" id="global-search-mobile" placeholder="Search archive..." />
+    </div>
+    <div id="search-results-mobile" class="search-dropdown"></div>
+  </div>
+
+  <!-- Desktop Search (visible on larger screens) -->
+  <div class="desktop-search">
+    <div class="search-input-wrapper">
+      <input type="text" id="global-search-desktop" placeholder="Search archive..." />
       <span class="search-icon">🔍</span>
     </div>
-    <div class="search-filters" id="search-filters" style="display: none;">
-      <div class="filter-row">
-        <div class="filter-group">
-          <label>Type:</label>
-          <div class="filter-buttons">
-            <button class="filter-btn active" data-filter="type" data-value="all">All</button>
-            <button class="filter-btn" data-filter="type" data-value="work">Works</button>
-            <button class="filter-btn" data-filter="type" data-value="exhibition">Shows</button>
-            <button class="filter-btn" data-filter="type" data-value="collection">Museum</button>
-          </div>
-        </div>
-      </div>
-      <div class="filter-row">
-        <div class="filter-group">
-          <label>Year:</label>
-          <div class="year-range">
-            <input type="range" id="year-filter" min="1960" max="2024" value="2024" />
-            <span id="year-display">1960-2024</span>
-          </div>
-        </div>
-      </div>
-      <div class="filter-row">
-        <div class="filter-group">
-          <label>Medium:</label>
-          <div class="filter-buttons">
-            <button class="filter-btn active" data-filter="medium" data-value="all">All</button>
-            <button class="filter-btn" data-filter="medium" data-value="sculpture">Sculpture</button>
-            <button class="filter-btn" data-filter="medium" data-value="sound">Sound</button>
-            <button class="filter-btn" data-filter="medium" data-value="installation">Install.</button>
-          </div>
-        </div>
-      </div>
-      <div class="filter-actions">
-        <button id="clear-filters" class="clear-btn">Clear Filters</button>
-        <button id="toggle-filters" class="toggle-btn">Hide Filters</button>
-      </div>
-    </div>
-    <div id="search-results" class="search-dropdown"></div>
+    <div id="search-results-desktop" class="search-dropdown"></div>
   </div>
-  <ul class="menu">
-    <li><a href="index.html">Home</a></li>
-    <li><a href="works.html">Works</a></li>
-    <li><a href="theater.html">Theater</a></li>
 
-    <li class="dropdown">
-      <a href="exhibitions.html">Exhibitions</a>
-      <ul class="submenu">
-        <li><a href="exhibitions-solo.html">Solo Exhibitions</a></li>
-        <li><a href="exhibitions-group.html">Group Exhibitions</a></li>
-        <li><a href="publicworks.html">Works in Public Spaces</a></li>
-      </ul>
-    </li>
+  <!-- Navigation Menu -->
+  <div class="nav-menu" id="nav-menu">
+    <ul class="menu">
+      <li><a href="index.html">Works</a></li>
+      <li><a href="theater.html">Theater</a></li>
+      <li><a href="biography.html">Biography</a></li>
 
-    <li class="dropdown">
-      <a href="publications.html">Publications</a>
-      <ul class="submenu">
-        <li><a href="publications.html">All Publications</a></li>
-        <li><a href="activities.html">Activities</a></li>
-        <li><a href="awards.html">Awards</a></li>
-        <li><a href="films.html">Films</a></li>
-        <li><a href="reviews.html">Reviews</a></li>
-        <li><a href="studios.html">Studios</a></li>
-        <li><a href="collections.html">Collections</a></li>
-      </ul>
-    </li>
+      <!-- Exhibitions Section -->
+      <li class="menu-section">
+        <h3>Exhibitions</h3>
+        <ul class="section-links">
+          <li><a href="exhibitions-solo.html">Solo Exhibitions</a></li>
+          <li><a href="exhibitions-group.html">Group Exhibitions</a></li>
+          <li><a href="publicworks.html">Public Works</a></li>
+        </ul>
+      </li>
 
-    <li><a href="biography.html">Biography</a></li>
-    <li><a href="contact.html">Contact</a></li>
-  </ul>
+      <!-- Archive Section -->
+      <li class="menu-section">
+        <h3>Archive</h3>
+        <ul class="section-links">
+          <li><a href="publications.html">Publications</a></li>
+          <li><a href="films.html">Films</a></li>
+          <li><a href="reviews.html">Reviews</a></li>
+          <li><a href="studios.html">Studios</a></li>
+          <li><a href="collections.html">Collections</a></li>
+        </ul>
+      </li>
+
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </div>
 </nav>

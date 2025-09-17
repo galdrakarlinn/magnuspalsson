@@ -13,31 +13,99 @@
   <!-- Navigation placeholder -->
   <div id="nav-placeholder"></div>
 
-  <!-- Main content -->
-  <main class="container" style="text-align:center; padding:4rem 1rem;">
-    <h1>Magnús Pálsson</h1>
-    <h3>Artist</h3>
-    <div class="under-construction">
-      This page is under construction 
-   </div>
+  <div class="works-layout">
+    <!-- Filter Sidebar -->
+    <aside class="filter-sidebar">
+      <div class="sidebar-header">
+        <h2>Browse Works</h2>
+        <button type="button" id="clear-works-filters" class="clear-btn">Clear All</button>
+      </div>
 
-    <!-- Cover Image -->
-    <figure style="margin-top:2rem;">
-      <img src="images/master-plaster-caster-2013/master-plaster-caster-installation.jpg" 
-           alt="Magnús Pálsson - Master Plaster Caster, 2013" 
-           style="max-width:100%; height:auto; border-radius:8px; box-shadow:0 4px 14px rgba(0,0,0,0.1);" />
-      <figcaption style="margin-top:0.5rem; color:#555; font-size:0.9rem;">
-        <em>Master Plaster Caster</em>, 2013
-      </figcaption>
-    </figure>
-  </main>
+      <div class="filter-categories">
+        <div class="filter-category" data-category="medium">
+          <div class="category-header">
+            <h3>Medium & Format</h3>
+            <div class="category-controls">
+              <button class="pin-btn" title="Keep open">📌</button>
+              <button class="expand-btn">▼</button>
+            </div>
+          </div>
+          <div class="category-content collapsed">
+            <div class="tag-group" id="medium-tags"></div>
+          </div>
+        </div>
+
+        <div class="filter-category" data-category="concepts">
+          <div class="category-header">
+            <h3>Concepts & Themes</h3>
+            <div class="category-controls">
+              <button class="pin-btn" title="Keep open">📌</button>
+              <button class="expand-btn">▼</button>
+            </div>
+          </div>
+          <div class="category-content collapsed">
+            <div class="tag-group" id="concept-tags"></div>
+          </div>
+        </div>
+
+        <div class="filter-category" data-category="historical">
+          <div class="category-header">
+            <h3>Historical Context</h3>
+            <div class="category-controls">
+              <button class="pin-btn" title="Keep open">📌</button>
+              <button class="expand-btn">▼</button>
+            </div>
+          </div>
+          <div class="category-content collapsed">
+            <div class="tag-group" id="historical-tags"></div>
+          </div>
+        </div>
+
+        <div class="filter-category" data-category="decades">
+          <div class="category-header">
+            <h3>Decades</h3>
+            <div class="category-controls">
+              <button class="pin-btn" title="Keep open">📌</button>
+              <button class="expand-btn">▼</button>
+            </div>
+          </div>
+          <div class="category-content collapsed">
+            <div class="decade-group" id="decade-tags"></div>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="works-main">
+      <header class="works-header">
+        <h1>Works</h1>
+        <div class="works-count" id="works-count">Loading works...</div>
+      </header>
+
+      <!-- Works Grid -->
+      <div class="works-grid" id="works-grid">
+        <!-- Works will be populated here by JavaScript -->
+      </div>
+    </main>
+  </div>
+
+    <!-- Work Modal -->
+    <div class="modal" id="work-modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <div class="modal-body" id="modal-body">
+          <!-- Work details will be populated here -->
+        </div>
+      </div>
+    </div>
 
   <!-- Footer placeholder -->
   <div id="footer-placeholder"></div>
 
-  <!-- Load scripts -->
+  <!-- Scripts -->
   <script src="nav.js"></script>
   <script src="footer.js"></script>
-  <script src="global-search.js"></script>
+  <script src="works.js"></script>
 </body>
 </html>

@@ -1238,3 +1238,339 @@ body {
     padding: 1rem;
   }
 }
+
+/* === MOBILE HAMBURGER NAVIGATION === */
+
+/* Mobile breakpoints */
+@media (max-width: 768px) {
+  /* Override navbar layout for mobile */
+  .navbar {
+    display: block !important;
+    padding: 1rem !important;
+  }
+
+  /* Hide ALL existing navigation elements */
+  .nav-search {
+    display: none !important;
+  }
+
+  .desktop-search {
+    display: none !important;
+  }
+
+  .navbar .menu {
+    display: none !important; /* Hide by default on mobile */
+  }
+
+  .navbar ul.menu {
+    display: none !important;
+  }
+
+  .navbar > ul {
+    display: none !important;
+  }
+
+  /* Hide any other navigation elements */
+  .navbar > * {
+    display: none !important;
+  }
+
+  /* Then show only what we want */
+  .nav-header {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    width: 100% !important;
+  }
+
+  .mobile-search {
+    display: none !important;
+  }
+
+  .nav-menu {
+    display: block !important;
+  }
+
+  .nav-menu.mobile-open .menu {
+    display: block !important;
+  }
+}
+
+@media (min-width: 769px) {
+  /* Hide mobile elements, show desktop */
+  .nav-header {
+    display: none;
+  }
+
+  .mobile-search {
+    display: none;
+  }
+
+  .nav-menu {
+    display: block !important;
+  }
+
+  .desktop-search {
+    display: block;
+  }
+}
+
+/* Navigation Header (Mobile) */
+.nav-header {
+  display: none; /* Hidden by default, shown on mobile via media query */
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 0.5rem 0;
+}
+
+.nav-brand .brand-link {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #000 !important;
+  text-decoration: none;
+  letter-spacing: -0.02em;
+}
+
+.nav-brand .brand-link:hover {
+  color: #333 !important;
+}
+
+/* Search toggle button */
+.search-toggle-btn {
+  background: none !important;
+  border: none !important;
+  font-size: 1.2rem !important;
+  color: #000 !important;
+  cursor: pointer;
+  padding: 0.5rem !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-toggle-btn:hover {
+  color: #333 !important;
+  background: #f8f9fa !important;
+  border-radius: 4px;
+}
+
+/* Hamburger Button */
+.hamburger-btn {
+  background: none !important;
+  border: none !important;
+  cursor: pointer;
+  padding: 0.5rem !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  position: relative;
+}
+
+.hamburger-btn:hover {
+  background: #f8f9fa !important;
+  border-radius: 4px;
+}
+
+.hamburger-line {
+  width: 20px;
+  height: 2px;
+  background-color: #000;
+  margin: 2px 0;
+  transition: 0.3s;
+  transform-origin: center;
+}
+
+/* Hamburger animation when open */
+.hamburger-btn.open .hamburger-line:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+
+.hamburger-btn.open .hamburger-line:nth-child(2) {
+  opacity: 0;
+}
+
+.hamburger-btn.open .hamburger-line:nth-child(3) {
+  transform: rotate(-45deg) translate(7px, -6px);
+}
+
+/* Mobile Search */
+.mobile-search {
+  display: none; /* Hidden by default */
+  padding: 1rem 0;
+  border-bottom: 1px solid #e9ecef;
+  background: #f8f9fa;
+}
+
+.mobile-search.search-open {
+  display: block;
+}
+
+/* Navigation Menu */
+.nav-menu {
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .nav-menu {
+    display: none; /* Hidden by default on mobile */
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #fff;
+    border-top: 1px solid #e9ecef;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    max-height: calc(100vh - 100px);
+    overflow-y: auto;
+  }
+
+  .nav-menu.mobile-open {
+    display: block;
+  }
+
+  .navbar .menu {
+    flex-direction: column;
+    gap: 0;
+    padding: 1rem 0;
+  }
+
+  .navbar .menu > li {
+    border-bottom: 1px solid #f1f3f4;
+  }
+
+  .navbar .menu > li:last-child {
+    border-bottom: none;
+  }
+
+  .navbar .menu > li > a {
+    display: block;
+    padding: 1rem 1.5rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+    text-transform: none;
+    letter-spacing: normal;
+  }
+
+  .navbar .menu > li > a:hover {
+    background: #f8f9fa;
+    text-decoration: none;
+  }
+
+  /* Menu sections styling */
+  .menu-section {
+    padding: 0;
+  }
+
+  .menu-section h3 {
+    margin: 0;
+    padding: 1rem 1.5rem 0.5rem 1.5rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    background: #f8f9fa;
+  }
+
+  .section-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background: #fafafa;
+  }
+
+  .section-links li {
+    border-bottom: 1px solid #f1f3f4;
+  }
+
+  .section-links li:last-child {
+    border-bottom: none;
+  }
+
+  .section-links a {
+    display: block;
+    padding: 0.75rem 2rem;
+    font-size: 1rem;
+    color: #555 !important;
+    font-weight: 400;
+  }
+
+  .section-links a:hover {
+    background: #f1f3f4;
+    color: #000 !important;
+    text-decoration: none;
+  }
+}
+
+/* Desktop Navigation adjustments */
+@media (min-width: 769px) {
+  .navbar {
+    padding: 1rem 2rem;
+  }
+
+  .navbar .menu {
+    gap: 2.5rem;
+  }
+
+  /* Convert menu sections to dropdowns on desktop */
+  .menu-section {
+    position: relative;
+  }
+
+  .menu-section h3 {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #000;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    padding: 0.5rem 0;
+  }
+
+  .menu-section h3:hover {
+    text-decoration: underline;
+  }
+
+  .section-links {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    display: none;
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 0.25rem 0;
+    min-width: 180px;
+    z-index: 1000;
+    margin: 0;
+    list-style: none;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  .menu-section:hover .section-links {
+    display: block;
+  }
+
+  .section-links li {
+    padding: 0;
+  }
+
+  .section-links a {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #000 !important;
+    font-size: 0.9rem;
+    font-weight: 400;
+    white-space: nowrap;
+  }
+
+  .section-links a:hover {
+    background: #f2f2f2;
+    text-decoration: none;
+  }
+}
