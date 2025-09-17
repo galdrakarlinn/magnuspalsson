@@ -66,7 +66,7 @@ document.addEventListener("DOMContentLoaded", () => {
           }
 
           // Focus on search input
-          const searchInput = mobileSearch.querySelector('#global-search');
+          const searchInput = mobileSearch.querySelector('#global-search-mobile');
           if (searchInput) {
             searchInput.focus();
           }

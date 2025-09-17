@@ -33,33 +33,24 @@ class GlobalSearch {
   }
 
   setupEventListeners() {
-    this.searchInput = document.getElementById('global-search');
-    this.searchResults = document.getElementById('search-results');
+    // Support both mobile and desktop search inputs
+    this.searchInputMobile = document.getElementById('global-search-mobile');
+    this.searchInputDesktop = document.getElementById('global-search-desktop');
+    this.searchResultsMobile = document.getElementById('search-results-mobile');
+    this.searchResultsDesktop = document.getElementById('search-results-desktop');
     this.searchFilters = document.getElementById('search-filters');
-    
+
+    // Set primary search input based on what's available
+    this.searchInput = this.searchInputDesktop || this.searchInputMobile;
+    this.searchResults = this.searchResultsDesktop || this.searchResultsMobile;
+
     if (!this.searchInput || !this.searchResults) {
       return;
     }
 
-    this.searchInput.addEventListener('input', (e) => {
-      const query = e.target.value.trim();
-      if (query.length >= 2) {
-        this.showFilters();
-        this.performSearch(query);
-      } else {
-        this.hideFilters();
-        this.hideResults();
-      }
-    });
-
-    this.searchInput.addEventListener('focus', () => {
-      if (this.currentResults.length > 0) {
-        this.showResults();
-        if (this.searchInput.value.trim().length >= 2) {
-          this.showFilters();
-        }
-      }
-    });
+    // Set up event listeners for both inputs
+    this.setupSearchInput(this.searchInputMobile, this.searchResultsMobile);
+    this.setupSearchInput(this.searchInputDesktop, this.searchResultsDesktop);
 
     // Hide results when clicking on main content (but keep open for navigation)
     document.addEventListener('click', (e) => {
@@ -72,21 +63,68 @@ class GlobalSearch {
       }
     });
 
-    // Handle keyboard navigation
-    this.searchInput.addEventListener('keydown', (e) => {
+    // Global keyboard navigation
+    document.addEventListener('keydown', (e) => {
       if (e.key === 'Escape') {
         this.hideResults();
         this.hideFilters();
-        this.searchInput.blur();
+        if (this.searchInputMobile) this.searchInputMobile.blur();
+        if (this.searchInputDesktop) this.searchInputDesktop.blur();
       } else if (e.key === 'Enter' && this.currentResults.length > 0) {
-        // Go to first result on Enter
-        e.preventDefault();
-        window.location.href = this.currentResults[0].url;
+        const activeElement = document.activeElement;
+        if (activeElement === this.searchInputMobile || activeElement === this.searchInputDesktop) {
+          e.preventDefault();
+          window.location.href = this.currentResults[0].url;
+        }
       }
     });
 
     // Setup filter event listeners
     this.setupFilterEventListeners();
+  }
+
+  getCurrentQuery() {
+    const mobileValue = this.searchInputMobile ? this.searchInputMobile.value.trim() : '';
+    const desktopValue = this.searchInputDesktop ? this.searchInputDesktop.value.trim() : '';
+    return mobileValue || desktopValue || '';
+  }
+
+  setupSearchInput(searchInput, searchResults) {
+    if (!searchInput || !searchResults) return;
+
+    searchInput.addEventListener('input', (e) => {
+      const query = e.target.value.trim();
+
+      // Sync with other search input
+      if (searchInput === this.searchInputMobile && this.searchInputDesktop) {
+        this.searchInputDesktop.value = query;
+      } else if (searchInput === this.searchInputDesktop && this.searchInputMobile) {
+        this.searchInputMobile.value = query;
+      }
+
+      // Set active search results container
+      this.searchResults = searchResults;
+
+      if (query.length >= 2) {
+        this.showFilters();
+        this.performSearch(query);
+      } else {
+        this.hideFilters();
+        this.hideResults();
+      }
+    });
+
+    searchInput.addEventListener('focus', () => {
+      // Set active search results container
+      this.searchResults = searchResults;
+
+      if (this.currentResults.length > 0) {
+        this.showResults();
+        if (searchInput.value.trim().length >= 2) {
+          this.showFilters();
+        }
+      }
+    });
   }
 
   setupFilterEventListeners() {
@@ -106,7 +144,7 @@ class GlobalSearch {
         this.currentFilters[filterType] = filterValue;
         
         // Re-run search if there's a query
-        const query = this.searchInput.value.trim();
+        const query = this.getCurrentQuery();
         if (query.length >= 2) {
           this.performSearch(query);
         }
@@ -125,7 +163,7 @@ class GlobalSearch {
         yearDisplay.textContent = `1960-${year}`;
         
         // Re-run search if there's a query
-        const query = this.searchInput.value.trim();
+        const query = this.getCurrentQuery();
         if (query.length >= 2) {
           this.performSearch(query);
         }
@@ -532,7 +570,7 @@ class GlobalSearch {
 
   saveSearchState() {
     const state = {
-      query: this.searchInput.value.trim(),
+      query: this.getCurrentQuery(),
       filters: this.currentFilters,
       results: this.currentResults,
       timestamp: Date.now(),
@@ -548,10 +586,11 @@ class GlobalSearch {
         const state = JSON.parse(saved);
         // Only restore if saved within last 10 minutes AND we're on the same page
         if (Date.now() - state.timestamp < 10 * 60 * 1000 && state.page === window.location.pathname) {
-          this.searchInput.value = state.query;
+          if (this.searchInputMobile) this.searchInputMobile.value = state.query;
+          if (this.searchInputDesktop) this.searchInputDesktop.value = state.query;
           this.currentFilters = state.filters;
           this.currentResults = state.results;
-          
+
           if (state.query.length >= 2) {
             this.displayResults(state.results, state.query);
             this.showResults();
@@ -561,7 +600,8 @@ class GlobalSearch {
         } else {
           // Clear outdated or different page search
           sessionStorage.removeItem('globalSearchState');
-          this.searchInput.value = '';
+          if (this.searchInputMobile) this.searchInputMobile.value = '';
+          if (this.searchInputDesktop) this.searchInputDesktop.value = '';
         }
       }
     } catch (error) {
