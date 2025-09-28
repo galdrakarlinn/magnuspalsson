@@ -746,6 +746,119 @@
       "searchText": "bacarolle í fís dúr music plaster casting students collaboration teaching 1981 magnús pálsson placeholder needs review"
     },
     {
+      "id": "bilatal_odurin_til_bilsins_2002",
+      "title": "Bílatal - Óðurin til bílsins",
+      "year": 2002,
+      "description": "PLACEHOLDER: Performance work from 2002 featuring cars, poetry, and NÝLO exhibition. Includes video, audio, and text elements. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials.",
+      "images": [
+        {
+          "url": "images/bilatal-odurin-til-bilsins-2002/bilatal-odurin-til-bilsins-2002-01.jpg",
+          "caption": "Bílatal performance documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "2002",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/bilatal-odurin-til-bilsins-2002/bilatal-odurin-til-bilsins-2002-02.jpg",
+          "caption": "Bílatal - Performance view [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "2002",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/bilatal-odurin-til-bilsins-2002/bilatal-odurin-til-bilsins-2002-03.jpg",
+          "caption": "Bílatal 2002 - Documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "2002",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["cars", "poetry", "performance", "bílatal", "NÝLO", "2000s", "video", "audio", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "Óðurin til bílsins",
+          "venue": "NÝLO",
+          "year": 2002,
+          "city": "Reykjavik"
+        }
+      ],
+      "materials": ["performance", "video", "audio", "text", "PLACEHOLDER - needs review"],
+      "searchText": "bílatal óðurin til bílsins cars poetry performance NÝLO 2002 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "bjossi_a_mjolkurbilnum_1994",
+      "title": "Bjössi á mjólkurbílnum",
+      "year": 1994,
+      "description": "PLACEHOLDER: Work from 1994 exhibited at Kjarvalstaðir featuring Bjössi and milk truck imagery. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials.",
+      "images": [
+        {
+          "url": "images/bjossi-a-mjolkurbilnum-1994/bjossi-a-mjolkurbilnum-1994-01.jpg",
+          "caption": "Bjössi at Kjarvalstaðir 1994 - Exhibition view [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1994",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/bjossi-a-mjolkurbilnum-1994/bjossi-a-mjolkurbilnum-1994-02.jpg",
+          "caption": "Bjössi Kjarvalstaðir 1994 - Documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1994",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/bjossi-a-mjolkurbilnum-1994/bjossi-a-mjolkurbilnum-1994-03.jpg",
+          "caption": "Bjössi at AP's - Related documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1994",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["bjössi", "milk truck", "kjarvalstaðir", "1990s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "Exhibition",
+          "venue": "Kjarvalstaðir",
+          "year": 1994,
+          "city": "Reykjavik"
+        }
+      ],
+      "materials": ["mixed media", "PLACEHOLDER - needs review"],
+      "searchText": "bjössi á mjólkurbílnum milk truck kjarvalstaðir 1994 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "bok_um_bok_og_fleira_1980",
+      "title": "Bók um bók og fleira",
+      "year": 1980,
+      "description": "PLACEHOLDER: Book work from 1980 including Norwegian translation. Features definitions and text elements. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials.",
+      "images": [
+        {
+          "url": "images/bok-um-bok-og-fleira-1980/bok-um-bok-og-fleira-1980-01.jpg",
+          "caption": "Bók um bók - Definition page 20 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1980",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/bok-um-bok-og-fleira-1980/bok-um-bok-og-fleira-1980-02.jpg",
+          "caption": "Bók um bók - Definition page 21 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1980",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["book", "text", "definitions", "norwegian translation", "1980s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
+          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
+          "year": 1980,
+          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
+        }
+      ],
+      "materials": ["book", "text", "translation", "PLACEHOLDER - needs review"],
+      "searchText": "bók um bók og fleira book text definitions norwegian translation 1980 magnús pálsson placeholder needs review"
+    },
+    {
       "id": "automobile_bok_1970_74",
       "title": "Automobile bók",
       "year": 1970,

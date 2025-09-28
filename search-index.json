@@ -337,6 +337,36 @@
       "snippet": "PLACEHOLDER: Musical work from 1981 involving plaster casting and students. Needs review and completion."
     },
     {
+      "id": "work_bilatal_odurin",
+      "title": "Bílatal - Óðurin til bílsins",
+      "type": "work",
+      "page": "works",
+      "year": 2002,
+      "url": "works.html?work=bilatal_odurin_til_bilsins_2002",
+      "content": "bílatal óðurin til bílsins cars poetry performance NÝLO 2002 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Performance work from 2002 featuring cars, poetry, and NÝLO exhibition. Needs review and completion."
+    },
+    {
+      "id": "work_bjossi_mjolkurbil",
+      "title": "Bjössi á mjólkurbílnum",
+      "type": "work",
+      "page": "works",
+      "year": 1994,
+      "url": "works.html?work=bjossi_a_mjolkurbilnum_1994",
+      "content": "bjössi á mjólkurbílnum milk truck kjarvalstaðir 1994 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Work from 1994 exhibited at Kjarvalstaðir featuring Bjössi and milk truck imagery. Needs review and completion."
+    },
+    {
+      "id": "work_bok_um_bok",
+      "title": "Bók um bók og fleira",
+      "type": "work",
+      "page": "works",
+      "year": 1980,
+      "url": "works.html?work=bok_um_bok_og_fleira_1980",
+      "content": "bók um bók og fleira book text definitions norwegian translation 1980 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Book work from 1980 including Norwegian translation. Features definitions and text elements. Needs review and completion."
+    },
+    {
       "id": "work_automobile_bok",
       "title": "Automobile bók",
       "type": "work",
