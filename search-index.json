@@ -275,6 +275,26 @@
       "url": "works.html?work=100_years_war_mokka_1995",
       "content": "100 ára stríðið 100 years war conceptual installation conflict time history society culture café mokka reykjavik 1990s mixed media",
       "snippet": "A conceptual work exploring themes of conflict, endurance, and the passage of time. Exhibited at Café Mokka in Reykjavik in 1995."
+    },
+    {
+      "id": "work_aevintyr_folktale",
+      "title": "Ævintyr (Folktale)",
+      "type": "work",
+      "page": "works",
+      "year": 1997,
+      "url": "works.html?work=aevintyr_folktale_1997",
+      "content": "ævintyr folktale storytelling folklore 1997 placeholder needs review",
+      "snippet": "PLACEHOLDER: A work exploring storytelling and folklore. Needs review and completion."
+    },
+    {
+      "id": "work_automobile_bok",
+      "title": "Automobile bók",
+      "type": "work",
+      "page": "works",
+      "year": 1970,
+      "url": "works.html?work=automobile_bok_1970_74",
+      "content": "automobile bók book car 1970 1974 placeholder needs review",
+      "snippet": "PLACEHOLDER: A book or documentation work about automobiles from 1970-74. Needs review."
     }
   ]
 }

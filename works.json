@@ -498,6 +498,58 @@
       ],
       "materials": ["mixed media", "installation", "conceptual"],
       "searchText": "100 ára stríðið 100 years war conflict time history society culture café mokka reykjavik conceptual installation mixed media 1990s magnús pálsson"
+    },
+    {
+      "id": "aevintyr_folktale_1997",
+      "title": "Ævintyr (Folktale)",
+      "year": 1997,
+      "description": "PLACEHOLDER: A work exploring storytelling and folklore. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials.",
+      "images": [
+        {
+          "url": "images/aevintyr-folktale-1997/aevintyr-folktale-1997-01.jpg",
+          "caption": "Ævintyr (Folktale) - Image 1 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1997",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/aevintyr-folktale-1997/aevintyr-folktale-1997-02.jpg",
+          "caption": "Ævintyr (Folktale) - Image 2 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1997",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["PLACEHOLDER", "folktale", "storytelling", "1990s"],
+      "exhibitions": [],
+      "materials": ["PLACEHOLDER - needs review"],
+      "searchText": "ævintyr folktale storytelling folklore 1997 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "automobile_bok_1970_74",
+      "title": "Automobile bók",
+      "year": 1970,
+      "description": "PLACEHOLDER: A book or documentation work about automobiles from 1970-74. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials.",
+      "images": [
+        {
+          "url": "images/automobile-bok-1970-74/automobile-bok-1970-74-01.jpg",
+          "caption": "Automobile bók - Page/Image 1 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1970-74",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/automobile-bok-1970-74/automobile-bok-1970-74-02.jpg",
+          "caption": "Automobile bók - Page/Image 2 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1970-74",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["PLACEHOLDER", "book", "automobile", "1970s"],
+      "exhibitions": [],
+      "materials": ["PLACEHOLDER - needs review"],
+      "searchText": "automobile bók book car 1970 1974 magnús pálsson placeholder needs review"
     }
   ],
   "exhibitions": [
