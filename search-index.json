@@ -457,6 +457,46 @@
       "snippet": "PLACEHOLDER: Early work from 1966 exploring camouflage themes. Needs review and completion."
     },
     {
+      "id": "work_davidssalmur_choir",
+      "title": "Daviðssálmur - Choir piece (also Kross) Írís",
+      "type": "work",
+      "page": "works",
+      "year": 1985,
+      "url": "works.html?work=davidssalmur_choir_piece",
+      "content": "daviðssálmur choir piece kross íris psalms religious music 1985 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Choir piece from 1985, also known as Kross, connected to Írís. Features psalms 16 and 51. Needs review and completion."
+    },
+    {
+      "id": "work_de_kommer_med_kista",
+      "title": "De kommer med kista og henter meg",
+      "type": "work",
+      "page": "works",
+      "year": 1985,
+      "url": "works.html?work=de_kommer_med_kista_1985",
+      "content": "de kommer med kista og henter meg performance oslo reykjavik coffin stage 1985 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Performance work from 1985 (They come with coffin and fetch me). Features performances in Oslo and Reykjavik. Needs review and completion."
+    },
+    {
+      "id": "work_dreams_skinned_rabbit",
+      "title": "Dreams Skinned Rabbit Bookie Wookie (Berlin)",
+      "type": "work",
+      "page": "works",
+      "year": 2005,
+      "url": "works.html?work=dreams_skinned_rabbit_berlin_2005",
+      "content": "dreams skinned rabbit bookie wookie berlin collaboration jan audio 2005 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Berlin work from 2005 involving Dreams, Skinned Rabbit, and Bookie Wookie elements. Needs review and completion."
+    },
+    {
+      "id": "work_duld_blub_bum_mud",
+      "title": "Duld-blub, bum-mud 6 pund, and small plaster books",
+      "type": "work",
+      "page": "works",
+      "year": 1976,
+      "url": "works.html?work=duld_blub_bum_mud_1976",
+      "content": "duld blub bum mud 6 pund plaster books wordplay experimental language sculpture 1976 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Complex work from 1976 involving wordplay titles, 6 pound elements, and small plaster books. Needs review and completion."
+    },
+    {
       "id": "work_automobile_bok",
       "title": "Automobile bók",
       "type": "work",

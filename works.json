@@ -1162,6 +1162,174 @@
       "searchText": "dulargervi malnigarbakki camouflage early work 1966 magnús pálsson placeholder needs review"
     },
     {
+      "id": "davidssalmur_choir_piece",
+      "title": "Daviðssálmur - Choir piece (also Kross) Írís",
+      "year": 1985,
+      "description": "PLACEHOLDER: Choir piece from 1985, also known as Kross, connected to Írís. Features psalms 16 and 51 with prayers about David's psalms. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
+      "images": [
+        {
+          "url": "images/davidssalmur-choir-piece/davidssalmur-choir-piece-01.jpg",
+          "caption": "Bænir um Daviðssálmur - Front page [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1985",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/davidssalmur-choir-piece/davidssalmur-choir-piece-02.jpg",
+          "caption": "Bænir um Daviðssálmur - Page 1 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1985",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/davidssalmur-choir-piece/davidssalmur-choir-piece-03.jpg",
+          "caption": "Bænir um Daviðssálmur - Plan [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1985",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["choir", "psalms", "david", "kross", "íris", "religious", "music", "1980s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
+          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
+          "year": 1985,
+          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
+        }
+      ],
+      "materials": ["choir music", "text", "religious music", "PLACEHOLDER - needs review"],
+      "searchText": "daviðssálmur choir piece kross íris psalms religious music 1985 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "de_kommer_med_kista_1985",
+      "title": "De kommer med kista og henter meg",
+      "year": 1985,
+      "description": "PLACEHOLDER: Performance work from 1985 (They come with coffin and fetch me). Features performances in Oslo and Reykjavik with stage sets, costumes, and student productions. Includes video documentation. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
+      "images": [
+        {
+          "url": "images/de-kommer-med-kista-1985/de-kommer-med-kista-1985-01.jpg",
+          "caption": "De kommer med kista - Performance poster [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1985",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/de-kommer-med-kista-1985/de-kommer-med-kista-1985-02.jpg",
+          "caption": "Stage set costumes Reykjavík - Performance documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1985",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/de-kommer-med-kista-1985/de-kommer-med-kista-1985-03.jpg",
+          "caption": "Performance text documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1985",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["performance", "oslo", "reykjavik", "coffin", "stage", "costumes", "video", "1980s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "De kommer med kista og henter meg",
+          "venue": "Oslo [NEEDS RESEARCH]",
+          "year": 1985,
+          "city": "Oslo",
+          "country": "Norway"
+        },
+        {
+          "title": "Student Production",
+          "venue": "Reykjavík [NEEDS RESEARCH]",
+          "year": 1986,
+          "city": "Reykjavík"
+        }
+      ],
+      "materials": ["performance", "video", "stage design", "costumes", "PLACEHOLDER - needs review"],
+      "searchText": "de kommer med kista og henter meg performance oslo reykjavik coffin stage 1985 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "dreams_skinned_rabbit_berlin_2005",
+      "title": "Dreams Skinned Rabbit Bookie Wookie (Berlin)",
+      "year": 2005,
+      "description": "PLACEHOLDER: Berlin work from 2005 involving Dreams, Skinned Rabbit, and Bookie Wookie elements. Features collaborations and audio components. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this Berlin project.",
+      "images": [
+        {
+          "url": "images/dreams-skinned-rabbit-berlin-2005/dreams-skinned-rabbit-berlin-2005-01.jpg",
+          "caption": "Magnus and Jan - Collaboration documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "2005",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/dreams-skinned-rabbit-berlin-2005/dreams-skinned-rabbit-berlin-2005-02.jpg",
+          "caption": "From Boekie Woekie - Project documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "2005",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/dreams-skinned-rabbit-berlin-2005/dreams-skinned-rabbit-berlin-2005-03.jpg",
+          "caption": "MJHK collaboration image [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "2005",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["dreams", "skinned rabbit", "bookie wookie", "berlin", "collaboration", "jan", "audio", "2000s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "Dreams Skinned Rabbit Bookie Wookie",
+          "venue": "PLACEHOLDER - Berlin Venue [NEEDS RESEARCH]",
+          "year": 2005,
+          "city": "Berlin",
+          "country": "Germany"
+        }
+      ],
+      "materials": ["audio", "collaboration", "mixed media", "PLACEHOLDER - needs review"],
+      "searchText": "dreams skinned rabbit bookie wookie berlin collaboration jan audio 2005 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "duld_blub_bum_mud_1976",
+      "title": "Duld-blub, bum-mud 6 pund, and small plaster books",
+      "year": 1976,
+      "description": "PLACEHOLDER: Complex work from 1976 involving wordplay titles, 6 pound elements, and small plaster books. Features various sculptural components and experimental language. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
+      "images": [
+        {
+          "url": "images/duld-blub-bum-mud-1976/duld-blub-bum-mud-1976-01.jpg",
+          "caption": "Magnus Pálsson duld-blub - Main work documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1976",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/duld-blub-bum-mud-1976/duld-blub-bum-mud-1976-02.jpg",
+          "caption": "Duld blub component [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1976",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/duld-blub-bum-mud-1976/duld-blub-bum-mud-1976-03.jpg",
+          "caption": "Good doop wow mom - Related element [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1976",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["wordplay", "plaster books", "experimental language", "sculpture", "1970s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
+          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
+          "year": 1976,
+          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
+        }
+      ],
+      "materials": ["plaster", "books", "sculpture", "experimental text", "PLACEHOLDER - needs review"],
+      "searchText": "duld blub bum mud 6 pund plaster books wordplay experimental language sculpture 1976 magnús pálsson placeholder needs review"
+    },
+    {
       "id": "automobile_bok_1970_74",
       "title": "Automobile bók",
       "year": 1970,
