@@ -463,6 +463,16 @@ class WorksManager {
           <div class="work-tags">
             ${work.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
           </div>
+          ${work.collaborators && work.collaborators.length > 0 ? `
+            <div class="collaborators">
+              <h3>Collaborators</h3>
+              <ul>
+                ${work.collaborators.map(collab => `
+                  <li><strong>${collab.name}</strong> - ${collab.role}${collab.description ? `: ${collab.description}` : ''}</li>
+                `).join('')}
+              </ul>
+            </div>
+          ` : ''}
           ${work.exhibitions.length > 0 ? `
             <div class="exhibitions">
               <h3>Exhibitions</h3>
