@@ -207,7 +207,7 @@
       "id": "thyrlulending",
       "title": "Þyrlulending (Helicopter Landing)",
       "year": 1976,
-      "description": "Magnús Pálsson represented Iceland at the Venice Biennale in 1980, where he exhibited various plaster works, including 'Sekúndurnar þar til Sikorskýþyrlan snertir' (The Seconds Before the Sikorsky Helicopter Touches), which captures the moment before the Coast Guard's Sikorsky helicopter lands. Three plaster forms create a triangle on the floor - the forms are casts of the space between the helicopter's wheels and the ground. Here Magnús is materializing the immaterial. The three sculptural elements are of different heights, indicating time within the work: the tail wheel, which lands last, is the highest. Time is here transformed into solid matter. (Source: Reykjavík Art Museum collection description)",
+      "description": "Conceptual work measuring anticipation and mechanical intervention, titled 'Sekúndurnar þar til Sikorskýþyrlan snertir' (The Seconds Before the Sikorsky Helicopter Touches Down). This time-based sculpture captures the moment before the Coast Guard's helicopter lands, materializing the immaterial through three plaster forms arranged in a triangle on the floor. The forms are casts of the negative space between the helicopter's wheels and the ground, with different heights indicating temporal progression - the tail wheel, which lands last, is the highest. Time is here transformed into solid matter, exploring themes of anticipation, mechanical intervention, and the transformation of temporal experience into physical form. Exhibited at the Venice Biennale in 1980 where Pálsson represented Iceland. (Source: Reykjavík Art Museum collection description and Kjarvalstaðir catalog)",
       "images": [
         {
           "url": "images/thyrlulending/thyrlulending_mp02_web.jpg",
@@ -252,7 +252,7 @@
           "copyright": "© Estate of Magnús Pálsson"
         }
       ],
-      "tags": ["installation", "sculpture", "negative space", "positive space", "materializing immaterial", "aviation", "technology", "place", "documentation", "sikorski", "helicopter", "time", "void", "absence"],
+      "tags": ["conceptual work", "time-based sculpture", "anticipation", "mechanical intervention", "installation", "sculpture", "negative space", "positive space", "materializing immaterial", "aviation", "technology", "place", "documentation", "sikorski", "helicopter", "time", "void", "absence", "venice biennale"],
       "exhibitions": [],
       "materials": ["mixed media", "documentation", "sculpture"],
       "searchText": "þyrlulending helicopter landing sculpture installation negative space positive space materializing immaterial void absence aviation technology place documentation sikorski mixed media magnús pálsson 1976"
@@ -594,7 +594,7 @@
       "id": "anti_society_league_concert_1982",
       "title": "Anti-society league concert Norkjöping",
       "year": 1982,
-      "description": "PLACEHOLDER: Concert/performance work in Norkjöping, Sweden from 1982 related to anti-society themes. Features casting processes and documentation. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials.",
+      "description": "Developed from Barcarolle. In Norrköping, Sweden, a punk band played while Pálsson traced and cast negative spaces of people and furniture. The casts were then reassembled as a clump — the material residue of sound and presence. This performance work explored the intersection of music, audience participation, and sculptural documentation, creating physical traces of ephemeral performance events.",
       "images": [
         {
           "url": "images/anti-society-league-concert-norkjoping-1982/anti-society-league-concert-norkjoping-1982-01.jpg",
@@ -618,7 +618,7 @@
           "copyright": "© Estate of Magnús Pálsson"
         }
       ],
-      "tags": ["concert", "performance", "anti-society", "casting", "sweden", "norkjöping", "1980s", "PLACEHOLDER - needs review"],
+      "tags": ["concert", "performance", "anti-society", "punk band", "casting", "negative space", "audience participation", "sculptural documentation", "material residue", "sound", "presence", "sweden", "norrköping", "1980s"],
       "exhibitions": [
         {
           "title": "Anti-society league concert",
@@ -993,7 +993,7 @@
       "id": "buxnaskalm_tota_sigga_1968",
       "title": "Buxnaskálm Tóta Sigga",
       "year": 1968,
-      "description": "PLACEHOLDER: Work from 1968 involving Tóta and Sigga, with connections to other collaborators. Features documentation with multiple participants. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this collaborative work.",
+      "description": "Early iteration of Buxnaskálm, an installation work exploring spatial relationships and architectural intervention. This 1968 version involved collaborators Tóta and Sigga, featuring group documentation and collaborative processes. The work would later be revisited in 1981 as part of Pálsson's ongoing investigation into spatial dynamics and communal artistic practice.",
       "images": [
         {
           "url": "images/buxnaskalm-tota-sigga-1968/buxnaskalm-tota-sigga-1968-01.jpg",
@@ -1017,7 +1017,7 @@
           "copyright": "© Estate of Magnús Pálsson"
         }
       ],
-      "tags": ["buxnaskálm", "collaboration", "tóta", "sigga", "group work", "1960s", "PLACEHOLDER - needs review"],
+      "tags": ["buxnaskálm", "installation", "spatial relationships", "architectural intervention", "collaboration", "tóta", "sigga", "group work", "1960s"],
       "exhibitions": [
         {
           "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
@@ -1106,7 +1106,7 @@
       "id": "dalalada_mist_1975",
       "title": "Dalalæða (Mist)",
       "year": 1975,
-      "description": "PLACEHOLDER: Work from 1975 titled 'Mist' featuring aluminum elements. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this mist-related work.",
+      "description": "A plaster cast of a valley mist, where mist was rendered as positive form and the valley as negative. Pálsson described it: 'Very low mist creeps up the valley from the sea, covering only the bottom so that from the low hills stick their heads up through it… cotton-wool-like mist. Very lovely.' This work exemplifies his practice of materializing ephemeral atmospheric phenomena through casting techniques.",
       "images": [
         {
           "url": "images/dalalada-mist-1975/dalalada-mist-1975-01.jpg",
@@ -1130,7 +1130,7 @@
           "copyright": "© Estate of Magnús Pálsson"
         }
       ],
-      "tags": ["mist", "dalalæða", "aluminum", "1970s", "PLACEHOLDER - needs review"],
+      "tags": ["valley mist", "plaster cast", "positive form", "negative form", "atmospheric phenomena", "materializing ephemeral", "casting techniques", "landscape", "sea", "hills", "1970s"],
       "exhibitions": [
         {
           "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
@@ -1139,7 +1139,7 @@
           "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
         }
       ],
-      "materials": ["aluminum", "sculpture", "PLACEHOLDER - needs review"],
+      "materials": ["plaster", "cast", "sculpture"],
       "searchText": "dalalæða mist aluminum sculpture 1975 magnús pálsson placeholder needs review"
     },
     {
@@ -1740,7 +1740,7 @@
       "id": "freyskatla_1992",
       "title": "Freyskatla",
       "year": 1992,
-      "description": "PLACEHOLDER: Audio and text work from 1992 featuring collaboration with Steingrímur and radio elements. Includes text pages and wave recordings. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
+      "description": "Second iteration of Freyskatla, a large-scale installation addressing geological and mythological themes. This 1992 version features audio and text work with radio elements, developed in collaboration with Steingrímur. The work explores Iceland's volcanic landscape through both physical and conceptual layers, building upon the earlier 1982 installation while incorporating evolved understanding of geological forces and cultural mythology.",
       "images": [
         {
           "url": "images/freyskatla-1992/freyskatla-1992-01.jpg",
@@ -1764,7 +1764,7 @@
           "copyright": "© Estate of Magnús Pálsson"
         }
       ],
-      "tags": ["freyskatla", "audio", "radio", "steingrímur", "collaboration", "text", "1990s", "PLACEHOLDER - needs review"],
+      "tags": ["freyskatla", "installation", "geological themes", "mythology", "volcanic landscape", "audio", "radio", "steingrímur", "collaboration", "text", "1990s"],
       "exhibitions": [
         {
           "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
@@ -1801,6 +1801,47 @@
       "exhibitions": [],
       "materials": ["PLACEHOLDER - needs review"],
       "searchText": "automobile bók book car 1970 1974 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "flaedamal_beach_1976",
+      "title": "Flæðarmál (Beach)",
+      "year": 1976,
+      "description": "A plaster cast in three parts — of the beach, the sea, and the sky. When fitted together, they formed a seamless block. Each part had a positive value relative to the others, but together the values cancelled out — a mathematical reflection of positive/negative balance. This work exemplifies Pálsson's exploration of environmental casting and the conceptual transformation of landscape elements into sculptural form.",
+      "images": [
+        {
+          "url": "images/flaedamal-beach-1976/beach-plaster-piece.jpg",
+          "caption": "Beach plaster piece - three-part sculpture",
+          "photographer": "Unknown",
+          "year": "1976",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/flaedamal-beach-1976/beach-three-parts.jpg",
+          "caption": "Beach - showing three parts arrangement",
+          "photographer": "Unknown",
+          "year": "1976",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/flaedamal-beach-1976/flaedamal-lund-2012.jpg",
+          "caption": "Flæðarmál - Lund exhibition, 2012",
+          "photographer": "Unknown",
+          "year": "2012",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["beach", "sea", "sky", "three parts", "plaster cast", "seamless block", "positive value", "negative value", "mathematical reflection", "environmental casting", "landscape", "1970s"],
+      "exhibitions": [
+        {
+          "title": "Exhibition in Lund",
+          "venue": "Lund (venue to be confirmed)",
+          "year": 2012,
+          "city": "Lund",
+          "country": "Sweden"
+        }
+      ],
+      "materials": ["plaster", "cast", "sculpture", "three-part installation"],
+      "searchText": "flæðarmál beach sea sky three parts plaster cast seamless block positive negative value mathematical reflection environmental casting landscape 1976 magnús pálsson lund"
     },
     {
       "id": "ad_juda_ser_rangsaelis_2000",

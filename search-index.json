@@ -107,8 +107,8 @@
       "page": "works",
       "year": 1976,
       "url": "works.html?work=thyrlulending",
-      "content": "Þyrlulending Helicopter Landing sculpture installation negative space positive space materializing immaterial void absence aviation technology place documentation sikorski helicopter time mixed media magnús pálsson 1976",
-      "snippet": "Sculptural work documenting and referencing the Sikorski helicopter landing, exploring themes of aviation, technology, and place."
+      "content": "Þyrlulending Helicopter Landing conceptual work time-based sculpture anticipation mechanical intervention sikorsky helicopter Coast Guard negative space positive space materializing immaterial void absence aviation technology place documentation temporal progression venice biennale iceland mixed media magnús pálsson 1976",
+      "snippet": "Time-based conceptual sculpture measuring anticipation and mechanical intervention through plaster casts of negative space between helicopter wheels and ground."
     },
     {
       "id": "work_bestu_stykkin",
@@ -613,8 +613,8 @@
       "page": "works",
       "year": 1992,
       "url": "works.html?work=freyskatla_1992",
-      "content": "freyskatla audio radio steingrímur collaboration text 1992 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Audio and text work from 1992 featuring collaboration with Steingrímur and radio elements. Needs review and completion."
+      "content": "freyskatla geological themes mythology volcanic landscape installation audio radio steingrímur collaboration text second iteration evolved understanding cultural mythology iceland 1992 magnús pálsson",
+      "snippet": "Second iteration of Freyskatla exploring geological and mythological themes through audio and text work, building upon the earlier 1982 installation."
     },
     {
       "id": "work_automobile_bok",
@@ -625,6 +625,16 @@
       "url": "works.html?work=automobile_bok_1970_74",
       "content": "automobile bók book car 1970 1974 placeholder needs review",
       "snippet": "PLACEHOLDER: A book or documentation work about automobiles from 1970-74. Needs review."
+    },
+    {
+      "id": "work_flaedamal_beach",
+      "title": "Flæðarmál (Beach)",
+      "type": "work",
+      "page": "works",
+      "year": 1976,
+      "url": "works.html?work=flaedamal_beach_1976",
+      "content": "flæðarmál beach sea sky three parts plaster cast seamless block positive negative value mathematical reflection environmental casting landscape lund sweden 1976 magnús pálsson",
+      "snippet": "A plaster cast in three parts — of the beach, the sea, and the sky. When fitted together, they formed a seamless block, creating a mathematical reflection of positive/negative balance."
     },
     {
       "id": "work_ad_juda_ser_rangsaelis",
