@@ -447,50 +447,57 @@
     },
     {
       "id": "100_years_war_mokka_1995",
-      "title": "100 Years War Mokka",
+      "title": "100 ára stríðið (100 Years War)",
       "year": 1995,
-      "description": "A conceptual work exploring themes of conflict, endurance, and the passage of time through the lens of coffee culture. The work examines the relationship between daily rituals and historical narratives, using Mokka coffee as a metaphor for cultural continuity and transformation over extended periods of conflict and change.",
+      "description": "A conceptual work exploring themes of conflict, endurance, and the passage of time. The Icelandic title '100 ára stríðið' (100 Years War) refers to the historical conflict, examining how prolonged struggles affect society and culture. Exhibited at Café Mokka in Reykjavik in 1995.",
       "images": [
         {
           "url": "images/100-years-war-mokka-1995/full/100-years-war-mokka-1995-01.jpg",
-          "caption": "100 Years War Mokka - Installation view",
+          "caption": "100 ára stríðið - Installation view at Café Mokka",
           "photographer": "Unknown",
           "year": "1995",
           "copyright": "© Estate of Magnús Pálsson"
         },
         {
           "url": "images/100-years-war-mokka-1995/full/100-years-war-mokka-1995-02.jpg",
-          "caption": "100 Years War Mokka - Detail view",
+          "caption": "100 ára stríðið - Detail view",
           "photographer": "Unknown",
           "year": "1995",
           "copyright": "© Estate of Magnús Pálsson"
         },
         {
           "url": "images/100-years-war-mokka-1995/full/100-years-war-mokka-1995-03.jpg",
-          "caption": "100 Years War Mokka - Component detail",
+          "caption": "100 ára stríðið - Component detail",
           "photographer": "Unknown",
           "year": "1995",
           "copyright": "© Estate of Magnús Pálsson"
         },
         {
           "url": "images/100-years-war-mokka-1995/full/100-years-war-mokka-1995-04.jpg",
-          "caption": "100 Years War Mokka - Installation context",
+          "caption": "100 ára stríðið - Exhibition context at Café Mokka",
           "photographer": "Unknown",
           "year": "1995",
           "copyright": "© Estate of Magnús Pálsson"
         },
         {
           "url": "images/100-years-war-mokka-1995/full/100-years-war-mokka-1995-05.jpg",
-          "caption": "100 Years War Mokka - Overall view",
+          "caption": "100 ára stríðið - Overall view",
           "photographer": "Unknown",
           "year": "1995",
           "copyright": "© Estate of Magnús Pálsson"
         }
       ],
-      "tags": ["conceptual", "installation", "coffee", "culture", "time", "conflict", "ritual", "transformation", "metaphor", "1990s"],
-      "exhibitions": [],
-      "materials": ["mixed media", "coffee", "installation", "conceptual"],
-      "searchText": "100 years war mokka coffee culture time conflict ritual transformation metaphor conceptual installation mixed media 1990s magnús pálsson"
+      "tags": ["conceptual", "installation", "conflict", "time", "history", "society", "culture", "café", "1990s"],
+      "exhibitions": [
+        {
+          "title": "Solo Exhibition",
+          "venue": "Café Mokka",
+          "year": 1995,
+          "city": "Reykjavik"
+        }
+      ],
+      "materials": ["mixed media", "installation", "conceptual"],
+      "searchText": "100 ára stríðið 100 years war conflict time history society culture café mokka reykjavik conceptual installation mixed media 1990s magnús pálsson"
     }
   ],
   "exhibitions": [
