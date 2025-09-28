@@ -92,37 +92,80 @@ class GlobalSearch {
   setupSearchInput(searchInput, searchResults) {
     if (!searchInput || !searchResults) return;
 
+    // Create a debounced search function to improve iOS performance
+    let searchTimeout;
+    const debouncedSearch = (query) => {
+      clearTimeout(searchTimeout);
+      searchTimeout = setTimeout(() => {
+        // Sync with other search input
+        if (searchInput === this.searchInputMobile && this.searchInputDesktop) {
+          this.searchInputDesktop.value = query;
+        } else if (searchInput === this.searchInputDesktop && this.searchInputMobile) {
+          this.searchInputMobile.value = query;
+        }
+
+        // Set active search results container
+        this.searchResults = searchResults;
+
+        if (query.length >= 2) {
+          this.showFilters();
+          this.performSearch(query);
+        } else {
+          this.hideFilters();
+          this.hideResults();
+        }
+      }, 150); // 150ms debounce for better iOS performance
+    };
+
+    // Primary input event (works on most browsers)
     searchInput.addEventListener('input', (e) => {
       const query = e.target.value.trim();
+      debouncedSearch(query);
+    });
 
-      // Sync with other search input
-      if (searchInput === this.searchInputMobile && this.searchInputDesktop) {
-        this.searchInputDesktop.value = query;
-      } else if (searchInput === this.searchInputDesktop && this.searchInputMobile) {
-        this.searchInputMobile.value = query;
-      }
+    // iOS Safari fallback events
+    searchInput.addEventListener('keyup', (e) => {
+      const query = e.target.value.trim();
+      debouncedSearch(query);
+    });
 
-      // Set active search results container
-      this.searchResults = searchResults;
+    // Additional iOS Safari fallback
+    searchInput.addEventListener('change', (e) => {
+      const query = e.target.value.trim();
+      debouncedSearch(query);
+    });
 
-      if (query.length >= 2) {
-        this.showFilters();
-        this.performSearch(query);
-      } else {
-        this.hideFilters();
-        this.hideResults();
-      }
+    // iOS-specific touch events
+    searchInput.addEventListener('touchend', (e) => {
+      // Small delay to let iOS Safari process the touch
+      setTimeout(() => {
+        const query = e.target.value.trim();
+        if (query !== searchInput.dataset.lastQuery) {
+          searchInput.dataset.lastQuery = query;
+          debouncedSearch(query);
+        }
+      }, 50);
     });
 
     searchInput.addEventListener('focus', () => {
       // Set active search results container
       this.searchResults = searchResults;
 
-      if (this.currentResults.length > 0) {
-        this.showResults();
-        if (searchInput.value.trim().length >= 2) {
-          this.showFilters();
+      // iOS Safari focus handling
+      setTimeout(() => {
+        if (this.currentResults.length > 0) {
+          this.showResults();
+          if (searchInput.value.trim().length >= 2) {
+            this.showFilters();
+          }
         }
+      }, 100);
+    });
+
+    // Prevent iOS zoom on focus
+    searchInput.addEventListener('touchstart', (e) => {
+      if (parseFloat(searchInput.style.fontSize) < 16) {
+        searchInput.style.fontSize = '16px';
       }
     });
   }

@@ -65,10 +65,17 @@ document.addEventListener("DOMContentLoaded", () => {
             hamburgerBtn.classList.remove('open');
           }
 
-          // Focus on search input
+          // Focus on search input with iOS compatibility
           const searchInput = mobileSearch.querySelector('#global-search-mobile');
           if (searchInput) {
-            searchInput.focus();
+            // iOS Safari requires user interaction to focus, use timeout as fallback
+            setTimeout(() => {
+              searchInput.focus();
+              // Force iOS Safari to show keyboard
+              if (/iPad|iPhone|iPod/.test(navigator.userAgent)) {
+                searchInput.click();
+              }
+            }, 100);
           }
         }
       });
