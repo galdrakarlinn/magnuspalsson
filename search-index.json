@@ -507,6 +507,56 @@
       "snippet": "PLACEHOLDER: Complex work from 1976 involving wordplay titles, 6 pound elements, and small plaster books. Needs review and completion."
     },
     {
+      "id": "work_echo_holland",
+      "title": "Echo - Holland Student work",
+      "type": "work",
+      "page": "works",
+      "year": 1983,
+      "url": "works.html?work=echo_holland_student_work_1983",
+      "content": "echo holland student work mirrors collaboration 1983 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Student work from Holland in 1983 involving Echo themes with participants. Needs review and completion."
+    },
+    {
+      "id": "work_edda_text_works",
+      "title": "Edda text works - ancestry 11 artists Malmö",
+      "type": "work",
+      "page": "works",
+      "year": 1978,
+      "url": "works.html?work=edda_text_works_ancestry_malmo_1978",
+      "content": "edda text works ancestry 11 artists malmö sweden 1978 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Text works from 1978 exploring ancestry themes with 11 artists in Malmö, Sweden. Needs review and completion."
+    },
+    {
+      "id": "work_engin_glypir_solina",
+      "title": "Engin glypir solina (OG)",
+      "type": "work",
+      "page": "works",
+      "year": 1983,
+      "url": "works.html?work=engin_glypir_solina_1983",
+      "content": "engin glypir solina video making process 1983 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Work from 1983 titled 'Engin glypir solina' with video documentation. Needs review and completion."
+    },
+    {
+      "id": "work_fjall_ceramic",
+      "title": "Fjall ceramic pieces",
+      "type": "work",
+      "page": "works",
+      "year": 1969,
+      "url": "works.html?work=fjall_ceramic_pieces_1969_71",
+      "content": "fjall mountain ceramic pieces sculpture 1969 1970 1971 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Ceramic pieces from 1969-71 with mountain (fjall) themes. Needs review and completion."
+    },
+    {
+      "id": "work_franklin_furnace",
+      "title": "Franklin Furnace New York",
+      "type": "work",
+      "page": "works",
+      "year": 1984,
+      "url": "works.html?work=franklin_furnace_ny_1984",
+      "content": "franklin furnace new york publication performance bacarolle 1984 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Work from 1984 at Franklin Furnace in New York. Features publication and performance documentation. Needs review and completion."
+    },
+    {
       "id": "work_automobile_bok",
       "title": "Automobile bók",
       "type": "work",

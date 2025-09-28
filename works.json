@@ -1370,6 +1370,195 @@
       "searchText": "duld blub bum mud 6 pund plaster books wordplay experimental language sculpture 1976 magnús pálsson placeholder needs review"
     },
     {
+      "id": "echo_holland_student_work_1983",
+      "title": "Echo - Holland Student work",
+      "year": 1983,
+      "description": "PLACEHOLDER: Student work from Holland in 1983 involving Echo themes with participants. Features mirrors, lips, and student collaboration. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
+      "images": [
+        {
+          "url": "images/echo-holland-student-work-1983/echo-holland-student-work-1983-01.jpg",
+          "caption": "Echo participants (students) - Group documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1983",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/echo-holland-student-work-1983/echo-holland-student-work-1983-02.jpg",
+          "caption": "Echo 1 - Project documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1983",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/echo-holland-student-work-1983/echo-holland-student-work-1983-03.jpg",
+          "caption": "Echo 3 mirror - Mirror work documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1983",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["echo", "holland", "students", "mirrors", "collaboration", "1980s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "Student Work Exhibition",
+          "venue": "PLACEHOLDER - Holland Venue [NEEDS RESEARCH]",
+          "year": 1983,
+          "city": "PLACEHOLDER - Holland City [NEEDS RESEARCH]",
+          "country": "Netherlands"
+        }
+      ],
+      "materials": ["mirrors", "student collaboration", "mixed media", "PLACEHOLDER - needs review"],
+      "searchText": "echo holland student work mirrors collaboration 1983 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "edda_text_works_ancestry_malmo_1978",
+      "title": "Edda text works - ancestry 11 artists Malmö",
+      "year": 1978,
+      "description": "PLACEHOLDER: Text works from 1978 exploring ancestry themes with 11 artists in Malmö, Sweden. Features Edda-related content and group collaboration. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
+      "images": [
+        {
+          "url": "images/edda-text-works-ancestry-malmo-1978/edda-text-works-ancestry-malmo-1978-01.jpg",
+          "caption": "11 artists Malmö 1978-9 - Group exhibition documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1978",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/edda-text-works-ancestry-malmo-1978/edda-text-works-ancestry-malmo-1978-02.jpg",
+          "caption": "11 artists MP1 - Magnús Pálsson contribution [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1978",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/edda-text-works-ancestry-malmo-1978/edda-text-works-ancestry-malmo-1978-03.jpg",
+          "caption": "11 artists forward - Exhibition catalog [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1978",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["edda", "text works", "ancestry", "11 artists", "malmö", "sweden", "1970s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "11 Artists - Ancestry",
+          "venue": "PLACEHOLDER - Malmö Venue [NEEDS RESEARCH]",
+          "year": 1978,
+          "city": "Malmö",
+          "country": "Sweden"
+        }
+      ],
+      "materials": ["text", "edda references", "group collaboration", "PLACEHOLDER - needs review"],
+      "searchText": "edda text works ancestry 11 artists malmö sweden 1978 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "engin_glypir_solina_1983",
+      "title": "Engin glypir solina (OG)",
+      "year": 1983,
+      "description": "PLACEHOLDER: Work from 1983 titled 'Engin glypir solina' with video documentation. Features making process documentation from 2017. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
+      "images": [
+        {
+          "url": "images/engin-glypir-solina-1983/engin-glypir-solina-1983-01.jpg",
+          "caption": "7321 - Work documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1983",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/engin-glypir-solina-1983/engin-glypir-solina-1983-02.jpg",
+          "caption": "7321a - Alternative view [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1983",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/engin-glypir-solina-1983/engin-glypir-solina-1983-03.jpg",
+          "caption": "EGS making 2017 - Making process documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "2017",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["engin glypir solina", "video", "making process", "1980s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
+          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
+          "year": 1983,
+          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
+        }
+      ],
+      "materials": ["video", "mixed media", "PLACEHOLDER - needs review"],
+      "searchText": "engin glypir solina video making process 1983 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "fjall_ceramic_pieces_1969_71",
+      "title": "Fjall ceramic pieces",
+      "year": 1969,
+      "description": "PLACEHOLDER: Ceramic pieces from 1969-71 with mountain (fjall) themes. Features various ceramic works and new pieces from moulds. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
+      "images": [
+        {
+          "url": "images/fjall-ceramic-pieces-1969-71/fjall-ceramic-pieces-1969-71-01.jpg",
+          "caption": "Fjall ceramic piece - Mountain-themed ceramic work [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1969-71",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["fjall", "mountain", "ceramic", "sculpture", "1960s", "1970s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
+          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
+          "year": 1969,
+          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
+        }
+      ],
+      "materials": ["ceramic", "sculpture", "moulds", "PLACEHOLDER - needs review"],
+      "searchText": "fjall mountain ceramic pieces sculpture 1969 1970 1971 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "franklin_furnace_ny_1984",
+      "title": "Franklin Furnace New York",
+      "year": 1984,
+      "description": "PLACEHOLDER: Work from 1984 at Franklin Furnace in New York. Features publication pages and performance documentation including Bacarolle í fís dúr. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
+      "images": [
+        {
+          "url": "images/franklin-furnace-ny-1984/franklin-furnace-ny-1984-01.jpg",
+          "caption": "Franklin Furnace cover - Publication cover [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1984",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/franklin-furnace-ny-1984/franklin-furnace-ny-1984-02.jpg",
+          "caption": "FF front page - Publication front page [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1984",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/franklin-furnace-ny-1984/franklin-furnace-ny-1984-03.jpg",
+          "caption": "Performance Bacarolle í fís dúr - Performance documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1984",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["franklin furnace", "new york", "publication", "performance", "bacarolle", "1980s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "Franklin Furnace Exhibition",
+          "venue": "Franklin Furnace",
+          "year": 1984,
+          "city": "New York",
+          "country": "USA"
+        }
+      ],
+      "materials": ["publication", "performance", "documentation", "PLACEHOLDER - needs review"],
+      "searchText": "franklin furnace new york publication performance bacarolle 1984 magnús pálsson placeholder needs review"
+    },
+    {
       "id": "automobile_bok_1970_74",
       "title": "Automobile bók",
       "year": 1970,
