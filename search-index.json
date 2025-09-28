@@ -327,6 +327,16 @@
       "snippet": "PLACEHOLDER: A work titled 'Love in the Pool' from 1975, featuring sketches and documentation of pool-related imagery. Needs review and completion."
     },
     {
+      "id": "work_bacarolle_i_fis_dur",
+      "title": "Bacarolle í fís dúr",
+      "type": "work",
+      "page": "works",
+      "year": 1981,
+      "url": "works.html?work=bacarolle_i_fis_dur_1981",
+      "content": "bacarolle í fís dúr music plaster casting students collaboration teaching 1981 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Musical work from 1981 involving plaster casting and students. Needs review and completion."
+    },
+    {
       "id": "work_automobile_bok",
       "title": "Automobile bók",
       "type": "work",

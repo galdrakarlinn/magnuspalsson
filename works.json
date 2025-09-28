@@ -713,6 +713,39 @@
       "searchText": "ást í sundlaug love in the pool swimming sketch drawing 1975 magnús pálsson placeholder needs review"
     },
     {
+      "id": "bacarolle_i_fis_dur_1981",
+      "title": "Bacarolle í fís dúr",
+      "year": 1981,
+      "description": "PLACEHOLDER: Musical work from 1981 involving plaster casting and students. Features documentation of teaching and collaborative process. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials.",
+      "images": [
+        {
+          "url": "images/bacarolle-i-fis-dur-1981/bacarolle-i-fis-dur-1981-01.jpg",
+          "caption": "MP and students - Collaborative work documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1981",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/bacarolle-i-fis-dur-1981/bacarolle-i-fis-dur-1981-02.jpg",
+          "caption": "Plaster cast of music - Process documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1981",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["music", "bacarolle", "plaster casting", "students", "collaboration", "teaching", "1980s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
+          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
+          "year": 1981,
+          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
+        }
+      ],
+      "materials": ["plaster casting", "music", "collaboration", "PLACEHOLDER - needs review"],
+      "searchText": "bacarolle í fís dúr music plaster casting students collaboration teaching 1981 magnús pálsson placeholder needs review"
+    },
+    {
       "id": "automobile_bok_1970_74",
       "title": "Automobile bók",
       "year": 1970,
