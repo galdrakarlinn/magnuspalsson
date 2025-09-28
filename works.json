@@ -501,9 +501,9 @@
     },
     {
       "id": "aevintyr_folktale_1997",
-      "title": "Ævintyr (Folktale)",
+      "title": "Ævintýr (Folktale)",
       "year": 1997,
-      "description": "PLACEHOLDER: A work exploring storytelling and folklore. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials.",
+      "description": "PLACEHOLDER: A recurring storytelling and folklore work performed in multiple venues from 1997-2016. Features audio/video components with both Icelandic and English versions. This entry needs review and completion by assistant - please add proper description and select best images from each exhibition.",
       "images": [
         {
           "url": "images/aevintyr-folktale-1997/aevintyr-folktale-1997-01.jpg",
@@ -520,10 +520,35 @@
           "copyright": "© Estate of Magnús Pálsson"
         }
       ],
-      "tags": ["PLACEHOLDER", "folktale", "storytelling", "1990s"],
-      "exhibitions": [],
-      "materials": ["PLACEHOLDER - needs review"],
-      "searchText": "ævintyr folktale storytelling folklore 1997 magnús pálsson placeholder needs review"
+      "tags": ["PLACEHOLDER", "folktale", "storytelling", "performance", "audio", "video", "recurring work"],
+      "exhibitions": [
+        {
+          "title": "NÝLO Exhibition",
+          "venue": "NÝLO Iceland",
+          "year": 1997,
+          "city": "Reykjavik"
+        },
+        {
+          "title": "Folk Tale Exhibition",
+          "venue": "Oxford Venue [NEEDS RESEARCH]",
+          "year": 2011,
+          "city": "Oxford"
+        },
+        {
+          "title": "Listhátið Arts Festival",
+          "venue": "Listhátið",
+          "year": 2013,
+          "city": "Reykjavik"
+        },
+        {
+          "title": "Ævintýr Exhibition",
+          "venue": "Seydisfjörður Venue [NEEDS RESEARCH]",
+          "year": 2016,
+          "city": "Seydisfjörður"
+        }
+      ],
+      "materials": ["audio", "video", "performance", "storytelling", "PLACEHOLDER - needs review"],
+      "searchText": "ævintýr ævintyr folktale storytelling folklore performance audio video NÝLO oxford listhátið seydisfjörður 1997 2011 2013 2016 recurring work magnús pálsson placeholder needs review"
     },
     {
       "id": "automobile_bok_1970_74",
