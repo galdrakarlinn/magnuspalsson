@@ -990,6 +990,46 @@
       "searchText": "brim keflavik opening event 2005 magnús pálsson placeholder needs review"
     },
     {
+      "id": "buxnaskalm_tota_sigga_1968",
+      "title": "Buxnaskálm Tóta Sigga",
+      "year": 1968,
+      "description": "PLACEHOLDER: Work from 1968 involving Tóta and Sigga, with connections to other collaborators. Features documentation with multiple participants. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this collaborative work.",
+      "images": [
+        {
+          "url": "images/buxnaskalm-tota-sigga-1968/buxnaskalm-tota-sigga-1968-01.jpg",
+          "caption": "Buxnaskjálm Tóta - Documentation 1 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1968",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/buxnaskalm-tota-sigga-1968/buxnaskalm-tota-sigga-1968-02.jpg",
+          "caption": "Buxnaskjálm Tóta - Documentation 2 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1968",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/buxnaskalm-tota-sigga-1968/buxnaskalm-tota-sigga-1968-03.jpg",
+          "caption": "Buxnarsk3 with collaborators - Group documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1968",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["buxnaskálm", "collaboration", "tóta", "sigga", "group work", "1960s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
+          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
+          "year": 1968,
+          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
+        }
+      ],
+      "materials": ["collaboration", "documentation", "PLACEHOLDER - needs review"],
+      "searchText": "buxnaskálm tóta sigga collaboration group work 1968 magnús pálsson placeholder needs review"
+    },
+    {
       "id": "clothes_2000",
       "title": "Clothes",
       "year": 2000,

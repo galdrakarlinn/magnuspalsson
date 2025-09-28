@@ -407,6 +407,16 @@
       "snippet": "PLACEHOLDER: Work from 2005 in Keflavik featuring opening events and documentation. Needs review and completion."
     },
     {
+      "id": "work_buxnaskalm_tota",
+      "title": "Buxnaskálm Tóta Sigga",
+      "type": "work",
+      "page": "works",
+      "year": 1968,
+      "url": "works.html?work=buxnaskalm_tota_sigga_1968",
+      "content": "buxnaskálm tóta sigga collaboration group work 1968 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Work from 1968 involving Tóta and Sigga, with connections to other collaborators. Needs review and completion."
+    },
+    {
       "id": "work_clothes_2000",
       "title": "Clothes",
       "type": "work",
