@@ -1844,6 +1844,11 @@
           "description": "Co-performer in the Iðnó theater performance"
         },
         {
+          "name": "Stilluppsteypa",
+          "role": "Musicians",
+          "description": "Band providing music for the performance"
+        },
+        {
           "name": "Ólafur Páll Sigurðsson",
           "role": "Filmmaker/Documentation",
           "description": "Video documentation and filming"
