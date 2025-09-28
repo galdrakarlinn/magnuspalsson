@@ -15,21 +15,35 @@ class GlobalSearch {
     this.init();
   }
 
-  async init() {
-    await this.loadSearchIndex();
-    this.setupEventListeners();
-    this.restoreSearchState();
+  init() {
+    // Load search index - setupEventListeners and restoreSearchState are called from loadSearchIndex callback
+    this.loadSearchIndex();
   }
 
-  async loadSearchIndex() {
-    try {
-      const response = await fetch('search-index.json');
-      const data = await response.json();
-      this.searchIndex = data.searchableContent;
-    } catch (error) {
-      console.error('Error loading search index:', error);
-      this.searchIndex = [];
-    }
+  loadSearchIndex() {
+    // Edge-compatible version using XMLHttpRequest instead of fetch
+    const xhr = new XMLHttpRequest();
+    xhr.open('GET', 'search-index.json', true);
+    const self = this; // Edge compatibility: store 'this' reference
+    xhr.onreadystatechange = function() {
+      if (xhr.readyState === 4) {
+        if (xhr.status === 200) {
+          try {
+            const data = JSON.parse(xhr.responseText);
+            self.searchIndex = data.searchableContent;
+            self.setupEventListeners();
+            self.restoreSearchState();
+          } catch (error) {
+            console.error('Error parsing search index:', error);
+            self.searchIndex = [];
+          }
+        } else {
+          console.error('Error loading search index:', xhr.status);
+          self.searchIndex = [];
+        }
+      }
+    };
+    xhr.send();
   }
 
   setupEventListeners() {
@@ -674,13 +688,32 @@ class GlobalSearch {
 }
 
 // Initialize global search when DOM is loaded
+// Edge-compatible initialization with error handling
+function initializeGlobalSearch() {
+  try {
+    if (typeof GlobalSearch !== 'undefined') {
+      window.globalSearchInstance = new GlobalSearch();
+    } else {
+      console.error('GlobalSearch class not defined');
+    }
+  } catch (error) {
+    console.error('Error initializing GlobalSearch:', error);
+    // Fallback: show a message to use a modern browser
+    const searchInputs = document.querySelectorAll('#global-search-desktop, #global-search-mobile');
+    searchInputs.forEach(input => {
+      if (input) {
+        input.placeholder = 'Search requires a modern browser';
+        input.disabled = true;
+      }
+    });
+  }
+}
+
 // Check if DOM is already loaded (for dynamically loaded scripts)
 if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', () => {
-    window.globalSearchInstance = new GlobalSearch();
-  });
+  document.addEventListener('DOMContentLoaded', initializeGlobalSearch);
 } else {
-  // DOMContentLoaded has already fired
-  window.globalSearchInstance = new GlobalSearch();
+  // DOMContentLoaded has already fired - use timeout for Edge compatibility
+  setTimeout(initializeGlobalSearch, 100);
 }
 
