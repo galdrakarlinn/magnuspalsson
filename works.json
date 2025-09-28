@@ -503,9 +503,16 @@
   "exhibitions": [
     {
       "id": "nordic_voices_1987",
-      "title": "Nordic Voices", 
+      "title": "Nordic Voices",
       "venue": "Reykjavik Art Museum",
       "year": 1987,
+      "city": "Reykjavik"
+    },
+    {
+      "id": "solo_mokka_1995",
+      "title": "100 ára stríðið (100 Years War)",
+      "venue": "Café Mokka",
+      "year": 1995,
       "city": "Reykjavik"
     }
   ],
