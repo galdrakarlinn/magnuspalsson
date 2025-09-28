@@ -1830,6 +1830,15 @@
           "copyright": "© Estate of Magnús Pálsson"
         }
       ],
+      "videos": [
+        {
+          "url": "images/ad-juda-ser-rangsaelis-2000/ad-juda-ser-rangsaelis-preview.mp4",
+          "title": "Performance at Iðnó - Preview Clip",
+          "duration": "30 seconds",
+          "description": "Opening 30 seconds of the performance at Iðnó theater, 2000",
+          "type": "mp4"
+        }
+      ],
       "tags": ["video", "performance", "iðnó", "ragga", "speaking", "theater", "2000s", "PLACEHOLDER - needs review"],
       "exhibitions": [
         {
