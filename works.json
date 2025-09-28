@@ -1807,7 +1807,29 @@
       "title": "Að juða sér rangsælis",
       "year": 2000,
       "description": "PLACEHOLDER: Video performance work from 2000 featuring performance at Iðnó theater with speaking elements by both Magnús and Ragga. This work includes video documentation of the performance along with backdrop elements. [NEEDS REVIEW: Complete description, performance context, collaborators, and venue details needed]",
-      "images": [],
+      "images": [
+        {
+          "url": "images/ad-juda-ser-rangsaelis-2000/ad-juda-ser-rangsaelis-2000-01.jpg",
+          "caption": "Performance at Iðnó theater - video frame documentation",
+          "photographer": "Video documentation",
+          "year": "2000",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/ad-juda-ser-rangsaelis-2000/ad-juda-ser-rangsaelis-2000-02.jpg",
+          "caption": "Ragga speaking - video frame documentation",
+          "photographer": "Video documentation",
+          "year": "2000",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/ad-juda-ser-rangsaelis-2000/ad-juda-ser-rangsaelis-2000-03.jpg",
+          "caption": "Magnús speaking - video frame documentation",
+          "photographer": "Video documentation",
+          "year": "2000",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
       "tags": ["video", "performance", "iðnó", "ragga", "speaking", "theater", "2000s", "PLACEHOLDER - needs review"],
       "exhibitions": [
         {
