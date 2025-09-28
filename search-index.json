@@ -407,6 +407,56 @@
       "snippet": "PLACEHOLDER: Work from 2005 in Keflavik featuring opening events and documentation. Needs review and completion."
     },
     {
+      "id": "work_clothes_2000",
+      "title": "Clothes",
+      "type": "work",
+      "page": "works",
+      "year": 2000,
+      "url": "works.html?work=clothes_2000",
+      "content": "clothes fashion jackets modeling jackie 2000 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Clothing/fashion work from 2000 featuring jackets and models. Needs review and completion."
+    },
+    {
+      "id": "work_contours_baby",
+      "title": "Contours of a baby",
+      "type": "work",
+      "page": "works",
+      "year": 1987,
+      "url": "works.html?work=contours_of_a_baby_1987",
+      "content": "contours of a baby tape digitalization 1987 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Work from 1987 with tape to be digitalized. Needs review and completion."
+    },
+    {
+      "id": "work_dalalada_mist",
+      "title": "Dalalæða (Mist)",
+      "type": "work",
+      "page": "works",
+      "year": 1975,
+      "url": "works.html?work=dalalada_mist_1975",
+      "content": "dalalæða mist aluminum sculpture 1975 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Work from 1975 titled 'Mist' featuring aluminum elements. Needs review and completion."
+    },
+    {
+      "id": "work_dog_book",
+      "title": "Dog Book",
+      "type": "work",
+      "page": "works",
+      "year": 1973,
+      "url": "works.html?work=dog_book_1973",
+      "content": "dog book publication 1973 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Book work from 1973 featuring dogs. Needs review and completion."
+    },
+    {
+      "id": "work_dulargervi_camouflage",
+      "title": "Dulargervi Malnigarbakki (Camouflage)",
+      "type": "work",
+      "page": "works",
+      "year": 1966,
+      "url": "works.html?work=dulargervi_malnigarbakki_camouflage_1966",
+      "content": "dulargervi malnigarbakki camouflage early work 1966 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Early work from 1966 exploring camouflage themes. Needs review and completion."
+    },
+    {
       "id": "work_automobile_bok",
       "title": "Automobile bók",
       "type": "work",

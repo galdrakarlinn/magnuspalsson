@@ -990,6 +990,178 @@
       "searchText": "brim keflavik opening event 2005 magnús pálsson placeholder needs review"
     },
     {
+      "id": "clothes_2000",
+      "title": "Clothes",
+      "year": 2000,
+      "description": "PLACEHOLDER: Clothing/fashion work from 2000 featuring jackets and models. Includes documentation with Jackie and MP modeling. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
+      "images": [
+        {
+          "url": "images/clothes-2000/clothes-2000-01.jpg",
+          "caption": "Magnus Jacket MEP - Fashion documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "2000",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/clothes-2000/clothes-2000-02.jpg",
+          "caption": "Clothes work documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "2000",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/clothes-2000/clothes-2000-03.jpg",
+          "caption": "Clothing project image [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "2000",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["clothes", "fashion", "jackets", "modeling", "jackie", "2000s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
+          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
+          "year": 2000,
+          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
+        }
+      ],
+      "materials": ["fashion", "photography", "documentation", "PLACEHOLDER - needs review"],
+      "searchText": "clothes fashion jackets modeling jackie 2000 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "contours_of_a_baby_1987",
+      "title": "Contours of a baby",
+      "year": 1987,
+      "description": "PLACEHOLDER: Work from 1987 with tape to be digitalized. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this baby-related work.",
+      "images": [
+        {
+          "url": "images/contours-of-a-baby-1987/contours-of-a-baby-1987-01.jpg",
+          "caption": "Contours of a baby - Documentation 1 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1987",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/contours-of-a-baby-1987/contours-of-a-baby-1987-02.jpg",
+          "caption": "Contours of a baby - Documentation 2 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1987",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["baby", "contours", "tape", "digitalization", "1980s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
+          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
+          "year": 1987,
+          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
+        }
+      ],
+      "materials": ["tape", "audio/video", "PLACEHOLDER - needs review"],
+      "searchText": "contours of a baby tape digitalization 1987 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "dalalada_mist_1975",
+      "title": "Dalalæða (Mist)",
+      "year": 1975,
+      "description": "PLACEHOLDER: Work from 1975 titled 'Mist' featuring aluminum elements. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this mist-related work.",
+      "images": [
+        {
+          "url": "images/dalalada-mist-1975/dalalada-mist-1975-01.jpg",
+          "caption": "Dalalæða aluminum element 1 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1975",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/dalalada-mist-1975/dalalada-mist-1975-02.jpg",
+          "caption": "Dalalæða aluminum element 2 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1975",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/dalalada-mist-1975/dalalada-mist-1975-03.jpg",
+          "caption": "Magnus Pálsson documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1975",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["mist", "dalalæða", "aluminum", "1970s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
+          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
+          "year": 1975,
+          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
+        }
+      ],
+      "materials": ["aluminum", "sculpture", "PLACEHOLDER - needs review"],
+      "searchText": "dalalæða mist aluminum sculpture 1975 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "dog_book_1973",
+      "title": "Dog Book",
+      "year": 1973,
+      "description": "PLACEHOLDER: Book work from 1973 featuring dogs, with copies including MP involvement. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this book project.",
+      "images": [
+        {
+          "url": "images/dog-book-1973/dog-book-1973-01.jpg",
+          "caption": "Dog book cover [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1973",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/dog-book-1973/dog-book-1973-02.jpg",
+          "caption": "Dog book content [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1973",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["dog", "book", "publication", "1970s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
+          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
+          "year": 1973,
+          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
+        }
+      ],
+      "materials": ["book", "publication", "PLACEHOLDER - needs review"],
+      "searchText": "dog book publication 1973 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "dulargervi_malnigarbakki_camouflage_1966",
+      "title": "Dulargervi Malnigarbakki (Camouflage)",
+      "year": 1966,
+      "description": "PLACEHOLDER: Early work from 1966 exploring camouflage themes at Malnigarbakki. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this camouflage work.",
+      "images": [
+        {
+          "url": "images/dulargervi-malnigarbakki-camouflage-1966/dulargervi-malnigarbakki-camouflage-1966-01.jpg",
+          "caption": "Dulargervi Katrín G. documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1966",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["camouflage", "dulargervi", "malnigarbakki", "early work", "1960s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
+          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
+          "year": 1966,
+          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
+        }
+      ],
+      "materials": ["mixed media", "PLACEHOLDER - needs review"],
+      "searchText": "dulargervi malnigarbakki camouflage early work 1966 magnús pálsson placeholder needs review"
+    },
+    {
       "id": "automobile_bok_1970_74",
       "title": "Automobile bók",
       "year": 1970,
