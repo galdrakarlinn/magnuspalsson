@@ -1801,6 +1801,24 @@
       "exhibitions": [],
       "materials": ["PLACEHOLDER - needs review"],
       "searchText": "automobile bók book car 1970 1974 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "ad_juda_ser_rangsaelis_2000",
+      "title": "Að juða sér rangsælis",
+      "year": 2000,
+      "description": "PLACEHOLDER: Video performance work from 2000 featuring performance at Iðnó theater with speaking elements by both Magnús and Ragga. This work includes video documentation of the performance along with backdrop elements. [NEEDS REVIEW: Complete description, performance context, collaborators, and venue details needed]",
+      "images": [],
+      "tags": ["video", "performance", "iðnó", "ragga", "speaking", "theater", "2000s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
+          "venue": "Iðnó",
+          "year": 2000,
+          "city": "Reykjavik"
+        }
+      ],
+      "materials": ["video", "performance", "backdrops", "PLACEHOLDER - needs review"],
+      "searchText": "að juða sér rangsælis video performance iðnó ragga speaking theater 2000 magnús pálsson placeholder needs review"
     }
   ],
   "exhibitions": [
