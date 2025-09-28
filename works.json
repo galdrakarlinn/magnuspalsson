@@ -444,6 +444,53 @@
       "exhibitions": [],
       "materials": ["sculpture", "documentation", "sound", "mixed media"],
       "searchText": "draumur hlynsins um fjall negative space positive space materializing immaterial void absence dreams sound landscape mountain collaboration edda jónsdóttir 1974 poetry magnús pálsson"
+    },
+    {
+      "id": "100_years_war_mokka_1995",
+      "title": "100 Years War Mokka",
+      "year": 1995,
+      "description": "A conceptual work exploring themes of conflict, endurance, and the passage of time through the lens of coffee culture. The work examines the relationship between daily rituals and historical narratives, using Mokka coffee as a metaphor for cultural continuity and transformation over extended periods of conflict and change.",
+      "images": [
+        {
+          "url": "images/100-years-war-mokka-1995/100-years-war-mokka-1995-01.jpg",
+          "caption": "100 Years War Mokka - Installation view",
+          "photographer": "Unknown",
+          "year": "1995",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/100-years-war-mokka-1995/100-years-war-mokka-1995-02.jpg",
+          "caption": "100 Years War Mokka - Detail view",
+          "photographer": "Unknown",
+          "year": "1995",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/100-years-war-mokka-1995/100-years-war-mokka-1995-03.jpg",
+          "caption": "100 Years War Mokka - Component detail",
+          "photographer": "Unknown",
+          "year": "1995",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/100-years-war-mokka-1995/100-years-war-mokka-1995-04.jpg",
+          "caption": "100 Years War Mokka - Installation context",
+          "photographer": "Unknown",
+          "year": "1995",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/100-years-war-mokka-1995/100-years-war-mokka-1995-05.jpg",
+          "caption": "100 Years War Mokka - Overall view",
+          "photographer": "Unknown",
+          "year": "1995",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["conceptual", "installation", "coffee", "culture", "time", "conflict", "ritual", "transformation", "metaphor", "1990s"],
+      "exhibitions": [],
+      "materials": ["mixed media", "coffee", "installation", "conceptual"],
+      "searchText": "100 years war mokka coffee culture time conflict ritual transformation metaphor conceptual installation mixed media 1990s magnús pálsson"
     }
   ],
   "exhibitions": [
