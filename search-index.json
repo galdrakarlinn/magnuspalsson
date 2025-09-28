@@ -367,6 +367,46 @@
       "snippet": "PLACEHOLDER: Book work from 1980 including Norwegian translation. Features definitions and text elements. Needs review and completion."
     },
     {
+      "id": "work_bref_til_djonna",
+      "title": "Bréf til Djonna",
+      "type": "work",
+      "page": "works",
+      "year": 1994,
+      "url": "works.html?work=bref_til_djonna_1994",
+      "content": "bréf til djonna letter audio personal 1994 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Audio work from 1994 - a letter to Djonna in audio format. Needs review and completion."
+    },
+    {
+      "id": "work_bref_til_kristjans",
+      "title": "Bréf til Kristjáns - Small work in Wingdings",
+      "type": "work",
+      "page": "works",
+      "year": 1990,
+      "url": "works.html?work=bref_til_kristjans_wingdings_1990",
+      "content": "bréf til kristjáns wingdings typography letter small work 1990 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Small work from 1990 using Wingdings font, created as a letter to Kristján. Needs review and completion."
+    },
+    {
+      "id": "work_bref_til_ragnars",
+      "title": "Bréf til Ragnars",
+      "type": "work",
+      "page": "works",
+      "year": 2003,
+      "url": "works.html?work=bref_til_ragnars_2003",
+      "content": "bréf til ragnars letter ragnar audio personal 2003 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Letter work from 2003 to Ragnar, including audio recording and documentation. Needs review and completion."
+    },
+    {
+      "id": "work_brim_keflavik",
+      "title": "Brim Keflavik",
+      "type": "work",
+      "page": "works",
+      "year": 2005,
+      "url": "works.html?work=brim_keflavik_2005",
+      "content": "brim keflavik opening event 2005 magnús pálsson placeholder",
+      "snippet": "PLACEHOLDER: Work from 2005 in Keflavik featuring opening events and documentation. Needs review and completion."
+    },
+    {
       "id": "work_automobile_bok",
       "title": "Automobile bók",
       "type": "work",

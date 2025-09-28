@@ -859,6 +859,137 @@
       "searchText": "bók um bók og fleira book text definitions norwegian translation 1980 magnús pálsson placeholder needs review"
     },
     {
+      "id": "bref_til_djonna_1994",
+      "title": "Bréf til Djonna",
+      "year": 1994,
+      "description": "PLACEHOLDER: Audio work from 1994 - a letter to Djonna in audio format. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this audio piece.",
+      "images": [],
+      "tags": ["audio", "letter", "personal", "1990s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
+          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
+          "year": 1994,
+          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
+        }
+      ],
+      "materials": ["audio recording", "PLACEHOLDER - needs review"],
+      "searchText": "bréf til djonna letter audio personal 1994 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "bref_til_kristjans_wingdings_1990",
+      "title": "Bréf til Kristjáns - Small work in Wingdings",
+      "year": 1990,
+      "description": "PLACEHOLDER: Small work from 1990 using Wingdings font, created as a letter to Kristján. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this typography work.",
+      "images": [
+        {
+          "url": "images/bref-til-kristjans-wingdings-1990/bref-til-kristjans-wingdings-1990-01.jpg",
+          "caption": "Wingdings work for KG 1990 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1990",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/bref-til-kristjans-wingdings-1990/bref-til-kristjans-wingdings-1990-02.jpg",
+          "caption": "Wingdings work 2 for KG 1990 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "1990",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["wingdings", "typography", "letter", "kristján", "small work", "1990s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
+          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
+          "year": 1990,
+          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
+        }
+      ],
+      "materials": ["typography", "wingdings font", "text", "PLACEHOLDER - needs review"],
+      "searchText": "bréf til kristjáns wingdings typography letter small work 1990 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "bref_til_ragnars_2003",
+      "title": "Bréf til Ragnars",
+      "year": 2003,
+      "description": "PLACEHOLDER: Letter work from 2003 to Ragnar, including audio recording and documentation. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
+      "images": [
+        {
+          "url": "images/bref-til-ragnars-2003/bref-til-ragnars-2003-01.jpg",
+          "caption": "Bréf til Ragnars - Documentation 1 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "2003",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/bref-til-ragnars-2003/bref-til-ragnars-2003-02.jpg",
+          "caption": "Bréf til Ragnars - Documentation 2 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "2003",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/bref-til-ragnars-2003/bref-til-ragnars-2003-03.jpg",
+          "caption": "Bréf til Ragnars - Documentation 3 [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "2003",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["letter", "ragnar", "audio", "personal", "2000s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
+          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
+          "year": 2003,
+          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
+        }
+      ],
+      "materials": ["audio recording", "text", "documentation", "PLACEHOLDER - needs review"],
+      "searchText": "bréf til ragnars letter ragnar audio personal 2003 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "brim_keflavik_2005",
+      "title": "Brim Keflavik",
+      "year": 2005,
+      "description": "PLACEHOLDER: Work from 2005 in Keflavik featuring opening events and documentation. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this Keflavik work.",
+      "images": [
+        {
+          "url": "images/brim-keflavik-2005/brim-keflavik-2005-01.jpg",
+          "caption": "Brim - Page 1 documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "2005",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/brim-keflavik-2005/brim-keflavik-2005-02.jpg",
+          "caption": "Brim - Opening event [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "2005",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/brim-keflavik-2005/brim-keflavik-2005-03.jpg",
+          "caption": "Brim - Event documentation [NEEDS REVIEW]",
+          "photographer": "Unknown",
+          "year": "2005",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["brim", "keflavik", "opening", "event", "2000s", "PLACEHOLDER - needs review"],
+      "exhibitions": [
+        {
+          "title": "Brim",
+          "venue": "PLACEHOLDER - Venue in Keflavik [NEEDS RESEARCH]",
+          "year": 2005,
+          "city": "Keflavik"
+        }
+      ],
+      "materials": ["mixed media", "documentation", "PLACEHOLDER - needs review"],
+      "searchText": "brim keflavik opening event 2005 magnús pálsson placeholder needs review"
+    },
+    {
       "id": "automobile_bok_1970_74",
       "title": "Automobile bók",
       "year": 1970,
