@@ -1455,7 +1455,7 @@
       "id": "engin_glypir_solina_1983",
       "title": "Engin glypir solina (OG)",
       "year": 1983,
-      "description": "PLACEHOLDER: Work from 1983 titled 'Engin glypir solina' with video documentation. Features making process documentation from 2017. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
+      "description": "Multi-channel sound sculpture installation created in 1983, later exhibited at Gallery One-One on Skólavörðustígur in 1993. The work consists of several 'sound sculptures' (hljóðskúlptúrar) arranged in two separate rooms, playing simultaneously to create an immersive audio environment. Drawing from childhood memories and fragments of conversation, the piece features fragmented narratives, coughing, clearing throats, yawning, humming, repetitions, and various human sounds that evoke gatherings of adults from another time and place. The installation includes physical elements: under each speaker (four speakers per 'rjóður' or room, creating stereo sound) are piles of snuff tobacco and large paper noses, referencing multiple senses and providing visual cues for the audio content. Individual sound sculptures have characteristically Icelandic folk humor titles including 'Enginn gleypir sólina... (þó hann bryðji tunglið eins og fisk)', 'Mús og lús', 'Hér pissa ég', and 'Herra Túrpur Jónsson'. The work was created with seven actors, a director, and sound engineer, with its strength lying in the sound mixing that places the listener 'in the middle of the picture.' (Source: Eiríkur Þorláksson review, Morgunblaðið, February 24, 1993)",
       "images": [
         {
           "url": "images/engin-glypir-solina-1983/engin-glypir-solina-1983-01.jpg",
@@ -1479,17 +1479,17 @@
           "copyright": "© Estate of Magnús Pálsson"
         }
       ],
-      "tags": ["engin glypir solina", "video", "making process", "1980s", "PLACEHOLDER - needs review"],
+      "tags": ["sound sculpture", "hljóðskúlptúr", "multi-channel audio", "installation", "memory", "childhood", "icelandic humor", "gallery one-one", "snuff tobacco", "1980s", "1990s"],
       "exhibitions": [
         {
-          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
-          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
-          "year": 1983,
-          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
+          "title": "Enginn gleypir sólina",
+          "venue": "Gallery One-One (Gallerí einn einn)",
+          "year": 1993,
+          "city": "Reykjavik"
         }
       ],
-      "materials": ["video", "mixed media", "PLACEHOLDER - needs review"],
-      "searchText": "engin glypir solina video making process 1983 magnús pálsson placeholder needs review"
+      "materials": ["sound", "audio installation", "speakers", "snuff tobacco", "paper", "multi-channel audio"],
+      "searchText": "enginn gleypir sólina engin glypir solina sound sculpture hljóðskúlptúr audio installation memory childhood icelandic humor gallery one-one skólavörðustígur snuff tobacco speakers multi-channel 1983 1993 magnús pálsson eiríkur þorláksson morgunblaðið"
     },
     {
       "id": "fjall_ceramic_pieces_1969_71",
