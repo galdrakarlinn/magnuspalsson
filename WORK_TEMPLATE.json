@@ -1,0 +1,95 @@
+{
+  "id": "work_title_year",
+  "title": "Work Title Here",
+  "year": 1975,
+  "description": "Detailed description of the work. Include materials, context, significance, and any available historical information. Mention exhibitions, collaborators, or special circumstances around the creation.",
+  "images": [
+    {
+      "url": "images/work-title-year/work-title-01.jpg",
+      "caption": "Main view of the work",
+      "photographer": "Photographer Name",
+      "year": "1975",
+      "copyright": "© Estate of Magnús Pálsson"
+    },
+    {
+      "url": "images/work-title-year/work-title-02.jpg",
+      "caption": "Detail or alternative view",
+      "photographer": "Photographer Name",
+      "year": "1975",
+      "copyright": "© Estate of Magnús Pálsson"
+    },
+    {
+      "url": "images/work-title-year/work-title-video.mp4",
+      "caption": "Video documentation"
+    }
+  ],
+  "tags": ["sculpture", "performance", "video", "sound", "installation", "conceptual", "nature", "language"],
+  "exhibitions": [
+    {
+      "title": "Exhibition Name",
+      "venue": "Gallery or Museum Name",
+      "year": 1975,
+      "city": "Reykjavik"
+    }
+  ],
+  "materials": ["plaster", "video", "sound", "metal", "text", "performance"],
+  "searchText": "relevant keywords for search functionality separated by spaces"
+}
+
+<!--
+INSTRUCTIONS FOR USE:
+
+1. WORK ID:
+   - Format: title_year in lowercase
+   - Replace spaces with underscores
+   - Remove special characters: áéíóú → aeiou
+   - Example: "Helicopter Landing" (1976) → "helicopter_landing_1976"
+
+2. TITLE:
+   - Use original Icelandic title if that's primary
+   - Include English translation in description if needed
+
+3. YEAR:
+   - Use creation year, not exhibition year
+   - If range, use start year
+
+4. DESCRIPTION:
+   - 2-4 sentences minimum
+   - Include materials and context
+   - Mention significant exhibitions or collaborations
+
+5. IMAGES:
+   - 3-8 images typical
+   - Include photographer if known, otherwise "Unknown"
+   - Videos need to be force-added to git: git add -f path/to/video.mp4
+
+6. TAGS:
+   - Use existing tags from other works when possible
+   - Common tags: sculpture, performance, video, sound, installation, conceptual, nature, language, plaster, metal
+
+7. EXHIBITIONS:
+   - Include major exhibitions only
+   - Venice Biennale, museum shows, significant galleries
+
+8. MATERIALS:
+   - Physical materials and media types
+   - Examples: plaster, video, sound, metal, text, performance, headphones
+
+9. SEARCH TEXT:
+   - All relevant keywords in lowercase
+   - Include title words, materials, exhibition venues, collaborator names
+   - Separate with spaces
+
+COMMON TAGS TO USE:
+- sculpture, performance, video, sound, installation
+- conceptual, minimalist, site-specific
+- nature, language, poetry, text
+- plaster, metal, bronze, stone, wood
+- documentation, catalog, book
+
+COMMON MATERIALS:
+- plaster, bronze, metal, stone, wood
+- video, sound, audio, headphones
+- text, performance, documentation
+- large screen, projection
+-->
