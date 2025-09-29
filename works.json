@@ -1833,6 +1833,20 @@
       "tags": ["beach", "sea", "sky", "three parts", "plaster cast", "seamless block", "positive value", "negative value", "mathematical reflection", "environmental casting", "landscape", "1970s"],
       "exhibitions": [
         {
+          "title": "Retrospective Exhibition",
+          "venue": "Kjarvalstaðir",
+          "year": 1994,
+          "city": "Reykjavík",
+          "country": "Iceland"
+        },
+        {
+          "title": "Something from nothing (Eitthvað úr engu) - Retrospective",
+          "venue": "Listasafn Reykjavíkur (Reykjavik Art Museum)",
+          "year": 2019,
+          "city": "Reykjavík",
+          "country": "Iceland"
+        },
+        {
           "title": "Exhibition in Lund",
           "venue": "Lund (venue to be confirmed)",
           "year": 2012,
@@ -1841,7 +1855,7 @@
         }
       ],
       "materials": ["plaster", "cast", "sculpture", "three-part installation"],
-      "searchText": "flæðarmál beach sea sky three parts plaster cast seamless block positive negative value mathematical reflection environmental casting landscape 1976 magnús pálsson lund"
+      "searchText": "flæðarmál beach sea sky three parts plaster cast seamless block positive negative value mathematical reflection environmental casting landscape kjarvalstaðir retrospective listasafn reykjavíkur something from nothing eitthvað úr engu lund 1976 1994 2019 magnús pálsson"
     },
     {
       "id": "ad_juda_ser_rangsaelis_2000",
