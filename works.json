@@ -7,14 +7,28 @@
       "description": "A major international DADA performance work by Magnús Pálsson, performed at the Hackney Empire in London and Tate Modern in 2005. This multimedia performance piece explores themes of mutation and transformation through the DADA aesthetic, with video documentation and comprehensive script materials.",
       "images": [
         {
-          "url": "images/mutations-stokkbreytingar-dada-tate-hackney-empire-2005/thumbs/mutations-dada-performance-thumb.jpg",
-          "caption": "DADA performance at Hackney Empire - video preview"
+          "url": "images/mutations-stokkbreytingar-dada-tate-hackney-empire-2005/hackney-empire-dada-performance-preview.mp4",
+          "caption": "DADA performance at Hackney Empire London - 3 minute video documentation",
+          "thumbnail": "images/mutations-stokkbreytingar-dada-tate-hackney-empire-2005/thumbs/mutations-dada-performance-thumb.jpg"
         }
       ],
-      "videoUrl": "images/mutations-stokkbreytingar-dada-tate-hackney-empire-2005/hackney-empire-dada-performance-preview.mp4",
-      "tags": ["performance", "video", "international", "dada", "2005"],
-      "exhibitions": ["Hackney Empire London", "Tate Modern London"],
-      "materials": ["video", "performance", "script", "documentation"],
+      "tags": [
+        "performance",
+        "video",
+        "international",
+        "dada",
+        "2005"
+      ],
+      "exhibitions": [
+        "Hackney Empire London",
+        "Tate Modern London"
+      ],
+      "materials": [
+        "video",
+        "performance",
+        "script",
+        "documentation"
+      ],
       "searchText": "mutations stökkbreytingar dada tate hackney empire 2005 performance video london magnús pálsson"
     },
     {
@@ -423,26 +437,6 @@
         "documentation"
       ],
       "searchText": "kennaraskóli íslands model with dr Unknown magnús pálsson documentation text"
-    },
-    {
-      "id": "mutations-stokkbreytingar-dada-tate-hackney-empire-2005-2005",
-      "title": "Mutations Stökkbreytingar Dada TATE Hackney empire 2005",
-      "year": 2005,
-      "description": "A performance and documentation work by Magnús Pálsson from 2005. This work includes scripts, documentation, and materials from the performance or exhibition.",
-      "images": [],
-      "tags": [
-        "performance",
-        "documentation",
-        "text",
-        "2005"
-      ],
-      "exhibitions": [],
-      "materials": [
-        "performance",
-        "documentation",
-        "text"
-      ],
-      "searchText": "mutations stökkbreytingar dada tate hackney empire 2005 2005 magnús pálsson performance documentation"
     },
     {
       "id": "kal-5-negative-made-1966-printed-2018-1966",
