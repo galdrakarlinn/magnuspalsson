@@ -1,6 +1,174 @@
 {
   "works": [
     {
+      "id": "kross-2013-performance-2013",
+      "title": "Kross 2013 performance",
+      "year": 2013,
+      "description": "A work by Magnús Pálsson from 2013. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career.",
+      "images": [
+        {
+          "url": "images/kross-2013-performance-2013/medium/kross-01-medium.jpg",
+          "caption": "Kross - view 1"
+        },
+        {
+          "url": "images/kross-2013-performance-2013/medium/kross-02-medium.jpg",
+          "caption": "Kross - view 2"
+        },
+        {
+          "url": "images/kross-2013-performance-2013/medium/kross-03-medium.jpg",
+          "caption": "Kross - view 3"
+        },
+        {
+          "url": "images/kross-2013-performance-2013/medium/kross-04-medium.jpg",
+          "caption": "Kross - view 4"
+        },
+        {
+          "url": "images/kross-2013-performance-2013/medium/kross-05-medium.jpg",
+          "caption": "Kross - view 5"
+        },
+        {
+          "url": "images/kross-2013-performance-2013/medium/kross-06-medium.jpg",
+          "caption": "Kross - view 6"
+        },
+        {
+          "url": "images/kross-2013-performance-2013/medium/kross-07-medium.jpg",
+          "caption": "Kross - view 7"
+        }
+      ],
+      "tags": [
+        "artwork",
+        "2013"
+      ],
+      "exhibitions": [],
+      "materials": [],
+      "searchText": "kross 2013 performance 2013 magnús pálsson"
+    },
+    {
+      "id": "landafraedi-maps-gibs-pieces-1972-2012-1972",
+      "title": "Landafræði",
+      "year": 1972,
+      "description": "A work by Magnús Pálsson from 1972. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career.",
+      "images": [
+        {
+          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-01-medium.jpg",
+          "caption": "Landafræði - view 1"
+        },
+        {
+          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-02-medium.jpg",
+          "caption": "Landafræði - view 2"
+        },
+        {
+          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-03-medium.jpg",
+          "caption": "Landafræði - view 3"
+        },
+        {
+          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-04-medium.jpg",
+          "caption": "Landafræði - view 4"
+        },
+        {
+          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-05-medium.jpg",
+          "caption": "Landafræði - view 5"
+        },
+        {
+          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-06-medium.jpg",
+          "caption": "Landafræði - view 6"
+        },
+        {
+          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-07-medium.jpg",
+          "caption": "Landafræði - view 7"
+        }
+      ],
+      "tags": [
+        "artwork",
+        "1972"
+      ],
+      "exhibitions": [],
+      "materials": [],
+      "searchText": "landafræði (maps & gibs pieces) 1972 & 2012 1972 magnús pálsson"
+    },
+    {
+      "id": "manifesto-bergen-offside-exhibition-1996-1996",
+      "title": "Manifesto Bergen Offside exhibition 1996",
+      "year": 1996,
+      "description": "A work by Magnús Pálsson from 1996. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career.",
+      "images": [
+        {
+          "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-01-medium.jpg",
+          "caption": "Manifesto - view 1"
+        },
+        {
+          "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-02-medium.jpg",
+          "caption": "Manifesto - view 2"
+        },
+        {
+          "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-03-medium.jpg",
+          "caption": "Manifesto - view 3"
+        },
+        {
+          "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-04-medium.jpg",
+          "caption": "Manifesto - view 4"
+        },
+        {
+          "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-05-medium.jpg",
+          "caption": "Manifesto - view 5"
+        },
+        {
+          "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-06-medium.jpg",
+          "caption": "Manifesto - view 6"
+        },
+        {
+          "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-07-medium.jpg",
+          "caption": "Manifesto - view 7"
+        }
+      ],
+      "tags": [
+        "artwork",
+        "1996"
+      ],
+      "exhibitions": [],
+      "materials": [],
+      "searchText": "manifesto bergen offside exhibition 1996 1996 magnús pálsson"
+    },
+    {
+      "id": "minning-kaninunnar-barabbit-1979-1979",
+      "title": "Minning kanínunnar, Barabbit 1979",
+      "year": 1979,
+      "description": "A work by Magnús Pálsson from 1979. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career.",
+      "images": [
+        {
+          "url": "images/minning-kaninunnar-barabbit-1979-1979/medium/minning-01-medium.jpg",
+          "caption": "Minning - view 1"
+        },
+        {
+          "url": "images/minning-kaninunnar-barabbit-1979-1979/medium/minning-02-medium.jpg",
+          "caption": "Minning - view 2"
+        },
+        {
+          "url": "images/minning-kaninunnar-barabbit-1979-1979/medium/minning-03-medium.jpg",
+          "caption": "Minning - view 3"
+        },
+        {
+          "url": "images/minning-kaninunnar-barabbit-1979-1979/medium/minning-04-medium.jpg",
+          "caption": "Minning - view 4"
+        },
+        {
+          "url": "images/minning-kaninunnar-barabbit-1979-1979/medium/minning-05-medium.jpg",
+          "caption": "Minning - view 5"
+        },
+        {
+          "url": "images/minning-kaninunnar-barabbit-1979-1979/medium/minning-06-medium.jpg",
+          "caption": "Minning - view 6"
+        }
+      ],
+      "tags": [
+        "artwork",
+        "1979"
+      ],
+      "exhibitions": [],
+      "materials": [],
+      "searchText": "minning kanínunnar, barabbit 1979 1979 magnús pálsson"
+    },
+    {
       "id": "kennsla-geggjadasta-listgreinin-teaching-the-craziest-branch-of-art-1984-1984",
       "title": "Kennsla - geggjaðasta listgreinin -  Teaching, the craziest branch of art 1984",
       "year": 1984,
