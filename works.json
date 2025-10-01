@@ -1,6 +1,23 @@
 {
   "works": [
     {
+      "id": "mutations-stokkbreytingar-dada-tate-hackney-empire-2005",
+      "title": "Mutations Stökkbreytingar Dada TATE Hackney empire 2005",
+      "year": 2005,
+      "description": "A major international DADA performance work by Magnús Pálsson, performed at the Hackney Empire in London and Tate Modern in 2005. This multimedia performance piece explores themes of mutation and transformation through the DADA aesthetic, with video documentation and comprehensive script materials.",
+      "images": [
+        {
+          "url": "images/mutations-stokkbreytingar-dada-tate-hackney-empire-2005/thumbs/mutations-dada-performance-thumb.jpg",
+          "caption": "DADA performance at Hackney Empire - video preview"
+        }
+      ],
+      "videoUrl": "images/mutations-stokkbreytingar-dada-tate-hackney-empire-2005/hackney-empire-dada-performance-preview.mp4",
+      "tags": ["performance", "video", "international", "dada", "2005"],
+      "exhibitions": ["Hackney Empire London", "Tate Modern London"],
+      "materials": ["video", "performance", "script", "documentation"],
+      "searchText": "mutations stökkbreytingar dada tate hackney empire 2005 performance video london magnús pálsson"
+    },
+    {
       "id": "rumbjarni-sudurgata-7-1976-1976",
       "title": "Rúmbjarni Suðurgata 7 1976",
       "year": 1976,
