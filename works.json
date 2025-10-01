@@ -1,78 +1,6 @@
 {
   "works": [
     {
-      "id": "berdreyminn_skyggn_naemur_1969",
-      "title": "Berdreyminn, Skyggn, Næmur",
-      "year": 1969,
-      "description": "Three significant works from 1969: Berdreyminn (exploring memory and place), Skyggn (exploring perception and shadow), and Næmur (exploring vulnerability and presence). These works represent an important period in Magnús Pálsson's development, documented together in the 1994 catalog.",
-      "images": [
-        {
-          "url": "images/skyggn_berdreyminn_naemur_1969/medium/berdreyminnL-medium.jpg",
-          "caption": "Berdreyminn - performance documentation",
-          "photographer": "Unknown",
-          "year": "1969",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/skyggn_berdreyminn_naemur_1969/medium/skyggnL-medium.jpg",
-          "caption": "Skyggn - exploring perception and shadow",
-          "photographer": "Unknown",
-          "year": "1969",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/skyggn_berdreyminn_naemur_1969/medium/naemurL-medium.jpg",
-          "caption": "Næmur - vulnerability and presence documentation",
-          "photographer": "Unknown",
-          "year": "1969",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/skyggn_berdreyminn_naemur_1969/medium/Bestu styki 1-medium.JPG",
-          "caption": "1969 works documentation detail 1",
-          "photographer": "Unknown",
-          "year": "1969",
-          "copyright": "© Estate of Magnús Pálsson"
-        }
-      ],
-      "tags": [
-        "sculpture",
-        "memory",
-        "perception",
-        "vulnerability",
-        "shadow",
-        "presence",
-        "1960s",
-        "trilogy"
-      ],
-      "exhibitions": [
-        {
-          "title": "Nordic Voices",
-          "venue": "Reykjavik Art Museum",
-          "year": 1987,
-          "city": "Reykjavik"
-        },
-        {
-          "title": "Body and Mind",
-          "venue": "Gallery i8",
-          "year": 1989,
-          "city": "Reykjavik"
-        },
-        {
-          "title": "Light and Shadow",
-          "venue": "Living Art Museum",
-          "year": 1993,
-          "city": "Reykjavik"
-        }
-      ],
-      "materials": [
-        "performance",
-        "photography",
-        "mixed media"
-      ],
-      "searchText": "berdreyminn skyggn næmur 1969 performance memory perception vulnerability shadow presence trilogy catalog nordic voices body mind light shadow reykjavik"
-    },
-    {
       "id": "hundljod",
       "title": "Hundljóð",
       "year": 1990,
@@ -105,112 +33,6 @@
         "text"
       ],
       "searchText": "hundljóð sound poetry voice language performance nordic arts centre helsinki"
-    },
-    {
-      "id": "master_plaster_caster",
-      "title": "Master Plaster Caster",
-      "year": 2013,
-      "description": "Sculptural installation exploring themes of reproduction, authenticity, and artistic legacy.",
-      "images": [
-        {
-          "url": "images/master-plaster-caster-2013/medium/master-plaster-caster-installation-medium.jpg",
-          "caption": "Master Plaster Caster installation view"
-        }
-      ],
-      "tags": [
-        "sculpture",
-        "installation",
-        "authenticity",
-        "reproduction"
-      ],
-      "exhibitions": [
-        {
-          "title": "Contemporary Matters",
-          "venue": "Reykjavik Art Museum",
-          "year": 2013,
-          "city": "Reykjavik"
-        }
-      ],
-      "materials": [
-        "plaster",
-        "mixed media"
-      ],
-      "searchText": "master plaster caster sculpture installation authenticity reproduction contemporary matters reykjavik"
-    },
-    {
-      "id": "augustus_my_god",
-      "title": "Augustus My God I Have It",
-      "year": 1984,
-      "description": "A groundbreaking sound poetry work that crosses boundaries between audio art, book, and performance. Created as both a recorded piece and live performance, exploring themes of discovery, revelation, and the power of language.",
-      "images": [
-        {
-          "url": "images/augustus-my-god-1984/augustus-audio.mp3",
-          "caption": "Augustus My God I Have It - audio work (MP3)"
-        },
-        {
-          "url": "images/augustus-my-god-1984/medium/augustus-book-page-medium.jpg",
-          "caption": "Book page from Augustus My God I Have It",
-          "photographer": "Archive scan",
-          "year": "1984",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/augustus-my-god-1984/medium/augustus-cd-cover-medium.jpg",
-          "caption": "CD cover design",
-          "photographer": "Archive photo",
-          "year": "1984",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/augustus-my-god-1984/medium/augustus-documentation-1-medium.jpg",
-          "caption": "Augustus My God I Have It - documentation",
-          "photographer": "Unknown",
-          "year": "1984",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/augustus-my-god-1984/medium/augustus-documentation-2-medium.jpg",
-          "caption": "Augustus My God I Have It - detail",
-          "photographer": "Unknown",
-          "year": "1984",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/augustus-my-god-1984/medium/augustus-documentation-3-medium.jpg",
-          "caption": "Augustus My God I Have It - performance documentation",
-          "photographer": "Unknown",
-          "year": "1984",
-          "copyright": "© Estate of Magnús Pálsson"
-        }
-      ],
-      "tags": [
-        "sound poetry",
-        "audio art",
-        "book",
-        "language",
-        "revelation"
-      ],
-      "exhibitions": [
-        {
-          "title": "Sound Explorations",
-          "venue": "Nordic Sound Art Festival",
-          "year": 1985,
-          "city": "Reykjavik"
-        },
-        {
-          "title": "Orðið tónlist : fjölljóðahátíð (The Word Music : Polypoetry Festival)",
-          "venue": "Smekkleysa compilation CD",
-          "year": 2006,
-          "city": "Reykjavik"
-        }
-      ],
-      "materials": [
-        "voice",
-        "audio recording",
-        "book",
-        "performance"
-      ],
-      "searchText": "augustus my god have it sound poetry audio art book performance language revelation nordic sound art festival reykjavik"
     },
     {
       "id": "yxn_2002",
@@ -265,326 +87,6 @@
         "text overlay"
       ],
       "searchText": "yxn sound video cows poetry nature boy country headphones hafnarhús sculptors union anniversary reykjavik selfoss ingólfsfjall steinþór birgisson"
-    },
-    {
-      "id": "thyrlulending",
-      "title": "Þyrlulending (Helicopter Landing)",
-      "year": 1976,
-      "description": "Conceptual work measuring anticipation and mechanical intervention, titled 'Sekúndurnar þar til Sikorskýþyrlan snertir' (The Seconds Before the Sikorsky Helicopter Touches Down). This time-based sculpture captures the moment before the Coast Guard's helicopter lands, materializing the immaterial through three plaster forms arranged in a triangle on the floor. The forms are casts of the negative space between the helicopter's wheels and the ground, with different heights indicating temporal progression - the tail wheel, which lands last, is the highest. Time is here transformed into solid matter, exploring themes of anticipation, mechanical intervention, and the transformation of temporal experience into physical form. Exhibited at the Venice Biennale in 1980 where Pálsson represented Iceland. (Source: Reykjavík Art Museum collection description and Kjarvalstaðir catalog)",
-      "images": [
-        {
-          "url": "images/thyrlulending/medium/thyrlulending_mp02_web-medium.jpg",
-          "caption": "Helicopter Landing documentation MP 02",
-          "photographer": "Unknown",
-          "year": "1976",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/thyrlulending/medium/thyrlulending-lund-2012-medium.jpg",
-          "caption": "Helicopter Lund 2012 documentation",
-          "photographer": "Unknown",
-          "year": "2012",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/thyrlulending/medium/thyrlulending_main_1976-medium.jpg",
-          "caption": "Þyrlulending main documentation",
-          "photographer": "Unknown",
-          "year": "1976",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/thyrlulending/medium/thyrlulending-documentation-medium.jpg",
-          "caption": "Additional documentation",
-          "photographer": "Unknown",
-          "year": "1976",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/thyrlulending/medium/thyrlulending_mp01a-medium.jpg",
-          "caption": "Helicopter Landing documentation MP 01a",
-          "photographer": "Unknown",
-          "year": "1976",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/thyrlulending/medium/thyrlulending_mp02-medium.jpg",
-          "caption": "Helicopter Landing documentation MP 02",
-          "photographer": "Unknown",
-          "year": "1976",
-          "copyright": "© Estate of Magnús Pálsson"
-        }
-      ],
-      "tags": [
-        "conceptual work",
-        "time-based sculpture",
-        "anticipation",
-        "mechanical intervention",
-        "installation",
-        "sculpture",
-        "negative space",
-        "positive space",
-        "materializing immaterial",
-        "aviation",
-        "technology",
-        "place",
-        "documentation",
-        "sikorski",
-        "helicopter",
-        "time",
-        "void",
-        "absence",
-        "venice biennale"
-      ],
-      "exhibitions": [],
-      "materials": [
-        "mixed media",
-        "documentation",
-        "sculpture"
-      ],
-      "searchText": "þyrlulending helicopter landing sculpture installation negative space positive space materializing immaterial void absence aviation technology place documentation sikorski mixed media magnús pálsson 1976"
-    },
-    {
-      "id": "bestu_stykkin",
-      "title": "Bestu stykkin",
-      "year": 1965,
-      "description": "Three surviving sculptures from a larger anti-art series of cloth figures called Frúöld, created in 1965 and exhibited at Magnús Pálsson's debut solo exhibition at Ásmundarsalur in 1967. Made by stuffing old cloths with paper, stiffening with glue and paint until hard, then removing the paper so the cloth figures could stand like empty skins. Created in the artist's Hvarf garage studio during 1965-1967, a converted rural space that was documented in October 1967 before being destroyed by fire. The ironic titles (allegedly suggested by Dieter Roth) were inversely related to their visual appeal - the most miserable-looking was called 'The best piece,' with titles descending in flattery as the works became more visually interesting. The Frúöld were not well received; the public called them ugly and idiotic, questioning Pálsson's sanity. In response, he gathered the remaining pieces, piled them under the stairway to SÚM exhibition space on Vatnsstígur, poured concrete over them, and let them decompose. Only three survive in the Living Art Museum collection. The work exemplifies Pálsson's anti-art philosophy - childishly simple in concept, executed without traditional artistry, and deliberately unaesthetic, challenging Icelandic art's boundaries alongside contemporaneous provocations like the rye bread pile on Skólavörðuholt and SÚM's infamous hay bale. (Source: Kjarvalstaðir catalogue, 1994)",
-      "images": [
-        {
-          "url": "images/bestu-stykkin/medium/bestu-stykkin-installation-medium.jpg",
-          "caption": "Bestu stykkin - documentation photography, 2017",
-          "photographer": "Unknown",
-          "year": "2017",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/bestu-stykkin/medium/fruold_1965-medium.jpg",
-          "caption": "Frúöld - early documentation, 1965-67",
-          "photographer": "Unknown",
-          "year": "1965",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/bestu-stykkin/medium/menchenhoopje_A_1969-medium.jpg",
-          "caption": "Menchenhoopje covered in concrete - SÚM III exhibition, 1969",
-          "photographer": "Unknown",
-          "year": "1969",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/bestu-stykkin/medium/menchenhoopje_B_gallerisúm_1969-medium.jpg",
-          "caption": "Menchenhoopje covered in concrete outside Gallery SÚM, 1969",
-          "photographer": "Unknown",
-          "year": "1969",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/bestu-stykkin/medium/bestu-stykkin-1969-medium.jpg",
-          "caption": "Bestu stykkin - original exhibition at Ásmundarsalur, 1967",
-          "photographer": "Unknown",
-          "year": "1967",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/bestu-stykkin/medium/bestu-stykkin-detail-2-medium.jpg",
-          "caption": "Bestu stykkin detail - Kjarvalstaðir 1994 retrospective exhibition",
-          "photographer": "Unknown",
-          "year": "1994",
-          "copyright": "© Estate of Magnús Pálsson"
-        }
-      ],
-      "tags": [
-        "sculpture",
-        "cloth",
-        "debut exhibition",
-        "1960s",
-        "irony",
-        "dieter roth",
-        "frúöld",
-        "ásmundarsalur",
-        "anti-art",
-        "provocation",
-        "public reaction",
-        "destruction",
-        "living art museum",
-        "SÚM",
-        "vatnsstígur"
-      ],
-      "exhibitions": [
-        {
-          "title": "Bestu stykkin",
-          "venue": "Ásmundarsalur",
-          "year": 1967,
-          "city": "Reykjavík"
-        },
-        {
-          "title": "SÚM III",
-          "venue": "Gallery SÚM",
-          "year": 1969,
-          "city": "Reykjavík"
-        },
-        {
-          "title": "Retrospective Exhibition",
-          "venue": "Reykjavík Art Museum, Kjarvalsstaðir",
-          "year": 1994,
-          "city": "Reykjavík"
-        },
-        {
-          "title": "Retrospective – Myndheimur: Eitthvað úr engu",
-          "venue": "Reykjavík Art Museum – Hafnarhús",
-          "year": 2019,
-          "city": "Reykjavík"
-        }
-      ],
-      "materials": [
-        "cloth",
-        "paper",
-        "glue",
-        "paint"
-      ],
-      "searchText": "bestu stykkin frúöld cloth figures debut solo exhibition ásmundarsalur dieter roth ironic titles empty skins anti-art provocation public reaction ugly idiotic destruction concrete SÚM vatnsstígur living art museum skólavörðuholt rye bread hay bale magnús pálsson 1967"
-    },
-    {
-      "id": "vidtol_um_daudann_2011",
-      "title": "Viðtöl um dauðann",
-      "year": 2011,
-      "description": "A profound exploration of death and mortality through conversations and interviews. This work examines how we speak about death, confront mortality, and find meaning in the face of the inevitable. The project includes documentation, texts, and collaborative elements exploring the universal human experience of confronting death.",
-      "images": [
-        {
-          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-mh2-medium.jpg",
-          "caption": "Viðtöl um dauðann - main documentation",
-          "photographer": "Unknown",
-          "year": "2011",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-mh4-main-medium.jpg",
-          "caption": "Conversations about death - installation view",
-          "photographer": "Unknown",
-          "year": "2011",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-mh4-1-medium.jpg",
-          "caption": "Documentation detail 1",
-          "photographer": "Unknown",
-          "year": "2011",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-mh4-2-medium.jpg",
-          "caption": "Documentation detail 2",
-          "photographer": "Unknown",
-          "year": "2011",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-mh4-3-medium.jpg",
-          "caption": "Documentation detail 3",
-          "photographer": "Unknown",
-          "year": "2011",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-image-2-medium.jpg",
-          "caption": "Work documentation - image 2",
-          "photographer": "Unknown",
-          "year": "2011",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-image-13-medium.jpg",
-          "caption": "Work documentation - image 13",
-          "photographer": "Unknown",
-          "year": "2011",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-image-15-medium.jpg",
-          "caption": "Work documentation - image 15",
-          "photographer": "Unknown",
-          "year": "2011",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-image-18-medium.jpg",
-          "caption": "Work documentation - image 18",
-          "photographer": "Unknown",
-          "year": "2011",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/vidtol-um-daudann-2011/vidtol-um-daudann-conversations.pdf",
-          "caption": "Conversations About Death - Læknablaðið 2005/91"
-        },
-        {
-          "url": "images/vidtol-um-daudann-2011/vidtol-um-daudann-collaborators.pdf",
-          "caption": "Collaborators list and exhibition information - Læknablaðið 2005/91"
-        }
-      ],
-      "tags": [
-        "death",
-        "mortality",
-        "conversations",
-        "interviews",
-        "philosophy",
-        "existentialism",
-        "collaboration",
-        "documentation"
-      ],
-      "exhibitions": [
-        {
-          "title": "Viðtöl um dauðann (Interviews about death)",
-          "venue": "National Gallery of Iceland",
-          "year": 2011,
-          "city": "Reykjavík"
-        }
-      ],
-      "materials": [
-        "interviews",
-        "text",
-        "documentation",
-        "mixed media"
-      ],
-      "searchText": "viðtöl um dauðann conversations death mortality interviews philosophy existentialism collaboration documentation magnús pálsson 2011"
-    },
-    {
-      "id": "draumur_hlynsins_um_fjall_1974",
-      "title": "Draumur hlynsins um fjall",
-      "year": 1974,
-      "description": "A poetic work exploring dreams, sound, and landscape. Created in collaboration with Edda Jónsdóttir in 1974, this work examines the relationship between sound, memory, and the mountain landscape through performance and documentation.",
-      "images": [
-        {
-          "url": "images/draumur-hlynsins-um-fjall-1974/medium/Hanging mountain-medium.jpg",
-          "caption": "Hanging mountain - visual documentation of Draumur hlynsins um fjall",
-          "photographer": "Unknown",
-          "year": "1974",
-          "copyright": "© Estate of Magnús Pálsson"
-        }
-      ],
-      "tags": [
-        "sculpture",
-        "negative space",
-        "positive space",
-        "materializing immaterial",
-        "dreams",
-        "sound",
-        "landscape",
-        "mountain",
-        "collaboration",
-        "1970s",
-        "poetry",
-        "void",
-        "absence"
-      ],
-      "exhibitions": [],
-      "materials": [
-        "sculpture",
-        "documentation",
-        "sound",
-        "mixed media"
-      ],
-      "searchText": "draumur hlynsins um fjall negative space positive space materializing immaterial void absence dreams sound landscape mountain collaboration edda jónsdóttir 1974 poetry magnús pálsson"
     },
     {
       "id": "100_years_war_mokka_1995",
@@ -1143,14 +645,6 @@
           "photographer": "Generated visualization",
           "year": "1994",
           "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/bref-til-djonna-1994/bref-til-djonna-preview.mp4",
-          "caption": "Audio visualization preview (1 minute excerpt)"
-        },
-        {
-          "url": "images/bref-til-djonna-1994/bref-til-djonna-1994.mp3",
-          "caption": "Complete audio recording - Letter to Djonna"
         }
       ],
       "tags": [
@@ -2478,13 +1972,6 @@
       "description": "Multi-part work featuring animals and musical notation, exhibited at Galleri Gangur in 1982. The work combines drawings and musical compositions featuring various animals: hani (cockerel), krummi (crow), hundur (dog), and svin (pig), along with birds, horses, and mice. The integration of animal imagery with musical notation suggests an exploration of sound, nature, and artistic expression across different media.",
       "images": [
         {
-          "url": "images/galleri-gangur-1982/medium/Cockerel-medium.jpg",
-          "caption": "Hani (Cockerel) - Animal drawing",
-          "photographer": "Unknown",
-          "year": "1982",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
           "url": "images/galleri-gangur-1982/medium/Crow-medium.jpg",
           "caption": "Krummi (Crow) - Animal drawing",
           "photographer": "Unknown",
@@ -2626,22 +2113,8 @@
           "copyright": "© Estate of Magnús Pálsson"
         },
         {
-          "url": "images/gapassipi-1995/Audio disc cover designed by MP.jpg",
-          "caption": "Audio disc cover designed by Magnús Pálsson - Sound component",
-          "photographer": "Unknown",
-          "year": "1995",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
           "url": "images/gapassipi-1995/medium/Invitation to exhibition Ráðhúsið 1995-medium.jpg",
           "caption": "Exhibition invitation - Ráðhúsið City Hall, September 1995",
-          "photographer": "Unknown",
-          "year": "1995",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/gapassipi-1995/Plan of Ráðhús.jpg",
-          "caption": "Plan of Ráðhús - Architectural documentation",
           "photographer": "Unknown",
           "year": "1995",
           "copyright": "© Estate of Magnús Pálsson"
@@ -2901,13 +2374,6 @@
           "photographer": "Video documentation",
           "year": "2000",
           "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/ad-juda-ser-rangsaelis-2000/ad-juda-ser-rangsaelis-preview.mp4",
-          "caption": "Performance at Iðnó - 1:30 minute preview clip",
-          "photographer": "Video documentation",
-          "year": "2000",
-          "copyright": "© Estate of Magnús Pálsson"
         }
       ],
       "collaborators": [
@@ -2971,27 +2437,6 @@
         {
           "url": "images/hattar-1969-71/medium/IMG_0199-medium.jpg",
           "caption": "Hattar series documentation 1",
-          "photographer": "Unknown",
-          "year": "1969-71",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/hattar-1969-71/IMG_0200.jpg",
-          "caption": "Hattar series documentation 2",
-          "photographer": "Unknown",
-          "year": "1969-71",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/hattar-1969-71/IMG_0201.jpg",
-          "caption": "Hattar series documentation 3",
-          "photographer": "Unknown",
-          "year": "1969-71",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/hattar-1969-71/IMG_0202.jpg",
-          "caption": "Hattar series documentation 4",
           "photographer": "Unknown",
           "year": "1969-71",
           "copyright": "© Estate of Magnús Pálsson"
@@ -3296,13 +2741,6 @@
           "photographer": "Unknown",
           "year": "1990",
           "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/hundljod-1990/medium/hundljod-documentation-medium-medium.jpg",
-          "caption": "Hundljóð 1990 detailed documentation",
-          "photographer": "Unknown",
-          "year": "1990",
-          "copyright": "© Estate of Magnús Pálsson"
         }
       ],
       "tags": [
@@ -3351,41 +2789,6 @@
         {
           "url": "images/hviskur-whisper-1975/medium/Hviskur 3 1994-medium.JPG",
           "caption": "Hvískur part 3, 1994 documentation",
-          "photographer": "Unknown",
-          "year": "1975",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/hviskur-whisper-1975/Magnús Pálsson - Hvískur III(1).pdf",
-          "caption": "Hvískur III documentation and notes",
-          "photographer": "Unknown",
-          "year": "1975",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/hviskur-whisper-1975/Magnús Pálsson Hvískur  2 1975 JAS-1 3.tif",
-          "caption": "Hvískur 2, 1975 archival documentation",
-          "photographer": "Unknown",
-          "year": "1975",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/hviskur-whisper-1975/001.tif",
-          "caption": "Hvískur documentation 001",
-          "photographer": "Unknown",
-          "year": "1975",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/hviskur-whisper-1975/002.tif",
-          "caption": "Hvískur documentation 002",
-          "photographer": "Unknown",
-          "year": "1975",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/hviskur-whisper-1975/Whisper info.pdf",
-          "caption": "Whisper work information and documentation",
           "photographer": "Unknown",
           "year": "1975",
           "copyright": "© Estate of Magnús Pálsson"
@@ -3603,57 +3006,8 @@
           "copyright": "© Estate of Magnús Pálsson"
         },
         {
-          "url": "images/jorgen-bruun-hansen-2013/Jörgen BH pencil sketch (eddic mynd) MP.jpg",
-          "caption": "Jörgen Bruun Hansen pencil sketch (eddic mynd) by Magnús Pálsson",
-          "photographer": "Unknown",
-          "year": "2013",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/jorgen-bruun-hansen-2013/Jörgen BH pencil sketch2 MP.jpg",
-          "caption": "Jörgen Bruun Hansen pencil sketch 2 by Magnús Pálsson",
-          "photographer": "Unknown",
-          "year": "2013",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
           "url": "images/jorgen-bruun-hansen-2013/medium/Murari-medium.jpg",
           "caption": "Murari documentation photograph",
-          "photographer": "Unknown",
-          "year": "2013",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/jorgen-bruun-hansen-2013/murari-preview.mp4",
-          "caption": "Murari video documentation",
-          "photographer": "Unknown",
-          "year": "2013",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/jorgen-bruun-hansen-2013/P1030574.JPG",
-          "caption": "Collaboration documentation P1030574",
-          "photographer": "Unknown",
-          "year": "2013",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/jorgen-bruun-hansen-2013/P1030575.JPG",
-          "caption": "Collaboration documentation P1030575",
-          "photographer": "Unknown",
-          "year": "2013",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/jorgen-bruun-hansen-2013/P1030576.JPG",
-          "caption": "Collaboration documentation P1030576",
-          "photographer": "Unknown",
-          "year": "2013",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/jorgen-bruun-hansen-2013/P1030578.JPG",
-          "caption": "Collaboration documentation P1030578",
           "photographer": "Unknown",
           "year": "2013",
           "copyright": "© Estate of Magnús Pálsson"
@@ -3694,41 +3048,6 @@
           "url": "images/eyetalk-augntal-1986-1998/medium/eye-talk-thumb-medium.jpg",
           "caption": "Eyetalk video still - main work documentation",
           "photographer": "Video still",
-          "year": "1986-1998",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/eyetalk-augntal-1986-1998/eye-talk-preview.mp4",
-          "caption": "Eyetalk - 1 minute preview from main video work",
-          "photographer": "Video documentation",
-          "year": "1986-1998",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/eyetalk-augntal-1986-1998/eye-talk-ii-preview.mp4",
-          "caption": "Eyetalk II - 1 minute preview from second video work",
-          "photographer": "Video documentation",
-          "year": "1986-1998",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/eyetalk-augntal-1986-1998/eye-talk-preceding-preview.mp4",
-          "caption": "Eye Talk preceding Eye Talk - 1 minute preview",
-          "photographer": "Video documentation",
-          "year": "1986-1998",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/eyetalk-augntal-1986-1998/eyetalk-talk.docx",
-          "caption": "Eyetalk artist talk documentation",
-          "photographer": "Documentation",
-          "year": "1986-1998",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/eyetalk-augntal-1986-1998/eyetalk-complete-text.docx",
-          "caption": "Eyetalk complete text documentation",
-          "photographer": "Documentation",
           "year": "1986-1998",
           "copyright": "© Estate of Magnús Pálsson"
         }
