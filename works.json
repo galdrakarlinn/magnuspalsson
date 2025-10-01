@@ -1,6 +1,120 @@
 {
   "works": [
     {
+      "id": "hviskur-2-1975-1975",
+      "title": "Hvískur 2 1975",
+      "year": 1975,
+      "description": "A work by Magnús Pálsson from 1975. This piece represents his artistic exploration during this period.",
+      "images": [
+        {
+          "url": "images/hviskur-2-1975-1975/medium/hviskur-2-1975-1975-01-medium.jpg",
+          "caption": "Hvískur - main view"
+        }
+      ],
+      "tags": [
+        "artwork",
+        "1975"
+      ],
+      "exhibitions": [],
+      "materials": [],
+      "searchText": "hvískur 2 1975 1975 magnús pálsson"
+    },
+    {
+      "id": "mp-04",
+      "title": "MP 04",
+      "year": "Unknown",
+      "description": "A work by Magnús Pálsson from Unknown. This piece represents his artistic exploration during this period.",
+      "images": [
+        {
+          "url": "images/mp-04/medium/mp-04-01-medium.jpg",
+          "caption": "MP - main view"
+        }
+      ],
+      "tags": [
+        "artwork",
+        "undated"
+      ],
+      "exhibitions": [],
+      "materials": [],
+      "searchText": "mp 04 Unknown magnús pálsson"
+    },
+    {
+      "id": "mp-08",
+      "title": "MP 08",
+      "year": "Unknown",
+      "description": "A work by Magnús Pálsson from Unknown. This piece represents his artistic exploration during this period.",
+      "images": [
+        {
+          "url": "images/mp-08/medium/mp-08-01-medium.jpg",
+          "caption": "MP - main view"
+        }
+      ],
+      "tags": [
+        "artwork",
+        "undated"
+      ],
+      "exhibitions": [],
+      "materials": [],
+      "searchText": "mp 08 Unknown magnús pálsson"
+    },
+    {
+      "id": "mp-10",
+      "title": "MP 10",
+      "year": "Unknown",
+      "description": "A work by Magnús Pálsson from Unknown. This piece represents his artistic exploration during this period.",
+      "images": [
+        {
+          "url": "images/mp-10/medium/mp-10-01-medium.jpg",
+          "caption": "MP - main view"
+        }
+      ],
+      "tags": [
+        "artwork",
+        "undated"
+      ],
+      "exhibitions": [],
+      "materials": [],
+      "searchText": "mp 10 Unknown magnús pálsson"
+    },
+    {
+      "id": "kennaraskoli-islands-model-with-dr",
+      "title": "Kennaraskóli Íslands model with DR",
+      "year": "Unknown",
+      "description": "A documentation or text-based work by Magnús Pálsson from Unknown. This work includes written materials and documentation that form part of his artistic practice.",
+      "images": [],
+      "tags": [
+        "documentation",
+        "text",
+        "undated"
+      ],
+      "exhibitions": [],
+      "materials": [
+        "text",
+        "documentation"
+      ],
+      "searchText": "kennaraskóli íslands model with dr Unknown magnús pálsson documentation text"
+    },
+    {
+      "id": "mutations-stokkbreytingar-dada-tate-hackney-empire-2005-2005",
+      "title": "Mutations Stökkbreytingar Dada TATE Hackney empire 2005",
+      "year": 2005,
+      "description": "A performance and documentation work by Magnús Pálsson from 2005. This work includes scripts, documentation, and materials from the performance or exhibition.",
+      "images": [],
+      "tags": [
+        "performance",
+        "documentation",
+        "text",
+        "2005"
+      ],
+      "exhibitions": [],
+      "materials": [
+        "performance",
+        "documentation",
+        "text"
+      ],
+      "searchText": "mutations stökkbreytingar dada tate hackney empire 2005 2005 magnús pálsson performance documentation"
+    },
+    {
       "id": "kal-5-negative-made-1966-printed-2018-1966",
       "title": "Kál 5 negative made 1966 printed 2018",
       "year": 1966,
