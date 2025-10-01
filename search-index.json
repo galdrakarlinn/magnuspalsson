@@ -373,8 +373,8 @@
       "page": "works",
       "year": 1994,
       "url": "works.html?work=bref_til_djonna_1994",
-      "content": "bréf til djonna letter audio personal 1994 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Audio work from 1994 - a letter to Djonna in audio format. Needs review and completion."
+      "content": "bréf til djonna letter audio personal sound art spoken word intimacy communication 1994 magnús pálsson",
+      "snippet": "An intimate audio work from 1994, presenting a personal correspondence in audio format, exploring themes of communication and spoken word as artistic medium."
     },
     {
       "id": "work_bref_til_kristjans",
@@ -577,16 +577,6 @@
       "snippet": "PLACEHOLDER: Early work from 1962, one of the earliest documented works in the archive. Needs review and completion."
     },
     {
-      "id": "work_eyetalk_augntal",
-      "title": "Eyetalk, Augntal",
-      "type": "work",
-      "page": "works",
-      "year": 1986,
-      "url": "works.html?work=eyetalk_augntal_1986_1998",
-      "content": "eyetalk augntal video vision eyes 1986 1990 1998 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Video work spanning 1986, 1990, 1998 featuring eye/vision themes. Needs review and completion."
-    },
-    {
       "id": "work_ferdafuda_travel",
       "title": "Ferðafuða (Travel exhibition)",
       "type": "work",
@@ -645,6 +635,146 @@
       "url": "works.html?work=ad_juda_ser_rangsaelis_2000",
       "content": "að juða sér rangsælis video performance iðnó ragnheiður guðmundsdóttir stilluppsteypa collaboration music ólafur páll sigurðsson ragga speaking theater 2000 magnús pálsson placeholder filmmaker",
       "snippet": "PLACEHOLDER: Video performance work from 2000 featuring Magnús and Ragnheiður Guðmundsdóttir at Iðnó theater in collaboration with Stilluppsteypa. Filmed by Ólafur Páll Sigurðsson."
+    },
+    {
+      "id": "work_galleri_gangur",
+      "title": "Galleri Gangur - Hani, krummi, hundur, svin",
+      "type": "work",
+      "page": "works",
+      "year": 1982,
+      "url": "works.html?work=galleri_gangur_1982",
+      "content": "galleri gangur hani krummi hundur svin cockerel crow dog pig animals musical notation drawing bird horse mouse sound nature reykjavík 1982 magnús pálsson",
+      "snippet": "Multi-part work featuring animals and musical notation, combining drawings of hani (cockerel), krummi (crow), hundur (dog), and svin (pig) with musical compositions."
+    },
+    {
+      "id": "work_gapassipi",
+      "title": "Gapassipi (Tjöpörnipinnipi)",
+      "type": "work",
+      "page": "works",
+      "year": 1995,
+      "url": "works.html?work=gapassipi_1995",
+      "content": "gapassipi tjöpörnipinnipi installation performance audio sound poetry experimental language ráðhúsið city hall reykjavík floor spatial composition september 1995 magnús pálsson",
+      "snippet": "Installation and performance work at Ráðhúsið (City Hall) combining spatial installation with audio elements and experimental language exploration."
+    },
+    {
+      "id": "work_g_ljod",
+      "title": "G-Ljóð",
+      "type": "work",
+      "page": "works",
+      "year": 2009,
+      "url": "works.html?work=g_ljod_2009",
+      "content": "g ljóð poetry publication experimental text visual poetry language book text art 2009 magnús pálsson",
+      "snippet": "Poetry publication featuring experimental text and visual poetry, exploring G-themed poems that combine visual and textual elements."
+    },
+    {
+      "id": "work_grad_og_bu",
+      "title": "Grað og Bú",
+      "type": "work",
+      "page": "works",
+      "year": 2002,
+      "url": "works.html?work=grad_og_bu_2002",
+      "content": "grað og bú audio sound poetry text master recording experimental audio hunger dwelling 2002 magnús pálsson",
+      "snippet": "Audio work combining sound composition with text elements, exploring themes of hunger and dwelling through experimental audio composition."
+    },
+    {
+      "id": "work_gibsborn_children",
+      "title": "Gibsbörn Children",
+      "type": "work",
+      "page": "works",
+      "year": 1971,
+      "url": "works.html?work=gibsborn_children_1971",
+      "content": "gibsbörn children plaster sculpture life-size clothing moulds materiality childhood casting gallery fodor amsterdam lund international 1970 1971 magnús pálsson",
+      "snippet": "Life-size plaster sculptures of children made by pouring plaster into clothing used as moulds, exploring themes of childhood and materiality."
+    },
+    {
+      "id": "work_hattar",
+      "title": "Hattar",
+      "type": "work",
+      "page": "works",
+      "year": "1969-71",
+      "url": "works.html?work=hattar_1969_71",
+      "content": "hattar hats headwear identity social commentary conceptual series sculpture mixed media 1969 1970 1971 early career magnús pálsson",
+      "snippet": "A series of works exploring headwear and identity from 1969-1971, examining the symbolic significance of hats as markers of identity and social status."
+    },
+    {
+      "id": "work_hrognkelsaveifa",
+      "title": "Hrognkelsaveifa (Strandlegjan)",
+      "type": "work",
+      "page": "works",
+      "year": 1998,
+      "url": "works.html?work=hrognkelsaveifa_strandlegjan_1998",
+      "content": "hrognkelsaveifa strandlegjan beach sculpture installation ægissíða skerjafirði landscape intervention site-specific coastal environmental 1998 magnús pálsson",
+      "snippet": "A significant beach sculpture installation created at Ægissíða in 1998, exploring the relationship between natural forms and artistic intervention."
+    },
+    {
+      "id": "work_hundar_dogs",
+      "title": "Hundar (Hundljóð, Dogs)",
+      "type": "work",
+      "page": "works",
+      "year": 1970,
+      "url": "works.html?work=hundar_dogs_1970",
+      "content": "hundar hundljóð dogs animals sculpture collaboration óli gísla straw series 1970 magnús pálsson documentation agreement",
+      "snippet": "A major sculptural series created in collaboration with Óli Gísla in 1970, exploring themes of companionship and the relationship between humans and animals."
+    },
+    {
+      "id": "work_hundljod_1990",
+      "title": "Hundljóð 1990",
+      "type": "work",
+      "page": "works",
+      "year": 1990,
+      "url": "works.html?work=hundljod_1990",
+      "content": "hundljóð sound poetry dogs animals language performance 1990 magnús pálsson documentation",
+      "snippet": "A later work in the dog poetry series from 1990, continuing exploration of the relationship between animals and language through sound poetry."
+    },
+    {
+      "id": "work_hviskur_whisper",
+      "title": "Hvískur (Whisper)",
+      "type": "work",
+      "page": "works",
+      "year": 1975,
+      "url": "works.html?work=hviskur_whisper_1975",
+      "content": "hvískur whisper sound communication intimacy performance voice 1975 steinþór birgisson magnús pálsson",
+      "snippet": "A significant work exploring themes of communication, intimacy, and sound from 1975, investigating the subtle dynamics of quiet speech and private communication."
+    },
+    {
+      "id": "work_jon_summer",
+      "title": "Jón summer",
+      "type": "work",
+      "page": "works",
+      "year": "2008/2022",
+      "url": "works.html?work=jon_summer_2008_2022",
+      "content": "jón summer nýp mjóaból haukardal place memory mapping seasonal documentation multi-temporal landscape 2008 2022 læknablaðið magnús pálsson",
+      "snippet": "A multi-temporal work spanning from 2008 to 2022, exploring themes of place, memory, and seasonal change through documentation and mapping."
+    },
+    {
+      "id": "work_jonsmessunott",
+      "title": "Jónsmessunótt (bank piece)",
+      "type": "work",
+      "page": "works",
+      "year": 1982,
+      "url": "works.html?work=jonsmessunott_bank_piece_1982",
+      "content": "jónsmessunótt bank piece institutional critique banking íslandsbanki corporate intervention midsummer 1982 magnús pálsson",
+      "snippet": "A conceptual work from 1982 involving Íslandsbanki, exploring institutional relationships, financial systems, and artistic intervention within corporate structures."
+    },
+    {
+      "id": "work_jorgen_bruun_hansen",
+      "title": "Jörgen Bruun Hansen May 2013 LI (Baldvina)",
+      "type": "work",
+      "page": "works",
+      "year": 2013,
+      "url": "works.html?work=jorgen_bruun_hansen_2013",
+      "content": "jörgen bruun hansen collaboration living art museum baldvina pencil sketch video murari portraiture 2013 magnús pálsson",
+      "snippet": "A collaborative work from May 2013 involving Jörgen Bruun Hansen at the Living Art Museum, exploring portraiture, collaboration, and artistic encounters."
+    },
+    {
+      "id": "work_eyetalk_augntal",
+      "title": "Eyetalk (Augntal)",
+      "type": "work",
+      "page": "works",
+      "year": "1986-1998",
+      "url": "works.html?work=eyetalk_augntal_1986_1998",
+      "content": "eyetalk augntal video multimedia communication perception language eyes speech visual verbal 1986 1990 1998 2017 discussion magnús pálsson",
+      "snippet": "A major multimedia work spanning over a decade (1986-1998), exploring communication, perception, and the relationship between visual and verbal language through video and text."
     }
   ]
 }

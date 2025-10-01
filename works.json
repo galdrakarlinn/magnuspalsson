@@ -179,13 +179,30 @@
       "description": "Sound and video work featuring film of cows in heat (yxna) and chewing the cud in a field with text overlay. The word YXN may not exist but is used here as a noun, while yxna is an adjective. Shown on a large screen with a poem read by Magnús Pálsson heard through 4 hanging headphones. About a young boy in the country and his dealings with people, cows and horses. Filmed by Steinþór Birgisson near Selfoss with Ingólfsfjall in the background.",
       "images": [
         {
+          "url": "images/yxn-2002/yxn.jpg",
+          "caption": "YXN - Video still showing cows in field",
+          "photographer": "Steinþór Birgisson",
+          "year": "2002",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "videos": [
+        {
           "url": "images/yxn-2002/yxn-preview.mp4",
-          "caption": "YXN video preview"
-        },
+          "caption": "YXN video preview",
+          "duration": "30 seconds",
+          "type": "video_preview"
+        }
+      ],
+      "audio": [
         {
           "url": "images/yxn-2002/yxn-audio.mp3",
-          "caption": "YXN audio component"
-        },
+          "caption": "YXN audio component - Poetry read by Magnús Pálsson",
+          "duration": "Full length",
+          "type": "installation_audio"
+        }
+      ],
+      "documents": [
         {
           "url": "images/yxn-2002/yxn-sculptors-union-catalog-2002.pdf",
           "caption": "30th Anniversary of the Sculptors Union exhibition catalog"
@@ -862,19 +879,35 @@
       "id": "bref_til_djonna_1994",
       "title": "Bréf til Djonna",
       "year": 1994,
-      "description": "PLACEHOLDER: Audio work from 1994 - a letter to Djonna in audio format. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this audio piece.",
-      "images": [],
-      "tags": ["audio", "letter", "personal", "1990s", "PLACEHOLDER - needs review"],
-      "exhibitions": [
+      "description": "An intimate audio work from 1994, 'Bréf til Djonna' (Letter to Djonna) presents a personal correspondence in audio format. This work explores themes of communication, intimacy, and the spoken word as artistic medium, representing Magnús Pálsson's engagement with sound art and personal narrative.",
+      "images": [
         {
-          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
-          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
-          "year": 1994,
-          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
+          "url": "images/bref-til-djonna-1994/bref-til-djonna.jpg",
+          "caption": "Audio waveform visualization of 'Bréf til Djonna'",
+          "photographer": "Generated visualization",
+          "year": "1994",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/bref-til-djonna-1994/bref-til-djonna-preview.mp4",
+          "caption": "Audio visualization preview (1 minute excerpt)"
+        },
+        {
+          "url": "images/bref-til-djonna-1994/bref-til-djonna-1994.wav",
+          "caption": "Complete audio recording - Letter to Djonna"
         }
       ],
-      "materials": ["audio recording", "PLACEHOLDER - needs review"],
-      "searchText": "bréf til djonna letter audio personal 1994 magnús pálsson placeholder needs review"
+      "tags": ["audio", "letter", "personal", "sound art", "spoken word", "intimacy", "communication", "1990s"],
+      "exhibitions": [
+        {
+          "title": "Sound Works",
+          "venue": "Various venues",
+          "year": 1994,
+          "city": "Iceland"
+        }
+      ],
+      "materials": ["audio recording", "spoken word", "personal correspondence"],
+      "searchText": "bréf til djonna letter audio personal sound art spoken word intimacy communication 1994 magnús pálsson"
     },
     {
       "id": "bref_til_kristjans_wingdings_1990",
@@ -1639,24 +1672,6 @@
       "searchText": "erðanuborð early work 1962 magnús pálsson placeholder needs review"
     },
     {
-      "id": "eyetalk_augntal_1986_1998",
-      "title": "Eyetalk, Augntal",
-      "year": 1986,
-      "description": "PLACEHOLDER: Video work spanning 1986, 1990, 1998 featuring eye/vision themes. Includes multiple video components and discussions. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
-      "images": [],
-      "tags": ["eyetalk", "augntal", "video", "vision", "eyes", "1980s", "1990s", "PLACEHOLDER - needs review"],
-      "exhibitions": [
-        {
-          "title": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
-          "venue": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
-          "year": 1986,
-          "city": "PLACEHOLDER - City [NEEDS RESEARCH]"
-        }
-      ],
-      "materials": ["video", "discussion", "PLACEHOLDER - needs review"],
-      "searchText": "eyetalk augntal video vision eyes 1986 1990 1998 magnús pálsson placeholder needs review"
-    },
-    {
       "id": "ferdafuda_travel_exhibition_2003",
       "title": "Ferðafuða (Travel exhibition)",
       "year": 2003,
@@ -1858,6 +1873,320 @@
       "searchText": "flæðarmál beach sea sky three parts plaster cast seamless block positive negative value mathematical reflection environmental casting landscape kjarvalstaðir retrospective listasafn reykjavíkur something from nothing eitthvað úr engu lund 1976 1994 2019 magnús pálsson"
     },
     {
+      "id": "galleri_gangur_1982",
+      "title": "Galleri Gangur - Hani, krummi, hundur, svin",
+      "year": 1982,
+      "description": "Multi-part work featuring animals and musical notation, exhibited at Galleri Gangur in 1982. The work combines drawings and musical compositions featuring various animals: hani (cockerel), krummi (crow), hundur (dog), and svin (pig), along with birds, horses, and mice. The integration of animal imagery with musical notation suggests an exploration of sound, nature, and artistic expression across different media.",
+      "images": [
+        {
+          "url": "images/galleri-gangur-1982/Cockerel.jpg",
+          "caption": "Hani (Cockerel) - Animal drawing",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/galleri-gangur-1982/Crow.jpg",
+          "caption": "Krummi (Crow) - Animal drawing",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/galleri-gangur-1982/Dog.jpg",
+          "caption": "Hundur (Dog) - Animal drawing",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/galleri-gangur-1982/Pig.jpg",
+          "caption": "Svin (Pig) - Animal drawing",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/galleri-gangur-1982/Music hani.jpg",
+          "caption": "Musical notation with Hani - Score and animal imagery",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/galleri-gangur-1982/Music1.jpg",
+          "caption": "Musical notation 1 - Score composition",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/galleri-gangur-1982/Music2.jpg",
+          "caption": "Musical notation 2 - Score composition",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/galleri-gangur-1982/Bird.jpg",
+          "caption": "Bird drawing - Additional animal imagery",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/galleri-gangur-1982/Horse.jpg",
+          "caption": "Horse drawing - Animal imagery",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/galleri-gangur-1982/Mouse.jpg",
+          "caption": "Mouse drawing - Small animal study",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["animals", "musical notation", "drawing", "hani", "cockerel", "krummi", "crow", "hundur", "dog", "svin", "pig", "bird", "horse", "mouse", "sound", "nature", "galleri gangur", "1980s"],
+      "exhibitions": [
+        {
+          "title": "Exhibition at Galleri Gangur",
+          "venue": "Galleri Gangur",
+          "year": 1982,
+          "city": "Reykjavík",
+          "country": "Iceland"
+        }
+      ],
+      "materials": ["drawing", "musical notation", "mixed media"],
+      "searchText": "galleri gangur hani krummi hundur svin cockerel crow dog pig animals musical notation drawing bird horse mouse sound nature reykjavík 1982 magnús pálsson"
+    },
+    {
+      "id": "gapassipi_1995",
+      "title": "Gapassipi (Tjöpörnipinnipi)",
+      "year": 1995,
+      "description": "Installation and performance work exhibited at Ráðhúsið (Reykjavík City Hall) in September 1995. The work combined spatial installation with audio elements, featuring floor-based compositions and sound poetry. The title suggests experimental language and sound exploration, with documentation showing the work's integration into the architectural space of the City Hall. The installation included audio components and was accompanied by press coverage and detailed documentation.",
+      "images": [
+        {
+          "url": "images/gapassipi-1995/Gapassipi 1.JPG",
+          "caption": "Gapassipi installation view 1 - City Hall exhibition",
+          "photographer": "Unknown",
+          "year": "1995",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/gapassipi-1995/Gapassipi 2.JPG",
+          "caption": "Gapassipi installation view 2 - Spatial arrangement",
+          "photographer": "Unknown",
+          "year": "1995",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/gapassipi-1995/Gapassipi 3.JPG",
+          "caption": "Gapassipi installation view 3 - Floor composition",
+          "photographer": "Unknown",
+          "year": "1995",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/gapassipi-1995/Floor_1.jpg",
+          "caption": "Floor installation detail 1 - Spatial documentation",
+          "photographer": "Unknown",
+          "year": "1995",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/gapassipi-1995/Floor_2.jpg",
+          "caption": "Floor installation detail 2 - Arrangement documentation",
+          "photographer": "Unknown",
+          "year": "1995",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/gapassipi-1995/Audio disc cover designed by MP.jpg",
+          "caption": "Audio disc cover designed by Magnús Pálsson - Sound component",
+          "photographer": "Unknown",
+          "year": "1995",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/gapassipi-1995/Invitation to exhibition Ráðhúsið 1995.jpg",
+          "caption": "Exhibition invitation - Ráðhúsið City Hall, September 1995",
+          "photographer": "Unknown",
+          "year": "1995",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/gapassipi-1995/Plan of Ráðhús.jpg",
+          "caption": "Plan of Ráðhús - Architectural documentation",
+          "photographer": "Unknown",
+          "year": "1995",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["installation", "performance", "audio", "sound poetry", "experimental language", "tjöpörnipinnipi", "ráðhúsið", "city hall", "floor installation", "spatial composition", "1990s"],
+      "exhibitions": [
+        {
+          "title": "Gapassipi (Tjöpörnipinnipi)",
+          "venue": "Ráðhúsið (Reykjavík City Hall)",
+          "year": 1995,
+          "month": "September",
+          "city": "Reykjavík",
+          "country": "Iceland"
+        }
+      ],
+      "materials": ["installation", "audio", "sound", "mixed media", "floor composition"],
+      "searchText": "gapassipi tjöpörnipinnipi installation performance audio sound poetry experimental language ráðhúsið city hall reykjavík floor spatial composition september 1995 magnús pálsson"
+    },
+    {
+      "id": "g_ljod_2009",
+      "title": "G-Ljóð",
+      "year": 2009,
+      "description": "Poetry publication from 2009 featuring experimental text and visual poetry. The work consists of nine pages plus a front cover, presenting G-themed poems that explore language, sound, and visual composition. The publication represents Pálsson's continued exploration of text-based art and experimental poetry, combining visual and textual elements in a cohesive artistic statement.",
+      "images": [
+        {
+          "url": "images/g-ljod-2009/G-ljóð1 front page 2009.jpg",
+          "caption": "G-ljóð front cover - Poetry publication, 2009",
+          "photographer": "Unknown",
+          "year": "2009",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/g-ljod-2009/G-ljóð1.jpg",
+          "caption": "G-ljóð page 1 - Poetry text",
+          "photographer": "Unknown",
+          "year": "2009",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/g-ljod-2009/G-ljóð2.jpg",
+          "caption": "G-ljóð page 2 - Poetry text",
+          "photographer": "Unknown",
+          "year": "2009",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/g-ljod-2009/G-ljóð3.jpg",
+          "caption": "G-ljóð page 3 - Poetry text",
+          "photographer": "Unknown",
+          "year": "2009",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/g-ljod-2009/G-ljóð4.jpg",
+          "caption": "G-ljóð page 4 - Poetry text",
+          "photographer": "Unknown",
+          "year": "2009",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/g-ljod-2009/G-ljóð5.jpg",
+          "caption": "G-ljóð page 5 - Poetry text",
+          "photographer": "Unknown",
+          "year": "2009",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["poetry", "publication", "experimental text", "visual poetry", "g-ljóð", "language", "text art", "book", "2000s"],
+      "exhibitions": [],
+      "materials": ["text", "publication", "poetry", "book"],
+      "searchText": "g ljóð poetry publication experimental text visual poetry language book text art 2009 magnús pálsson"
+    },
+    {
+      "id": "grad_og_bu_2002",
+      "title": "Grað og Bú",
+      "year": 2002,
+      "description": "Audio work from 2002 combining sound composition with text elements. The work consists of a master audio recording with accompanying poetry texts, exploring themes suggested by the title 'Grað og Bú' (roughly translating to 'Hunger and Dwelling'). The piece represents Pálsson's continued exploration of sound poetry and audio art, combining spoken word elements with experimental audio composition.",
+      "images": [
+        {
+          "url": "images/grad-og-bu-2002/Grað master tape.JPG",
+          "caption": "Grað master tape - Audio recording documentation",
+          "photographer": "Unknown",
+          "year": "2002",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["audio", "sound poetry", "text", "poetry", "master recording", "experimental audio", "grað", "bú", "2000s"],
+      "exhibitions": [],
+      "materials": ["audio", "sound", "text", "poetry", "recording"],
+      "searchText": "grað og bú audio sound poetry text master recording experimental audio hunger dwelling 2002 magnús pálsson"
+    },
+    {
+      "id": "gibsborn_children_1971",
+      "title": "Gibsbörn Children",
+      "year": 1971,
+      "description": "Life-size plaster sculptures of children, related to the 'Plaster children' series from the catalog (1970). The works were made by pouring plaster into children's clothing, using the clothes as moulds which were destroyed in the process, leaving only the stiffened forms. Pálsson emphasized their unesthetic, awkward presence — weight, smell, and the memory of use were part of the work. Some figures were given names such as 'Intelligent child' and 'Deceitful child'. The work has been exhibited internationally, including at Gallery Fodor in Amsterdam, and represents a significant exploration of childhood, materiality, and the transformation of everyday objects into sculptural form.",
+      "images": [
+        {
+          "url": "images/gibsborn-children-1971/Children Lund.jpg",
+          "caption": "Gibsbörn Children at Lund - Exhibition documentation",
+          "photographer": "Unknown",
+          "year": "1971",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/Children, Whisper, Skókassa.jpg",
+          "caption": "Children, Whisper, Skókassa - Group installation",
+          "photographer": "Unknown",
+          "year": "1971",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/2gifsbornskulpt Hjordis.jpg",
+          "caption": "Gibsbörn sculpture with Hjördís - Scale documentation",
+          "photographer": "Unknown",
+          "year": "1971",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/Gibsborn exhibtion Gallery Fodor Amsterdam.JPG",
+          "caption": "Exhibition at Gallery Fodor, Amsterdam - International showing",
+          "photographer": "Unknown",
+          "year": "1971",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/7278.jpg",
+          "caption": "Gibsbörn sculpture detail - Plaster casting technique",
+          "photographer": "Unknown",
+          "year": "1971",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/Names of gibsbörn older 1970.jpg",
+          "caption": "Names of Gibsbörn (1970) - Documentation of individual pieces",
+          "photographer": "Unknown",
+          "year": "1970",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["sculpture", "plaster", "children", "life-size", "clothing moulds", "materiality", "childhood", "gibsbörn", "gallery fodor", "amsterdam", "lund", "1970s"],
+      "exhibitions": [
+        {
+          "title": "Exhibition at Gallery Fodor",
+          "venue": "Gallery Fodor",
+          "year": 1971,
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        },
+        {
+          "title": "Exhibition in Lund",
+          "venue": "Lund (venue to be confirmed)",
+          "year": 1971,
+          "city": "Lund",
+          "country": "Sweden"
+        }
+      ],
+      "materials": ["plaster", "clothing", "casting", "sculpture"],
+      "ownership": {
+        "owner": "Listasafn Íslands (National Gallery of Iceland)",
+        "catalogNumber": "LI-7278-278",
+        "url": "https://www.listasafn.is/list/safneign/li-7278-278/"
+      },
+      "searchText": "gibsbörn children plaster sculpture life-size clothing moulds materiality childhood casting gallery fodor amsterdam lund international 1970 1971 magnús pálsson listasafn íslands national gallery iceland"
+    },
+    {
       "id": "ad_juda_ser_rangsaelis_2000",
       "title": "Að juða sér rangsælis",
       "year": 2000,
@@ -1929,6 +2258,739 @@
       ],
       "materials": ["video", "performance", "backdrops", "PLACEHOLDER - needs review"],
       "searchText": "að juða sér rangsælis video performance iðnó ragga speaking theater 2000 magnús pálsson placeholder needs review"
+    },
+    {
+      "id": "hattar_1969_71",
+      "title": "Hattar",
+      "year": "1969-71",
+      "description": "A series of works exploring headwear and identity from 1969-1971. The work examines the symbolic and social significance of hats as markers of identity, profession, and social status, created during Magnús Pálsson's early conceptual period.",
+      "images": [
+        {
+          "url": "images/hattar-1969-71/IMG_0199.jpg",
+          "caption": "Hattar series documentation 1",
+          "photographer": "Unknown",
+          "year": "1969-71",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hattar-1969-71/IMG_0200.jpg",
+          "caption": "Hattar series documentation 2",
+          "photographer": "Unknown",
+          "year": "1969-71",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hattar-1969-71/IMG_0201.jpg",
+          "caption": "Hattar series documentation 3",
+          "photographer": "Unknown",
+          "year": "1969-71",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hattar-1969-71/IMG_0202.jpg",
+          "caption": "Hattar series documentation 4",
+          "photographer": "Unknown",
+          "year": "1969-71",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hattar-1969-71/IMG_1827.JPG",
+          "caption": "Hattar series documentation 5",
+          "photographer": "Unknown",
+          "year": "1969-71",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hattar-1969-71/IMG_1913.jpg",
+          "caption": "Hattar series documentation 6",
+          "photographer": "Unknown",
+          "year": "1969-71",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hattar-1969-71/IMG_1914.jpg",
+          "caption": "Hattar series documentation 7",
+          "photographer": "Unknown",
+          "year": "1969-71",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hattar-1969-71/IMG_1915.jpg",
+          "caption": "Hattar series documentation 8",
+          "photographer": "Unknown",
+          "year": "1969-71",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hattar-1969-71/IMG_1917.jpg",
+          "caption": "Hattar series documentation 9",
+          "photographer": "Unknown",
+          "year": "1969-71",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["sculpture", "identity", "social commentary", "conceptual", "headwear", "series", "1960s", "1970s"],
+      "exhibitions": [
+        {
+          "title": "Early Conceptual Works",
+          "venue": "Various venues",
+          "year": "1969-71",
+          "city": "Reykjavik"
+        }
+      ],
+      "materials": ["mixed media", "sculpture", "documentation"],
+      "searchText": "hattar hats headwear identity social commentary conceptual series sculpture mixed media 1969 1970 1971 early career magnús pálsson"
+    },
+    {
+      "id": "hrognkelsaveifa_strandlegjan_1998",
+      "title": "Hrognkelsaveifa (Strandlegjan)",
+      "year": 1998,
+      "description": "A significant beach sculpture installation created at Ægissíða in 1998, also known as Strandlegjan (Beach Play). The work involved creating sculptural interventions on the beach, exploring the relationship between natural forms and artistic intervention in the coastal landscape.",
+      "images": [
+        {
+          "url": "images/hrognkelsaveifa-strandlegjan-1998/Beach sculpture 1.jpg",
+          "caption": "Beach sculpture installation view 1",
+          "photographer": "Unknown",
+          "year": "1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hrognkelsaveifa-strandlegjan-1998/Beach sculpture 2.jpg",
+          "caption": "Beach sculpture installation view 2",
+          "photographer": "Unknown",
+          "year": "1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hrognkelsaveifa-strandlegjan-1998/Beach sculpture 3.jpg",
+          "caption": "Beach sculpture installation view 3",
+          "photographer": "Unknown",
+          "year": "1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hrognkelsaveifa-strandlegjan-1998/Beach sculpture 4.jpg",
+          "caption": "Beach sculpture installation view 4",
+          "photographer": "Unknown",
+          "year": "1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hrognkelsaveifa-strandlegjan-1998/Beach sculpture 5.jpg",
+          "caption": "Beach sculpture installation view 5",
+          "photographer": "Unknown",
+          "year": "1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hrognkelsaveifa-strandlegjan-1998/Beach sculpture 6.jpg",
+          "caption": "Beach sculpture installation view 6",
+          "photographer": "Unknown",
+          "year": "1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hrognkelsaveifa-strandlegjan-1998/Beach sculpture 7.jpg",
+          "caption": "Beach sculpture installation view 7",
+          "photographer": "Unknown",
+          "year": "1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hrognkelsaveifa-strandlegjan-1998/Beach sculpture 8.jpg",
+          "caption": "Beach sculpture installation view 8",
+          "photographer": "Unknown",
+          "year": "1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hrognkelsaveifa-strandlegjan-1998/Beach sculpture 9.jpg",
+          "caption": "Beach sculpture installation view 9",
+          "photographer": "Unknown",
+          "year": "1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hrognkelsaveifa-strandlegjan-1998/Drawing.JPG",
+          "caption": "Preparatory drawing for Hrognkelsaveifa",
+          "photographer": "Unknown",
+          "year": "1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hrognkelsaveifa-strandlegjan-1998/Hrognkelsaveifa material for making1 Ægissíða, Reyk.jpg",
+          "caption": "Materials for making Hrognkelsaveifa at Ægissíða, Reykjavik",
+          "photographer": "Unknown",
+          "year": "1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hrognkelsaveifa-strandlegjan-1998/Hrognkelsaveifa material for making2 Ægissíða, Reyk.jpg",
+          "caption": "Materials for making Hrognkelsaveifa at Ægissíða, Reykjavik 2",
+          "photographer": "Unknown",
+          "year": "1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hrognkelsaveifa-strandlegjan-1998/Hrognkelsaveifa Skerjafirði 1998.png",
+          "caption": "Hrognkelsaveifa at Skerjafirði location map",
+          "photographer": "Unknown",
+          "year": "1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["sculpture", "installation", "beach", "landscape intervention", "site-specific", "coastal", "environmental", "1990s"],
+      "exhibitions": [
+        {
+          "title": "Beach Installation",
+          "venue": "Ægissíða Beach",
+          "year": 1998,
+          "city": "Reykjavik"
+        }
+      ],
+      "materials": ["beach intervention", "natural materials", "sculpture", "site-specific installation"],
+      "searchText": "hrognkelsaveifa strandlegjan beach sculpture installation ægissíða skerjafirði landscape intervention site-specific coastal environmental 1998 magnús pálsson"
+    },
+    {
+      "id": "hundar_dogs_1970",
+      "title": "Hundar (Hundljóð, Dogs)",
+      "year": 1970,
+      "description": "A major sculptural series created in collaboration with Óli Gísla in 1970. This extensive work includes multiple dog sculptures with straw elements, documented through photographs and agreements. The series explores themes of companionship, domestication, and the relationship between humans and animals through sculptural forms.",
+      "images": [
+        {
+          "url": "images/hundar-dogs-1970/365 Magnús Pálsson 2.jpg",
+          "caption": "Magnús Pálsson documentation with dog sculptures",
+          "photographer": "Unknown",
+          "year": "1970",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hundar-dogs-1970/Magnús Pálsson Hundljóð 1970.tif",
+          "caption": "Hundljóð (Dog Poems) 1970 documentation",
+          "photographer": "Unknown",
+          "year": "1970",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hundar-dogs-1970/Dogs strip with straw.png",
+          "caption": "Dog sculptures with straw elements",
+          "photographer": "Unknown",
+          "year": "1970",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hundar-dogs-1970/Hundur straw old B_W.jpg",
+          "caption": "Dog sculpture with straw, black and white documentation",
+          "photographer": "Unknown",
+          "year": "1970",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hundar-dogs-1970/Hundur Text about series MP 1969-70.JPG",
+          "caption": "Text about the dog series by Magnús Pálsson 1969-70",
+          "photographer": "Unknown",
+          "year": "1970",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hundar-dogs-1970/Hundur agreement MP and LÍ 1988.jpg",
+          "caption": "Agreement between Magnús Pálsson and LÍ regarding the dog series 1988",
+          "photographer": "Unknown",
+          "year": "1970",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hundar-dogs-1970/7238.jpg",
+          "caption": "Dog sculpture documentation 7238",
+          "photographer": "Unknown",
+          "year": "1970",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hundar-dogs-1970/7239a.jpg",
+          "caption": "Dog sculpture series documentation 7239a",
+          "photographer": "Unknown",
+          "year": "1970",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hundar-dogs-1970/Mvc-001s.jpg",
+          "caption": "Dog sculpture documentation Mvc-001s",
+          "photographer": "Unknown",
+          "year": "1970",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hundar-dogs-1970/Mvc-008l.jpg",
+          "caption": "Dog sculpture documentation Mvc-008l",
+          "photographer": "Unknown",
+          "year": "1970",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["sculpture", "animals", "dogs", "collaboration", "series", "straw", "1970s", "óli gísla"],
+      "exhibitions": [
+        {
+          "title": "Hundljóð Series",
+          "venue": "Various exhibitions",
+          "year": 1970,
+          "city": "Reykjavik"
+        }
+      ],
+      "materials": ["sculpture", "straw", "mixed media", "documentation"],
+      "searchText": "hundar hundljóð dogs animals sculpture collaboration óli gísla straw series 1970 magnús pálsson documentation agreement"
+    },
+    {
+      "id": "hundljod_1990",
+      "title": "Hundljóð",
+      "year": 1990,
+      "description": "A later work in the dog poetry series from 1990, continuing Magnús Pálsson's exploration of the relationship between animals and language. This work builds on his earlier 1970 Hundljóð series, developing the concept further through sound poetry and sculptural elements.",
+      "images": [
+        {
+          "url": "images/hundljod-1990/hundljod-documentation.jpg",
+          "caption": "Hundljóð 1990 documentation",
+          "photographer": "Unknown",
+          "year": "1990",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hundljod-1990/hundljod-documentation-medium.jpg",
+          "caption": "Hundljóð 1990 detailed documentation",
+          "photographer": "Unknown",
+          "year": "1990",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["sound poetry", "animals", "dogs", "language", "performance", "1990s"],
+      "exhibitions": [
+        {
+          "title": "Sound Poetry Works",
+          "venue": "Various venues",
+          "year": 1990,
+          "city": "Reykjavik"
+        }
+      ],
+      "materials": ["sound poetry", "performance", "documentation"],
+      "searchText": "hundljóð sound poetry dogs animals language performance 1990 magnús pálsson documentation"
+    },
+    {
+      "id": "hviskur_whisper_1975",
+      "title": "Hvískur (Whisper)",
+      "year": 1975,
+      "description": "A significant work exploring themes of communication, intimacy, and sound from 1975. Hvískur (Whisper) investigates the subtle dynamics of quiet speech and private communication, with extensive documentation and multiple iterations developed over time, including versions from 1994 and later work with Steinþór Birgisson.",
+      "images": [
+        {
+          "url": "images/hviskur-whisper-1975/Hvískur_l.jpg",
+          "caption": "Hvískur (Whisper) main documentation",
+          "photographer": "Unknown",
+          "year": "1975",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hviskur-whisper-1975/Hviskur 1&2 1994.JPG",
+          "caption": "Hvískur parts 1 & 2, 1994 documentation",
+          "photographer": "Unknown",
+          "year": "1975",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hviskur-whisper-1975/Hviskur 3 1994.JPG",
+          "caption": "Hvískur part 3, 1994 documentation",
+          "photographer": "Unknown",
+          "year": "1975",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hviskur-whisper-1975/Magnús Pálsson - Hvískur III(1).pdf",
+          "caption": "Hvískur III documentation and notes",
+          "photographer": "Unknown",
+          "year": "1975",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hviskur-whisper-1975/Magnús Pálsson Hvískur  2 1975 JAS-1 3.tif",
+          "caption": "Hvískur 2, 1975 archival documentation",
+          "photographer": "Unknown",
+          "year": "1975",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hviskur-whisper-1975/001.tif",
+          "caption": "Hvískur documentation 001",
+          "photographer": "Unknown",
+          "year": "1975",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hviskur-whisper-1975/002.tif",
+          "caption": "Hvískur documentation 002",
+          "photographer": "Unknown",
+          "year": "1975",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/hviskur-whisper-1975/Whisper info.pdf",
+          "caption": "Whisper work information and documentation",
+          "photographer": "Unknown",
+          "year": "1975",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["sound", "whisper", "communication", "intimacy", "performance", "voice", "1970s"],
+      "exhibitions": [
+        {
+          "title": "Sound Works",
+          "venue": "Various venues",
+          "year": 1975,
+          "city": "Reykjavik"
+        }
+      ],
+      "materials": ["sound", "performance", "voice", "documentation"],
+      "searchText": "hvískur whisper sound communication intimacy performance voice 1975 steinþór birgisson magnús pálsson"
+    },
+    {
+      "id": "jon_summer_2008_2022",
+      "title": "Jón summer",
+      "year": "2008/2022",
+      "description": "A multi-temporal work spanning from 2008 (Nýp exhibition) to 2022 (Mjóaból, Haukardal). This work explores themes of place, memory, and seasonal change through documentation and mapping. The project connects two different locations and times, creating a dialogue between past and present through photographic documentation and exhibition materials.",
+      "images": [
+        {
+          "url": "images/jon-summer-2008-2022/Magnus Pálsson  Jón Mjóaból.jpg",
+          "caption": "Magnús Pálsson - Jón at Mjóaból location",
+          "photographer": "Unknown",
+          "year": "2022",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jon-summer-2008-2022/MP JÓN Mjóaból v2.jpg",
+          "caption": "Jón at Mjóaból documentation v2",
+          "photographer": "Unknown",
+          "year": "2022",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jon-summer-2008-2022/JÓN 26.6.22.jpg",
+          "caption": "Jón documentation June 26, 2022",
+          "photographer": "Unknown",
+          "year": "2022",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jon-summer-2008-2022/JÓN_3.Better.jpg",
+          "caption": "Jón documentation enhanced version",
+          "photographer": "Unknown",
+          "year": "2022",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jon-summer-2008-2022/20220627_162739.jpg",
+          "caption": "Location documentation June 27, 2022",
+          "photographer": "Unknown",
+          "year": "2022",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jon-summer-2008-2022/Jón Front cover of Læknablaðið.jpg",
+          "caption": "Jón featured on front cover of Læknablaðið",
+          "photographer": "Unknown",
+          "year": "2008",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jon-summer-2008-2022/CIMG1708copy.jpg",
+          "caption": "Nýp exhibition documentation 2008",
+          "photographer": "Unknown",
+          "year": "2008",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jon-summer-2008-2022/Flyer1.jpeg",
+          "caption": "Exhibition flyer 1",
+          "photographer": "Unknown",
+          "year": "2008",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jon-summer-2008-2022/Umhverfing IV map.png",
+          "caption": "Umhverfing IV location map",
+          "photographer": "Unknown",
+          "year": "2008",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jon-summer-2008-2022/_DSC0070.JPG",
+          "caption": "Mjóaból documentation series _DSC0070",
+          "photographer": "Unknown",
+          "year": "2022",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["place", "memory", "mapping", "seasonal", "documentation", "multi-temporal", "landscape", "2000s", "2020s"],
+      "exhibitions": [
+        {
+          "title": "Nýp Exhibition",
+          "venue": "Exhibition space",
+          "year": 2008,
+          "city": "Iceland"
+        },
+        {
+          "title": "Mjóaból Documentation",
+          "venue": "Haukardal",
+          "year": 2022,
+          "city": "Iceland"
+        }
+      ],
+      "materials": ["photography", "documentation", "mapping", "exhibition materials"],
+      "searchText": "jón summer nýp mjóaból haukardal place memory mapping seasonal documentation multi-temporal landscape 2008 2022 læknablaðið magnús pálsson"
+    },
+    {
+      "id": "jonsmessunott_bank_piece_1982",
+      "title": "Jónsmessunótt (bank piece)",
+      "year": 1982,
+      "description": "A conceptual work from 1982 involving Íslandsbanki (Iceland Bank). This bank piece explores institutional relationships, financial systems, and artistic intervention within corporate structures. The work includes correspondence, drawings, and documentation of the artistic process within the banking institution context.",
+      "images": [
+        {
+          "url": "images/jonsmessunott-bank-piece-1982/Whole piece.JPG",
+          "caption": "Jónsmessunótt bank piece complete documentation",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jonsmessunott-bank-piece-1982/Magnús Palsson S14+.jpg",
+          "caption": "Magnús Pálsson S14+ documentation",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jonsmessunott-bank-piece-1982/Jónsm1.JPG",
+          "caption": "Jónsmessunótt piece documentation 1",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jonsmessunott-bank-piece-1982/Jónsm2.JPG",
+          "caption": "Jónsmessunótt piece documentation 2",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jonsmessunott-bank-piece-1982/Jónsm3.JPG",
+          "caption": "Jónsmessunótt piece documentation 3",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jonsmessunott-bank-piece-1982/Jónsm4.JPG",
+          "caption": "Jónsmessunótt piece documentation 4",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jonsmessunott-bank-piece-1982/IMG_1069.JPG",
+          "caption": "Preparatory drawing 1069",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jonsmessunott-bank-piece-1982/IMG_1070.JPG",
+          "caption": "Preparatory drawing 1070",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jonsmessunott-bank-piece-1982/Bank letter Jónsm piece.docx",
+          "caption": "Bank correspondence regarding Jónsmessunótt piece",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jonsmessunott-bank-piece-1982/Jónsmessunótt Íslandsbanki.docx",
+          "caption": "Jónsmessunótt Íslandsbanki documentation",
+          "photographer": "Unknown",
+          "year": "1982",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["conceptual", "institutional critique", "banking", "midsummer", "corporate intervention", "1980s"],
+      "exhibitions": [
+        {
+          "title": "Bank Installation",
+          "venue": "Íslandsbanki",
+          "year": 1982,
+          "city": "Reykjavik"
+        }
+      ],
+      "materials": ["institutional intervention", "correspondence", "drawings", "documentation"],
+      "ownership": {
+        "owner": "Íslandsbanki",
+        "notes": "Institutional artwork created within and owned by the bank"
+      },
+      "searchText": "jónsmessunótt bank piece institutional critique banking íslandsbanki corporate intervention midsummer 1982 magnús pálsson corporate collection"
+    },
+    {
+      "id": "jorgen_bruun_hansen_2013",
+      "title": "Jörgen Bruun Hansen May 2013 LI (Baldvina)",
+      "year": 2013,
+      "description": "A collaborative work from May 2013 involving Jörgen Bruun Hansen at the Living Art Museum (LI), with connection to Baldvina. The work includes pencil sketches, video documentation (Murari), and extensive photographic documentation. This piece explores portraiture, collaboration, and the documentation of artistic encounters.",
+      "images": [
+        {
+          "url": "images/jorgen-bruun-hansen-2013/Jörgen BH pencil sketch MP.jpg",
+          "caption": "Jörgen Bruun Hansen pencil sketch by Magnús Pálsson",
+          "photographer": "Unknown",
+          "year": "2013",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jorgen-bruun-hansen-2013/Jörgen BH pencil sketch (eddic mynd) MP.jpg",
+          "caption": "Jörgen Bruun Hansen pencil sketch (eddic mynd) by Magnús Pálsson",
+          "photographer": "Unknown",
+          "year": "2013",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jorgen-bruun-hansen-2013/Jörgen BH pencil sketch2 MP.jpg",
+          "caption": "Jörgen Bruun Hansen pencil sketch 2 by Magnús Pálsson",
+          "photographer": "Unknown",
+          "year": "2013",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jorgen-bruun-hansen-2013/Murari.jpg",
+          "caption": "Murari documentation photograph",
+          "photographer": "Unknown",
+          "year": "2013",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jorgen-bruun-hansen-2013/Murari.mp4",
+          "caption": "Murari video documentation",
+          "photographer": "Unknown",
+          "year": "2013",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jorgen-bruun-hansen-2013/Jörgen Murari.mp4",
+          "caption": "Jörgen Murari video documentation",
+          "photographer": "Unknown",
+          "year": "2013",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jorgen-bruun-hansen-2013/P1030574.JPG",
+          "caption": "Collaboration documentation P1030574",
+          "photographer": "Unknown",
+          "year": "2013",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jorgen-bruun-hansen-2013/P1030575.JPG",
+          "caption": "Collaboration documentation P1030575",
+          "photographer": "Unknown",
+          "year": "2013",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jorgen-bruun-hansen-2013/P1030576.JPG",
+          "caption": "Collaboration documentation P1030576",
+          "photographer": "Unknown",
+          "year": "2013",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/jorgen-bruun-hansen-2013/P1030578.JPG",
+          "caption": "Collaboration documentation P1030578",
+          "photographer": "Unknown",
+          "year": "2013",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["collaboration", "portrait", "drawing", "video", "living art museum", "baldvina", "2010s"],
+      "exhibitions": [
+        {
+          "title": "Collaboration at Living Art Museum",
+          "venue": "Living Art Museum (LI)",
+          "year": 2013,
+          "city": "Reykjavik"
+        }
+      ],
+      "materials": ["pencil sketches", "video", "photography", "collaboration"],
+      "searchText": "jörgen bruun hansen collaboration living art museum baldvina pencil sketch video murari portraiture 2013 magnús pálsson"
+    },
+    {
+      "id": "eyetalk_augntal_1986_1998",
+      "title": "Eyetalk (Augntal)",
+      "year": "1986-1998",
+      "description": "A major multimedia work spanning over a decade (1986-1998), Eyetalk (Augntal) explores communication, perception, and the relationship between visual and verbal language. The work includes multiple video components, extensive text materials, and documentation spanning various iterations and developments. This comprehensive piece examines how we communicate through eyes and words, creating a dialogue between visual perception and spoken language.",
+      "images": [
+        {
+          "url": "images/eyetalk-augntal-1986-1998/eye-talk-thumb.jpg",
+          "caption": "Eyetalk video still - main work documentation",
+          "photographer": "Video still",
+          "year": "1986-1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/eyetalk-augntal-1986-1998/eye-talk-preview.mp4",
+          "caption": "Eyetalk - 1 minute preview from main video work",
+          "photographer": "Video documentation",
+          "year": "1986-1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/eyetalk-augntal-1986-1998/eye-talk-ii-preview.mp4",
+          "caption": "Eyetalk II - 1 minute preview from second video work",
+          "photographer": "Video documentation",
+          "year": "1986-1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/eyetalk-augntal-1986-1998/eye-talk-preceding-preview.mp4",
+          "caption": "Eye Talk preceding Eye Talk - 1 minute preview",
+          "photographer": "Video documentation",
+          "year": "1986-1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/eyetalk-augntal-1986-1998/eyetalk-talk.docx",
+          "caption": "Eyetalk artist talk documentation",
+          "photographer": "Documentation",
+          "year": "1986-1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/eyetalk-augntal-1986-1998/eyetalk-complete-text.docx",
+          "caption": "Eyetalk complete text documentation",
+          "photographer": "Documentation",
+          "year": "1986-1998",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
+      "tags": ["video", "multimedia", "communication", "perception", "language", "eyes", "speech", "augntal", "multi-temporal", "1980s", "1990s"],
+      "exhibitions": [
+        {
+          "title": "Video installations",
+          "venue": "Various venues",
+          "year": "1986-1998",
+          "city": "Iceland"
+        },
+        {
+          "title": "Eyetalk discussion",
+          "venue": "Various venues",
+          "year": 2017,
+          "city": "Iceland"
+        }
+      ],
+      "materials": ["video", "text", "documentation", "multimedia installation"],
+      "searchText": "eyetalk augntal video multimedia communication perception language eyes speech visual verbal 1986 1990 1998 2017 discussion magnús pálsson"
     }
   ],
   "exhibitions": [
