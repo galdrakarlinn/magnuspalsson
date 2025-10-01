@@ -5,7 +5,32 @@
       "title": "Bestu stykkin",
       "year": 1965,
       "description": "Three surviving sculptures from a larger anti-art series of cloth figures called Frúöld, created in 1965 and exhibited at Magnús Pálsson's debut solo exhibition at Ásmundarsalur in 1967. Made by stuffing old cloths with paper, stiffening with glue and paint until hard, then removing the paper so the cloth figures could stand like empty skins. Created in the artist's Hvarf garage studio during 1965-1967, a converted rural space that was documented in October 1967 before being destroyed by fire. The ironic titles (allegedly suggested by Dieter Roth) were inversely related to their visual appeal - the most miserable-looking was called 'The best piece,' with titles descending in flattery as the works became more visually interesting. The Frúöld were not well received; the public called them ugly and idiotic, questioning Pálsson's sanity. In response, he gathered the remaining pieces, piled them under the stairway to SÚM exhibition space on Vatnsstígur, poured concrete over them, and let them decompose. Only three survive in the Living Art Museum collection. The work exemplifies Pálsson's anti-art philosophy - childishly simple in concept, executed without traditional artistry, and deliberately unaesthetic, challenging Icelandic art's boundaries alongside contemporaneous provocations like the rye bread pile on Skólavörðuholt and SÚM's infamous hay bale. (Source: Kjarvalstaðir catalogue, 1994)",
-      "images": [],
+      "images": [
+        {
+          "url": "images/bestu-stykkin/medium/bestu-stykkin-1969-medium.jpg",
+          "caption": "Bestu Stykkin 1969"
+        },
+        {
+          "url": "images/bestu-stykkin/medium/bestu-stykkin-detail-2-medium.jpg",
+          "caption": "Bestu Stykkin Detail 2"
+        },
+        {
+          "url": "images/bestu-stykkin/medium/bestu-stykkin-installation-medium.jpg",
+          "caption": "Bestu Stykkin Installation"
+        },
+        {
+          "url": "images/bestu-stykkin/medium/fruold_1965-medium.jpg",
+          "caption": "Fruold 1965"
+        },
+        {
+          "url": "images/bestu-stykkin/medium/menchenhoopje_A_1969-medium.jpg",
+          "caption": "Menchenhoopje A 1969"
+        },
+        {
+          "url": "images/bestu-stykkin/medium/menchenhoopje_B_gallerisúm_1969-medium.jpg",
+          "caption": "Menchenhoopje B Gallerisúm 1969"
+        }
+      ],
       "tags": [
         "sculpture",
         "anti-art",
@@ -38,7 +63,28 @@
       "title": "Augustus My God I Have It",
       "year": 1984,
       "description": "A groundbreaking sound poetry work that crosses boundaries between audio art, book, and performance. Created as both a recorded piece and live performance, exploring themes of discovery, revelation, and the power of language.",
-      "images": [],
+      "images": [
+        {
+          "url": "images/augustus-my-god-1984/medium/augustus-book-page-medium.jpg",
+          "caption": "Augustus Book Page"
+        },
+        {
+          "url": "images/augustus-my-god-1984/medium/augustus-cd-cover-medium.jpg",
+          "caption": "Augustus Cd Cover"
+        },
+        {
+          "url": "images/augustus-my-god-1984/medium/augustus-documentation-1-medium.jpg",
+          "caption": "Augustus Documentation 1"
+        },
+        {
+          "url": "images/augustus-my-god-1984/medium/augustus-documentation-2-medium.jpg",
+          "caption": "Augustus Documentation 2"
+        },
+        {
+          "url": "images/augustus-my-god-1984/medium/augustus-documentation-3-medium.jpg",
+          "caption": "Augustus Documentation 3"
+        }
+      ],
       "tags": [
         "sound poetry",
         "audio art",
@@ -55,7 +101,40 @@
       "title": "Þyrlulending (Helicopter Landing)",
       "year": 1976,
       "description": "Conceptual work measuring anticipation and mechanical intervention, titled 'Sekúndurnar þar til Sikorskýþyrlan snertir' (The Seconds Before the Sikorsky Helicopter Touches Down). This time-based sculpture captures the moment before the Coast Guard's helicopter lands, materializing the immaterial through three plaster forms arranged in a triangle on the floor. The forms are casts of the negative space between the helicopter's wheels and the ground, with different heights indicating temporal progression - the tail wheel, which lands last, is the highest. Time is here transformed into solid matter, exploring themes of anticipation, mechanical intervention, and the transformation of temporal experience into physical form. Exhibited at the Venice Biennale in 1980 where Pálsson represented Iceland. (Source: Reykjavík Art Museum collection description and Kjarvalstaðir catalog)",
-      "images": [],
+      "images": [
+        {
+          "url": "images/thyrlulending/medium/thyrlulending-documentation-medium.jpg",
+          "caption": "Thyrlulending Documentation"
+        },
+        {
+          "url": "images/thyrlulending/medium/thyrlulending-lund-2012-medium.jpg",
+          "caption": "Thyrlulending Lund 2012"
+        },
+        {
+          "url": "images/thyrlulending/medium/thyrlulending-mp01-hq-medium.jpg",
+          "caption": "Thyrlulending Mp01 Hq"
+        },
+        {
+          "url": "images/thyrlulending/medium/thyrlulending_main_1976-medium.jpg",
+          "caption": "Thyrlulending Main 1976"
+        },
+        {
+          "url": "images/thyrlulending/medium/thyrlulending_mp01-medium.jpg",
+          "caption": "Thyrlulending Mp01"
+        },
+        {
+          "url": "images/thyrlulending/medium/thyrlulending_mp01a-medium.jpg",
+          "caption": "Thyrlulending Mp01A"
+        },
+        {
+          "url": "images/thyrlulending/medium/thyrlulending_mp02-medium.jpg",
+          "caption": "Thyrlulending Mp02"
+        },
+        {
+          "url": "images/thyrlulending/medium/thyrlulending_mp02_web-medium.jpg",
+          "caption": "Thyrlulending Mp02 Web"
+        }
+      ],
       "tags": [
         "sculpture",
         "conceptual",
@@ -82,7 +161,44 @@
       "title": "Viðtöl um dauðann",
       "year": 2011,
       "description": "A profound exploration of death and mortality through conversations and interviews. This work examines how we speak about death, confront mortality, and find meaning in the face of the inevitable. The project includes documentation, texts, and collaborative elements exploring the universal human experience of confronting death.",
-      "images": [],
+      "images": [
+        {
+          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-image-13-medium.jpg",
+          "caption": "Vidtol Um Daudann Image 13"
+        },
+        {
+          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-image-15-medium.jpg",
+          "caption": "Vidtol Um Daudann Image 15"
+        },
+        {
+          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-image-18-medium.jpg",
+          "caption": "Vidtol Um Daudann Image 18"
+        },
+        {
+          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-image-2-medium.jpg",
+          "caption": "Vidtol Um Daudann Image 2"
+        },
+        {
+          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-mh2-medium.jpg",
+          "caption": "Vidtol Um Daudann Mh2"
+        },
+        {
+          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-mh4-1-medium.jpg",
+          "caption": "Vidtol Um Daudann Mh4 1"
+        },
+        {
+          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-mh4-2-medium.jpg",
+          "caption": "Vidtol Um Daudann Mh4 2"
+        },
+        {
+          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-mh4-3-medium.jpg",
+          "caption": "Vidtol Um Daudann Mh4 3"
+        },
+        {
+          "url": "images/vidtol-um-daudann-2011/medium/vidtol-um-daudann-mh4-main-medium.jpg",
+          "caption": "Vidtol Um Daudann Mh4 Main"
+        }
+      ],
       "tags": [
         "death",
         "mortality",
@@ -99,7 +215,12 @@
       "title": "Draumur hlynsins um fjall",
       "year": 1974,
       "description": "A poetic work exploring dreams, sound, and landscape. Created in collaboration with Edda Jónsdóttir in 1974, this work examines the relationship between sound, memory, and the mountain landscape through performance and documentation.",
-      "images": [],
+      "images": [
+        {
+          "url": "images/draumur-hlynsins-um-fjall-1974/medium/Hanging mountain-medium.jpg",
+          "caption": "Hanging Mountain"
+        }
+      ],
       "tags": [
         "poetry",
         "dreams",
@@ -113,116 +234,25 @@
       "searchText": "draumur hlynsins um fjall dreams sound landscape mountain collaboration edda jónsdóttir 1974 poetry magnús pálsson"
     },
     {
-      "id": "bestu_stykkin",
-      "title": "Bestu stykkin",
-      "year": 1965,
-      "description": "Three surviving sculptures from a larger anti-art series of cloth figures called Frúöld, created in 1965 and exhibited at Magnús Pálsson's debut solo exhibition at Ásmundarsalur in 1967. Made by stuffing old cloths with paper, stiffening with glue and paint until hard, then removing the paper so the cloth figures could stand like empty skins. Created in the artist's Hvarf garage studio during 1965-1967, a converted rural space that was documented in October 1967 before being destroyed by fire. The ironic titles (allegedly suggested by Dieter Roth) were inversely related to their visual appeal - the most miserable-looking was called 'The best piece,' with titles descending in flattery as the works became more visually interesting. The Frúöld were not well received; the public called them ugly and idiotic, questioning Pálsson's sanity. In response, he gathered the remaining pieces, piled them under the stairway to SÚM exhibition space on Vatnsstígur, poured concrete over them, and let them decompose. Only three survive in the Living Art Museum collection. The work exemplifies Pálsson's anti-art philosophy - childishly simple in concept, executed without traditional artistry, and deliberately unaesthetic, challenging Icelandic art's boundaries alongside contemporaneous provocations like the rye bread pile on Skólavörðuholt and SÚM's infamous hay bale. (Source: Kjarvalstaðir catalogue, 1994)",
-      "images": [],
-      "tags": [
-        "sculpture",
-        "anti-art",
-        "cloth figures",
-        "conceptual",
-        "frúöld",
-        "dieter roth",
-        "controversial",
-        "1960s",
-        "debut exhibition"
-      ],
-      "exhibitions": [
+      "id": "master_plaster_caster_2013",
+      "title": "Master Plaster Caster",
+      "year": 2013,
+      "description": "An installation work exploring themes of casting, reproduction, and material transformation. Created as part of Pálsson's ongoing investigation into the relationship between original and copy, presence and absence.",
+      "images": [
         {
-          "title": "Bestu stykkin",
-          "venue": "Ásmundarsalur",
-          "year": 1967,
-          "city": "Reykjavík"
+          "url": "images/master-plaster-caster-2013/medium/master-plaster-caster-installation-medium.jpg",
+          "caption": "Master Plaster Caster Installation"
         }
       ],
-      "materials": [
-        "cloth",
-        "paper",
-        "glue",
-        "paint"
-      ],
-      "searchText": "bestu stykkin best pieces cloth figures frúöld anti-art ásmundarsalur 1967 debut exhibition dieter roth controversial ugly idiotic magnús pálsson hvarf garage studio"
-    },
-    {
-      "id": "augustus_my_god",
-      "title": "Augustus My God I Have It",
-      "year": 1984,
-      "description": "A groundbreaking sound poetry work that crosses boundaries between audio art, book, and performance. Created as both a recorded piece and live performance, exploring themes of discovery, revelation, and the power of language.",
-      "images": [],
       "tags": [
-        "sound poetry",
-        "audio art",
-        "book",
-        "performance",
-        "language",
-        "revelation",
-        "1980s"
-      ],
-      "searchText": "augustus my god have it sound poetry audio art book performance language revelation nordic sound art festival reykjavik"
-    },
-    {
-      "id": "thyrlulending",
-      "title": "Þyrlulending (Helicopter Landing)",
-      "year": 1976,
-      "description": "Conceptual work measuring anticipation and mechanical intervention, titled 'Sekúndurnar þar til Sikorskýþyrlan snertir' (The Seconds Before the Sikorsky Helicopter Touches Down). This time-based sculpture captures the moment before the Coast Guard's helicopter lands, materializing the immaterial through three plaster forms arranged in a triangle on the floor. The forms are casts of the negative space between the helicopter's wheels and the ground, with different heights indicating temporal progression - the tail wheel, which lands last, is the highest. Time is here transformed into solid matter, exploring themes of anticipation, mechanical intervention, and the transformation of temporal experience into physical form. Exhibited at the Venice Biennale in 1980 where Pálsson represented Iceland. (Source: Reykjavík Art Museum collection description and Kjarvalstaðir catalog)",
-      "images": [],
-      "tags": [
+        "installation",
         "sculpture",
-        "conceptual",
-        "time",
-        "anticipation",
         "plaster",
-        "helicopter",
-        "venice biennale",
-        "negative space",
-        "1970s"
-      ],
-      "exhibitions": [
-        {
-          "title": "Venice Biennale",
-          "venue": "Venice Biennale",
-          "year": 1980,
-          "city": "Venice"
-        }
-      ],
-      "searchText": "þyrlulending helicopter landing sikorsky coast guard anticipation mechanical intervention plaster venice biennale 1980 iceland representation time sculpture"
-    },
-    {
-      "id": "vidtol_um_daudann_2011",
-      "title": "Viðtöl um dauðann",
-      "year": 2011,
-      "description": "A profound exploration of death and mortality through conversations and interviews. This work examines how we speak about death, confront mortality, and find meaning in the face of the inevitable. The project includes documentation, texts, and collaborative elements exploring the universal human experience of confronting death.",
-      "images": [],
-      "tags": [
-        "death",
-        "mortality",
-        "conversations",
-        "interviews",
-        "existential",
-        "collaboration",
+        "casting",
+        "reproduction",
         "2010s"
       ],
-      "searchText": "viðtöl um dauðann conversations about death mortality existential meaning inevitable human experience"
-    },
-    {
-      "id": "draumur_hlynsins_um_fjall_1974",
-      "title": "Draumur hlynsins um fjall",
-      "year": 1974,
-      "description": "A poetic work exploring dreams, sound, and landscape. Created in collaboration with Edda Jónsdóttir in 1974, this work examines the relationship between sound, memory, and the mountain landscape through performance and documentation.",
-      "images": [],
-      "tags": [
-        "poetry",
-        "dreams",
-        "sound",
-        "landscape",
-        "mountain",
-        "collaboration",
-        "edda jónsdóttir",
-        "1970s"
-      ],
-      "searchText": "draumur hlynsins um fjall dreams sound landscape mountain collaboration edda jónsdóttir 1974 poetry magnús pálsson"
+      "searchText": "master plaster caster installation sculpture casting reproduction material transformation 2013"
     },
     {
       "id": "yxn_2002",
