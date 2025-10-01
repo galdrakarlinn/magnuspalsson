@@ -1,40 +1,6 @@
 {
   "works": [
     {
-      "id": "hundljod",
-      "title": "Hundljóð",
-      "year": 1990,
-      "description": "Sound poetry work combining voice, performance, and linguistic experimentation.",
-      "images": [
-        {
-          "url": "images/hundljod-1990/medium/hundljod-documentation-medium.jpg",
-          "caption": "Hundljóð performance documentation",
-          "photographer": "Sigurður Guðmundsson",
-          "year": "1990",
-          "copyright": "© Sigurður Guðmundsson"
-        }
-      ],
-      "tags": [
-        "sculpture",
-        "sound poetry",
-        "voice",
-        "language"
-      ],
-      "exhibitions": [
-        {
-          "title": "Sound and Fury",
-          "venue": "Nordic Arts Centre",
-          "year": 1991,
-          "city": "Helsinki"
-        }
-      ],
-      "materials": [
-        "voice",
-        "text"
-      ],
-      "searchText": "hundljóð sound poetry voice language performance nordic arts centre helsinki"
-    },
-    {
       "id": "yxn_2002",
       "title": "YXN",
       "year": 2002,
@@ -2728,43 +2694,6 @@
         "documentation"
       ],
       "searchText": "hundar hundljóð dogs animals sculpture collaboration óli gísla straw series 1970 magnús pálsson documentation agreement"
-    },
-    {
-      "id": "hundljod_1990",
-      "title": "Hundljóð",
-      "year": 1990,
-      "description": "A later work in the dog poetry series from 1990, continuing Magnús Pálsson's exploration of the relationship between animals and language. This work builds on his earlier 1970 Hundljóð series, developing the concept further through sound poetry and sculptural elements.",
-      "images": [
-        {
-          "url": "images/hundljod-1990/medium/hundljod-documentation-medium.jpg",
-          "caption": "Hundljóð 1990 documentation",
-          "photographer": "Unknown",
-          "year": "1990",
-          "copyright": "© Estate of Magnús Pálsson"
-        }
-      ],
-      "tags": [
-        "sound poetry",
-        "animals",
-        "dogs",
-        "language",
-        "performance",
-        "1990s"
-      ],
-      "exhibitions": [
-        {
-          "title": "Sound Poetry Works",
-          "venue": "Various venues",
-          "year": 1990,
-          "city": "Reykjavik"
-        }
-      ],
-      "materials": [
-        "sound poetry",
-        "performance",
-        "documentation"
-      ],
-      "searchText": "hundljóð sound poetry dogs animals language performance 1990 magnús pálsson documentation"
     },
     {
       "id": "hviskur_whisper_1975",
