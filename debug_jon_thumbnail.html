@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Debug Jon Summer Thumbnail</title>
+</head>
+<body>
+    <h1>Jon Summer Thumbnail Debug</h1>
+    <div id="result"></div>
+
+    <script>
+        // Simulate the getThumbPath function
+        function getThumbPath(url) {
+            console.log("Input URL:", url);
+
+            // Skip non-images (video, audio, PDF)
+            if (url.toLowerCase().includes('.mp4') || url.toLowerCase().includes('.mp3') || url.toLowerCase().includes('.pdf')) {
+                return url;
+            }
+
+            // If URL already contains '/thumbs/' or ends with '-thumb.jpg', return as-is
+            if (url.includes('/thumbs/') || url.endsWith('-thumb.jpg')) {
+                return url;
+            }
+
+            // Check if this is a medium path that should be converted to thumbs
+            if (url.includes('/medium/')) {
+                const parts = url.split('/');
+                const fileName = parts[parts.length - 1];
+                console.log("Filename:", fileName);
+
+                // Handle medium files: extract base name without -medium suffix
+                let fileBase;
+                if (fileName.includes('-medium.')) {
+                    fileBase = fileName.replace('-medium.', '.');
+                    fileBase = fileBase.substring(0, fileBase.lastIndexOf('.'));
+                } else {
+                    fileBase = fileName.substring(0, fileName.lastIndexOf('.'));
+                }
+                console.log("File base:", fileBase);
+
+                // Replace 'medium' with 'thumbs' in path, removing the filename first
+                const pathParts = parts.slice(0, -1); // Remove filename
+                for (let i = 0; i < pathParts.length; i++) {
+                    if (pathParts[i] === 'medium') {
+                        pathParts[i] = 'thumbs';
+                        break;
+                    }
+                }
+
+                const result = pathParts.join('/') + '/' + fileBase + '-thumb.jpg';
+                console.log("Result:", result);
+                return result;
+            }
+
+            return url;
+        }
+
+        // Test Jon Summer thumbnail generation
+        const jonSummerUrl = "images/jon-summer-2008-2022/medium/_DSC0070-medium.jpg";
+        const thumbnailPath = getThumbPath(jonSummerUrl);
+
+        document.getElementById('result').innerHTML = `
+            <p><strong>Original URL:</strong> ${jonSummerUrl}</p>
+            <p><strong>Generated Thumbnail:</strong> ${thumbnailPath}</p>
+            <p><strong>Test Image:</strong></p>
+            <img src="${thumbnailPath}" alt="Jon Summer Thumbnail" onerror="this.style.border='2px solid red'; this.alt='❌ Failed to load'" onload="this.style.border='2px solid green'">
+        `;
+    </script>
+</body>
+</html>
