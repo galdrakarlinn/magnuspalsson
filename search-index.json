@@ -1,80 +1,1081 @@
 {
   "searchableContent": [
     {
-      "id": "work_berdreyminn",
-      "title": "Berdreyminn, Skyggn, Næmur",
       "type": "work",
-      "page": "works",
-      "year": 1985,
-      "url": "works.html?work=berdreyminn_skyggn_naemur_1969",
-      "content": "Berdreyminn multi-layered work exploring memory place performance documentation Nordic Voices Reykjavik Art Museum",
-      "snippet": "A multi-layered work exploring memory and place through performance, documentation, and sculptural elements."
+      "title": "Mutations Stökkbreytingar Dada TATE Hackney empire 2005",
+      "snippet": "A major international DADA performance work by Magnús Pálsson, performed at the Hackney Empire in London and Tate Modern in 2005. This multimedia p...",
+      "content": "Mutations Stökkbreytingar Dada TATE Hackney empire 2005 A major international DADA performance work by Magnús Pálsson, performed at the Hackney Empire in London and Tate Modern in 2005. This multimedia performance piece explores themes of mutation and transformation through the DADA aesthetic, with video documentation and comprehensive script materials. 2005 performance video international dada 2005 video performance script documentation Hackney Empire London Tate Modern London",
+      "url": "works.html?work=mutations-stokkbreytingar-dada-tate-hackney-empire-2005",
+      "year": 2005,
+      "page": "works"
     },
     {
-      "id": "work_hundljod",
-      "title": "Hundljóð",
-      "type": "work", 
-      "page": "works",
-      "year": 1990,
-      "url": "works.html?work=hundljod",
-      "content": "Hundljóð sound poetry voice language performance Nordic Arts Centre Helsinki",
-      "snippet": "Sound poetry work combining voice, performance, and linguistic experimentation."
+      "type": "work",
+      "title": "Rúmbjarni Suðurgata 7 1976",
+      "snippet": "A comprehensive work by Magnús Pálsson from 1976. This extensive piece demonstrates his artistic development and exploration during this significan...",
+      "content": "Rúmbjarni Suðurgata 7 1976 A comprehensive work by Magnús Pálsson from 1976. This extensive piece demonstrates his artistic development and exploration during this significant period. 1976 artwork 1976",
+      "url": "works.html?work=rumbjarni-sudurgata-7-1976-1976",
+      "year": 1976,
+      "page": "works"
     },
     {
-      "id": "work_master_plaster_caster",
-      "title": "Master Plaster Caster",
       "type": "work",
-      "page": "works", 
+      "title": "Pendúll student performance 1.2.1999",
+      "snippet": "A performance documentation work by Magnús Pálsson from Unknown. This work includes video documentation and materials from the performance.",
+      "content": "Pendúll student performance 1.2.1999 A performance documentation work by Magnús Pálsson from Unknown. This work includes video documentation and materials from the performance. Unknown performance video documentation undated video performance documentation",
+      "url": "works.html?work=pendull-student-performance-121999",
+      "year": "Unknown",
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "P-mál texti 1993",
+      "snippet": "A work by Magnús Pálsson from 1993. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "P-mál texti 1993 A work by Magnús Pálsson from 1993. This piece demonstrates his artistic exploration and creative development during this period. 1993 artwork 1993",
+      "url": "works.html?work=pmal-texti-1993-1993",
+      "year": 1993,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Pappirsást 1965-6",
+      "snippet": "A work by Magnús Pálsson from 1965. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Pappirsást 1965-6 A work by Magnús Pálsson from 1965. This piece demonstrates his artistic exploration and creative development during this period. 1965 artwork 1965",
+      "url": "works.html?work=pappirsast-19656-1965",
+      "year": 1965,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Portrait of Dorothy 1966",
+      "snippet": "A work by Magnús Pálsson from 1966. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Portrait of Dorothy 1966 A work by Magnús Pálsson from 1966. This piece demonstrates his artistic exploration and creative development during this period. 1966 artwork 1966 photography",
+      "url": "works.html?work=portrait-of-dorothy-1966-1966",
+      "year": 1966,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Rainbow clippings Startart Aug Reyk Berlin Sept 08",
+      "snippet": "A work by Magnús Pálsson from Unknown. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Rainbow clippings Startart Aug Reyk Berlin Sept 08 A work by Magnús Pálsson from Unknown. This piece demonstrates his artistic exploration and creative development during this period. Unknown artwork undated",
+      "url": "works.html?work=rainbow-clippings-startart-aug-reyk-berlin-sept-08",
+      "year": "Unknown",
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Pegasus Student work Enschede AKI 1982-3",
+      "snippet": "A work by Magnús Pálsson from 1982. This piece demonstrates his artistic exploration and creative practice during this period.",
+      "content": "Pegasus Student work Enschede AKI 1982-3 A work by Magnús Pálsson from 1982. This piece demonstrates his artistic exploration and creative practice during this period. 1982 artwork 1982 audio",
+      "url": "works.html?work=pegasus-student-work-enschede-aki-19823-1982",
+      "year": 1982,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Polypoetry festival 2006",
+      "snippet": "A work by Magnús Pálsson from 2006. This piece demonstrates his artistic exploration and creative practice during this period.",
+      "content": "Polypoetry festival 2006 A work by Magnús Pálsson from 2006. This piece demonstrates his artistic exploration and creative practice during this period. 2006 artwork 2006 audio documentation",
+      "url": "works.html?work=polypoetry-festival-2006-2006",
+      "year": 2006,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Retrospective exhib. videos 1994",
+      "snippet": "A work by Magnús Pálsson from 1994. This piece demonstrates his artistic exploration and creative practice during this period.",
+      "content": "Retrospective exhib. videos 1994 A work by Magnús Pálsson from 1994. This piece demonstrates his artistic exploration and creative practice during this period. 1994 artwork 1994 video",
+      "url": "works.html?work=retrospective-exhib-videos-1994-1994",
+      "year": 1994,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Hvískur 2 1975",
+      "snippet": "A work by Magnús Pálsson from 1975. This piece represents his artistic exploration during this period.",
+      "content": "Hvískur 2 1975 A work by Magnús Pálsson from 1975. This piece represents his artistic exploration during this period. 1975 artwork 1975",
+      "url": "works.html?work=hviskur-2-1975-1975",
+      "year": 1975,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "MP 04",
+      "snippet": "A work by Magnús Pálsson from Unknown. This piece represents his artistic exploration during this period.",
+      "content": "MP 04 A work by Magnús Pálsson from Unknown. This piece represents his artistic exploration during this period. Unknown artwork undated",
+      "url": "works.html?work=mp-04",
+      "year": "Unknown",
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "MP 08",
+      "snippet": "A work by Magnús Pálsson from Unknown. This piece represents his artistic exploration during this period.",
+      "content": "MP 08 A work by Magnús Pálsson from Unknown. This piece represents his artistic exploration during this period. Unknown artwork undated",
+      "url": "works.html?work=mp-08",
+      "year": "Unknown",
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "MP 10",
+      "snippet": "A work by Magnús Pálsson from Unknown. This piece represents his artistic exploration during this period.",
+      "content": "MP 10 A work by Magnús Pálsson from Unknown. This piece represents his artistic exploration during this period. Unknown artwork undated",
+      "url": "works.html?work=mp-10",
+      "year": "Unknown",
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Kennaraskóli Íslands model with DR",
+      "snippet": "A documentation or text-based work by Magnús Pálsson from Unknown. This work includes written materials and documentation that form part of his art...",
+      "content": "Kennaraskóli Íslands model with DR A documentation or text-based work by Magnús Pálsson from Unknown. This work includes written materials and documentation that form part of his artistic practice. Unknown documentation text undated text documentation",
+      "url": "works.html?work=kennaraskoli-islands-model-with-dr",
+      "year": "Unknown",
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Kál 5 negative made 1966 printed 2018",
+      "snippet": "A comprehensive work by Magnús Pálsson from 1966. This extensive piece demonstrates his artistic development and exploration during this significan...",
+      "content": "Kál 5 negative made 1966 printed 2018 A comprehensive work by Magnús Pálsson from 1966. This extensive piece demonstrates his artistic development and exploration during this significant period of his career. 1966 artwork 1966",
+      "url": "works.html?work=kal-5-negative-made-1966-printed-2018-1966",
+      "year": 1966,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Myrkur Darkness Sólskin photos 1977",
+      "snippet": "A comprehensive work by Magnús Pálsson from 1977. This extensive piece demonstrates his artistic development and exploration during this significan...",
+      "content": "Myrkur Darkness Sólskin photos 1977 A comprehensive work by Magnús Pálsson from 1977. This extensive piece demonstrates his artistic development and exploration during this significant period of his career. 1977 artwork 1977",
+      "url": "works.html?work=myrkur-darkness-solskin-photos-1977-1977",
+      "year": 1977,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Mumbling Eye student book 1983-4",
+      "snippet": "A comprehensive work by Magnús Pálsson from 1983. This extensive piece demonstrates his artistic development and exploration during this significan...",
+      "content": "Mumbling Eye student book 1983-4 A comprehensive work by Magnús Pálsson from 1983. This extensive piece demonstrates his artistic development and exploration during this significant period of his career. 1983 artwork 1983",
+      "url": "works.html?work=mumbling-eye-student-book-19834-1983",
+      "year": 1983,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Mótun Lands Askja 2010",
+      "snippet": "A comprehensive work by Magnús Pálsson from 2010. This extensive piece demonstrates his artistic development and exploration during this significan...",
+      "content": "Mótun Lands Askja 2010 A comprehensive work by Magnús Pálsson from 2010. This extensive piece demonstrates his artistic development and exploration during this significant period of his career. 2010 artwork 2010",
+      "url": "works.html?work=motun-lands-askja-2010-2010",
+      "year": 2010,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Minning Njálsbrennu 1977",
+      "snippet": "A comprehensive work by Magnús Pálsson from 1977. This extensive piece demonstrates his artistic development and exploration during this significan...",
+      "content": "Minning Njálsbrennu 1977 A comprehensive work by Magnús Pálsson from 1977. This extensive piece demonstrates his artistic development and exploration during this significant period of his career. 1977 artwork 1977",
+      "url": "works.html?work=minning-njalsbrennu-1977-1977",
+      "year": 1977,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Minning Þórarinn Nefjólfsson i8 Reyk 2007",
+      "snippet": "A comprehensive work by Magnús Pálsson from 2007. This extensive piece demonstrates his artistic development and exploration during this significan...",
+      "content": "Minning Þórarinn Nefjólfsson i8 Reyk 2007 A comprehensive work by Magnús Pálsson from 2007. This extensive piece demonstrates his artistic development and exploration during this significant period of his career. 2007 artwork 2007",
+      "url": "works.html?work=minning-thorarinn-nefjolfsson-i8-reyk-2007-2007",
+      "year": 2007,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Kál 1-4 1963-66",
+      "snippet": "A comprehensive work by Magnús Pálsson from 1963. This extensive piece demonstrates his artistic development and exploration during this significan...",
+      "content": "Kál 1-4 1963-66 A comprehensive work by Magnús Pálsson from 1963. This extensive piece demonstrates his artistic development and exploration during this significant period of his career. 1963 artwork 1963",
+      "url": "works.html?work=kal-14-196366-1963",
+      "year": 1963,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Kross 2013 performance",
+      "snippet": "A work by Magnús Pálsson from 2013. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his ...",
+      "content": "Kross 2013 performance A work by Magnús Pálsson from 2013. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career. 2013 artwork 2013",
+      "url": "works.html?work=kross-2013-performance-2013",
       "year": 2013,
-      "url": "works.html?work=master_plaster_caster",
-      "content": "Master Plaster Caster sculpture installation authenticity reproduction Contemporary Matters Reykjavik Art Museum plaster mixed media",
-      "snippet": "Sculptural installation exploring themes of reproduction, authenticity, and artistic legacy."
+      "page": "works"
     },
     {
-      "id": "work_naemur",
-      "title": "Berdreyminn, Skyggn, Næmur (Næmur)",
       "type": "work",
-      "page": "works",
-      "year": 1988, 
-      "url": "works.html?work=berdreyminn_skyggn_naemur_1969",
-      "content": "Næmur performance vulnerability presence photography Body Mind Gallery i8 Reykjavik",
-      "snippet": "A sensitive exploration of vulnerability and presence through performance and photographic documentation."
+      "title": "Landafræði",
+      "snippet": "A work by Magnús Pálsson from 1972. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his ...",
+      "content": "Landafræði A work by Magnús Pálsson from 1972. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career. 1972 artwork 1972",
+      "url": "works.html?work=landafraedi-maps-gibs-pieces-1972-2012-1972",
+      "year": 1972,
+      "page": "works"
     },
     {
-      "id": "work_skyggn",
-      "title": "Berdreyminn, Skyggn, Næmur (Skyggn)", 
       "type": "work",
-      "page": "works",
-      "year": 1992,
-      "url": "works.html?work=berdreyminn_skyggn_naemur_1969",
-      "content": "Skyggn perception shadow liminal visibility light Living Art Museum Reykjavik mixed media",
-      "snippet": "Work exploring perception, shadow, and the liminal spaces between visibility and invisibility."
+      "title": "Manifesto Bergen Offside exhibition 1996",
+      "snippet": "A work by Magnús Pálsson from 1996. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his ...",
+      "content": "Manifesto Bergen Offside exhibition 1996 A work by Magnús Pálsson from 1996. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career. 1996 artwork 1996",
+      "url": "works.html?work=manifesto-bergen-offside-exhibition-1996-1996",
+      "year": 1996,
+      "page": "works"
     },
     {
-      "id": "work_augustus",
-      "title": "Augustus My God I Have It",
       "type": "work",
-      "page": "works",
+      "title": "Minning kanínunnar, Barabbit 1979",
+      "snippet": "A work by Magnús Pálsson from 1979. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his ...",
+      "content": "Minning kanínunnar, Barabbit 1979 A work by Magnús Pálsson from 1979. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career. 1979 artwork 1979",
+      "url": "works.html?work=minning-kaninunnar-barabbit-1979-1979",
+      "year": 1979,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Kennsla - geggjaðasta listgreinin -  Teaching, the craziest branch of art 1984",
+      "snippet": "A work by Magnús Pálsson from 1984. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his ...",
+      "content": "Kennsla - geggjaðasta listgreinin -  Teaching, the craziest branch of art 1984 A work by Magnús Pálsson from 1984. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career. 1984 artwork 1984",
+      "url": "works.html?work=kennsla-geggjadasta-listgreinin-teaching-the-craziest-branch-of-art-1984-1984",
       "year": 1984,
-      "url": "works.html?work=augustus_my_god",
-      "content": "Augustus My God I Have It sound poetry audio art book performance language revelation discovery power of language Nordic Sound Art Festival Smekkleysa polypoetry festival 2006 compilation",
-      "snippet": "A groundbreaking sound poetry work that crosses boundaries between audio art, book, and performance."
+      "page": "works"
     },
     {
-      "id": "work_yxn",
+      "type": "work",
+      "title": "Kjötkássan og Brasilíufrænkan 1993-4",
+      "snippet": "A work by Magnús Pálsson from 1993. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his ...",
+      "content": "Kjötkássan og Brasilíufrænkan 1993-4 A work by Magnús Pálsson from 1993. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career. 1993 artwork 1993",
+      "url": "works.html?work=kjotkassan-og-brasiliufraenkan-19934-1993",
+      "year": 1993,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Kúakyn í hættu 2015",
+      "snippet": "A work by Magnús Pálsson from 2015. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his ...",
+      "content": "Kúakyn í hættu 2015 A work by Magnús Pálsson from 2015. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career. 2015 artwork 2015",
+      "url": "works.html?work=kuakyn-i-haettu-2015-2015",
+      "year": 2015,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Kúplingsdiskur Clutch disc 1999",
+      "snippet": "A work by Magnús Pálsson from 1999. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his ...",
+      "content": "Kúplingsdiskur Clutch disc 1999 A work by Magnús Pálsson from 1999. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career. 1999 artwork 1999",
+      "url": "works.html?work=kuplingsdiskur-clutch-disc-1999-1999",
+      "year": 1999,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Legitimate concrete Fart Viggo A 1990",
+      "snippet": "A work by Magnús Pálsson from 1990. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his ...",
+      "content": "Legitimate concrete Fart Viggo A 1990 A work by Magnús Pálsson from 1990. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career. 1990 artwork 1990",
+      "url": "works.html?work=legitimate-concrete-fart-viggo-a-1990-1990",
+      "year": 1990,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Lúðurhljómur í skókassa 1975",
+      "snippet": "A work by Magnús Pálsson from 1975. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his ...",
+      "content": "Lúðurhljómur í skókassa 1975 A work by Magnús Pálsson from 1975. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career. 1975 artwork 1975",
+      "url": "works.html?work=ludurhljomur-i-skokassa-1975-1975",
+      "year": 1975,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Madame President 1986 Audio to be digitalised",
+      "snippet": "A work by Magnús Pálsson from 1986. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his ...",
+      "content": "Madame President 1986 Audio to be digitalised A work by Magnús Pálsson from 1986. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career. 1986 artwork 1986",
+      "url": "works.html?work=madame-president-1986-audio-to-be-digitalised-1986",
+      "year": 1986,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "master-plaster-caster-2013",
+      "snippet": "A work by Magnús Pálsson from 2013. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his ...",
+      "content": "master-plaster-caster-2013 A work by Magnús Pálsson from 2013. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career. 2013 artwork 2013",
+      "url": "works.html?work=masterplastercaster2013-2013",
+      "year": 2013,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Minning Bakkabræðra Ljóshirsla",
+      "snippet": "A work by Magnús Pálsson from 1977. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his ...",
+      "content": "Minning Bakkabræðra Ljóshirsla A work by Magnús Pálsson from 1977. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career. 1977 artwork 1977",
+      "url": "works.html?work=minning-bakkabraedra-ljoshirsla-og-1977-1977",
+      "year": 1977,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Minning Irafellsmóra  1977",
+      "snippet": "A work by Magnús Pálsson from 1977. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his ...",
+      "content": "Minning Irafellsmóra  1977 A work by Magnús Pálsson from 1977. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career. 1977 artwork 1977",
+      "url": "works.html?work=minning-irafellsmora-1977-1977",
+      "year": 1977,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Minning Magnúsar Jónssonar 1982",
+      "snippet": "A work by Magnús Pálsson from 1982. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his ...",
+      "content": "Minning Magnúsar Jónssonar 1982 A work by Magnús Pálsson from 1982. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career. 1982 artwork 1982",
+      "url": "works.html?work=minning-magnusar-jonssonar-1982-1982",
+      "year": 1982,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Mát á H8",
+      "snippet": "A work by Magnús Pálsson from 1972. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his ...",
+      "content": "Mát á H8 A work by Magnús Pálsson from 1972. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career. 1972 artwork 1972",
+      "url": "works.html?work=mat-a-h8-skak-checkmate-1972-1972",
+      "year": 1972,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Kúlan",
+      "snippet": "An early sculptural work from 1962 demonstrating Magnús Pálsson's exploration of geometric forms and spatial relationships. This piece represents h...",
+      "content": "Kúlan An early sculptural work from 1962 demonstrating Magnús Pálsson's exploration of geometric forms and spatial relationships. This piece represents his early artistic development and interest in abstraction during his formative years as an artist. The work shows his experimentation with materials and form that would later develop into his more conceptual practice. 1962 sculpture geometric early work 1960s abstract wood paint",
+      "url": "works.html?work=kulan_1962",
+      "year": 1962,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Bestu stykkin",
+      "snippet": "Three surviving sculptures from a larger anti-art series of cloth figures called Frúöld, created in 1965 and exhibited at Magnús Pálsson's debut so...",
+      "content": "Bestu stykkin Three surviving sculptures from a larger anti-art series of cloth figures called Frúöld, created in 1965 and exhibited at Magnús Pálsson's debut solo exhibition at Ásmundarsalur in 1967. Made by stuffing old cloths with paper, stiffening with glue and paint until hard, then removing the paper so the cloth figures could stand like empty skins. Created in the artist's Hvarf garage studio during 1965-1967, a converted rural space that was documented in October 1967 before being destroyed by fire. The ironic titles (allegedly suggested by Dieter Roth) were inversely related to their visual appeal - the most miserable-looking was called 'The best piece,' with titles descending in flattery as the works became more visually interesting. The Frúöld were not well received; the public called them ugly and idiotic, questioning Pálsson's sanity. In response, he gathered the remaining pieces, piled them under the stairway to SÚM exhibition space on Vatnsstígur, poured concrete over them, and let them decompose. Only three survive in the Living Art Museum collection. The work exemplifies Pálsson's anti-art philosophy - childishly simple in concept, executed without traditional artistry, and deliberately unaesthetic, challenging Icelandic art's boundaries alongside contemporaneous provocations like the rye bread pile on Skólavörðuholt and SÚM's infamous hay bale. (Source: Kjarvalstaðir catalogue, 1994) 1965 sculpture anti-art cloth figures conceptual frúöld dieter roth controversial 1960s debut exhibition cloth paper glue paint Bestu stykkin Ásmundarsalur Reykjavík",
+      "url": "works.html?work=bestu_stykkin",
+      "year": 1965,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Augustus My God I Have It",
+      "snippet": "A groundbreaking sound poetry work that crosses boundaries between audio art, book, and performance. Created as both a recorded piece and live perf...",
+      "content": "Augustus My God I Have It A groundbreaking sound poetry work that crosses boundaries between audio art, book, and performance. Created as both a recorded piece and live performance, exploring themes of discovery, revelation, and the power of language. 1984 sound poetry audio art book performance language revelation 1980s",
+      "url": "works.html?work=augustus_my_god",
+      "year": 1984,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Þyrlulending (Helicopter Landing)",
+      "snippet": "Conceptual work measuring anticipation and mechanical intervention, titled 'Sekúndurnar þar til Sikorskýþyrlan snertir' (The Seconds Before the Sik...",
+      "content": "Þyrlulending (Helicopter Landing) Conceptual work measuring anticipation and mechanical intervention, titled 'Sekúndurnar þar til Sikorskýþyrlan snertir' (The Seconds Before the Sikorsky Helicopter Touches Down). This time-based sculpture captures the moment before the Coast Guard's helicopter lands, materializing the immaterial through three plaster forms arranged in a triangle on the floor. The forms are casts of the negative space between the helicopter's wheels and the ground, with different heights indicating temporal progression - the tail wheel, which lands last, is the highest. Time is here transformed into solid matter, exploring themes of anticipation, mechanical intervention, and the transformation of temporal experience into physical form. Exhibited at the Venice Biennale in 1980 where Pálsson represented Iceland. (Source: Reykjavík Art Museum collection description and Kjarvalstaðir catalog) 1976 sculpture conceptual time anticipation plaster helicopter venice biennale negative space 1970s Venice Biennale Venice Biennale Venice",
+      "url": "works.html?work=thyrlulending",
+      "year": 1976,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Viðtöl um dauðann",
+      "snippet": "A profound exploration of death and mortality through conversations and interviews. This work examines how we speak about death, confront mortality...",
+      "content": "Viðtöl um dauðann A profound exploration of death and mortality through conversations and interviews. This work examines how we speak about death, confront mortality, and find meaning in the face of the inevitable. The project includes documentation, texts, and collaborative elements exploring the universal human experience of confronting death. 2011 death mortality conversations interviews existential collaboration 2010s",
+      "url": "works.html?work=vidtol_um_daudann_2011",
+      "year": 2011,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Draumur hlynsins um fjall",
+      "snippet": "A poetic work exploring dreams, sound, and landscape. Created in collaboration with Edda Jónsdóttir in 1974, this work examines the relationship be...",
+      "content": "Draumur hlynsins um fjall A poetic work exploring dreams, sound, and landscape. Created in collaboration with Edda Jónsdóttir in 1974, this work examines the relationship between sound, memory, and the mountain landscape through performance and documentation. 1974 poetry dreams sound landscape mountain collaboration edda jónsdóttir 1970s",
+      "url": "works.html?work=draumur_hlynsins_um_fjall_1974",
+      "year": 1974,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Master Plaster Caster",
+      "snippet": "An installation work exploring themes of casting, reproduction, and material transformation. Created as part of Pálsson's ongoing investigation int...",
+      "content": "Master Plaster Caster An installation work exploring themes of casting, reproduction, and material transformation. Created as part of Pálsson's ongoing investigation into the relationship between original and copy, presence and absence. 2013 installation sculpture plaster casting reproduction 2010s",
+      "url": "works.html?work=master_plaster_caster_2013",
+      "year": 2013,
+      "page": "works"
+    },
+    {
+      "type": "work",
       "title": "YXN",
-      "type": "work", 
-      "page": "works",
-      "year": 2002,
+      "snippet": "Sound and video work featuring film of cows in heat (yxna) and chewing the cud in a field with text overlay. The word YXN may not exist but is used...",
+      "content": "YXN Sound and video work featuring film of cows in heat (yxna) and chewing the cud in a field with text overlay. The word YXN may not exist but is used here as a noun, while yxna is an adjective. Shown on a large screen with a poem read by Magnús Pálsson heard through 4 hanging headphones. About a young boy in the country and his dealings with people, cows and horses. Filmed by Steinþór Birgisson near Selfoss with Ingólfsfjall in the background. 2002 video sound poetry nature language installation headphones video sound headphones large screen text overlay 30th Anniversary of the Sculptors Union Hafnarhús, Reykjavik Reykjavik",
       "url": "works.html?work=yxn_2002",
-      "content": "YXN sound video cows heat yxna chewing cud field text headphones poem boy country horses Steinþór Birgisson Selfoss Ingólfsfjall large screen installation",
-      "snippet": "Sound and video work featuring film of cows in heat with poetry read through 4 hanging headphones."
+      "year": 2002,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "100 ára stríðið (100 Years War)",
+      "snippet": "A conceptual work exploring themes of conflict, endurance, and the passage of time. The Icelandic title '100 ára stríðið' (100 Years War) refers to...",
+      "content": "100 ára stríðið (100 Years War) A conceptual work exploring themes of conflict, endurance, and the passage of time. The Icelandic title '100 ára stríðið' (100 Years War) refers to the historical conflict, examining how prolonged struggles affect society and culture. Exhibited at Café Mokka in Reykjavik in 1995. 1995 conceptual installation conflict time history society culture café 1990s mixed media installation conceptual Solo Exhibition Café Mokka Reykjavik",
+      "url": "works.html?work=100_years_war_mokka_1995",
+      "year": 1995,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Ævintýr (Folktale)",
+      "snippet": "PLACEHOLDER: A recurring storytelling and folklore work performed in multiple venues from 1997-2016. Features audio/video components with both Icel...",
+      "content": "Ævintýr (Folktale) PLACEHOLDER: A recurring storytelling and folklore work performed in multiple venues from 1997-2016. Features audio/video components with both Icelandic and English versions. This entry needs review and completion by assistant - please add proper description and select best images from each exhibition. 1997 PLACEHOLDER folktale storytelling performance audio video recurring work audio video performance storytelling PLACEHOLDER - needs review NÝLO Exhibition NÝLO Iceland Reykjavik Folk Tale Exhibition Oxford Venue [NEEDS RESEARCH] Oxford Listhátið Arts Festival Listhátið Reykjavik Ævintýr Exhibition Seydisfjörður Venue [NEEDS RESEARCH] Seydisfjörður",
+      "url": "works.html?work=aevintyr_folktale_1997",
+      "year": 1997,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Angist fátæka reykingsmannsins (Smokers Nightmare)",
+      "snippet": "PLACEHOLDER: Work exploring themes related to smoking and anguish from 1975. This entry needs review and completion by assistant - please add prope...",
+      "content": "Angist fátæka reykingsmannsins (Smokers Nightmare) PLACEHOLDER: Work exploring themes related to smoking and anguish from 1975. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials. 1975 smoking anguish social commentary 1970s PLACEHOLDER - needs review PLACEHOLDER - materials [NEEDS REVIEW] PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=angist_fateka_reykingsmannsins_1975",
+      "year": 1975,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Anti-society league concert Norkjöping",
+      "snippet": "Developed from Barcarolle. In Norrköping, Sweden, a punk band played while Pálsson traced and cast negative spaces of people and furniture. The cas...",
+      "content": "Anti-society league concert Norkjöping Developed from Barcarolle. In Norrköping, Sweden, a punk band played while Pálsson traced and cast negative spaces of people and furniture. The casts were then reassembled as a clump — the material residue of sound and presence. This performance work explored the intersection of music, audience participation, and sculptural documentation, creating physical traces of ephemeral performance events. 1982 concert performance anti-society punk band casting negative space audience participation sculptural documentation material residue sound presence sweden norrköping 1980s performance casting documentation PLACEHOLDER - needs review Anti-society league concert PLACEHOLDER - Venue in Norkjöping [NEEDS RESEARCH] Norkjöping",
+      "url": "works.html?work=anti_society_league_concert_1982",
+      "year": 1982,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Ásmundarsalur exhibition",
+      "snippet": "PLACEHOLDER: Exhibition at Ásmundarsalur (Reykjavik Sculpture Museum) in 1968. Important early exhibition with documented press coverage and archiv...",
+      "content": "Ásmundarsalur exhibition PLACEHOLDER: Exhibition at Ásmundarsalur (Reykjavik Sculpture Museum) in 1968. Important early exhibition with documented press coverage and archival materials. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials. 1968 exhibition ásmundarsalur sculpture museum reykjavik 1960s early career PLACEHOLDER - needs review sculpture mixed media PLACEHOLDER - needs review Solo Exhibition Ásmundarsalur (Reykjavik Sculpture Museum) Reykjavik",
+      "url": "works.html?work=asmundarsalur_exhibition_1968",
+      "year": 1968,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Ást í Sundlaug (Love in the Pool)",
+      "snippet": "PLACEHOLDER: A work titled 'Love in the Pool' from 1975, featuring sketches and documentation of pool-related imagery. This entry needs review and ...",
+      "content": "Ást í Sundlaug (Love in the Pool) PLACEHOLDER: A work titled 'Love in the Pool' from 1975, featuring sketches and documentation of pool-related imagery. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials. 1975 love pool swimming sketch drawing 1970s PLACEHOLDER - needs review sketch drawing photography PLACEHOLDER - needs review PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=ast_i_sundlaug_1975",
+      "year": 1975,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Bacarolle í fís dúr",
+      "snippet": "PLACEHOLDER: Musical work from 1981 involving plaster casting and students. Features documentation of teaching and collaborative process. This entr...",
+      "content": "Bacarolle í fís dúr PLACEHOLDER: Musical work from 1981 involving plaster casting and students. Features documentation of teaching and collaborative process. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials. 1981 music bacarolle plaster casting students collaboration teaching 1980s PLACEHOLDER - needs review plaster casting music collaboration PLACEHOLDER - needs review PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=bacarolle_i_fis_dur_1981",
+      "year": 1981,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Bílatal - Óðurin til bílsins",
+      "snippet": "PLACEHOLDER: Performance work from 2002 featuring cars, poetry, and NÝLO exhibition. Includes video, audio, and text elements. This entry needs rev...",
+      "content": "Bílatal - Óðurin til bílsins PLACEHOLDER: Performance work from 2002 featuring cars, poetry, and NÝLO exhibition. Includes video, audio, and text elements. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials. 2002 cars poetry performance bílatal NÝLO 2000s video audio PLACEHOLDER - needs review performance video audio text PLACEHOLDER - needs review Óðurin til bílsins NÝLO Reykjavik",
+      "url": "works.html?work=bilatal_odurin_til_bilsins_2002",
+      "year": 2002,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Bjössi á mjólkurbílnum",
+      "snippet": "PLACEHOLDER: Work from 1994 exhibited at Kjarvalstaðir featuring Bjössi and milk truck imagery. This entry needs review and completion by assistant...",
+      "content": "Bjössi á mjólkurbílnum PLACEHOLDER: Work from 1994 exhibited at Kjarvalstaðir featuring Bjössi and milk truck imagery. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials. 1994 bjössi milk truck kjarvalstaðir 1990s PLACEHOLDER - needs review mixed media PLACEHOLDER - needs review Exhibition Kjarvalstaðir Reykjavik",
+      "url": "works.html?work=bjossi_a_mjolkurbilnum_1994",
+      "year": 1994,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Bók um bók og fleira",
+      "snippet": "PLACEHOLDER: Book work from 1980 including Norwegian translation. Features definitions and text elements. This entry needs review and completion by...",
+      "content": "Bók um bók og fleira PLACEHOLDER: Book work from 1980 including Norwegian translation. Features definitions and text elements. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials. 1980 book text definitions norwegian translation 1980s PLACEHOLDER - needs review book text translation PLACEHOLDER - needs review PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=bok_um_bok_og_fleira_1980",
+      "year": 1980,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Bréf til Djonna",
+      "snippet": "An intimate audio work from 1994, 'Bréf til Djonna' (Letter to Djonna) presents a personal correspondence in audio format. This work explores theme...",
+      "content": "Bréf til Djonna An intimate audio work from 1994, 'Bréf til Djonna' (Letter to Djonna) presents a personal correspondence in audio format. This work explores themes of communication, intimacy, and the spoken word as artistic medium, representing Magnús Pálsson's engagement with sound art and personal narrative. 1994 audio letter personal sound art spoken word intimacy communication 1990s audio recording spoken word personal correspondence Sound Works Various venues Iceland",
+      "url": "works.html?work=bref_til_djonna_1994",
+      "year": 1994,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Bréf til Kristjáns - Small work in Wingdings",
+      "snippet": "PLACEHOLDER: Small work from 1990 using Wingdings font, created as a letter to Kristján. This entry needs review and completion by assistant - plea...",
+      "content": "Bréf til Kristjáns - Small work in Wingdings PLACEHOLDER: Small work from 1990 using Wingdings font, created as a letter to Kristján. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this typography work. 1990 wingdings typography letter kristján small work 1990s PLACEHOLDER - needs review typography wingdings font text PLACEHOLDER - needs review PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=bref_til_kristjans_wingdings_1990",
+      "year": 1990,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Bréf til Ragnars",
+      "snippet": "PLACEHOLDER: Letter work from 2003 to Ragnar, including audio recording and documentation. This entry needs review and completion by assistant - pl...",
+      "content": "Bréf til Ragnars PLACEHOLDER: Letter work from 2003 to Ragnar, including audio recording and documentation. This entry needs review and completion by assistant - please add proper description, exhibition details, and context. 2003 letter ragnar audio personal 2000s PLACEHOLDER - needs review audio recording text documentation PLACEHOLDER - needs review PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=bref_til_ragnars_2003",
+      "year": 2003,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Brim Keflavik",
+      "snippet": "PLACEHOLDER: Work from 2005 in Keflavik featuring opening events and documentation. This entry needs review and completion by assistant - please ad...",
+      "content": "Brim Keflavik PLACEHOLDER: Work from 2005 in Keflavik featuring opening events and documentation. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this Keflavik work. 2005 brim keflavik opening event 2000s PLACEHOLDER - needs review mixed media documentation PLACEHOLDER - needs review Brim PLACEHOLDER - Venue in Keflavik [NEEDS RESEARCH] Keflavik",
+      "url": "works.html?work=brim_keflavik_2005",
+      "year": 2005,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Buxnaskálm Tóta Sigga",
+      "snippet": "Early iteration of Buxnaskálm, an installation work exploring spatial relationships and architectural intervention. This 1968 version involved coll...",
+      "content": "Buxnaskálm Tóta Sigga Early iteration of Buxnaskálm, an installation work exploring spatial relationships and architectural intervention. This 1968 version involved collaborators Tóta and Sigga, featuring group documentation and collaborative processes. The work would later be revisited in 1981 as part of Pálsson's ongoing investigation into spatial dynamics and communal artistic practice. 1968 buxnaskálm installation spatial relationships architectural intervention collaboration tóta sigga group work 1960s collaboration documentation PLACEHOLDER - needs review PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=buxnaskalm_tota_sigga_1968",
+      "year": 1968,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Clothes",
+      "snippet": "PLACEHOLDER: Clothing/fashion work from 2000 featuring jackets and models. Includes documentation with Jackie and MP modeling. This entry needs rev...",
+      "content": "Clothes PLACEHOLDER: Clothing/fashion work from 2000 featuring jackets and models. Includes documentation with Jackie and MP modeling. This entry needs review and completion by assistant - please add proper description, exhibition details, and context. 2000 clothes fashion jackets modeling jackie 2000s PLACEHOLDER - needs review fashion photography documentation PLACEHOLDER - needs review PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=clothes_2000",
+      "year": 2000,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Contours of a baby",
+      "snippet": "PLACEHOLDER: Work from 1987 with tape to be digitalized. This entry needs review and completion by assistant - please add proper description, exhib...",
+      "content": "Contours of a baby PLACEHOLDER: Work from 1987 with tape to be digitalized. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this baby-related work. 1987 baby contours tape digitalization 1980s PLACEHOLDER - needs review tape audio/video PLACEHOLDER - needs review PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=contours_of_a_baby_1987",
+      "year": 1987,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Dalalæða (Mist)",
+      "snippet": "A plaster cast of a valley mist, where mist was rendered as positive form and the valley as negative. Pálsson described it: 'Very low mist creeps u...",
+      "content": "Dalalæða (Mist) A plaster cast of a valley mist, where mist was rendered as positive form and the valley as negative. Pálsson described it: 'Very low mist creeps up the valley from the sea, covering only the bottom so that from the low hills stick their heads up through it… cotton-wool-like mist. Very lovely.' This work exemplifies his practice of materializing ephemeral atmospheric phenomena through casting techniques. 1975 valley mist plaster cast positive form negative form atmospheric phenomena materializing ephemeral casting techniques landscape sea hills 1970s plaster cast sculpture PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=dalalada_mist_1975",
+      "year": 1975,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Dog Book",
+      "snippet": "PLACEHOLDER: Book work from 1973 featuring dogs, with copies including MP involvement. This entry needs review and completion by assistant - please...",
+      "content": "Dog Book PLACEHOLDER: Book work from 1973 featuring dogs, with copies including MP involvement. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this book project. 1973 dog book publication 1970s PLACEHOLDER - needs review book publication PLACEHOLDER - needs review PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=dog_book_1973",
+      "year": 1973,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Dulargervi Malnigarbakki (Camouflage)",
+      "snippet": "PLACEHOLDER: Early work from 1966 exploring camouflage themes at Malnigarbakki. This entry needs review and completion by assistant - please add pr...",
+      "content": "Dulargervi Malnigarbakki (Camouflage) PLACEHOLDER: Early work from 1966 exploring camouflage themes at Malnigarbakki. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this camouflage work. 1966 camouflage dulargervi malnigarbakki early work 1960s PLACEHOLDER - needs review mixed media PLACEHOLDER - needs review PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=dulargervi_malnigarbakki_camouflage_1966",
+      "year": 1966,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Daviðssálmur - Choir piece (also Kross) Írís",
+      "snippet": "PLACEHOLDER: Choir piece from 1985, also known as Kross, connected to Írís. Features psalms 16 and 51 with prayers about David's psalms. This entry...",
+      "content": "Daviðssálmur - Choir piece (also Kross) Írís PLACEHOLDER: Choir piece from 1985, also known as Kross, connected to Írís. Features psalms 16 and 51 with prayers about David's psalms. This entry needs review and completion by assistant - please add proper description, exhibition details, and context. 1985 choir psalms david kross íris religious music 1980s PLACEHOLDER - needs review choir music text religious music PLACEHOLDER - needs review PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=davidssalmur_choir_piece",
+      "year": 1985,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "De kommer med kista og henter meg",
+      "snippet": "PLACEHOLDER: Performance work from 1985 (They come with coffin and fetch me). Features performances in Oslo and Reykjavik with stage sets, costumes...",
+      "content": "De kommer med kista og henter meg PLACEHOLDER: Performance work from 1985 (They come with coffin and fetch me). Features performances in Oslo and Reykjavik with stage sets, costumes, and student productions. Includes video documentation. This entry needs review and completion by assistant - please add proper description, exhibition details, and context. 1985 performance oslo reykjavik coffin stage costumes video 1980s PLACEHOLDER - needs review performance video stage design costumes PLACEHOLDER - needs review De kommer med kista og henter meg Oslo [NEEDS RESEARCH] Oslo Student Production Reykjavík [NEEDS RESEARCH] Reykjavík",
+      "url": "works.html?work=de_kommer_med_kista_1985",
+      "year": 1985,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Dreams Skinned Rabbit Bookie Wookie (Berlin)",
+      "snippet": "PLACEHOLDER: Berlin work from 2005 involving Dreams, Skinned Rabbit, and Bookie Wookie elements. Features collaborations and audio components. This...",
+      "content": "Dreams Skinned Rabbit Bookie Wookie (Berlin) PLACEHOLDER: Berlin work from 2005 involving Dreams, Skinned Rabbit, and Bookie Wookie elements. Features collaborations and audio components. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this Berlin project. 2005 dreams skinned rabbit bookie wookie berlin collaboration jan audio 2000s PLACEHOLDER - needs review audio collaboration mixed media PLACEHOLDER - needs review Dreams Skinned Rabbit Bookie Wookie PLACEHOLDER - Berlin Venue [NEEDS RESEARCH] Berlin",
+      "url": "works.html?work=dreams_skinned_rabbit_berlin_2005",
+      "year": 2005,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Duld-blub, bum-mud 6 pund, and small plaster books",
+      "snippet": "PLACEHOLDER: Complex work from 1976 involving wordplay titles, 6 pound elements, and small plaster books. Features various sculptural components an...",
+      "content": "Duld-blub, bum-mud 6 pund, and small plaster books PLACEHOLDER: Complex work from 1976 involving wordplay titles, 6 pound elements, and small plaster books. Features various sculptural components and experimental language. This entry needs review and completion by assistant - please add proper description, exhibition details, and context. 1976 wordplay plaster books experimental language sculpture 1970s PLACEHOLDER - needs review plaster books sculpture experimental text PLACEHOLDER - needs review PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=duld_blub_bum_mud_1976",
+      "year": 1976,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Echo - Holland Student work",
+      "snippet": "PLACEHOLDER: Student work from Holland in 1983 involving Echo themes with participants. Features mirrors, lips, and student collaboration. This ent...",
+      "content": "Echo - Holland Student work PLACEHOLDER: Student work from Holland in 1983 involving Echo themes with participants. Features mirrors, lips, and student collaboration. This entry needs review and completion by assistant - please add proper description, exhibition details, and context. 1983 echo holland students mirrors collaboration 1980s PLACEHOLDER - needs review mirrors student collaboration mixed media PLACEHOLDER - needs review Student Work Exhibition PLACEHOLDER - Holland Venue [NEEDS RESEARCH] PLACEHOLDER - Holland City [NEEDS RESEARCH]",
+      "url": "works.html?work=echo_holland_student_work_1983",
+      "year": 1983,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Edda text works - ancestry 11 artists Malmö",
+      "snippet": "PLACEHOLDER: Text works from 1978 exploring ancestry themes with 11 artists in Malmö, Sweden. Features Edda-related content and group collaboration...",
+      "content": "Edda text works - ancestry 11 artists Malmö PLACEHOLDER: Text works from 1978 exploring ancestry themes with 11 artists in Malmö, Sweden. Features Edda-related content and group collaboration. This entry needs review and completion by assistant - please add proper description, exhibition details, and context. 1978 edda text works ancestry 11 artists malmö sweden 1970s PLACEHOLDER - needs review text edda references group collaboration PLACEHOLDER - needs review 11 Artists - Ancestry PLACEHOLDER - Malmö Venue [NEEDS RESEARCH] Malmö",
+      "url": "works.html?work=edda_text_works_ancestry_malmo_1978",
+      "year": 1978,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Engin glypir solina (OG)",
+      "snippet": "Multi-channel sound sculpture installation created in 1983, later exhibited at Gallery One-One on Skólavörðustígur in 1993. The work consists of se...",
+      "content": "Engin glypir solina (OG) Multi-channel sound sculpture installation created in 1983, later exhibited at Gallery One-One on Skólavörðustígur in 1993. The work consists of several 'sound sculptures' (hljóðskúlptúrar) arranged in two separate rooms, playing simultaneously to create an immersive audio environment. Drawing from childhood memories and fragments of conversation, the piece features fragmented narratives, coughing, clearing throats, yawning, humming, repetitions, and various human sounds that evoke gatherings of adults from another time and place. The installation includes physical elements: under each speaker (four speakers per 'rjóður' or room, creating stereo sound) are piles of snuff tobacco and large paper noses, referencing multiple senses and providing visual cues for the audio content. Individual sound sculptures have characteristically Icelandic folk humor titles including 'Enginn gleypir sólina... (þó hann bryðji tunglið eins og fisk)', 'Mús og lús', 'Hér pissa ég', and 'Herra Túrpur Jónsson'. The work was created with seven actors, a director, and sound engineer, with its strength lying in the sound mixing that places the listener 'in the middle of the picture.' (Source: Eiríkur Þorláksson review, Morgunblaðið, February 24, 1993) 1983 sound sculpture hljóðskúlptúr multi-channel audio installation memory childhood icelandic humor gallery one-one snuff tobacco 1980s 1990s sound audio installation speakers snuff tobacco paper multi-channel audio Enginn gleypir sólina Gallery One-One (Gallerí einn einn) Reykjavik",
+      "url": "works.html?work=engin_glypir_solina_1983",
+      "year": 1983,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Fjall ceramic pieces",
+      "snippet": "PLACEHOLDER: Ceramic pieces from 1969-71 with mountain (fjall) themes. Features various ceramic works and new pieces from moulds. This entry needs ...",
+      "content": "Fjall ceramic pieces PLACEHOLDER: Ceramic pieces from 1969-71 with mountain (fjall) themes. Features various ceramic works and new pieces from moulds. This entry needs review and completion by assistant - please add proper description, exhibition details, and context. 1969 fjall mountain ceramic sculpture 1960s 1970s PLACEHOLDER - needs review ceramic sculpture moulds PLACEHOLDER - needs review PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=fjall_ceramic_pieces_1969_71",
+      "year": 1969,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Franklin Furnace New York",
+      "snippet": "PLACEHOLDER: Work from 1984 at Franklin Furnace in New York. Features publication pages and performance documentation including Bacarolle í fís dúr...",
+      "content": "Franklin Furnace New York PLACEHOLDER: Work from 1984 at Franklin Furnace in New York. Features publication pages and performance documentation including Bacarolle í fís dúr. This entry needs review and completion by assistant - please add proper description, exhibition details, and context. 1984 franklin furnace new york publication performance bacarolle 1980s PLACEHOLDER - needs review publication performance documentation PLACEHOLDER - needs review Franklin Furnace Exhibition Franklin Furnace New York",
+      "url": "works.html?work=franklin_furnace_ny_1984",
+      "year": 1984,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Eddumyndir Mosfellsbær & Íslandsbanki",
+      "snippet": "PLACEHOLDER: Edda-related images/sketches from 1983 involving Mosfellsbær and Íslandsbanki. Features Hel, Himinbjörg and other mythological referen...",
+      "content": "Eddumyndir Mosfellsbær & Íslandsbanki PLACEHOLDER: Edda-related images/sketches from 1983 involving Mosfellsbær and Íslandsbanki. Features Hel, Himinbjörg and other mythological references. This entry needs review and completion by assistant - please add proper description, exhibition details, and context. 1983 edda mythology sketches hel himinbjörg mosfellsbær íslandsbanki 1980s PLACEHOLDER - needs review sketches drawing mythology references PLACEHOLDER - needs review PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=eddumyndir_mosfellsbaer_islandsbanki_1983",
+      "year": 1983,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Erðanuborð",
+      "snippet": "PLACEHOLDER: Early work from 1962, one of the earliest documented works in the archive. This entry needs review and completion by assistant - pleas...",
+      "content": "Erðanuborð PLACEHOLDER: Early work from 1962, one of the earliest documented works in the archive. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this early piece. 1962 early work 1960s PLACEHOLDER - needs review PLACEHOLDER - materials [NEEDS REVIEW] PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=erdanubodd_1962",
+      "year": 1962,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Ferðafuða (Travel exhibition)",
+      "snippet": "PLACEHOLDER: Travel exhibition from 2003 with Niels Hafstein (NH) featuring Card House and Bridge themes. This entry needs review and completion by...",
+      "content": "Ferðafuða (Travel exhibition) PLACEHOLDER: Travel exhibition from 2003 with Niels Hafstein (NH) featuring Card House and Bridge themes. This entry needs review and completion by assistant - please add proper description, exhibition details, and context. 2003 travel exhibition ferðafuða niels hafstein card house bridge 2000s PLACEHOLDER - needs review installation card house bridge correspondence PLACEHOLDER - needs review Ferðafuða - Travel Exhibition PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=ferdafuda_travel_exhibition_2003",
+      "year": 2003,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Foss (Waterfall)",
+      "snippet": "PLACEHOLDER: Waterfall-themed work from 2006 with extensive photographic documentation. This entry needs review and completion by assistant - pleas...",
+      "content": "Foss (Waterfall) PLACEHOLDER: Waterfall-themed work from 2006 with extensive photographic documentation. This entry needs review and completion by assistant - please add proper description, exhibition details, and context. 2006 foss waterfall nature photography 2000s PLACEHOLDER - needs review photography nature documentation PLACEHOLDER - needs review PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=foss_waterfall_2006",
+      "year": 2006,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Freyskatla",
+      "snippet": "Second iteration of Freyskatla, a large-scale installation addressing geological and mythological themes. This 1992 version features audio and text...",
+      "content": "Freyskatla Second iteration of Freyskatla, a large-scale installation addressing geological and mythological themes. This 1992 version features audio and text work with radio elements, developed in collaboration with Steingrímur. The work explores Iceland's volcanic landscape through both physical and conceptual layers, building upon the earlier 1982 installation while incorporating evolved understanding of geological forces and cultural mythology. 1992 freyskatla installation geological themes mythology volcanic landscape audio radio steingrímur collaboration text 1990s audio radio text collaboration PLACEHOLDER - needs review PLACEHOLDER - Exhibition [NEEDS RESEARCH] PLACEHOLDER - Venue [NEEDS RESEARCH] PLACEHOLDER - City [NEEDS RESEARCH]",
+      "url": "works.html?work=freyskatla_1992",
+      "year": 1992,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Automobile bók",
+      "snippet": "PLACEHOLDER: A book or documentation work about automobiles from 1970-74. This entry needs review and completion by assistant - please add proper d...",
+      "content": "Automobile bók PLACEHOLDER: A book or documentation work about automobiles from 1970-74. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials. 1970 PLACEHOLDER book automobile 1970s PLACEHOLDER - needs review",
+      "url": "works.html?work=automobile_bok_1970_74",
+      "year": 1970,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Flæðarmál (Beach)",
+      "snippet": "A plaster cast in three parts — of the beach, the sea, and the sky. When fitted together, they formed a seamless block. Each part had a positive va...",
+      "content": "Flæðarmál (Beach) A plaster cast in three parts — of the beach, the sea, and the sky. When fitted together, they formed a seamless block. Each part had a positive value relative to the others, but together the values cancelled out — a mathematical reflection of positive/negative balance. This work exemplifies Pálsson's exploration of environmental casting and the conceptual transformation of landscape elements into sculptural form. 1976 beach sea sky three parts plaster cast seamless block positive value negative value mathematical reflection environmental casting landscape 1970s plaster cast sculpture three-part installation Retrospective Exhibition Kjarvalstaðir Reykjavík Something from nothing (Eitthvað úr engu) - Retrospective Listasafn Reykjavíkur (Reykjavik Art Museum) Reykjavík Exhibition in Lund Lund (venue to be confirmed) Lund",
+      "url": "works.html?work=flaedamal_beach_1976",
+      "year": 1976,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Galleri Gangur - Hani, krummi, hundur, svin",
+      "snippet": "Multi-part work featuring animals and musical notation, exhibited at Galleri Gangur in 1982. The work combines drawings and musical compositions fe...",
+      "content": "Galleri Gangur - Hani, krummi, hundur, svin Multi-part work featuring animals and musical notation, exhibited at Galleri Gangur in 1982. The work combines drawings and musical compositions featuring various animals: hani (cockerel), krummi (crow), hundur (dog), and svin (pig), along with birds, horses, and mice. The integration of animal imagery with musical notation suggests an exploration of sound, nature, and artistic expression across different media. 1982 animals musical notation drawing hani cockerel krummi crow hundur dog svin pig bird horse mouse sound nature galleri gangur 1980s drawing musical notation mixed media Exhibition at Galleri Gangur Galleri Gangur Reykjavík",
+      "url": "works.html?work=galleri_gangur_1982",
+      "year": 1982,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Gapassipi (Tjöpörnipinnipi)",
+      "snippet": "Installation and performance work exhibited at Ráðhúsið (Reykjavík City Hall) in September 1995. The work combined spatial installation with audio ...",
+      "content": "Gapassipi (Tjöpörnipinnipi) Installation and performance work exhibited at Ráðhúsið (Reykjavík City Hall) in September 1995. The work combined spatial installation with audio elements, featuring floor-based compositions and sound poetry. The title suggests experimental language and sound exploration, with documentation showing the work's integration into the architectural space of the City Hall. The installation included audio components and was accompanied by press coverage and detailed documentation. 1995 installation performance audio sound poetry experimental language tjöpörnipinnipi ráðhúsið city hall floor installation spatial composition 1990s installation audio sound mixed media floor composition Gapassipi (Tjöpörnipinnipi) Ráðhúsið (Reykjavík City Hall) Reykjavík",
+      "url": "works.html?work=gapassipi_1995",
+      "year": 1995,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "G-Ljóð",
+      "snippet": "Poetry publication from 2009 featuring experimental text and visual poetry. The work consists of nine pages plus a front cover, presenting G-themed...",
+      "content": "G-Ljóð Poetry publication from 2009 featuring experimental text and visual poetry. The work consists of nine pages plus a front cover, presenting G-themed poems that explore language, sound, and visual composition. The publication represents Pálsson's continued exploration of text-based art and experimental poetry, combining visual and textual elements in a cohesive artistic statement. 2009 poetry publication experimental text visual poetry g-ljóð language text art book 2000s text publication poetry book",
+      "url": "works.html?work=g_ljod_2009",
+      "year": 2009,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Grað og Bú",
+      "snippet": "Audio work from 2002 combining sound composition with text elements. The work consists of a master audio recording with accompanying poetry texts, ...",
+      "content": "Grað og Bú Audio work from 2002 combining sound composition with text elements. The work consists of a master audio recording with accompanying poetry texts, exploring themes suggested by the title 'Grað og Bú' (roughly translating to 'Hunger and Dwelling'). The piece represents Pálsson's continued exploration of sound poetry and audio art, combining spoken word elements with experimental audio composition. 2002 audio sound poetry text poetry master recording experimental audio grað bú 2000s audio sound text poetry recording",
+      "url": "works.html?work=grad_og_bu_2002",
+      "year": 2002,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Gibsbörn Children",
+      "snippet": "Life-size plaster sculptures of children, related to the 'Plaster children' series from the catalog (1970). The works were made by pouring plaster ...",
+      "content": "Gibsbörn Children Life-size plaster sculptures of children, related to the 'Plaster children' series from the catalog (1970). The works were made by pouring plaster into children's clothing, using the clothes as moulds which were destroyed in the process, leaving only the stiffened forms. Pálsson emphasized their unesthetic, awkward presence — weight, smell, and the memory of use were part of the work. Some figures were given names such as 'Intelligent child' and 'Deceitful child'. The work has been exhibited internationally, including at Gallery Fodor in Amsterdam, and represents a significant exploration of childhood, materiality, and the transformation of everyday objects into sculptural form. 1971 sculpture plaster children life-size clothing moulds materiality childhood gibsbörn gallery fodor amsterdam lund 1970s plaster clothing casting sculpture Exhibition at Gallery Fodor Gallery Fodor Amsterdam Exhibition in Lund Lund (venue to be confirmed) Lund",
+      "url": "works.html?work=gibsborn_children_1971",
+      "year": 1971,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Að juða sér rangsælis",
+      "snippet": "PLACEHOLDER: Video performance work from 2000 featuring performance at Iðnó theater with speaking elements by both Magnús and Ragnheiður Guðmundsdó...",
+      "content": "Að juða sér rangsælis PLACEHOLDER: Video performance work from 2000 featuring performance at Iðnó theater with speaking elements by both Magnús and Ragnheiður Guðmundsdóttir. This work includes video documentation of the performance along with backdrop elements. [NEEDS REVIEW: Complete description, performance context, and venue details needed] 2000 video performance iðnó ragga speaking theater 2000s PLACEHOLDER - needs review video performance backdrops PLACEHOLDER - needs review PLACEHOLDER - Exhibition [NEEDS RESEARCH] Iðnó Reykjavik",
+      "url": "works.html?work=ad_juda_ser_rangsaelis_2000",
+      "year": 2000,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Hattar",
+      "snippet": "A series of works exploring headwear and identity from 1969-1971. The work examines the symbolic and social significance of hats as markers of iden...",
+      "content": "Hattar A series of works exploring headwear and identity from 1969-1971. The work examines the symbolic and social significance of hats as markers of identity, profession, and social status, created during Magnús Pálsson's early conceptual period. 1969-71 sculpture identity social commentary conceptual headwear series 1960s 1970s mixed media sculpture documentation Early Conceptual Works Various venues Reykjavik",
+      "url": "works.html?work=hattar_1969_71",
+      "year": "1969-71",
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Hrognkelsaveifa (Strandlegjan)",
+      "snippet": "A significant beach sculpture installation created at Ægissíða in 1998, also known as Strandlegjan (Beach Play). The work involved creating sculptu...",
+      "content": "Hrognkelsaveifa (Strandlegjan) A significant beach sculpture installation created at Ægissíða in 1998, also known as Strandlegjan (Beach Play). The work involved creating sculptural interventions on the beach, exploring the relationship between natural forms and artistic intervention in the coastal landscape. 1998 sculpture installation beach landscape intervention site-specific coastal environmental 1990s beach intervention natural materials sculpture site-specific installation Beach Installation Ægissíða Beach Reykjavik",
+      "url": "works.html?work=hrognkelsaveifa_strandlegjan_1998",
+      "year": 1998,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Hundar (Hundljóð, Dogs)",
+      "snippet": "A major sculptural series created in collaboration with Óli Gísla in 1970. This extensive work includes multiple dog sculptures with straw elements...",
+      "content": "Hundar (Hundljóð, Dogs) A major sculptural series created in collaboration with Óli Gísla in 1970. This extensive work includes multiple dog sculptures with straw elements, documented through photographs and agreements. The series explores themes of companionship, domestication, and the relationship between humans and animals through sculptural forms. 1970 sculpture animals dogs collaboration series straw 1970s óli gísla sculpture straw mixed media documentation Hundljóð Series Various exhibitions Reykjavik",
+      "url": "works.html?work=hundar_dogs_1970",
+      "year": 1970,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Hvískur (Whisper)",
+      "snippet": "A significant work exploring themes of communication, intimacy, and sound from 1975. Hvískur (Whisper) investigates the subtle dynamics of quiet sp...",
+      "content": "Hvískur (Whisper) A significant work exploring themes of communication, intimacy, and sound from 1975. Hvískur (Whisper) investigates the subtle dynamics of quiet speech and private communication, with extensive documentation and multiple iterations developed over time, including versions from 1994 and later work with Steinþór Birgisson. 1975 sound whisper communication intimacy performance voice 1970s sound performance voice documentation Sound Works Various venues Reykjavik",
+      "url": "works.html?work=hviskur_whisper_1975",
+      "year": 1975,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Jón summer",
+      "snippet": "A multi-temporal work spanning from 2008 (Nýp exhibition) to 2022 (Mjóaból, Haukardal). This work explores themes of place, memory, and seasonal ch...",
+      "content": "Jón summer A multi-temporal work spanning from 2008 (Nýp exhibition) to 2022 (Mjóaból, Haukardal). This work explores themes of place, memory, and seasonal change through documentation and mapping. The project connects two different locations and times, creating a dialogue between past and present through photographic documentation and exhibition materials. 2008/2022 place memory mapping seasonal documentation multi-temporal landscape 2000s 2020s photography documentation mapping exhibition materials Nýp Exhibition Exhibition space Iceland Mjóaból Documentation Haukardal Iceland",
+      "url": "works.html?work=jon_summer_2008_2022",
+      "year": "2008/2022",
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Jónsmessunótt (bank piece)",
+      "snippet": "A conceptual work from 1982 involving Íslandsbanki (Iceland Bank). This bank piece explores institutional relationships, financial systems, and art...",
+      "content": "Jónsmessunótt (bank piece) A conceptual work from 1982 involving Íslandsbanki (Iceland Bank). This bank piece explores institutional relationships, financial systems, and artistic intervention within corporate structures. The work includes correspondence, drawings, and documentation of the artistic process within the banking institution context. 1982 conceptual institutional critique banking midsummer corporate intervention 1980s institutional intervention correspondence drawings documentation Bank Installation Íslandsbanki Reykjavik",
+      "url": "works.html?work=jonsmessunott_bank_piece_1982",
+      "year": 1982,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Jörgen Bruun Hansen May 2013 LI (Baldvina)",
+      "snippet": "A collaborative work from May 2013 involving Jörgen Bruun Hansen at the Living Art Museum (LI), with connection to Baldvina. The work includes penc...",
+      "content": "Jörgen Bruun Hansen May 2013 LI (Baldvina) A collaborative work from May 2013 involving Jörgen Bruun Hansen at the Living Art Museum (LI), with connection to Baldvina. The work includes pencil sketches, video documentation (Murari), and extensive photographic documentation. This piece explores portraiture, collaboration, and the documentation of artistic encounters. 2013 collaboration portrait drawing video living art museum baldvina 2010s pencil sketches video photography collaboration Collaboration at Living Art Museum Living Art Museum (LI) Reykjavik",
+      "url": "works.html?work=jorgen_bruun_hansen_2013",
+      "year": 2013,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Eyetalk (Augntal)",
+      "snippet": "A major multimedia work spanning over a decade (1986-1998), Eyetalk (Augntal) explores communication, perception, and the relationship between visu...",
+      "content": "Eyetalk (Augntal) A major multimedia work spanning over a decade (1986-1998), Eyetalk (Augntal) explores communication, perception, and the relationship between visual and verbal language. The work includes multiple video components, extensive text materials, and documentation spanning various iterations and developments. This comprehensive piece examines how we communicate through eyes and words, creating a dialogue between visual perception and spoken language. 1986-1998 video multimedia communication perception language eyes speech augntal multi-temporal 1980s 1990s video text documentation multimedia installation Video installations Various venues Iceland Eyetalk discussion Various venues Iceland",
+      "url": "works.html?work=eyetalk_augntal_1986_1998",
+      "year": "1986-1998",
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Seeds of Aspidistra",
+      "snippet": "A sound poetry work by Magnús Pálsson from 2002. This experimental text-based performance piece explores themes of economics, absurdity, and langua...",
+      "content": "Seeds of Aspidistra A sound poetry work by Magnús Pálsson from 2002. This experimental text-based performance piece explores themes of economics, absurdity, and language through stream-of-consciousness narrative and wordplay. The work combines spoken word, text, and audio elements in a dadaist exploration of banking, capitalism, and surreal imagery. 2002 sound poetry audio art text performance 2002 experimental audio text performance",
+      "url": "works.html?work=seeds-of-aspidistra-2002",
+      "year": 2002,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Silfur Egils 1985",
+      "snippet": "A work by Magnús Pálsson from 1985. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Silfur Egils 1985 A work by Magnús Pálsson from 1985. This piece demonstrates his artistic exploration and creative development during this period. 1985 artwork 1985",
+      "url": "works.html?work=silfur-egils-1985",
+      "year": 1985,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Silver chairs - in tins in M's office",
+      "snippet": "A work by Magnús Pálsson from Unknown. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Silver chairs - in tins in M's office A work by Magnús Pálsson from Unknown. This piece demonstrates his artistic exploration and creative development during this period. Unknown artwork",
+      "url": "works.html?work=silver-chairs-in-tins-in-ms-office",
+      "year": "Unknown",
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Sjóndeildarhringur (Horizon) 1975",
+      "snippet": "A work by Magnús Pálsson from 1975. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Sjóndeildarhringur (Horizon) 1975 A work by Magnús Pálsson from 1975. This piece demonstrates his artistic exploration and creative development during this period. 1975 artwork 1975",
+      "url": "works.html?work=sjondeildarhringur-horizon-1975",
+      "year": 1975,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Skýrsla 1968",
+      "snippet": "A work by Magnús Pálsson from 1968. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Skýrsla 1968 A work by Magnús Pálsson from 1968. This piece demonstrates his artistic exploration and creative development during this period. 1968 artwork 1968",
+      "url": "works.html?work=skyrsla-1968",
+      "year": 1968,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Small pieces 1998_9 Frances Gyða",
+      "snippet": "A work by Magnús Pálsson from Unknown. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Small pieces 1998_9 Frances Gyða A work by Magnús Pálsson from Unknown. This piece demonstrates his artistic exploration and creative development during this period. Unknown artwork",
+      "url": "works.html?work=small-pieces-19989-frances-gyda",
+      "year": "Unknown",
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Small sketches with Veiga and Palli",
+      "snippet": "A work by Magnús Pálsson from Unknown. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Small sketches with Veiga and Palli A work by Magnús Pálsson from Unknown. This piece demonstrates his artistic exploration and creative development during this period. Unknown artwork",
+      "url": "works.html?work=small-sketches-with-veiga-and-palli",
+      "year": "Unknown",
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Sorg 2016",
+      "snippet": "A work by Magnús Pálsson from 2016. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Sorg 2016 A work by Magnús Pálsson from 2016. This piece demonstrates his artistic exploration and creative development during this period. 2016 artwork 2016",
+      "url": "works.html?work=sorg-2016",
+      "year": 2016,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Sounds of Norway student work 1985",
+      "snippet": "A work by Magnús Pálsson from 1985. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Sounds of Norway student work 1985 A work by Magnús Pálsson from 1985. This piece demonstrates his artistic exploration and creative development during this period. 1985 artwork 1985",
+      "url": "works.html?work=sounds-of-norway-student-work-1985",
+      "year": 1985,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Spenna, Suspense, Sænskir sálmar, Hymn bok 1977",
+      "snippet": "A work by Magnús Pálsson from 1977. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Spenna, Suspense, Sænskir sálmar, Hymn bok 1977 A work by Magnús Pálsson from 1977. This piece demonstrates his artistic exploration and creative development during this period. 1977 artwork 1977",
+      "url": "works.html?work=spenna-suspense-saenskir-salmar-hymn-bok-1977",
+      "year": 1977,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Spilaborg Card house NH for Ferðafuða 2003",
+      "snippet": "A work by Magnús Pálsson from 2003. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Spilaborg Card house NH for Ferðafuða 2003 A work by Magnús Pálsson from 2003. This piece demonstrates his artistic exploration and creative development during this period. 2003 artwork 2003",
+      "url": "works.html?work=spilaborg-card-house-nh-for-ferdafuda-2003",
+      "year": 2003,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Sprengd hljóðhimna _ Burst Eardrum 1991 & 2012",
+      "snippet": "A work by Magnús Pálsson from 1991. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Sprengd hljóðhimna _ Burst Eardrum 1991 & 2012 A work by Magnús Pálsson from 1991. This piece demonstrates his artistic exploration and creative development during this period. 1991 artwork 1991",
+      "url": "works.html?work=sprengd-hljodhimna-burst-eardrum-1991-2012",
+      "year": 1991,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Spud  Bern  MP RG OB 1998",
+      "snippet": "A work by Magnús Pálsson from 1998. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Spud  Bern  MP RG OB 1998 A work by Magnús Pálsson from 1998. This piece demonstrates his artistic exploration and creative development during this period. 1998 artwork 1998",
+      "url": "works.html?work=spud-bern-mp-rg-ob-1998",
+      "year": 1998,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Steinar launch 2007-8",
+      "snippet": "A work by Magnús Pálsson from 2007. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Steinar launch 2007-8 A work by Magnús Pálsson from 2007. This piece demonstrates his artistic exploration and creative development during this period. 2007 artwork 2007",
+      "url": "works.html?work=steinar-launch-20078",
+      "year": 2007,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Steinþoka 1977",
+      "snippet": "A work by Magnús Pálsson from 1977. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Steinþoka 1977 A work by Magnús Pálsson from 1977. This piece demonstrates his artistic exploration and creative development during this period. 1977 artwork 1977",
+      "url": "works.html?work=steinthoka-1977",
+      "year": 1977,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Stjáni meik 1994",
+      "snippet": "A work by Magnús Pálsson from 1994. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Stjáni meik 1994 A work by Magnús Pálsson from 1994. This piece demonstrates his artistic exploration and creative development during this period. 1994 artwork 1994",
+      "url": "works.html?work=stjani-meik-1994",
+      "year": 1994,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Struns 2002",
+      "snippet": "A work by Magnús Pálsson from 2002. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Struns 2002 A work by Magnús Pálsson from 2002. This piece demonstrates his artistic exploration and creative development during this period. 2002 artwork 2002",
+      "url": "works.html?work=struns-2002",
+      "year": 2002,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Stærðfræði  (Maths) 1976",
+      "snippet": "A work by Magnús Pálsson from 1976. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Stærðfræði  (Maths) 1976 A work by Magnús Pálsson from 1976. This piece demonstrates his artistic exploration and creative development during this period. 1976 artwork 1976",
+      "url": "works.html?work=staerdfraedi-maths-1976",
+      "year": 1976,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Sólskrikja, mús, kengúra (Bird, mouse, kangaroo) 1980 &1994",
+      "snippet": "A work by Magnús Pálsson from 1980. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Sólskrikja, mús, kengúra (Bird, mouse, kangaroo) 1980 &1994 A work by Magnús Pálsson from 1980. This piece demonstrates his artistic exploration and creative development during this period. 1980 artwork 1980",
+      "url": "works.html?work=solskrikja-mus-kengura-bird-mouse-kangaroo-1980-1994",
+      "year": 1980,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Sólúr Skagarstrand Aug 2015",
+      "snippet": "A work by Magnús Pálsson from 2015. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Sólúr Skagarstrand Aug 2015 A work by Magnús Pálsson from 2015. This piece demonstrates his artistic exploration and creative development during this period. 2015 artwork 2015",
+      "url": "works.html?work=solur-skagarstrand-aug-2015",
+      "year": 2015,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Sólúr sundials  originals 1965ish (to 77)",
+      "snippet": "A work by Magnús Pálsson from Unknown. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Sólúr sundials  originals 1965ish (to 77) A work by Magnús Pálsson from Unknown. This piece demonstrates his artistic exploration and creative development during this period. Unknown artwork",
+      "url": "works.html?work=solur-sundials-originals-1965ish-to-77",
+      "year": "Unknown",
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "skyggn_berdreyminn_naemur_1969",
+      "snippet": "A work by Magnús Pálsson from Unknown. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "skyggn_berdreyminn_naemur_1969 A work by Magnús Pálsson from Unknown. This piece demonstrates his artistic exploration and creative development during this period. Unknown artwork",
+      "url": "works.html?work=skyggnberdreyminnnaemur1969",
+      "year": "Unknown",
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Stuna 2013",
+      "snippet": "A video work by Magnús Pálsson from 2013. This piece demonstrates his artistic exploration and creative development during this period.",
+      "content": "Stuna 2013 A video work by Magnús Pálsson from 2013. This piece demonstrates his artistic exploration and creative development during this period. 2013 video artwork 2013 video",
+      "url": "works.html?work=stuna-2013",
+      "year": 2013,
+      "page": "works"
     },
     {
       "id": "exhibition_yxn_sculptors_union",
       "title": "30th Anniversary of the Sculptors Union",
       "type": "group-exhibition",
-      "page": "exhibitions-group", 
+      "page": "exhibitions-group",
       "year": 2002,
       "url": "exhibitions-group.html#year-2002",
       "content": "30th Anniversary Sculptors Union Hafnarhús Reykjavik YXN sound video cows headphones 15 artists participated exhibition catalog",
@@ -83,10 +1084,10 @@
     {
       "id": "exhibition_royal_academy_2002",
       "title": "Royal Academy Summer Exhibition",
-      "type": "group-exhibition", 
+      "type": "group-exhibition",
       "page": "exhibitions-group",
       "year": 2002,
-      "url": "exhibitions-group.html", 
+      "url": "exhibitions-group.html",
       "content": "Royal Academy Summer Exhibition Royal Academy Arts London UK",
       "snippet": "Group exhibition at Royal Academy of Arts, London, UK."
     },
@@ -99,46 +1100,6 @@
       "url": "exhibitions-solo.html",
       "content": "Viðtöl um dauðann Interviews about death National Gallery Iceland Reykjavík solo exhibition mortality conversations philosophy existentialism Læknablaðið 2005/91",
       "snippet": "Solo exhibition exploring death and mortality through conversations and interviews at National Gallery of Iceland, Reykjavík."
-    },
-    {
-      "id": "work_thyrlulending",
-      "title": "Þyrlulending (Helicopter Landing)",
-      "type": "work",
-      "page": "works",
-      "year": 1976,
-      "url": "works.html?work=thyrlulending",
-      "content": "Þyrlulending Helicopter Landing conceptual work time-based sculpture anticipation mechanical intervention sikorsky helicopter Coast Guard negative space positive space materializing immaterial void absence aviation technology place documentation temporal progression venice biennale iceland mixed media magnús pálsson 1976",
-      "snippet": "Time-based conceptual sculpture measuring anticipation and mechanical intervention through plaster casts of negative space between helicopter wheels and ground."
-    },
-    {
-      "id": "work_bestu_stykkin",
-      "title": "Bestu stykkin",
-      "type": "work",
-      "page": "works",
-      "year": 1965,
-      "url": "works.html?work=bestu_stykkin",
-      "content": "Bestu stykkin frúöld cloth figures debut solo exhibition ásmundarsalur dieter roth ironic titles empty skins anti-art provocation public reaction ugly idiotic destruction concrete SÚM vatnsstígur living art museum magnús pálsson 1965 1967",
-      "snippet": "Three surviving sculptures from a larger anti-art series of cloth figures called Frúöld, featuring ironic titles suggested by Dieter Roth."
-    },
-    {
-      "id": "work_vidtol_um_daudann",
-      "title": "Viðtöl um dauðann",
-      "type": "work",
-      "page": "works",
-      "year": 2011,
-      "url": "works.html?work=vidtol_um_daudann_2011",
-      "content": "viðtöl um dauðann conversations death mortality interviews philosophy existentialism collaboration documentation national gallery iceland reykjavík læknablaðið magnús pálsson 2011",
-      "snippet": "A profound exploration of death and mortality through conversations and interviews, exhibited at National Gallery of Iceland."
-    },
-    {
-      "id": "work_draumur_hlynsins",
-      "title": "Draumur hlynsins um fjall",
-      "type": "work",
-      "page": "works",
-      "year": 1974,
-      "url": "works.html?work=draumur_hlynsins_um_fjall_1974",
-      "content": "draumur hlynsins um fjall sculpture negative space positive space materializing immaterial dreams sound landscape mountain collaboration edda jónsdóttir void absence poetry 1970s magnús pálsson 1974",
-      "snippet": "A poetic work exploring dreams, sound, and landscape, created in collaboration with Edda Jónsdóttir in 1974."
     },
     {
       "id": "exhibition_debut_asmundarsalur_1967",
@@ -240,7 +1201,7 @@
     },
     {
       "id": "studio_hvarf_garage",
-      "title": "Hvarf - Garage Studio", 
+      "title": "Hvarf - Garage Studio",
       "type": "studio",
       "page": "studios",
       "year": 1967,
@@ -251,7 +1212,7 @@
     {
       "id": "studio_mile_end_london",
       "title": "Mile End Place, London",
-      "type": "studio", 
+      "type": "studio",
       "page": "studios",
       "url": "studios.html#mile-end",
       "content": "Mile End Place London international studio East London European art scene UK community workspace British connections",
@@ -261,520 +1222,10 @@
       "id": "studio_grundarstígur",
       "title": "Grundarstígur Shared Studio",
       "type": "studio",
-      "page": "studios", 
+      "page": "studios",
       "url": "studios.html#grundarstígur",
       "content": "Grundarstígur shared studio Ragnar Kjartansson Dieter Roth collaboration plaster casting conceptual art techniques artistic exchanges material practices",
       "snippet": "Shared studio space with sculptor Ragnar Kjartansson and Dieter Roth, crucial for developing plaster casting techniques and conceptual approaches."
-    },
-    {
-      "id": "work_100_years_war_mokka",
-      "title": "100 ára stríðið (100 Years War)",
-      "type": "work",
-      "page": "works",
-      "year": 1995,
-      "url": "works.html?work=100_years_war_mokka_1995",
-      "content": "100 ára stríðið 100 years war conceptual installation conflict time history society culture café mokka reykjavik 1990s mixed media",
-      "snippet": "A conceptual work exploring themes of conflict, endurance, and the passage of time. Exhibited at Café Mokka in Reykjavik in 1995."
-    },
-    {
-      "id": "work_aevintyr_folktale",
-      "title": "Ævintyr (Folktale)",
-      "type": "work",
-      "page": "works",
-      "year": 1997,
-      "url": "works.html?work=aevintyr_folktale_1997",
-      "content": "ævintyr folktale storytelling folklore 1997 placeholder needs review",
-      "snippet": "PLACEHOLDER: A work exploring storytelling and folklore. Needs review and completion."
-    },
-    {
-      "id": "work_angist_fateka",
-      "title": "Angist fátæka reykingsmannsins (Smokers Nightmare)",
-      "type": "work",
-      "page": "works",
-      "year": 1975,
-      "url": "works.html?work=angist_fateka_reykingsmannsins_1975",
-      "content": "Angist fátæka reykingsmannsins smokers nightmare smoking anguish social commentary 1975 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Work exploring themes related to smoking and anguish from 1975. Needs review and completion."
-    },
-    {
-      "id": "work_anti_society_league",
-      "title": "Anti-society league concert Norkjöping",
-      "type": "work",
-      "page": "works",
-      "year": 1982,
-      "url": "works.html?work=anti_society_league_concert_1982",
-      "content": "anti society league concert norkjöping sweden performance casting 1982 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Concert/performance work in Norkjöping, Sweden from 1982 related to anti-society themes. Needs review and completion."
-    },
-    {
-      "id": "work_asmundarsalur_exhibition",
-      "title": "Ásmundarsalur exhibition",
-      "type": "work",
-      "page": "works",
-      "year": 1968,
-      "url": "works.html?work=asmundarsalur_exhibition_1968",
-      "content": "ásmundarsalur exhibition sculpture museum reykjavik 1968 early career magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Exhibition at Ásmundarsalur (Reykjavik Sculpture Museum) in 1968. Needs review and completion."
-    },
-    {
-      "id": "work_ast_i_sundlaug",
-      "title": "Ást í Sundlaug (Love in the Pool)",
-      "type": "work",
-      "page": "works",
-      "year": 1975,
-      "url": "works.html?work=ast_i_sundlaug_1975",
-      "content": "ást í sundlaug love in the pool swimming sketch drawing 1975 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: A work titled 'Love in the Pool' from 1975, featuring sketches and documentation of pool-related imagery. Needs review and completion."
-    },
-    {
-      "id": "work_bacarolle_i_fis_dur",
-      "title": "Bacarolle í fís dúr",
-      "type": "work",
-      "page": "works",
-      "year": 1981,
-      "url": "works.html?work=bacarolle_i_fis_dur_1981",
-      "content": "bacarolle í fís dúr music plaster casting students collaboration teaching 1981 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Musical work from 1981 involving plaster casting and students. Needs review and completion."
-    },
-    {
-      "id": "work_bilatal_odurin",
-      "title": "Bílatal - Óðurin til bílsins",
-      "type": "work",
-      "page": "works",
-      "year": 2002,
-      "url": "works.html?work=bilatal_odurin_til_bilsins_2002",
-      "content": "bílatal óðurin til bílsins cars poetry performance NÝLO 2002 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Performance work from 2002 featuring cars, poetry, and NÝLO exhibition. Needs review and completion."
-    },
-    {
-      "id": "work_bjossi_mjolkurbil",
-      "title": "Bjössi á mjólkurbílnum",
-      "type": "work",
-      "page": "works",
-      "year": 1994,
-      "url": "works.html?work=bjossi_a_mjolkurbilnum_1994",
-      "content": "bjössi á mjólkurbílnum milk truck kjarvalstaðir 1994 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Work from 1994 exhibited at Kjarvalstaðir featuring Bjössi and milk truck imagery. Needs review and completion."
-    },
-    {
-      "id": "work_bok_um_bok",
-      "title": "Bók um bók og fleira",
-      "type": "work",
-      "page": "works",
-      "year": 1980,
-      "url": "works.html?work=bok_um_bok_og_fleira_1980",
-      "content": "bók um bók og fleira book text definitions norwegian translation 1980 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Book work from 1980 including Norwegian translation. Features definitions and text elements. Needs review and completion."
-    },
-    {
-      "id": "work_bref_til_djonna",
-      "title": "Bréf til Djonna",
-      "type": "work",
-      "page": "works",
-      "year": 1994,
-      "url": "works.html?work=bref_til_djonna_1994",
-      "content": "bréf til djonna letter audio personal sound art spoken word intimacy communication 1994 magnús pálsson",
-      "snippet": "An intimate audio work from 1994, presenting a personal correspondence in audio format, exploring themes of communication and spoken word as artistic medium."
-    },
-    {
-      "id": "work_bref_til_kristjans",
-      "title": "Bréf til Kristjáns - Small work in Wingdings",
-      "type": "work",
-      "page": "works",
-      "year": 1990,
-      "url": "works.html?work=bref_til_kristjans_wingdings_1990",
-      "content": "bréf til kristjáns wingdings typography letter small work 1990 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Small work from 1990 using Wingdings font, created as a letter to Kristján. Needs review and completion."
-    },
-    {
-      "id": "work_bref_til_ragnars",
-      "title": "Bréf til Ragnars",
-      "type": "work",
-      "page": "works",
-      "year": 2003,
-      "url": "works.html?work=bref_til_ragnars_2003",
-      "content": "bréf til ragnars letter ragnar audio personal 2003 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Letter work from 2003 to Ragnar, including audio recording and documentation. Needs review and completion."
-    },
-    {
-      "id": "work_brim_keflavik",
-      "title": "Brim Keflavik",
-      "type": "work",
-      "page": "works",
-      "year": 2005,
-      "url": "works.html?work=brim_keflavik_2005",
-      "content": "brim keflavik opening event 2005 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Work from 2005 in Keflavik featuring opening events and documentation. Needs review and completion."
-    },
-    {
-      "id": "work_buxnaskalm_tota",
-      "title": "Buxnaskálm Tóta Sigga",
-      "type": "work",
-      "page": "works",
-      "year": 1968,
-      "url": "works.html?work=buxnaskalm_tota_sigga_1968",
-      "content": "buxnaskálm tóta sigga collaboration group work 1968 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Work from 1968 involving Tóta and Sigga, with connections to other collaborators. Needs review and completion."
-    },
-    {
-      "id": "work_clothes_2000",
-      "title": "Clothes",
-      "type": "work",
-      "page": "works",
-      "year": 2000,
-      "url": "works.html?work=clothes_2000",
-      "content": "clothes fashion jackets modeling jackie 2000 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Clothing/fashion work from 2000 featuring jackets and models. Needs review and completion."
-    },
-    {
-      "id": "work_contours_baby",
-      "title": "Contours of a baby",
-      "type": "work",
-      "page": "works",
-      "year": 1987,
-      "url": "works.html?work=contours_of_a_baby_1987",
-      "content": "contours of a baby tape digitalization 1987 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Work from 1987 with tape to be digitalized. Needs review and completion."
-    },
-    {
-      "id": "work_dalalada_mist",
-      "title": "Dalalæða (Mist)",
-      "type": "work",
-      "page": "works",
-      "year": 1975,
-      "url": "works.html?work=dalalada_mist_1975",
-      "content": "dalalæða mist aluminum sculpture 1975 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Work from 1975 titled 'Mist' featuring aluminum elements. Needs review and completion."
-    },
-    {
-      "id": "work_dog_book",
-      "title": "Dog Book",
-      "type": "work",
-      "page": "works",
-      "year": 1973,
-      "url": "works.html?work=dog_book_1973",
-      "content": "dog book publication 1973 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Book work from 1973 featuring dogs. Needs review and completion."
-    },
-    {
-      "id": "work_dulargervi_camouflage",
-      "title": "Dulargervi Malnigarbakki (Camouflage)",
-      "type": "work",
-      "page": "works",
-      "year": 1966,
-      "url": "works.html?work=dulargervi_malnigarbakki_camouflage_1966",
-      "content": "dulargervi malnigarbakki camouflage early work 1966 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Early work from 1966 exploring camouflage themes. Needs review and completion."
-    },
-    {
-      "id": "work_davidssalmur_choir",
-      "title": "Daviðssálmur - Choir piece (also Kross) Írís",
-      "type": "work",
-      "page": "works",
-      "year": 1985,
-      "url": "works.html?work=davidssalmur_choir_piece",
-      "content": "daviðssálmur choir piece kross íris psalms religious music 1985 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Choir piece from 1985, also known as Kross, connected to Írís. Features psalms 16 and 51. Needs review and completion."
-    },
-    {
-      "id": "work_de_kommer_med_kista",
-      "title": "De kommer med kista og henter meg",
-      "type": "work",
-      "page": "works",
-      "year": 1985,
-      "url": "works.html?work=de_kommer_med_kista_1985",
-      "content": "de kommer med kista og henter meg performance oslo reykjavik coffin stage 1985 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Performance work from 1985 (They come with coffin and fetch me). Features performances in Oslo and Reykjavik. Needs review and completion."
-    },
-    {
-      "id": "work_dreams_skinned_rabbit",
-      "title": "Dreams Skinned Rabbit Bookie Wookie (Berlin)",
-      "type": "work",
-      "page": "works",
-      "year": 2005,
-      "url": "works.html?work=dreams_skinned_rabbit_berlin_2005",
-      "content": "dreams skinned rabbit bookie wookie berlin collaboration jan audio 2005 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Berlin work from 2005 involving Dreams, Skinned Rabbit, and Bookie Wookie elements. Needs review and completion."
-    },
-    {
-      "id": "work_duld_blub_bum_mud",
-      "title": "Duld-blub, bum-mud 6 pund, and small plaster books",
-      "type": "work",
-      "page": "works",
-      "year": 1976,
-      "url": "works.html?work=duld_blub_bum_mud_1976",
-      "content": "duld blub bum mud 6 pund plaster books wordplay experimental language sculpture 1976 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Complex work from 1976 involving wordplay titles, 6 pound elements, and small plaster books. Needs review and completion."
-    },
-    {
-      "id": "work_echo_holland",
-      "title": "Echo - Holland Student work",
-      "type": "work",
-      "page": "works",
-      "year": 1983,
-      "url": "works.html?work=echo_holland_student_work_1983",
-      "content": "echo holland student work mirrors collaboration 1983 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Student work from Holland in 1983 involving Echo themes with participants. Needs review and completion."
-    },
-    {
-      "id": "work_edda_text_works",
-      "title": "Edda text works - ancestry 11 artists Malmö",
-      "type": "work",
-      "page": "works",
-      "year": 1978,
-      "url": "works.html?work=edda_text_works_ancestry_malmo_1978",
-      "content": "edda text works ancestry 11 artists malmö sweden 1978 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Text works from 1978 exploring ancestry themes with 11 artists in Malmö, Sweden. Needs review and completion."
-    },
-    {
-      "id": "work_engin_glypir_solina",
-      "title": "Engin glypir solina (OG)",
-      "type": "work",
-      "page": "works",
-      "year": 1983,
-      "url": "works.html?work=engin_glypir_solina_1983",
-      "content": "enginn gleypir sólina engin glypir solina sound sculpture hljóðskúlptúr audio installation memory childhood icelandic humor gallery one-one skólavörðustígur snuff tobacco speakers multi-channel 1983 1993 magnús pálsson eiríkur þorláksson morgunblaðið",
-      "snippet": "Multi-channel sound sculpture installation from 1983, exhibited at Gallery One-One in 1993. Features fragmented narratives, human sounds, and physical elements including snuff tobacco and paper noses."
-    },
-    {
-      "id": "work_fjall_ceramic",
-      "title": "Fjall ceramic pieces",
-      "type": "work",
-      "page": "works",
-      "year": 1969,
-      "url": "works.html?work=fjall_ceramic_pieces_1969_71",
-      "content": "fjall mountain ceramic pieces sculpture 1969 1970 1971 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Ceramic pieces from 1969-71 with mountain (fjall) themes. Needs review and completion."
-    },
-    {
-      "id": "work_franklin_furnace",
-      "title": "Franklin Furnace New York",
-      "type": "work",
-      "page": "works",
-      "year": 1984,
-      "url": "works.html?work=franklin_furnace_ny_1984",
-      "content": "franklin furnace new york publication performance bacarolle 1984 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Work from 1984 at Franklin Furnace in New York. Features publication and performance documentation. Needs review and completion."
-    },
-    {
-      "id": "work_eddumyndir_mosfellsbaer",
-      "title": "Eddumyndir Mosfellsbær & Íslandsbanki",
-      "type": "work",
-      "page": "works",
-      "year": 1983,
-      "url": "works.html?work=eddumyndir_mosfellsbaer_islandsbanki_1983",
-      "content": "eddumyndir edda mythology sketches hel himinbjörg mosfellsbær íslandsbanki 1983 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Edda-related images/sketches from 1983 involving Mosfellsbær and Íslandsbanki. Needs review and completion."
-    },
-    {
-      "id": "work_erdanubodd_1962",
-      "title": "Erðanuborð",
-      "type": "work",
-      "page": "works",
-      "year": 1962,
-      "url": "works.html?work=erdanubodd_1962",
-      "content": "erðanuborð early work 1962 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Early work from 1962, one of the earliest documented works in the archive. Needs review and completion."
-    },
-    {
-      "id": "work_ferdafuda_travel",
-      "title": "Ferðafuða (Travel exhibition)",
-      "type": "work",
-      "page": "works",
-      "year": 2003,
-      "url": "works.html?work=ferdafuda_travel_exhibition_2003",
-      "content": "ferðafuða travel exhibition niels hafstein card house bridge 2003 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Travel exhibition from 2003 with Niels Hafstein featuring Card House and Bridge themes. Needs review and completion."
-    },
-    {
-      "id": "work_foss_waterfall",
-      "title": "Foss (Waterfall)",
-      "type": "work",
-      "page": "works",
-      "year": 2006,
-      "url": "works.html?work=foss_waterfall_2006",
-      "content": "foss waterfall nature photography 2006 magnús pálsson placeholder",
-      "snippet": "PLACEHOLDER: Waterfall-themed work from 2006 with extensive photographic documentation. Needs review and completion."
-    },
-    {
-      "id": "work_freyskatla",
-      "title": "Freyskatla",
-      "type": "work",
-      "page": "works",
-      "year": 1992,
-      "url": "works.html?work=freyskatla_1992",
-      "content": "freyskatla geological themes mythology volcanic landscape installation audio radio steingrímur collaboration text second iteration evolved understanding cultural mythology iceland 1992 magnús pálsson",
-      "snippet": "Second iteration of Freyskatla exploring geological and mythological themes through audio and text work, building upon the earlier 1982 installation."
-    },
-    {
-      "id": "work_automobile_bok",
-      "title": "Automobile bók",
-      "type": "work",
-      "page": "works",
-      "year": 1970,
-      "url": "works.html?work=automobile_bok_1970_74",
-      "content": "automobile bók book car 1970 1974 placeholder needs review",
-      "snippet": "PLACEHOLDER: A book or documentation work about automobiles from 1970-74. Needs review."
-    },
-    {
-      "id": "work_flaedamal_beach",
-      "title": "Flæðarmál (Beach)",
-      "type": "work",
-      "page": "works",
-      "year": 1976,
-      "url": "works.html?work=flaedamal_beach_1976",
-      "content": "flæðarmál beach sea sky three parts plaster cast seamless block positive negative value mathematical reflection environmental casting landscape lund sweden 1976 magnús pálsson",
-      "snippet": "A plaster cast in three parts — of the beach, the sea, and the sky. When fitted together, they formed a seamless block, creating a mathematical reflection of positive/negative balance."
-    },
-    {
-      "id": "work_ad_juda_ser_rangsaelis",
-      "title": "Að juða sér rangsælis",
-      "type": "work",
-      "page": "works",
-      "year": 2000,
-      "url": "works.html?work=ad_juda_ser_rangsaelis_2000",
-      "content": "að juða sér rangsælis video performance iðnó ragnheiður guðmundsdóttir stilluppsteypa collaboration music ólafur páll sigurðsson ragga speaking theater 2000 magnús pálsson placeholder filmmaker",
-      "snippet": "PLACEHOLDER: Video performance work from 2000 featuring Magnús and Ragnheiður Guðmundsdóttir at Iðnó theater in collaboration with Stilluppsteypa. Filmed by Ólafur Páll Sigurðsson."
-    },
-    {
-      "id": "work_galleri_gangur",
-      "title": "Galleri Gangur - Hani, krummi, hundur, svin",
-      "type": "work",
-      "page": "works",
-      "year": 1982,
-      "url": "works.html?work=galleri_gangur_1982",
-      "content": "galleri gangur hani krummi hundur svin cockerel crow dog pig animals musical notation drawing bird horse mouse sound nature reykjavík 1982 magnús pálsson",
-      "snippet": "Multi-part work featuring animals and musical notation, combining drawings of hani (cockerel), krummi (crow), hundur (dog), and svin (pig) with musical compositions."
-    },
-    {
-      "id": "work_gapassipi",
-      "title": "Gapassipi (Tjöpörnipinnipi)",
-      "type": "work",
-      "page": "works",
-      "year": 1995,
-      "url": "works.html?work=gapassipi_1995",
-      "content": "gapassipi tjöpörnipinnipi installation performance audio sound poetry experimental language ráðhúsið city hall reykjavík floor spatial composition september 1995 magnús pálsson",
-      "snippet": "Installation and performance work at Ráðhúsið (City Hall) combining spatial installation with audio elements and experimental language exploration."
-    },
-    {
-      "id": "work_g_ljod",
-      "title": "G-Ljóð",
-      "type": "work",
-      "page": "works",
-      "year": 2009,
-      "url": "works.html?work=g_ljod_2009",
-      "content": "g ljóð poetry publication experimental text visual poetry language book text art 2009 magnús pálsson",
-      "snippet": "Poetry publication featuring experimental text and visual poetry, exploring G-themed poems that combine visual and textual elements."
-    },
-    {
-      "id": "work_grad_og_bu",
-      "title": "Grað og Bú",
-      "type": "work",
-      "page": "works",
-      "year": 2002,
-      "url": "works.html?work=grad_og_bu_2002",
-      "content": "grað og bú audio sound poetry text master recording experimental audio hunger dwelling 2002 magnús pálsson",
-      "snippet": "Audio work combining sound composition with text elements, exploring themes of hunger and dwelling through experimental audio composition."
-    },
-    {
-      "id": "work_gibsborn_children",
-      "title": "Gibsbörn Children",
-      "type": "work",
-      "page": "works",
-      "year": 1971,
-      "url": "works.html?work=gibsborn_children_1971",
-      "content": "gibsbörn children plaster sculpture life-size clothing moulds materiality childhood casting gallery fodor amsterdam lund international 1970 1971 magnús pálsson",
-      "snippet": "Life-size plaster sculptures of children made by pouring plaster into clothing used as moulds, exploring themes of childhood and materiality."
-    },
-    {
-      "id": "work_hattar",
-      "title": "Hattar",
-      "type": "work",
-      "page": "works",
-      "year": "1969-71",
-      "url": "works.html?work=hattar_1969_71",
-      "content": "hattar hats headwear identity social commentary conceptual series sculpture mixed media 1969 1970 1971 early career magnús pálsson",
-      "snippet": "A series of works exploring headwear and identity from 1969-1971, examining the symbolic significance of hats as markers of identity and social status."
-    },
-    {
-      "id": "work_hrognkelsaveifa",
-      "title": "Hrognkelsaveifa (Strandlegjan)",
-      "type": "work",
-      "page": "works",
-      "year": 1998,
-      "url": "works.html?work=hrognkelsaveifa_strandlegjan_1998",
-      "content": "hrognkelsaveifa strandlegjan beach sculpture installation ægissíða skerjafirði landscape intervention site-specific coastal environmental 1998 magnús pálsson",
-      "snippet": "A significant beach sculpture installation created at Ægissíða in 1998, exploring the relationship between natural forms and artistic intervention."
-    },
-    {
-      "id": "work_hundar_dogs",
-      "title": "Hundar (Hundljóð, Dogs)",
-      "type": "work",
-      "page": "works",
-      "year": 1970,
-      "url": "works.html?work=hundar_dogs_1970",
-      "content": "hundar hundljóð dogs animals sculpture collaboration óli gísla straw series 1970 magnús pálsson documentation agreement",
-      "snippet": "A major sculptural series created in collaboration with Óli Gísla in 1970, exploring themes of companionship and the relationship between humans and animals."
-    },
-    {
-      "id": "work_hundljod_1990",
-      "title": "Hundljóð 1990",
-      "type": "work",
-      "page": "works",
-      "year": 1990,
-      "url": "works.html?work=hundljod_1990",
-      "content": "hundljóð sound poetry dogs animals language performance 1990 magnús pálsson documentation",
-      "snippet": "A later work in the dog poetry series from 1990, continuing exploration of the relationship between animals and language through sound poetry."
-    },
-    {
-      "id": "work_hviskur_whisper",
-      "title": "Hvískur (Whisper)",
-      "type": "work",
-      "page": "works",
-      "year": 1975,
-      "url": "works.html?work=hviskur_whisper_1975",
-      "content": "hvískur whisper sound communication intimacy performance voice 1975 steinþór birgisson magnús pálsson",
-      "snippet": "A significant work exploring themes of communication, intimacy, and sound from 1975, investigating the subtle dynamics of quiet speech and private communication."
-    },
-    {
-      "id": "work_jon_summer",
-      "title": "Jón summer",
-      "type": "work",
-      "page": "works",
-      "year": "2008/2022",
-      "url": "works.html?work=jon_summer_2008_2022",
-      "content": "jón summer nýp mjóaból haukardal place memory mapping seasonal documentation multi-temporal landscape 2008 2022 læknablaðið magnús pálsson",
-      "snippet": "A multi-temporal work spanning from 2008 to 2022, exploring themes of place, memory, and seasonal change through documentation and mapping."
-    },
-    {
-      "id": "work_jonsmessunott",
-      "title": "Jónsmessunótt (bank piece)",
-      "type": "work",
-      "page": "works",
-      "year": 1982,
-      "url": "works.html?work=jonsmessunott_bank_piece_1982",
-      "content": "jónsmessunótt bank piece institutional critique banking íslandsbanki corporate intervention midsummer 1982 magnús pálsson",
-      "snippet": "A conceptual work from 1982 involving Íslandsbanki, exploring institutional relationships, financial systems, and artistic intervention within corporate structures."
-    },
-    {
-      "id": "work_jorgen_bruun_hansen",
-      "title": "Jörgen Bruun Hansen May 2013 LI (Baldvina)",
-      "type": "work",
-      "page": "works",
-      "year": 2013,
-      "url": "works.html?work=jorgen_bruun_hansen_2013",
-      "content": "jörgen bruun hansen collaboration living art museum baldvina pencil sketch video murari portraiture 2013 magnús pálsson",
-      "snippet": "A collaborative work from May 2013 involving Jörgen Bruun Hansen at the Living Art Museum, exploring portraiture, collaboration, and artistic encounters."
-    },
-    {
-      "id": "work_eyetalk_augntal",
-      "title": "Eyetalk (Augntal)",
-      "type": "work",
-      "page": "works",
-      "year": "1986-1998",
-      "url": "works.html?work=eyetalk_augntal_1986_1998",
-      "content": "eyetalk augntal video multimedia communication perception language eyes speech visual verbal 1986 1990 1998 2017 discussion magnús pálsson",
-      "snippet": "A major multimedia work spanning over a decade (1986-1998), exploring communication, perception, and the relationship between visual and verbal language through video and text."
     }
   ]
 }
