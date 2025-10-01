@@ -2655,73 +2655,31 @@
       "description": "A multi-temporal work spanning from 2008 (Nýp exhibition) to 2022 (Mjóaból, Haukardal). This work explores themes of place, memory, and seasonal change through documentation and mapping. The project connects two different locations and times, creating a dialogue between past and present through photographic documentation and exhibition materials.",
       "images": [
         {
-          "url": "images/jon-summer-2008-2022/Magnus Pálsson  Jón Mjóaból.jpg",
-          "caption": "Magnús Pálsson - Jón at Mjóaból location",
+          "url": "images/jon-summer-2008-2022/medium/_DSC0070-medium.jpg",
+          "caption": "Mjóaból documentation series - main view",
           "photographer": "Unknown",
           "year": "2022",
           "copyright": "© Estate of Magnús Pálsson"
         },
         {
-          "url": "images/jon-summer-2008-2022/MP JÓN Mjóaból v2.jpg",
-          "caption": "Jón at Mjóaból documentation v2",
-          "photographer": "Unknown",
-          "year": "2022",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/jon-summer-2008-2022/JÓN 26.6.22.jpg",
-          "caption": "Jón documentation June 26, 2022",
-          "photographer": "Unknown",
-          "year": "2022",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/jon-summer-2008-2022/JÓN_3.Better.jpg",
-          "caption": "Jón documentation enhanced version",
-          "photographer": "Unknown",
-          "year": "2022",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/jon-summer-2008-2022/20220627_162739.jpg",
+          "url": "images/jon-summer-2008-2022/medium/20220627_162739-medium.jpg",
           "caption": "Location documentation June 27, 2022",
           "photographer": "Unknown",
           "year": "2022",
           "copyright": "© Estate of Magnús Pálsson"
         },
         {
-          "url": "images/jon-summer-2008-2022/Jón Front cover of Læknablaðið.jpg",
-          "caption": "Jón featured on front cover of Læknablaðið",
-          "photographer": "Unknown",
-          "year": "2008",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/jon-summer-2008-2022/CIMG1708copy.jpg",
+          "url": "images/jon-summer-2008-2022/medium/CIMG1708copy-medium.jpg",
           "caption": "Nýp exhibition documentation 2008",
           "photographer": "Unknown",
           "year": "2008",
           "copyright": "© Estate of Magnús Pálsson"
         },
         {
-          "url": "images/jon-summer-2008-2022/Flyer1.jpeg",
-          "caption": "Exhibition flyer 1",
+          "url": "images/jon-summer-2008-2022/medium/CIMG1709copy-medium.jpg",
+          "caption": "Nýp exhibition documentation 2008 - detail view",
           "photographer": "Unknown",
           "year": "2008",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/jon-summer-2008-2022/Umhverfing IV map.png",
-          "caption": "Umhverfing IV location map",
-          "photographer": "Unknown",
-          "year": "2008",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/jon-summer-2008-2022/_DSC0070.JPG",
-          "caption": "Mjóaból documentation series _DSC0070",
-          "photographer": "Unknown",
-          "year": "2022",
           "copyright": "© Estate of Magnús Pálsson"
         }
       ],
