@@ -255,14 +255,46 @@ class WorksManager {
     if (this.isVideoFile(url) || this.isAudioFile(url) || this.isPDFFile(url)) {
       return url;
     }
-    
-    // Convert image path to thumbnail version
+
+    // If URL already contains '/thumbs/' or ends with '-thumb.jpg', return as-is
+    if (url.includes('/thumbs/') || url.endsWith('-thumb.jpg')) {
+      return url;
+    }
+
+    // Check if this is a medium path that should be converted to thumbs
+    if (url.includes('/medium/')) {
+      const parts = url.split('/');
+      const fileName = parts[parts.length - 1];
+
+      // Handle medium files: extract base name without -medium suffix
+      let fileBase;
+      if (fileName.includes('-medium.')) {
+        fileBase = fileName.replace('-medium.', '.');
+        fileBase = fileBase.substring(0, fileBase.lastIndexOf('.'));
+      } else {
+        fileBase = fileName.substring(0, fileName.lastIndexOf('.'));
+      }
+
+      // Replace 'medium' with 'thumbs' in path, removing the filename first
+      const pathParts = parts.slice(0, -1); // Remove filename
+      for (let i = 0; i < pathParts.length; i++) {
+        if (pathParts[i] === 'medium') {
+          pathParts[i] = 'thumbs';
+          break;
+        }
+      }
+
+      return pathParts.join('/') + '/' + fileBase + '-thumb.jpg';
+    }
+
+    // For older works without medium/thumbs structure, try standard conversion
     const parts = url.split('/');
     if (parts.length >= 3) {
       const fileName = parts[parts.length - 1];
       const fileBase = fileName.substring(0, fileName.lastIndexOf('.'));
-      parts[parts.length - 1] = 'thumbs';
-      return parts.join('/') + '/' + fileBase + '-thumb.jpg';
+
+      // Return the legacy path (this maintains old behavior for non-optimized works)
+      return parts.slice(0, -1).join('/') + '/' + fileBase + '-thumb.jpg';
     }
     return url;
   }
@@ -272,7 +304,12 @@ class WorksManager {
     if (this.isVideoFile(url) || this.isAudioFile(url) || this.isPDFFile(url)) {
       return url;
     }
-    
+
+    // If URL already contains '/medium/' or ends with '-medium.jpg', return as-is
+    if (url.includes('/medium/') || url.endsWith('-medium.jpg')) {
+      return url;
+    }
+
     // Convert image path to medium version
     const parts = url.split('/');
     if (parts.length >= 3) {
