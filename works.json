@@ -5525,14 +5525,23 @@
       "id": "stuna-2013",
       "title": "Stuna 2013",
       "year": 2013,
-      "description": "A work by Magnús Pálsson from 2013. Images to be added.",
-      "images": [],
+      "description": "A video work by Magnús Pálsson from 2013. This piece demonstrates his artistic exploration and creative development during this period.",
+      "images": [
+        {
+          "url": "images/stuna-2013/stuna-preview.mp4",
+          "caption": "Stuna - video documentation (1 minute preview)",
+          "thumbnail": "images/stuna-2013/thumbs/stuna-thumb.jpg"
+        }
+      ],
       "tags": [
+        "video",
         "artwork",
         "2013"
       ],
       "exhibitions": [],
-      "materials": [],
+      "materials": [
+        "video"
+      ],
       "searchText": "stuna 2013 magnús pálsson"
     }
   ],
