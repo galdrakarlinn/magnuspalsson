@@ -89,14 +89,20 @@
     {
       "id": "pendull-student-performance-121999",
       "title": "Pendúll student performance 1.2.1999",
-      "year": "Unknown",
-      "description": "A performance documentation work by Magnús Pálsson from Unknown. This work includes video documentation and materials from the performance.",
-      "images": [],
+      "year": 1999,
+      "description": "A student performance work by Magnús Pálsson from 1999. This performance piece includes video documentation from the presentation on February 1, 1999.",
+      "images": [
+        {
+          "url": "images/pendull-student-performance-121999/pendull-preview.mp4",
+          "caption": "Pendúll student performance - video documentation (1 minute preview)",
+          "thumbnail": "images/pendull-student-performance-121999/thumbs/pendull-thumb.jpg"
+        }
+      ],
       "tags": [
         "performance",
         "video",
         "documentation",
-        "undated"
+        "1999"
       ],
       "exhibitions": [],
       "materials": [
@@ -104,7 +110,7 @@
         "performance",
         "documentation"
       ],
-      "searchText": "pendúll student performance 1.2.1999 Unknown magnús pálsson performance video documentation"
+      "searchText": "pendúll student performance 1.2.1999 1999 magnús pálsson performance video documentation"
     },
     {
       "id": "pmal-texti-1993-1993",
