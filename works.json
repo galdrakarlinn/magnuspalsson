@@ -1358,44 +1358,6 @@
       "searchText": "hvískur 2 1975 1975 magnús pálsson"
     },
     {
-      "id": "mp-04",
-      "title": "MP 04",
-      "year": "Unknown",
-      "description": "A work by Magnús Pálsson from Unknown. This piece represents his artistic exploration during this period.",
-      "images": [
-        {
-          "url": "images/mp-04/medium/mp-04-01-medium.jpg",
-          "caption": "MP - main view"
-        }
-      ],
-      "tags": [
-        "artwork",
-        "undated"
-      ],
-      "exhibitions": [],
-      "materials": [],
-      "searchText": "mp 04 Unknown magnús pálsson"
-    },
-    {
-      "id": "mp-08",
-      "title": "MP 08",
-      "year": "Unknown",
-      "description": "A work by Magnús Pálsson from Unknown. This piece represents his artistic exploration during this period.",
-      "images": [
-        {
-          "url": "images/mp-08/medium/mp-08-01-medium.jpg",
-          "caption": "MP - main view"
-        }
-      ],
-      "tags": [
-        "artwork",
-        "undated"
-      ],
-      "exhibitions": [],
-      "materials": [],
-      "searchText": "mp 08 Unknown magnús pálsson"
-    },
-    {
       "id": "mp-10",
       "title": "MP 10",
       "year": "Unknown",
@@ -6623,6 +6585,36 @@
         "video"
       ],
       "searchText": "stuna 2013 magnús pálsson"
+    },
+    {
+      "id": "hviskur-1-1975",
+      "title": "Hvískur 1",
+      "year": 1975,
+      "description": "First work in the Hvískur (Whisper) series from 1975. Installation with paper sculptures.",
+      "images": [
+        {
+          "url": "images/hviskur-1-1975/medium/hviskur-1-1975-01-medium.jpg",
+          "caption": "Hvískur 1 - paper sculpture installation view 1",
+          "thumbnail": "images/hviskur-1-1975/thumbs/hviskur-1-1975-01-thumb.jpg"
+        },
+        {
+          "url": "images/hviskur-1-1975/medium/hviskur-1-1975-02-medium.jpg",
+          "caption": "Hvískur 1 - paper sculpture installation view 2",
+          "thumbnail": "images/hviskur-1-1975/thumbs/hviskur-1-1975-02-thumb.jpg"
+        }
+      ],
+      "tags": [
+        "sculpture",
+        "installation",
+        "paper",
+        "1975"
+      ],
+      "exhibitions": [],
+      "materials": [
+        "paper",
+        "installation"
+      ],
+      "searchText": "hvískur hviskur whisper 1 1975 paper sculpture installation magnús pálsson"
     }
   ],
   "exhibitions": [
