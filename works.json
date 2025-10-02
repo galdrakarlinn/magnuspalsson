@@ -6,15 +6,44 @@
       "year": 2002,
       "description": "Installation work created in Berlin at Bethanien in November 2002.",
       "images": [
-        {"url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-01-medium.jpg", "caption": "Bethanien installation view 1", "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-01-thumb.jpg"},
-        {"url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-02-medium.jpg", "caption": "Bethanien installation view 2", "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-02-thumb.jpg"},
-        {"url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-03-medium.jpg", "caption": "Bethanien installation view 3", "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-03-thumb.jpg"},
-        {"url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-04-medium.jpg", "caption": "Bethanien installation view 4", "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-04-thumb.jpg"},
-        {"url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-05-medium.jpg", "caption": "Bethanien installation view 5", "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-05-thumb.jpg"}
+        {
+          "url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-01-medium.jpg",
+          "caption": "Bethanien installation view 1",
+          "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-01-thumb.jpg"
+        },
+        {
+          "url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-02-medium.jpg",
+          "caption": "Bethanien installation view 2",
+          "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-02-thumb.jpg"
+        },
+        {
+          "url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-03-medium.jpg",
+          "caption": "Bethanien installation view 3",
+          "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-03-thumb.jpg"
+        },
+        {
+          "url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-04-medium.jpg",
+          "caption": "Bethanien installation view 4",
+          "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-04-thumb.jpg"
+        },
+        {
+          "url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-05-medium.jpg",
+          "caption": "Bethanien installation view 5",
+          "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-05-thumb.jpg"
+        }
       ],
-      "tags": ["installation", "berlin", "2002"],
-      "exhibitions": ["Bethanien Berlin 2002"],
-      "materials": ["mixed media", "installation"],
+      "tags": [
+        "installation",
+        "berlin",
+        "2002"
+      ],
+      "exhibitions": [
+        "Bethanien Berlin 2002"
+      ],
+      "materials": [
+        "mixed media",
+        "installation"
+      ],
       "searchText": "þiljur thiljur bethanien berlin 2002 installation magnús pálsson"
     },
     {
@@ -23,15 +52,41 @@
       "year": 1995,
       "description": "Wall piece created for Læknagarður in 1995.",
       "images": [
-        {"url": "images/thiljur-laeknagarður-1995/medium/thiljur-laeknagarður-1995-01-medium.jpg", "caption": "Læknagarður wall piece view 1", "thumbnail": "images/thiljur-laeknagarður-1995/thumbs/thiljur-laeknagarður-1995-01-thumb.jpg"},
-        {"url": "images/thiljur-laeknagarður-1995/medium/thiljur-laeknagarður-1995-02-medium.jpg", "caption": "Læknagarður wall piece view 2", "thumbnail": "images/thiljur-laeknagarður-1995/thumbs/thiljur-laeknagarður-1995-02-thumb.jpg"},
-        {"url": "images/thiljur-laeknagarður-1995/medium/thiljur-laeknagarður-1995-03-medium.jpg", "caption": "Læknagarður wall piece view 3", "thumbnail": "images/thiljur-laeknagarður-1995/thumbs/thiljur-laeknagarður-1995-03-thumb.jpg"},
-        {"url": "images/thiljur-laeknagarður-1995/medium/thiljur-laeknagarður-1995-04-medium.jpg", "caption": "Læknagarður wall piece view 4", "thumbnail": "images/thiljur-laeknagarður-1995/thumbs/thiljur-laeknagarður-1995-04-thumb.jpg"},
-        {"url": "images/thiljur-laeknagarður-1995/medium/thiljur-laeknagarður-1995-05-medium.jpg", "caption": "Læknagarður wall piece view 5", "thumbnail": "images/thiljur-laeknagarður-1995/thumbs/thiljur-laeknagarður-1995-05-thumb.jpg"}
+        {
+          "url": "images/thiljur-laeknagarður-1995/medium/thiljur-laeknagarður-1995-01-medium.jpg",
+          "caption": "Læknagarður wall piece view 1",
+          "thumbnail": "images/thiljur-laeknagarður-1995/thumbs/thiljur-laeknagarður-1995-01-thumb.jpg"
+        },
+        {
+          "url": "images/thiljur-laeknagarður-1995/medium/thiljur-laeknagarður-1995-02-medium.jpg",
+          "caption": "Læknagarður wall piece view 2",
+          "thumbnail": "images/thiljur-laeknagarður-1995/thumbs/thiljur-laeknagarður-1995-02-thumb.jpg"
+        },
+        {
+          "url": "images/thiljur-laeknagarður-1995/medium/thiljur-laeknagarður-1995-03-medium.jpg",
+          "caption": "Læknagarður wall piece view 3",
+          "thumbnail": "images/thiljur-laeknagarður-1995/thumbs/thiljur-laeknagarður-1995-03-thumb.jpg"
+        },
+        {
+          "url": "images/thiljur-laeknagarður-1995/medium/thiljur-laeknagarður-1995-04-medium.jpg",
+          "caption": "Læknagarður wall piece view 4",
+          "thumbnail": "images/thiljur-laeknagarður-1995/thumbs/thiljur-laeknagarður-1995-04-thumb.jpg"
+        },
+        {
+          "url": "images/thiljur-laeknagarður-1995/medium/thiljur-laeknagarður-1995-05-medium.jpg",
+          "caption": "Læknagarður wall piece view 5",
+          "thumbnail": "images/thiljur-laeknagarður-1995/thumbs/thiljur-laeknagarður-1995-05-thumb.jpg"
+        }
       ],
-      "tags": ["wall piece", "sculpture", "1995"],
+      "tags": [
+        "wall piece",
+        "sculpture",
+        "1995"
+      ],
       "exhibitions": [],
-      "materials": ["mixed media"],
+      "materials": [
+        "mixed media"
+      ],
       "searchText": "þiljur thiljur læknagarður wall piece 1995 magnús pálsson"
     },
     {
@@ -40,16 +95,53 @@
       "year": 1990,
       "description": "Sound and installation work from 1990, includes audio elements.",
       "images": [
-        {"url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-01-medium.jpg", "caption": "Þrætubálkur installation 1", "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-01-thumb.jpg"},
-        {"url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-02-medium.jpg", "caption": "Þrætubálkur installation 2", "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-02-thumb.jpg"},
-        {"url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-03-medium.jpg", "caption": "Þrætubálkur installation 3", "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-03-thumb.jpg"},
-        {"url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-04-medium.jpg", "caption": "Þrætubálkur installation 4", "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-04-thumb.jpg"},
-        {"url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-05-medium.jpg", "caption": "Þrætubálkur installation 5", "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-05-thumb.jpg"},
-        {"url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-06-medium.jpg", "caption": "Þrætubálkur installation 6", "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-06-thumb.jpg"}
+        {
+          "url": "images/thraetubalkur-1990/thraetubalkur-1990-preview.mp4",
+          "caption": "Þrætubálkur - video documentation (1 minute preview)",
+          "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-video-thumb.jpg"
+        },
+        {
+          "url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-01-medium.jpg",
+          "caption": "Þrætubálkur installation 1",
+          "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-01-thumb.jpg"
+        },
+        {
+          "url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-02-medium.jpg",
+          "caption": "Þrætubálkur installation 2",
+          "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-02-thumb.jpg"
+        },
+        {
+          "url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-03-medium.jpg",
+          "caption": "Þrætubálkur installation 3",
+          "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-03-thumb.jpg"
+        },
+        {
+          "url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-04-medium.jpg",
+          "caption": "Þrætubálkur installation 4",
+          "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-04-thumb.jpg"
+        },
+        {
+          "url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-05-medium.jpg",
+          "caption": "Þrætubálkur installation 5",
+          "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-05-thumb.jpg"
+        },
+        {
+          "url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-06-medium.jpg",
+          "caption": "Þrætubálkur installation 6",
+          "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-06-thumb.jpg"
+        }
       ],
-      "tags": ["installation", "sound", "1990"],
+      "tags": [
+        "installation",
+        "sound",
+        "1990"
+      ],
       "exhibitions": [],
-      "materials": ["mixed media", "sound", "audio"],
+      "materials": [
+        "mixed media",
+        "sound",
+        "audio"
+      ],
       "searchText": "þrætubálkur thraetubalkur 1990 sound installation magnús pálsson"
     },
     {
@@ -58,16 +150,45 @@
       "year": 2013,
       "description": "Installation work from 2013.",
       "images": [
-        {"url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-01-medium.jpg", "caption": "Þrígaldur þursavænn view 1", "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-01-thumb.jpg"},
-        {"url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-02-medium.jpg", "caption": "Þrígaldur þursavænn view 2", "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-02-thumb.jpg"},
-        {"url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-03-medium.jpg", "caption": "Þrígaldur þursavænn view 3", "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-03-thumb.jpg"},
-        {"url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-04-medium.jpg", "caption": "Þrígaldur þursavænn view 4", "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-04-thumb.jpg"},
-        {"url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-05-medium.jpg", "caption": "Þrígaldur þursavænn view 5", "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-05-thumb.jpg"},
-        {"url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-06-medium.jpg", "caption": "Þrígaldur þursavænn view 6", "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-06-thumb.jpg"}
+        {
+          "url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-01-medium.jpg",
+          "caption": "Þrígaldur þursavænn view 1",
+          "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-01-thumb.jpg"
+        },
+        {
+          "url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-02-medium.jpg",
+          "caption": "Þrígaldur þursavænn view 2",
+          "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-02-thumb.jpg"
+        },
+        {
+          "url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-03-medium.jpg",
+          "caption": "Þrígaldur þursavænn view 3",
+          "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-03-thumb.jpg"
+        },
+        {
+          "url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-04-medium.jpg",
+          "caption": "Þrígaldur þursavænn view 4",
+          "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-04-thumb.jpg"
+        },
+        {
+          "url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-05-medium.jpg",
+          "caption": "Þrígaldur þursavænn view 5",
+          "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-05-thumb.jpg"
+        },
+        {
+          "url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-06-medium.jpg",
+          "caption": "Þrígaldur þursavænn view 6",
+          "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-06-thumb.jpg"
+        }
       ],
-      "tags": ["installation", "2013"],
+      "tags": [
+        "installation",
+        "2013"
+      ],
       "exhibitions": [],
-      "materials": ["mixed media"],
+      "materials": [
+        "mixed media"
+      ],
       "searchText": "þrígaldur thrigaldur þursavænn thursavaenn 2013 installation magnús pálsson"
     },
     {
@@ -76,15 +197,43 @@
       "year": 2012,
       "description": "Installation at Kling og Bang gallery in March 2012.",
       "images": [
-        {"url": "images/walking-on-water-2012/medium/walking-on-water-2012-01-medium.jpg", "caption": "Walking on Water installation 1", "thumbnail": "images/walking-on-water-2012/thumbs/walking-on-water-2012-01-thumb.jpg"},
-        {"url": "images/walking-on-water-2012/medium/walking-on-water-2012-02-medium.jpg", "caption": "Walking on Water installation 2", "thumbnail": "images/walking-on-water-2012/thumbs/walking-on-water-2012-02-thumb.jpg"},
-        {"url": "images/walking-on-water-2012/medium/walking-on-water-2012-03-medium.jpg", "caption": "Walking on Water installation 3", "thumbnail": "images/walking-on-water-2012/thumbs/walking-on-water-2012-03-thumb.jpg"},
-        {"url": "images/walking-on-water-2012/medium/walking-on-water-2012-04-medium.jpg", "caption": "Walking on Water installation 4", "thumbnail": "images/walking-on-water-2012/thumbs/walking-on-water-2012-04-thumb.jpg"},
-        {"url": "images/walking-on-water-2012/medium/walking-on-water-2012-05-medium.jpg", "caption": "Walking on Water installation 5", "thumbnail": "images/walking-on-water-2012/thumbs/walking-on-water-2012-05-thumb.jpg"}
+        {
+          "url": "images/walking-on-water-2012/medium/walking-on-water-2012-01-medium.jpg",
+          "caption": "Walking on Water installation 1",
+          "thumbnail": "images/walking-on-water-2012/thumbs/walking-on-water-2012-01-thumb.jpg"
+        },
+        {
+          "url": "images/walking-on-water-2012/medium/walking-on-water-2012-02-medium.jpg",
+          "caption": "Walking on Water installation 2",
+          "thumbnail": "images/walking-on-water-2012/thumbs/walking-on-water-2012-02-thumb.jpg"
+        },
+        {
+          "url": "images/walking-on-water-2012/medium/walking-on-water-2012-03-medium.jpg",
+          "caption": "Walking on Water installation 3",
+          "thumbnail": "images/walking-on-water-2012/thumbs/walking-on-water-2012-03-thumb.jpg"
+        },
+        {
+          "url": "images/walking-on-water-2012/medium/walking-on-water-2012-04-medium.jpg",
+          "caption": "Walking on Water installation 4",
+          "thumbnail": "images/walking-on-water-2012/thumbs/walking-on-water-2012-04-thumb.jpg"
+        },
+        {
+          "url": "images/walking-on-water-2012/medium/walking-on-water-2012-05-medium.jpg",
+          "caption": "Walking on Water installation 5",
+          "thumbnail": "images/walking-on-water-2012/thumbs/walking-on-water-2012-05-thumb.jpg"
+        }
       ],
-      "tags": ["installation", "2012"],
-      "exhibitions": ["Kling og Bang March 2012"],
-      "materials": ["mixed media", "sculpture"],
+      "tags": [
+        "installation",
+        "2012"
+      ],
+      "exhibitions": [
+        "Kling og Bang March 2012"
+      ],
+      "materials": [
+        "mixed media",
+        "sculpture"
+      ],
       "searchText": "walking on water gengið á vatnið 2012 kling og bang installation magnús pálsson"
     },
     {
@@ -93,16 +242,47 @@
       "year": 2018,
       "description": "Series of watercolour paintings from 2016-2018.",
       "images": [
-        {"url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-01-medium.jpg", "caption": "Watercolour 1", "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-01-thumb.jpg"},
-        {"url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-02-medium.jpg", "caption": "Watercolour 2", "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-02-thumb.jpg"},
-        {"url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-03-medium.jpg", "caption": "Watercolour 3", "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-03-thumb.jpg"},
-        {"url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-04-medium.jpg", "caption": "Watercolour 4", "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-04-thumb.jpg"},
-        {"url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-05-medium.jpg", "caption": "Watercolour 5", "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-05-thumb.jpg"},
-        {"url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-06-medium.jpg", "caption": "Watercolour 6", "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-06-thumb.jpg"}
+        {
+          "url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-01-medium.jpg",
+          "caption": "Watercolour 1",
+          "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-01-thumb.jpg"
+        },
+        {
+          "url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-02-medium.jpg",
+          "caption": "Watercolour 2",
+          "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-02-thumb.jpg"
+        },
+        {
+          "url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-03-medium.jpg",
+          "caption": "Watercolour 3",
+          "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-03-thumb.jpg"
+        },
+        {
+          "url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-04-medium.jpg",
+          "caption": "Watercolour 4",
+          "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-04-thumb.jpg"
+        },
+        {
+          "url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-05-medium.jpg",
+          "caption": "Watercolour 5",
+          "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-05-thumb.jpg"
+        },
+        {
+          "url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-06-medium.jpg",
+          "caption": "Watercolour 6",
+          "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-06-thumb.jpg"
+        }
       ],
-      "tags": ["painting", "watercolour", "2016-2018"],
+      "tags": [
+        "painting",
+        "watercolour",
+        "2016-2018"
+      ],
       "exhibitions": [],
-      "materials": ["watercolour", "paper"],
+      "materials": [
+        "watercolour",
+        "paper"
+      ],
       "searchText": "watercolours 2016 2017 2018 painting magnús pálsson"
     },
     {
@@ -111,16 +291,48 @@
       "year": 1977,
       "description": "Early watercolour paintings and landscape studies.",
       "images": [
-        {"url": "images/watercolours-early/medium/watercolours-early-01-medium.jpg", "caption": "Backdrop Ballet", "thumbnail": "images/watercolours-early/thumbs/watercolours-early-01-thumb.jpg"},
-        {"url": "images/watercolours-early/medium/watercolours-early-02-medium.jpg", "caption": "Backdrop", "thumbnail": "images/watercolours-early/thumbs/watercolours-early-02-thumb.jpg"},
-        {"url": "images/watercolours-early/medium/watercolours-early-03-medium.jpg", "caption": "Landscape study", "thumbnail": "images/watercolours-early/thumbs/watercolours-early-03-thumb.jpg"},
-        {"url": "images/watercolours-early/medium/watercolours-early-04-medium.jpg", "caption": "Kistufoss", "thumbnail": "images/watercolours-early/thumbs/watercolours-early-04-thumb.jpg"},
-        {"url": "images/watercolours-early/medium/watercolours-early-05-medium.jpg", "caption": "Syðribrú", "thumbnail": "images/watercolours-early/thumbs/watercolours-early-05-thumb.jpg"},
-        {"url": "images/watercolours-early/medium/watercolours-early-06-medium.jpg", "caption": "Syðribrú landscape", "thumbnail": "images/watercolours-early/thumbs/watercolours-early-06-thumb.jpg"}
+        {
+          "url": "images/watercolours-early/medium/watercolours-early-01-medium.jpg",
+          "caption": "Backdrop Ballet",
+          "thumbnail": "images/watercolours-early/thumbs/watercolours-early-01-thumb.jpg"
+        },
+        {
+          "url": "images/watercolours-early/medium/watercolours-early-02-medium.jpg",
+          "caption": "Backdrop",
+          "thumbnail": "images/watercolours-early/thumbs/watercolours-early-02-thumb.jpg"
+        },
+        {
+          "url": "images/watercolours-early/medium/watercolours-early-03-medium.jpg",
+          "caption": "Landscape study",
+          "thumbnail": "images/watercolours-early/thumbs/watercolours-early-03-thumb.jpg"
+        },
+        {
+          "url": "images/watercolours-early/medium/watercolours-early-04-medium.jpg",
+          "caption": "Kistufoss",
+          "thumbnail": "images/watercolours-early/thumbs/watercolours-early-04-thumb.jpg"
+        },
+        {
+          "url": "images/watercolours-early/medium/watercolours-early-05-medium.jpg",
+          "caption": "Syðribrú",
+          "thumbnail": "images/watercolours-early/thumbs/watercolours-early-05-thumb.jpg"
+        },
+        {
+          "url": "images/watercolours-early/medium/watercolours-early-06-medium.jpg",
+          "caption": "Syðribrú landscape",
+          "thumbnail": "images/watercolours-early/thumbs/watercolours-early-06-thumb.jpg"
+        }
       ],
-      "tags": ["painting", "watercolour", "landscape", "1977"],
+      "tags": [
+        "painting",
+        "watercolour",
+        "landscape",
+        "1977"
+      ],
       "exhibitions": [],
-      "materials": ["watercolour", "paper"],
+      "materials": [
+        "watercolour",
+        "paper"
+      ],
       "searchText": "watercolours early 1977 painting landscape magnús pálsson"
     },
     {
@@ -129,11 +341,20 @@
       "year": 1984,
       "description": "Performance or documentation work from 1984.",
       "images": [
-        {"url": "images/wendy-walking-1984/medium/wendy-walking-1984-01-medium.jpg", "caption": "Wendy Walking", "thumbnail": "images/wendy-walking-1984/thumbs/wendy-walking-1984-01-thumb.jpg"}
+        {
+          "url": "images/wendy-walking-1984/medium/wendy-walking-1984-01-medium.jpg",
+          "caption": "Wendy Walking",
+          "thumbnail": "images/wendy-walking-1984/thumbs/wendy-walking-1984-01-thumb.jpg"
+        }
       ],
-      "tags": ["performance", "1984"],
+      "tags": [
+        "performance",
+        "1984"
+      ],
       "exhibitions": [],
-      "materials": ["mixed media"],
+      "materials": [
+        "mixed media"
+      ],
       "searchText": "wendy walking 1984 performance magnús pálsson"
     },
     {
@@ -142,16 +363,46 @@
       "year": 1976,
       "description": "Student work from 1976, created at Suðurgata 7 studio.",
       "images": [
-        {"url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-01-medium.jpg", "caption": "Ulla installation view", "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-01-thumb.jpg"},
-        {"url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-02-medium.jpg", "caption": "Detail view 1", "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-02-thumb.jpg"},
-        {"url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-03-medium.jpg", "caption": "Detail view 2", "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-03-thumb.jpg"},
-        {"url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-04-medium.jpg", "caption": "Detail view 3", "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-04-thumb.jpg"},
-        {"url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-05-medium.jpg", "caption": "Detail view 4", "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-05-thumb.jpg"},
-        {"url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-06-medium.jpg", "caption": "Detail view 5", "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-06-thumb.jpg"}
+        {
+          "url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-01-medium.jpg",
+          "caption": "Ulla installation view",
+          "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-01-thumb.jpg"
+        },
+        {
+          "url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-02-medium.jpg",
+          "caption": "Detail view 1",
+          "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-02-thumb.jpg"
+        },
+        {
+          "url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-03-medium.jpg",
+          "caption": "Detail view 2",
+          "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-03-thumb.jpg"
+        },
+        {
+          "url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-04-medium.jpg",
+          "caption": "Detail view 3",
+          "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-04-thumb.jpg"
+        },
+        {
+          "url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-05-medium.jpg",
+          "caption": "Detail view 4",
+          "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-05-thumb.jpg"
+        },
+        {
+          "url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-06-medium.jpg",
+          "caption": "Detail view 5",
+          "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-06-thumb.jpg"
+        }
       ],
-      "tags": ["installation", "student work", "1976"],
+      "tags": [
+        "installation",
+        "student work",
+        "1976"
+      ],
       "exhibitions": [],
-      "materials": ["mixed media"],
+      "materials": [
+        "mixed media"
+      ],
       "searchText": "ulla udda sudurgata 7 1976 student work installation magnús pálsson"
     },
     {
@@ -160,13 +411,31 @@
       "year": 1966,
       "description": "Wall piece from 1966, owned by NÝLÓ.",
       "images": [
-        {"url": "images/vaenting-expectation-1966/medium/vaenting-expectation-1966-01-medium.jpg", "caption": "Vænting wall piece", "thumbnail": "images/vaenting-expectation-1966/thumbs/vaenting-expectation-1966-01-thumb.jpg"},
-        {"url": "images/vaenting-expectation-1966/medium/vaenting-expectation-1966-02-medium.jpg", "caption": "From catalogue", "thumbnail": "images/vaenting-expectation-1966/thumbs/vaenting-expectation-1966-02-thumb.jpg"},
-        {"url": "images/vaenting-expectation-1966/medium/vaenting-expectation-1966-03-medium.jpg", "caption": "Owned by NÝLÓ", "thumbnail": "images/vaenting-expectation-1966/thumbs/vaenting-expectation-1966-03-thumb.jpg"}
+        {
+          "url": "images/vaenting-expectation-1966/medium/vaenting-expectation-1966-01-medium.jpg",
+          "caption": "Vænting wall piece",
+          "thumbnail": "images/vaenting-expectation-1966/thumbs/vaenting-expectation-1966-01-thumb.jpg"
+        },
+        {
+          "url": "images/vaenting-expectation-1966/medium/vaenting-expectation-1966-02-medium.jpg",
+          "caption": "From catalogue",
+          "thumbnail": "images/vaenting-expectation-1966/thumbs/vaenting-expectation-1966-02-thumb.jpg"
+        },
+        {
+          "url": "images/vaenting-expectation-1966/medium/vaenting-expectation-1966-03-medium.jpg",
+          "caption": "Owned by NÝLÓ",
+          "thumbnail": "images/vaenting-expectation-1966/thumbs/vaenting-expectation-1966-03-thumb.jpg"
+        }
       ],
-      "tags": ["wall piece", "sculpture", "1966"],
+      "tags": [
+        "wall piece",
+        "sculpture",
+        "1966"
+      ],
       "exhibitions": [],
-      "materials": ["mixed media"],
+      "materials": [
+        "mixed media"
+      ],
       "searchText": "vænting expectation 1966 wall piece nýló magnús pálsson"
     },
     {
@@ -175,15 +444,45 @@
       "year": 2015,
       "description": "Installation with clocks, presented in Akureyri 2015.",
       "images": [
-        {"url": "images/vakning-2015/medium/vakning-2015-01-medium.jpg", "caption": "Installation view 1", "thumbnail": "images/vakning-2015/thumbs/vakning-2015-01-thumb.jpg"},
-        {"url": "images/vakning-2015/medium/vakning-2015-02-medium.jpg", "caption": "Installation view 2", "thumbnail": "images/vakning-2015/thumbs/vakning-2015-02-thumb.jpg"},
-        {"url": "images/vakning-2015/medium/vakning-2015-03-medium.jpg", "caption": "Installation view 3", "thumbnail": "images/vakning-2015/thumbs/vakning-2015-03-thumb.jpg"},
-        {"url": "images/vakning-2015/medium/vakning-2015-04-medium.jpg", "caption": "Installation view 4", "thumbnail": "images/vakning-2015/thumbs/vakning-2015-04-thumb.jpg"},
-        {"url": "images/vakning-2015/medium/vakning-2015-05-medium.jpg", "caption": "Akureyri clocks", "thumbnail": "images/vakning-2015/thumbs/vakning-2015-05-thumb.jpg"}
+        {
+          "url": "images/vakning-2015/medium/vakning-2015-01-medium.jpg",
+          "caption": "Installation view 1",
+          "thumbnail": "images/vakning-2015/thumbs/vakning-2015-01-thumb.jpg"
+        },
+        {
+          "url": "images/vakning-2015/medium/vakning-2015-02-medium.jpg",
+          "caption": "Installation view 2",
+          "thumbnail": "images/vakning-2015/thumbs/vakning-2015-02-thumb.jpg"
+        },
+        {
+          "url": "images/vakning-2015/medium/vakning-2015-03-medium.jpg",
+          "caption": "Installation view 3",
+          "thumbnail": "images/vakning-2015/thumbs/vakning-2015-03-thumb.jpg"
+        },
+        {
+          "url": "images/vakning-2015/medium/vakning-2015-04-medium.jpg",
+          "caption": "Installation view 4",
+          "thumbnail": "images/vakning-2015/thumbs/vakning-2015-04-thumb.jpg"
+        },
+        {
+          "url": "images/vakning-2015/medium/vakning-2015-05-medium.jpg",
+          "caption": "Akureyri clocks",
+          "thumbnail": "images/vakning-2015/thumbs/vakning-2015-05-thumb.jpg"
+        }
       ],
-      "tags": ["installation", "time", "clocks", "2015"],
-      "exhibitions": ["Akureyri 2015"],
-      "materials": ["clocks", "mixed media"],
+      "tags": [
+        "installation",
+        "time",
+        "clocks",
+        "2015"
+      ],
+      "exhibitions": [
+        "Akureyri 2015"
+      ],
+      "materials": [
+        "clocks",
+        "mixed media"
+      ],
       "searchText": "vakning 2015 installation clocks akureyri magnús pálsson"
     },
     {
@@ -192,14 +491,37 @@
       "year": 1960,
       "description": "Model of Vallanes farm near Egilsstaðir where Magnús Pálsson's father grew up. In collection of Listasafn Íslands.",
       "images": [
-        {"url": "images/vallanes-model-1960s/medium/vallanes-model-1960s-01-medium.jpg", "caption": "Vallanes model", "thumbnail": "images/vallanes-model-1960s/thumbs/vallanes-model-1960s-01-thumb.jpg"},
-        {"url": "images/vallanes-model-1960s/medium/vallanes-model-1960s-02-medium.jpg", "caption": "Model pieces 1", "thumbnail": "images/vallanes-model-1960s/thumbs/vallanes-model-1960s-02-thumb.jpg"},
-        {"url": "images/vallanes-model-1960s/medium/vallanes-model-1960s-03-medium.jpg", "caption": "Model pieces 2", "thumbnail": "images/vallanes-model-1960s/thumbs/vallanes-model-1960s-03-thumb.jpg"},
-        {"url": "images/vallanes-model-1960s/medium/vallanes-model-1960s-04-medium.jpg", "caption": "Vallanes plan", "thumbnail": "images/vallanes-model-1960s/thumbs/vallanes-model-1960s-04-thumb.jpg"}
+        {
+          "url": "images/vallanes-model-1960s/medium/vallanes-model-1960s-01-medium.jpg",
+          "caption": "Vallanes model",
+          "thumbnail": "images/vallanes-model-1960s/thumbs/vallanes-model-1960s-01-thumb.jpg"
+        },
+        {
+          "url": "images/vallanes-model-1960s/medium/vallanes-model-1960s-02-medium.jpg",
+          "caption": "Model pieces 1",
+          "thumbnail": "images/vallanes-model-1960s/thumbs/vallanes-model-1960s-02-thumb.jpg"
+        },
+        {
+          "url": "images/vallanes-model-1960s/medium/vallanes-model-1960s-03-medium.jpg",
+          "caption": "Model pieces 2",
+          "thumbnail": "images/vallanes-model-1960s/thumbs/vallanes-model-1960s-03-thumb.jpg"
+        },
+        {
+          "url": "images/vallanes-model-1960s/medium/vallanes-model-1960s-04-medium.jpg",
+          "caption": "Vallanes plan",
+          "thumbnail": "images/vallanes-model-1960s/thumbs/vallanes-model-1960s-04-thumb.jpg"
+        }
       ],
-      "tags": ["model", "architecture", "1960"],
+      "tags": [
+        "model",
+        "architecture",
+        "1960"
+      ],
       "exhibitions": [],
-      "materials": ["mixed media", "model"],
+      "materials": [
+        "mixed media",
+        "model"
+      ],
       "searchText": "vallanes model 1960s farm egilsstaðir magnús pálsson"
     },
     {
@@ -208,16 +530,49 @@
       "year": 1994,
       "description": "Installation with soaps and audio tapes, exploring themes of cleansing and transformation.",
       "images": [
-        {"url": "images/varla-hardly-1994/medium/varla-hardly-1994-01-medium.jpg", "caption": "Varla installation", "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-01-thumb.jpg"},
-        {"url": "images/varla-hardly-1994/medium/varla-hardly-1994-02-medium.jpg", "caption": "Soaps 1", "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-02-thumb.jpg"},
-        {"url": "images/varla-hardly-1994/medium/varla-hardly-1994-03-medium.jpg", "caption": "Soaps 2", "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-03-thumb.jpg"},
-        {"url": "images/varla-hardly-1994/medium/varla-hardly-1994-04-medium.jpg", "caption": "Atlantis", "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-04-thumb.jpg"},
-        {"url": "images/varla-hardly-1994/medium/varla-hardly-1994-05-medium.jpg", "caption": "Djengis khan", "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-05-thumb.jpg"},
-        {"url": "images/varla-hardly-1994/medium/varla-hardly-1994-06-medium.jpg", "caption": "Audio tapes", "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-06-thumb.jpg"}
+        {
+          "url": "images/varla-hardly-1994/medium/varla-hardly-1994-01-medium.jpg",
+          "caption": "Varla installation",
+          "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-01-thumb.jpg"
+        },
+        {
+          "url": "images/varla-hardly-1994/medium/varla-hardly-1994-02-medium.jpg",
+          "caption": "Soaps 1",
+          "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-02-thumb.jpg"
+        },
+        {
+          "url": "images/varla-hardly-1994/medium/varla-hardly-1994-03-medium.jpg",
+          "caption": "Soaps 2",
+          "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-03-thumb.jpg"
+        },
+        {
+          "url": "images/varla-hardly-1994/medium/varla-hardly-1994-04-medium.jpg",
+          "caption": "Atlantis",
+          "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-04-thumb.jpg"
+        },
+        {
+          "url": "images/varla-hardly-1994/medium/varla-hardly-1994-05-medium.jpg",
+          "caption": "Djengis khan",
+          "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-05-thumb.jpg"
+        },
+        {
+          "url": "images/varla-hardly-1994/medium/varla-hardly-1994-06-medium.jpg",
+          "caption": "Audio tapes",
+          "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-06-thumb.jpg"
+        }
       ],
-      "tags": ["installation", "sound", "sculpture", "1994"],
+      "tags": [
+        "installation",
+        "sound",
+        "sculpture",
+        "1994"
+      ],
       "exhibitions": [],
-      "materials": ["soap", "audio tape", "mixed media"],
+      "materials": [
+        "soap",
+        "audio tape",
+        "mixed media"
+      ],
       "searchText": "varla hardly 1994 soaps audio installation magnús pálsson"
     },
     {
@@ -226,13 +581,34 @@
       "year": 1965,
       "description": "Wallpaper work from 1965, presented at Ásmundarsalur.",
       "images": [
-        {"url": "images/veggfodur-ferd-reise-1965/medium/veggfodur-ferd-reise-1965-01-medium.jpg", "caption": "Ferð", "thumbnail": "images/veggfodur-ferd-reise-1965/thumbs/veggfodur-ferd-reise-1965-01-thumb.jpg"},
-        {"url": "images/veggfodur-ferd-reise-1965/medium/veggfodur-ferd-reise-1965-02-medium.jpg", "caption": "Veggfóður", "thumbnail": "images/veggfodur-ferd-reise-1965/thumbs/veggfodur-ferd-reise-1965-02-thumb.jpg"},
-        {"url": "images/veggfodur-ferd-reise-1965/medium/veggfodur-ferd-reise-1965-03-medium.jpg", "caption": "Ásmundarsalur installation", "thumbnail": "images/veggfodur-ferd-reise-1965/thumbs/veggfodur-ferd-reise-1965-03-thumb.jpg"}
+        {
+          "url": "images/veggfodur-ferd-reise-1965/medium/veggfodur-ferd-reise-1965-01-medium.jpg",
+          "caption": "Ferð",
+          "thumbnail": "images/veggfodur-ferd-reise-1965/thumbs/veggfodur-ferd-reise-1965-01-thumb.jpg"
+        },
+        {
+          "url": "images/veggfodur-ferd-reise-1965/medium/veggfodur-ferd-reise-1965-02-medium.jpg",
+          "caption": "Veggfóður",
+          "thumbnail": "images/veggfodur-ferd-reise-1965/thumbs/veggfodur-ferd-reise-1965-02-thumb.jpg"
+        },
+        {
+          "url": "images/veggfodur-ferd-reise-1965/medium/veggfodur-ferd-reise-1965-03-medium.jpg",
+          "caption": "Ásmundarsalur installation",
+          "thumbnail": "images/veggfodur-ferd-reise-1965/thumbs/veggfodur-ferd-reise-1965-03-thumb.jpg"
+        }
       ],
-      "tags": ["wallpaper", "installation", "1965"],
-      "exhibitions": ["Ásmundarsalur"],
-      "materials": ["wallpaper", "mixed media"],
+      "tags": [
+        "wallpaper",
+        "installation",
+        "1965"
+      ],
+      "exhibitions": [
+        "Ásmundarsalur"
+      ],
+      "materials": [
+        "wallpaper",
+        "mixed media"
+      ],
       "searchText": "veggfóður ferð reise wallpaper 1965 ásmundarsalur magnús pálsson"
     },
     {
@@ -241,16 +617,49 @@
       "year": 1980,
       "description": "Labyrinth installation in Vestmannaeyjar 1980.",
       "images": [
-        {"url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-01-medium.jpg", "caption": "Labyrinth view 1", "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-01-thumb.jpg"},
-        {"url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-02-medium.jpg", "caption": "Labyrinth view 2", "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-02-thumb.jpg"},
-        {"url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-03-medium.jpg", "caption": "Labyrinth view 3", "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-03-thumb.jpg"},
-        {"url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-04-medium.jpg", "caption": "Labyrinth view 4", "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-04-thumb.jpg"},
-        {"url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-05-medium.jpg", "caption": "Labyrinth view 5", "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-05-thumb.jpg"},
-        {"url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-06-medium.jpg", "caption": "Labyrinth view 6", "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-06-thumb.jpg"}
+        {
+          "url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-01-medium.jpg",
+          "caption": "Labyrinth view 1",
+          "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-01-thumb.jpg"
+        },
+        {
+          "url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-02-medium.jpg",
+          "caption": "Labyrinth view 2",
+          "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-02-thumb.jpg"
+        },
+        {
+          "url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-03-medium.jpg",
+          "caption": "Labyrinth view 3",
+          "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-03-thumb.jpg"
+        },
+        {
+          "url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-04-medium.jpg",
+          "caption": "Labyrinth view 4",
+          "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-04-thumb.jpg"
+        },
+        {
+          "url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-05-medium.jpg",
+          "caption": "Labyrinth view 5",
+          "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-05-thumb.jpg"
+        },
+        {
+          "url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-06-medium.jpg",
+          "caption": "Labyrinth view 6",
+          "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-06-thumb.jpg"
+        }
       ],
-      "tags": ["installation", "labyrinth", "1980"],
-      "exhibitions": ["Vestmannaeyjar 1980"],
-      "materials": ["mixed media", "installation"],
+      "tags": [
+        "installation",
+        "labyrinth",
+        "1980"
+      ],
+      "exhibitions": [
+        "Vestmannaeyjar 1980"
+      ],
+      "materials": [
+        "mixed media",
+        "installation"
+      ],
       "searchText": "völundarhús labyrinth 1980 vestmannaeyjar magnús pálsson"
     },
     {
@@ -1263,6 +1672,11 @@
       "description": "A comprehensive work by Magnús Pálsson from 2007. This extensive piece demonstrates his artistic development and exploration during this significant period of his career.",
       "images": [
         {
+          "url": "images/minning-thorarinn-nefjolfsson-i8-reyk-2007-2007/minning-thorarinn-nefjolfsson-2007-preview.mp4",
+          "caption": "Minning Þórarinn Nefjólfsson - video documentation (1 minute preview)",
+          "thumbnail": "images/minning-thorarinn-nefjolfsson-i8-reyk-2007-2007/thumbs/minning-thorarinn-nefjolfsson-video-thumb.jpg"
+        },
+        {
           "url": "images/minning-thorarinn-nefjolfsson-i8-reyk-2007-2007/medium/minning-01-medium.jpg",
           "caption": "Minning - view 1"
         },
@@ -1372,6 +1786,11 @@
       "year": 2013,
       "description": "A work by Magnús Pálsson from 2013. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career.",
       "images": [
+        {
+          "url": "images/kross-2013-performance-2013/kross-2013-performance-preview.mp4",
+          "caption": "Kross performance - video documentation (1 minute preview)",
+          "thumbnail": "images/kross-2013-performance-2013/thumbs/kross-2013-performance-video-thumb.jpg"
+        },
         {
           "url": "images/kross-2013-performance-2013/medium/kross-01-medium.jpg",
           "caption": "Kross - view 1"
@@ -1595,6 +2014,11 @@
       "description": "A work by Magnús Pálsson from 2015. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career.",
       "images": [
         {
+          "url": "images/kuakyn-i-haettu-2015-2015/kuakyn-i-haettu-2015-preview.mp4",
+          "caption": "Kúakyn í hættu (Cows in Danger) - video documentation (1 minute preview)",
+          "thumbnail": "images/kuakyn-i-haettu-2015-2015/thumbs/kuakyn-i-haettu-2015-video-thumb.jpg"
+        },
+        {
           "url": "images/kuakyn-i-haettu-2015-2015/medium/kuakyn-01-medium.jpg",
           "caption": "Kúakyn - view 1"
         },
@@ -1617,6 +2041,11 @@
       "year": 1999,
       "description": "A work by Magnús Pálsson from 1999. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career.",
       "images": [
+        {
+          "url": "images/kuplingsdiskur-clutch-disc-1999-1999/kuplingsdiskur-clutch-disc-1999-preview.mp4",
+          "caption": "Kúplingsdiskur (Clutch Disc) - video documentation (1 minute preview)",
+          "thumbnail": "images/kuplingsdiskur-clutch-disc-1999-1999/thumbs/kuplingsdiskur-clutch-disc-1999-video-thumb.jpg"
+        },
         {
           "url": "images/kuplingsdiskur-clutch-disc-1999-1999/medium/kuplingsdiskur-01-medium.jpg",
           "caption": "Kúplingsdiskur - view 1"
@@ -2598,6 +3027,11 @@
       "description": "PLACEHOLDER: Performance work from 2002 featuring cars, poetry, and NÝLO exhibition. Includes video, audio, and text elements. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials.",
       "images": [
         {
+          "url": "images/bilatal-odurin-til-bilsins-2002/bilatal-odurin-til-bilsins-2002-preview.mp4",
+          "caption": "Óðurin til bílsins (Song to the Car) - video documentation (1 minute preview)",
+          "thumbnail": "images/bilatal-odurin-til-bilsins-2002/thumbs/bilatal-odurin-til-bilsins-2002-video-thumb.jpg"
+        },
+        {
           "url": "images/bilatal-odurin-til-bilsins-2002/medium/bilatal-odurin-til-bilsins-2002-01-medium.jpg",
           "caption": "Bílatal performance documentation [NEEDS REVIEW]",
           "photographer": "Unknown",
@@ -3277,6 +3711,11 @@
       "description": "PLACEHOLDER: Performance work from 1985 (They come with coffin and fetch me). Features performances in Oslo and Reykjavik with stage sets, costumes, and student productions. Includes video documentation. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
       "images": [
         {
+          "url": "images/de-kommer-med-kista-1985/de-kommer-med-kista-1985-preview.mp4",
+          "caption": "De kommer med kista (They Come with the Coffin) - video documentation (1 minute preview)",
+          "thumbnail": "images/de-kommer-med-kista-1985/thumbs/de-kommer-med-kista-1985-video-thumb.jpg"
+        },
+        {
           "url": "images/de-kommer-med-kista-1985/medium/de-kommer-med-kista-1985-01-medium.jpg",
           "caption": "De kommer med kista - Performance poster [NEEDS REVIEW]",
           "photographer": "Unknown",
@@ -3915,6 +4354,11 @@
       "year": 1992,
       "description": "Second iteration of Freyskatla, a large-scale installation addressing geological and mythological themes. This 1992 version features audio and text work with radio elements, developed in collaboration with Steingrímur. The work explores Iceland's volcanic landscape through both physical and conceptual layers, building upon the earlier 1982 installation while incorporating evolved understanding of geological forces and cultural mythology.",
       "images": [
+        {
+          "url": "images/freyskatla-1992/freyskatla-1992-preview.mp4",
+          "caption": "Freyskatla - video documentation (1 minute preview)",
+          "thumbnail": "images/freyskatla-1992/thumbs/freyskatla-1992-video-thumb.jpg"
+        },
         {
           "url": "images/freyskatla-1992/medium/freyskatla-1992-01-medium.jpg",
           "caption": "Freyskatla text page 1 - Text documentation [NEEDS REVIEW]",
@@ -4617,6 +5061,11 @@
       "description": "A significant beach sculpture installation created at Ægissíða in 1998, also known as Strandlegjan (Beach Play). The work involved creating sculptural interventions on the beach, exploring the relationship between natural forms and artistic intervention in the coastal landscape.",
       "images": [
         {
+          "url": "images/hrognkelsaveifa-strandlegjan-1998/hrognkelsaveifa-strandlegjan-1998-preview.mp4",
+          "caption": "Hrognkelsaveifa (Strandlegjan) - video documentation (1 minute preview)",
+          "thumbnail": "images/hrognkelsaveifa-strandlegjan-1998/thumbs/hrognkelsaveifa-strandlegjan-1998-video-thumb.jpg"
+        },
+        {
           "url": "images/hrognkelsaveifa-strandlegjan-1998/medium/Beach sculpture 1-medium.jpg",
           "caption": "Beach sculpture installation view 1",
           "photographer": "Unknown",
@@ -5069,6 +5518,11 @@
       "year": 2013,
       "description": "A collaborative work from May 2013 involving Jörgen Bruun Hansen at the Living Art Museum (LI), with connection to Baldvina. The work includes pencil sketches, video documentation (Murari), and extensive photographic documentation. This piece explores portraiture, collaboration, and the documentation of artistic encounters.",
       "images": [
+        {
+          "url": "images/jorgen-bruun-hansen-2013/jorgen-bruun-hansen-2013-preview.mp4",
+          "caption": "Jörgen Bruun Hansen performance - video documentation (1 minute preview)",
+          "thumbnail": "images/jorgen-bruun-hansen-2013/thumbs/jorgen-bruun-hansen-2013-video-thumb.jpg"
+        },
         {
           "url": "images/jorgen-bruun-hansen-2013/medium/Jörgen BH pencil sketch MP-medium.jpg",
           "caption": "Jörgen Bruun Hansen pencil sketch by Magnús Pálsson",
@@ -5555,6 +6009,11 @@
       "year": 1991,
       "description": "A work by Magnús Pálsson from 1991. This piece demonstrates his artistic exploration and creative development during this period.",
       "images": [
+        {
+          "url": "images/sprengd-hljodhimna-burst-eardrum-1991-2012/sprengd-hljodhimna-burst-eardrum-1991-preview.mp4",
+          "caption": "Sprengd hljóðhimna (Burst Eardrum) - video documentation (1 minute preview)",
+          "thumbnail": "images/sprengd-hljodhimna-burst-eardrum-1991-2012/thumbs/sprengd-hljodhimna-video-thumb.jpg"
+        },
         {
           "url": "images/sprengd-hljodhimna-burst-eardrum-1991-2012/medium/sprengd-01-medium.jpg",
           "caption": "Sprengd hljóðhimna _ Burst Eardrum 1991 & 2012 - view 1"
