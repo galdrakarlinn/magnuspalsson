@@ -24,15 +24,35 @@ For each Dropbox folder:
 - **Web images**: 800-1200px wide max
 - **Thumbnails**: 400px wide max
 - **File format**: JPG (JPEG quality 80-85%)
-- **File naming**: descriptive, no spaces, use hyphens
+- **File naming**: MUST use suffix `-medium` or `-thumb` (see below)
 - **Select 3-8 best images** per work (not all images needed)
+
+#### IMPORTANT: Folder Structure & Naming Convention
+**MUST follow this exact structure:**
+```
+images/work-id/
+  ├── medium/
+  │   ├── work-id-01-medium.jpg
+  │   ├── work-id-02-medium.jpg
+  │   └── work-id-03-medium.jpg
+  └── thumbs/           (note: "thumbs" with 's', NOT "thumb")
+      ├── work-id-01-thumb.jpg
+      ├── work-id-02-thumb.jpg
+      └── work-id-03-thumb.jpg
+```
+
+**Key naming rules:**
+- Folder name: `thumbs/` (plural with 's')
+- Medium files: `workname-##-medium.jpg`
+- Thumb files: `workname-##-thumb.jpg`
+- Always include the `-medium` or `-thumb` suffix!
 
 #### Image Processing Steps:
 1. **Select best images** - choose most representative/highest quality
-2. **Resize for web** - max 1200px wide, maintain aspect ratio
-3. **Compress** - reduce file size while maintaining quality
-4. **Rename files** - use format: `workname-01.jpg`, `workname-02.jpg`, etc.
-5. **Create folder** in `magnuspalsson/images/` with work ID as folder name
+2. **Create folder structure** - `images/work-id/medium/` and `images/work-id/thumbs/`
+3. **Resize for medium** - max 1200px wide, maintain aspect ratio, save as `work-id-##-medium.jpg`
+4. **Resize for thumbs** - max 400px wide, maintain aspect ratio, save as `work-id-##-thumb.jpg`
+5. **Compress** - JPEG quality 85% for medium, 80% for thumbs
 
 #### Tools for Image Processing:
 - **Photoshop/GIMP**: Batch resize and compress
@@ -63,6 +83,8 @@ For each Dropbox folder:
 
 Each artwork needs this JSON structure in `works.json`:
 
+**IMPORTANT:** ALL works MUST include the `exhibitions` field, even if empty!
+
 ```json
 {
   "id": "work_title_year",
@@ -71,25 +93,32 @@ Each artwork needs this JSON structure in `works.json`:
   "description": "Detailed description of the work, materials, context, and significance. Include any available historical information.",
   "images": [
     {
-      "url": "images/work-title-year/work-title-01.jpg",
+      "url": "images/work-title-year/medium/work-title-year-01-medium.jpg",
       "caption": "Descriptive caption",
-      "photographer": "Photographer Name",
-      "year": "1975",
-      "copyright": "© Estate of Magnús Pálsson"
+      "thumbnail": "images/work-title-year/thumbs/work-title-year-01-thumb.jpg"
     }
   ],
   "tags": ["sculpture", "performance", "video", "sound", "installation"],
-  "exhibitions": [
-    {
-      "title": "Exhibition Name",
-      "venue": "Gallery/Museum Name",
-      "year": 1975,
-      "city": "Reykjavik"
-    }
-  ],
+  "exhibitions": [],
   "materials": ["plaster", "video", "sound", "metal"],
   "searchText": "relevant keywords for search functionality"
 }
+```
+
+**Required fields (MUST be included):**
+- `id` - work identifier (lowercase, hyphens)
+- `title` - work title
+- `year` - year created
+- `description` - description text
+- `images` - array of image objects with `url`, `caption`, and `thumbnail`
+- `tags` - array of tags
+- `exhibitions` - array (can be empty `[]` if no exhibitions)
+- `materials` - array of materials
+- `searchText` - search keywords
+
+**Optional fields:**
+- `photographer` - in image objects
+- Exhibition details (if exhibitions exist): `title`, `venue`, `year`, `city`
 ```
 
 ### 5. WORK ID NAMING CONVENTION

@@ -1,6 +1,290 @@
 {
   "works": [
     {
+      "id": "taem-time-clock-now-1964",
+      "title": "Tæm (Time Clock Now)",
+      "year": 1964,
+      "description": "An early conceptual work featuring a time clock with the word 'NOW', exploring themes of time, presence, and temporality.",
+      "images": [
+        {
+          "url": "images/taem-time-clock-now-1964/medium/taem-time-clock-now-1964-01-medium.jpg",
+          "caption": "Time clock with 'NOW' - front view",
+          "thumbnail": "images/taem-time-clock-now-1964/thumbs/taem-time-clock-now-1964-01-thumb.jpg"
+        },
+        {
+          "url": "images/taem-time-clock-now-1964/medium/taem-time-clock-now-1964-02-medium.jpg",
+          "caption": "Time clock mounted on wall",
+          "thumbnail": "images/taem-time-clock-now-1964/thumbs/taem-time-clock-now-1964-02-thumb.jpg"
+        },
+        {
+          "url": "images/taem-time-clock-now-1964/medium/taem-time-clock-now-1964-03-medium.jpg",
+          "caption": "Detail view",
+          "thumbnail": "images/taem-time-clock-now-1964/thumbs/taem-time-clock-now-1964-03-thumb.jpg"
+        }
+      ],
+      "tags": [
+        "conceptual",
+        "sculpture",
+        "time",
+        "1964"
+      ],
+      "exhibitions": [],
+      "materials": [
+        "time clock",
+        "found object",
+        "text"
+      ],
+      "searchText": "taem time clock now 1964 conceptual sculpture magnús pálsson"
+    },
+    {
+      "id": "tango-1-2-1969",
+      "title": "Tango 1 & 2",
+      "year": 1969,
+      "description": "A series of works exploring movement and dance through visual art.",
+      "images": [
+        {
+          "url": "images/tango-1-2-1969/medium/tango-1-2-1969-01-medium.jpg",
+          "caption": "Tango 1",
+          "thumbnail": "images/tango-1-2-1969/thumbs/tango-1-2-1969-01-thumb.jpg"
+        },
+        {
+          "url": "images/tango-1-2-1969/medium/tango-1-2-1969-02-medium.jpg",
+          "caption": "Tango 2 - view 1",
+          "thumbnail": "images/tango-1-2-1969/thumbs/tango-1-2-1969-02-thumb.jpg"
+        },
+        {
+          "url": "images/tango-1-2-1969/medium/tango-1-2-1969-03-medium.jpg",
+          "caption": "Tango 2 - view 2",
+          "thumbnail": "images/tango-1-2-1969/thumbs/tango-1-2-1969-03-thumb.jpg"
+        },
+        {
+          "url": "images/tango-1-2-1969/medium/tango-1-2-1969-04-medium.jpg",
+          "caption": "Tango 4",
+          "thumbnail": "images/tango-1-2-1969/thumbs/tango-1-2-1969-04-thumb.jpg"
+        }
+      ],
+      "tags": [
+        "sculpture",
+        "movement",
+        "1969"
+      ],
+      "exhibitions": [],
+      "materials": [
+        "mixed media"
+      ],
+      "searchText": "tango 1969 dance movement sculpture magnús pálsson"
+    },
+    {
+      "id": "tarnung-camoflas-tros-1962",
+      "title": "Tarnung Camoflas Tros (Dulamálning)",
+      "year": 1962,
+      "description": "Camouflage work exploring themes of concealment and visual deception.",
+      "images": [
+        {
+          "url": "images/tarnung-camoflas-tros-1962/medium/tarnung-camoflas-tros-1962-01-medium.jpg",
+          "caption": "Tarnung detail",
+          "thumbnail": "images/tarnung-camoflas-tros-1962/thumbs/tarnung-camoflas-tros-1962-01-thumb.jpg"
+        },
+        {
+          "url": "images/tarnung-camoflas-tros-1962/medium/tarnung-camoflas-tros-1962-02-medium.jpg",
+          "caption": "Tros",
+          "thumbnail": "images/tarnung-camoflas-tros-1962/thumbs/tarnung-camoflas-tros-1962-02-thumb.jpg"
+        }
+      ],
+      "tags": [
+        "painting",
+        "camouflage",
+        "1962"
+      ],
+      "exhibitions": [],
+      "materials": [
+        "paint",
+        "canvas"
+      ],
+      "searchText": "tarnung camoflas tros dulamálning 1962 camouflage painting magnús pálsson"
+    },
+    {
+      "id": "hunting-of-the-snark-1998",
+      "title": "The Hunting of the Snark",
+      "year": 1998,
+      "description": "A work based on Lewis Carroll's nonsense poem, created for NÝLÓ gallery.",
+      "images": [
+        {
+          "url": "images/hunting-of-the-snark-1998/medium/hunting-of-the-snark-1998-01-medium.jpg",
+          "caption": "The Hunting of the Snark",
+          "thumbnail": "images/hunting-of-the-snark-1998/thumbs/hunting-of-the-snark-1998-01-thumb.jpg"
+        }
+      ],
+      "tags": [
+        "installation",
+        "literary",
+        "1998"
+      ],
+      "exhibitions": [
+        "NÝLÓ 1998"
+      ],
+      "materials": [
+        "mixed media"
+      ],
+      "searchText": "hunting of the snark 1998 nýló lewis carroll magnús pálsson"
+    },
+    {
+      "id": "the-offs-1994",
+      "title": "The Offs",
+      "year": 1994,
+      "description": "A work from 1994 exploring themes of absence and negation.",
+      "images": [
+        {
+          "url": "images/the-offs-1994/medium/the-offs-1994-01-medium.jpg",
+          "caption": "The Offs - view 1",
+          "thumbnail": "images/the-offs-1994/thumbs/the-offs-1994-01-thumb.jpg"
+        },
+        {
+          "url": "images/the-offs-1994/medium/the-offs-1994-02-medium.jpg",
+          "caption": "The Offs - view 2",
+          "thumbnail": "images/the-offs-1994/thumbs/the-offs-1994-02-thumb.jpg"
+        },
+        {
+          "url": "images/the-offs-1994/medium/the-offs-1994-03-medium.jpg",
+          "caption": "The Offs - view 3",
+          "thumbnail": "images/the-offs-1994/thumbs/the-offs-1994-03-thumb.jpg"
+        },
+        {
+          "url": "images/the-offs-1994/medium/the-offs-1994-04-medium.jpg",
+          "caption": "The Offs - view 4",
+          "thumbnail": "images/the-offs-1994/thumbs/the-offs-1994-04-thumb.jpg"
+        },
+        {
+          "url": "images/the-offs-1994/medium/the-offs-1994-05-medium.jpg",
+          "caption": "The Offs - view 5",
+          "thumbnail": "images/the-offs-1994/thumbs/the-offs-1994-05-thumb.jpg"
+        },
+        {
+          "url": "images/the-offs-1994/medium/the-offs-1994-06-medium.jpg",
+          "caption": "The Offs - view 6",
+          "thumbnail": "images/the-offs-1994/thumbs/the-offs-1994-06-thumb.jpg"
+        }
+      ],
+      "tags": [
+        "installation",
+        "1994"
+      ],
+      "exhibitions": [],
+      "materials": [
+        "mixed media"
+      ],
+      "searchText": "the offs 1994 installation magnús pálsson"
+    },
+    {
+      "id": "tilfaesla-rymis-1976",
+      "title": "Tilfæsla rýmis",
+      "year": 1976,
+      "description": "A spatial work exploring the displacement and transformation of space.",
+      "images": [
+        {
+          "url": "images/tilfaesla-rymis-1976/medium/tilfaesla-rymis-1976-01-medium.jpg",
+          "caption": "Text by Magnús Pálsson",
+          "thumbnail": "images/tilfaesla-rymis-1976/thumbs/tilfaesla-rymis-1976-01-thumb.jpg"
+        },
+        {
+          "url": "images/tilfaesla-rymis-1976/medium/tilfaesla-rymis-1976-02-medium.jpg",
+          "caption": "Tilfæsla rýmis",
+          "thumbnail": "images/tilfaesla-rymis-1976/thumbs/tilfaesla-rymis-1976-02-thumb.jpg"
+        }
+      ],
+      "tags": [
+        "conceptual",
+        "space",
+        "1976"
+      ],
+      "exhibitions": [],
+      "materials": [
+        "text",
+        "mixed media"
+      ],
+      "searchText": "tilfæsla rýmis 1976 space conceptual magnús pálsson"
+    },
+    {
+      "id": "typewriter-ritvel-2016",
+      "title": "Typewriter (Ritvél)",
+      "year": 2016,
+      "description": "A performance piece using typewriter, presented at Sigló and other venues.",
+      "images": [
+        {
+          "url": "images/typewriter-ritvel-2016/medium/typewriter-ritvel-2016-01-medium.jpg",
+          "caption": "Performance poster Djupivogur",
+          "thumbnail": "images/typewriter-ritvel-2016/thumbs/typewriter-ritvel-2016-01-thumb.jpg"
+        }
+      ],
+      "tags": [
+        "performance",
+        "sound",
+        "2016"
+      ],
+      "exhibitions": [
+        "Sigló 2016"
+      ],
+      "materials": [
+        "typewriter",
+        "performance"
+      ],
+      "searchText": "typewriter ritvél 2016 performance sound sigló magnús pálsson"
+    },
+    {
+      "id": "tadskegglingar-2009",
+      "title": "Taðskegglingar (for Sequences)",
+      "year": 2009,
+      "description": "A performance work created for the Sequences festival in 2009, featuring hanging chairs, performers, and collage elements. The work explores choreographic sequences and spatial relationships through performance art.",
+      "images": [
+        {
+          "url": "images/tadskegglingar-2009/medium/tadskegglingar-01-medium.jpg",
+          "caption": "Collage book with newspaper clippings",
+          "thumbnail": "images/tadskegglingar-2009/thumbs/tadskegglingar-01-thumb.jpg"
+        },
+        {
+          "url": "images/tadskegglingar-2009/medium/tadskegglingar-02-medium.jpg",
+          "caption": "Yfirlit (overview) - performance score diagram",
+          "thumbnail": "images/tadskegglingar-2009/thumbs/tadskegglingar-02-thumb.jpg"
+        },
+        {
+          "url": "images/tadskegglingar-2009/medium/tadskegglingar-03-medium.jpg",
+          "caption": "Hanging chair installation",
+          "thumbnail": "images/tadskegglingar-2009/thumbs/tadskegglingar-03-thumb.jpg"
+        },
+        {
+          "url": "images/tadskegglingar-2009/medium/tadskegglingar-04-medium.jpg",
+          "caption": "Performance in dark space",
+          "thumbnail": "images/tadskegglingar-2009/thumbs/tadskegglingar-04-thumb.jpg"
+        },
+        {
+          "url": "images/tadskegglingar-2009/medium/tadskegglingar-05-medium.jpg",
+          "caption": "Performer with box and audience",
+          "thumbnail": "images/tadskegglingar-2009/thumbs/tadskegglingar-05-thumb.jpg"
+        },
+        {
+          "url": "images/tadskegglingar-2009/medium/tadskegglingar-06-medium.jpg",
+          "caption": "Wall-mounted collage with newspaper elements",
+          "thumbnail": "images/tadskegglingar-2009/thumbs/tadskegglingar-06-thumb.jpg"
+        }
+      ],
+      "tags": [
+        "performance",
+        "collage",
+        "installation",
+        "2009"
+      ],
+      "exhibitions": [
+        "Sequences Festival 2009"
+      ],
+      "materials": [
+        "performance",
+        "collage",
+        "hanging chairs",
+        "newspaper clippings"
+      ],
+      "searchText": "tadskegglingar sequences 2009 performance collage hanging chairs magnús pálsson"
+    },
+    {
       "id": "mutations-stokkbreytingar-dada-tate-hackney-empire-2005",
       "title": "Mutations Stökkbreytingar Dada TATE Hackney empire 2005",
       "year": 2005,

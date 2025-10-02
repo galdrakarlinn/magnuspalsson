@@ -2,6 +2,78 @@
   "searchableContent": [
     {
       "type": "work",
+      "title": "Tæm (Time Clock Now)",
+      "snippet": "An early conceptual work featuring a time clock with the word 'NOW', exploring themes of time, presence, and temporality.",
+      "content": "Tæm (Time Clock Now) An early conceptual work featuring a time clock with the word 'NOW', exploring themes of time, presence, and temporality. 1964 conceptual sculpture time 1964 time clock found object text",
+      "url": "works.html?work=taem-time-clock-now-1964",
+      "year": 1964,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Tango 1 & 2",
+      "snippet": "A series of works exploring movement and dance through visual art.",
+      "content": "Tango 1 & 2 A series of works exploring movement and dance through visual art. 1969 sculpture movement 1969 mixed media",
+      "url": "works.html?work=tango-1-2-1969",
+      "year": 1969,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Tarnung Camoflas Tros (Dulamálning)",
+      "snippet": "Camouflage work exploring themes of concealment and visual deception.",
+      "content": "Tarnung Camoflas Tros (Dulamálning) Camouflage work exploring themes of concealment and visual deception. 1962 painting camouflage 1962 paint canvas",
+      "url": "works.html?work=tarnung-camoflas-tros-1962",
+      "year": 1962,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "The Hunting of the Snark",
+      "snippet": "A work based on Lewis Carroll's nonsense poem, created for NÝLÓ gallery.",
+      "content": "The Hunting of the Snark A work based on Lewis Carroll's nonsense poem, created for NÝLÓ gallery. 1998 installation literary 1998 mixed media NÝLÓ 1998",
+      "url": "works.html?work=hunting-of-the-snark-1998",
+      "year": 1998,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "The Offs",
+      "snippet": "A work from 1994 exploring themes of absence and negation.",
+      "content": "The Offs A work from 1994 exploring themes of absence and negation. 1994 installation 1994 mixed media",
+      "url": "works.html?work=the-offs-1994",
+      "year": 1994,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Tilfæsla rýmis",
+      "snippet": "A spatial work exploring the displacement and transformation of space.",
+      "content": "Tilfæsla rýmis A spatial work exploring the displacement and transformation of space. 1976 conceptual space 1976 text mixed media",
+      "url": "works.html?work=tilfaesla-rymis-1976",
+      "year": 1976,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Typewriter (Ritvél)",
+      "snippet": "A performance piece using typewriter, presented at Sigló and other venues.",
+      "content": "Typewriter (Ritvél) A performance piece using typewriter, presented at Sigló and other venues. 2016 performance sound 2016 typewriter performance Sigló 2016",
+      "url": "works.html?work=typewriter-ritvel-2016",
+      "year": 2016,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Taðskegglingar (for Sequences)",
+      "snippet": "A performance work created for the Sequences festival in 2009, featuring hanging chairs, performers, and collage elements. The work explores choreo...",
+      "content": "Taðskegglingar (for Sequences) A performance work created for the Sequences festival in 2009, featuring hanging chairs, performers, and collage elements. The work explores choreographic sequences and spatial relationships through performance art. 2009 performance collage installation 2009 performance collage hanging chairs newspaper clippings Sequences Festival 2009",
+      "url": "works.html?work=tadskegglingar-2009",
+      "year": 2009,
+      "page": "works"
+    },
+    {
+      "type": "work",
       "title": "Mutations Stökkbreytingar Dada TATE Hackney empire 2005",
       "snippet": "A major international DADA performance work by Magnús Pálsson, performed at the Hackney Empire in London and Tate Modern in 2005. This multimedia p...",
       "content": "Mutations Stökkbreytingar Dada TATE Hackney empire 2005 A major international DADA performance work by Magnús Pálsson, performed at the Hackney Empire in London and Tate Modern in 2005. This multimedia performance piece explores themes of mutation and transformation through the DADA aesthetic, with video documentation and comprehensive script materials. 2005 performance video international dada 2005 video performance script documentation Hackney Empire London Tate Modern London",
@@ -21,10 +93,10 @@
     {
       "type": "work",
       "title": "Pendúll student performance 1.2.1999",
-      "snippet": "A performance documentation work by Magnús Pálsson from Unknown. This work includes video documentation and materials from the performance.",
-      "content": "Pendúll student performance 1.2.1999 A performance documentation work by Magnús Pálsson from Unknown. This work includes video documentation and materials from the performance. Unknown performance video documentation undated video performance documentation",
+      "snippet": "A student performance work by Magnús Pálsson from 1999. This performance piece includes video documentation from the presentation on February 1, 1999.",
+      "content": "Pendúll student performance 1.2.1999 A student performance work by Magnús Pálsson from 1999. This performance piece includes video documentation from the presentation on February 1, 1999. 1999 performance video documentation 1999 video performance documentation",
       "url": "works.html?work=pendull-student-performance-121999",
-      "year": "Unknown",
+      "year": 1999,
       "page": "works"
     },
     {
