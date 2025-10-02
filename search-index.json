@@ -2,6 +2,69 @@
   "searchableContent": [
     {
       "type": "work",
+      "title": "Ulla or Uðða Suðurgata 7",
+      "snippet": "Student work from 1976, created at Suðurgata 7 studio.",
+      "content": "Ulla or Uðða Suðurgata 7 Student work from 1976, created at Suðurgata 7 studio. 1976 installation student work 1976 mixed media",
+      "url": "works.html?work=ulla-udda-sudurgata-7-1976",
+      "year": 1976,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Vænting (Expectation)",
+      "snippet": "Wall piece from 1966, owned by NÝLÓ.",
+      "content": "Vænting (Expectation) Wall piece from 1966, owned by NÝLÓ. 1966 wall piece sculpture 1966 mixed media",
+      "url": "works.html?work=vaenting-expectation-1966",
+      "year": 1966,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Vakning",
+      "snippet": "Installation with clocks, presented in Akureyri 2015.",
+      "content": "Vakning Installation with clocks, presented in Akureyri 2015. 2015 installation time clocks 2015 clocks mixed media Akureyri 2015",
+      "url": "works.html?work=vakning-2015",
+      "year": 2015,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Vallanes Model",
+      "snippet": "Model of Vallanes farm near Egilsstaðir where Magnús Pálsson's father grew up. In collection of Listasafn Íslands.",
+      "content": "Vallanes Model Model of Vallanes farm near Egilsstaðir where Magnús Pálsson's father grew up. In collection of Listasafn Íslands. 1960 model architecture 1960 mixed media model",
+      "url": "works.html?work=vallanes-model-1960s",
+      "year": 1960,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Varla... (Hardly)",
+      "snippet": "Installation with soaps and audio tapes, exploring themes of cleansing and transformation.",
+      "content": "Varla... (Hardly) Installation with soaps and audio tapes, exploring themes of cleansing and transformation. 1994 installation sound sculpture 1994 soap audio tape mixed media",
+      "url": "works.html?work=varla-hardly-1994",
+      "year": 1994,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Veggfóður Ferð (Reise / Wallpaper)",
+      "snippet": "Wallpaper work from 1965, presented at Ásmundarsalur.",
+      "content": "Veggfóður Ferð (Reise / Wallpaper) Wallpaper work from 1965, presented at Ásmundarsalur. 1965 wallpaper installation 1965 wallpaper mixed media Ásmundarsalur",
+      "url": "works.html?work=veggfodur-ferd-reise-1965",
+      "year": 1965,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Völundarhús (Labyrinth)",
+      "snippet": "Labyrinth installation in Vestmannaeyjar 1980.",
+      "content": "Völundarhús (Labyrinth) Labyrinth installation in Vestmannaeyjar 1980. 1980 installation labyrinth 1980 mixed media installation Vestmannaeyjar 1980",
+      "url": "works.html?work=volundarhus-labyrinth-1980",
+      "year": 1980,
+      "page": "works"
+    },
+    {
+      "type": "work",
       "title": "Tæm (Time Clock Now)",
       "snippet": "An early conceptual work featuring a time clock with the word 'NOW', exploring themes of time, presence, and temporality.",
       "content": "Tæm (Time Clock Now) An early conceptual work featuring a time clock with the word 'NOW', exploring themes of time, presence, and temporality. 1964 conceptual sculpture time 1964 time clock found object text",

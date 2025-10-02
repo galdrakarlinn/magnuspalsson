@@ -1,6 +1,123 @@
 {
   "works": [
     {
+      "id": "ulla-udda-sudurgata-7-1976",
+      "title": "Ulla or Uðða Suðurgata 7",
+      "year": 1976,
+      "description": "Student work from 1976, created at Suðurgata 7 studio.",
+      "images": [
+        {"url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-01-medium.jpg", "caption": "Ulla installation view", "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-01-thumb.jpg"},
+        {"url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-02-medium.jpg", "caption": "Detail view 1", "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-02-thumb.jpg"},
+        {"url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-03-medium.jpg", "caption": "Detail view 2", "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-03-thumb.jpg"},
+        {"url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-04-medium.jpg", "caption": "Detail view 3", "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-04-thumb.jpg"},
+        {"url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-05-medium.jpg", "caption": "Detail view 4", "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-05-thumb.jpg"},
+        {"url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-06-medium.jpg", "caption": "Detail view 5", "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-06-thumb.jpg"}
+      ],
+      "tags": ["installation", "student work", "1976"],
+      "exhibitions": [],
+      "materials": ["mixed media"],
+      "searchText": "ulla udda sudurgata 7 1976 student work installation magnús pálsson"
+    },
+    {
+      "id": "vaenting-expectation-1966",
+      "title": "Vænting (Expectation)",
+      "year": 1966,
+      "description": "Wall piece from 1966, owned by NÝLÓ.",
+      "images": [
+        {"url": "images/vaenting-expectation-1966/medium/vaenting-expectation-1966-01-medium.jpg", "caption": "Vænting wall piece", "thumbnail": "images/vaenting-expectation-1966/thumbs/vaenting-expectation-1966-01-thumb.jpg"},
+        {"url": "images/vaenting-expectation-1966/medium/vaenting-expectation-1966-02-medium.jpg", "caption": "From catalogue", "thumbnail": "images/vaenting-expectation-1966/thumbs/vaenting-expectation-1966-02-thumb.jpg"},
+        {"url": "images/vaenting-expectation-1966/medium/vaenting-expectation-1966-03-medium.jpg", "caption": "Owned by NÝLÓ", "thumbnail": "images/vaenting-expectation-1966/thumbs/vaenting-expectation-1966-03-thumb.jpg"}
+      ],
+      "tags": ["wall piece", "sculpture", "1966"],
+      "exhibitions": [],
+      "materials": ["mixed media"],
+      "searchText": "vænting expectation 1966 wall piece nýló magnús pálsson"
+    },
+    {
+      "id": "vakning-2015",
+      "title": "Vakning",
+      "year": 2015,
+      "description": "Installation with clocks, presented in Akureyri 2015.",
+      "images": [
+        {"url": "images/vakning-2015/medium/vakning-2015-01-medium.jpg", "caption": "Installation view 1", "thumbnail": "images/vakning-2015/thumbs/vakning-2015-01-thumb.jpg"},
+        {"url": "images/vakning-2015/medium/vakning-2015-02-medium.jpg", "caption": "Installation view 2", "thumbnail": "images/vakning-2015/thumbs/vakning-2015-02-thumb.jpg"},
+        {"url": "images/vakning-2015/medium/vakning-2015-03-medium.jpg", "caption": "Installation view 3", "thumbnail": "images/vakning-2015/thumbs/vakning-2015-03-thumb.jpg"},
+        {"url": "images/vakning-2015/medium/vakning-2015-04-medium.jpg", "caption": "Installation view 4", "thumbnail": "images/vakning-2015/thumbs/vakning-2015-04-thumb.jpg"},
+        {"url": "images/vakning-2015/medium/vakning-2015-05-medium.jpg", "caption": "Akureyri clocks", "thumbnail": "images/vakning-2015/thumbs/vakning-2015-05-thumb.jpg"}
+      ],
+      "tags": ["installation", "time", "clocks", "2015"],
+      "exhibitions": ["Akureyri 2015"],
+      "materials": ["clocks", "mixed media"],
+      "searchText": "vakning 2015 installation clocks akureyri magnús pálsson"
+    },
+    {
+      "id": "vallanes-model-1960s",
+      "title": "Vallanes Model",
+      "year": 1960,
+      "description": "Model of Vallanes farm near Egilsstaðir where Magnús Pálsson's father grew up. In collection of Listasafn Íslands.",
+      "images": [
+        {"url": "images/vallanes-model-1960s/medium/vallanes-model-1960s-01-medium.jpg", "caption": "Vallanes model", "thumbnail": "images/vallanes-model-1960s/thumbs/vallanes-model-1960s-01-thumb.jpg"},
+        {"url": "images/vallanes-model-1960s/medium/vallanes-model-1960s-02-medium.jpg", "caption": "Model pieces 1", "thumbnail": "images/vallanes-model-1960s/thumbs/vallanes-model-1960s-02-thumb.jpg"},
+        {"url": "images/vallanes-model-1960s/medium/vallanes-model-1960s-03-medium.jpg", "caption": "Model pieces 2", "thumbnail": "images/vallanes-model-1960s/thumbs/vallanes-model-1960s-03-thumb.jpg"},
+        {"url": "images/vallanes-model-1960s/medium/vallanes-model-1960s-04-medium.jpg", "caption": "Vallanes plan", "thumbnail": "images/vallanes-model-1960s/thumbs/vallanes-model-1960s-04-thumb.jpg"}
+      ],
+      "tags": ["model", "architecture", "1960"],
+      "exhibitions": [],
+      "materials": ["mixed media", "model"],
+      "searchText": "vallanes model 1960s farm egilsstaðir magnús pálsson"
+    },
+    {
+      "id": "varla-hardly-1994",
+      "title": "Varla... (Hardly)",
+      "year": 1994,
+      "description": "Installation with soaps and audio tapes, exploring themes of cleansing and transformation.",
+      "images": [
+        {"url": "images/varla-hardly-1994/medium/varla-hardly-1994-01-medium.jpg", "caption": "Varla installation", "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-01-thumb.jpg"},
+        {"url": "images/varla-hardly-1994/medium/varla-hardly-1994-02-medium.jpg", "caption": "Soaps 1", "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-02-thumb.jpg"},
+        {"url": "images/varla-hardly-1994/medium/varla-hardly-1994-03-medium.jpg", "caption": "Soaps 2", "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-03-thumb.jpg"},
+        {"url": "images/varla-hardly-1994/medium/varla-hardly-1994-04-medium.jpg", "caption": "Atlantis", "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-04-thumb.jpg"},
+        {"url": "images/varla-hardly-1994/medium/varla-hardly-1994-05-medium.jpg", "caption": "Djengis khan", "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-05-thumb.jpg"},
+        {"url": "images/varla-hardly-1994/medium/varla-hardly-1994-06-medium.jpg", "caption": "Audio tapes", "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-06-thumb.jpg"}
+      ],
+      "tags": ["installation", "sound", "sculpture", "1994"],
+      "exhibitions": [],
+      "materials": ["soap", "audio tape", "mixed media"],
+      "searchText": "varla hardly 1994 soaps audio installation magnús pálsson"
+    },
+    {
+      "id": "veggfodur-ferd-reise-1965",
+      "title": "Veggfóður Ferð (Reise / Wallpaper)",
+      "year": 1965,
+      "description": "Wallpaper work from 1965, presented at Ásmundarsalur.",
+      "images": [
+        {"url": "images/veggfodur-ferd-reise-1965/medium/veggfodur-ferd-reise-1965-01-medium.jpg", "caption": "Ferð", "thumbnail": "images/veggfodur-ferd-reise-1965/thumbs/veggfodur-ferd-reise-1965-01-thumb.jpg"},
+        {"url": "images/veggfodur-ferd-reise-1965/medium/veggfodur-ferd-reise-1965-02-medium.jpg", "caption": "Veggfóður", "thumbnail": "images/veggfodur-ferd-reise-1965/thumbs/veggfodur-ferd-reise-1965-02-thumb.jpg"},
+        {"url": "images/veggfodur-ferd-reise-1965/medium/veggfodur-ferd-reise-1965-03-medium.jpg", "caption": "Ásmundarsalur installation", "thumbnail": "images/veggfodur-ferd-reise-1965/thumbs/veggfodur-ferd-reise-1965-03-thumb.jpg"}
+      ],
+      "tags": ["wallpaper", "installation", "1965"],
+      "exhibitions": ["Ásmundarsalur"],
+      "materials": ["wallpaper", "mixed media"],
+      "searchText": "veggfóður ferð reise wallpaper 1965 ásmundarsalur magnús pálsson"
+    },
+    {
+      "id": "volundarhus-labyrinth-1980",
+      "title": "Völundarhús (Labyrinth)",
+      "year": 1980,
+      "description": "Labyrinth installation in Vestmannaeyjar 1980.",
+      "images": [
+        {"url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-01-medium.jpg", "caption": "Labyrinth view 1", "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-01-thumb.jpg"},
+        {"url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-02-medium.jpg", "caption": "Labyrinth view 2", "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-02-thumb.jpg"},
+        {"url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-03-medium.jpg", "caption": "Labyrinth view 3", "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-03-thumb.jpg"},
+        {"url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-04-medium.jpg", "caption": "Labyrinth view 4", "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-04-thumb.jpg"},
+        {"url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-05-medium.jpg", "caption": "Labyrinth view 5", "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-05-thumb.jpg"},
+        {"url": "images/volundarhus-labyrinth-1980/medium/volundarhus-labyrinth-1980-06-medium.jpg", "caption": "Labyrinth view 6", "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-06-thumb.jpg"}
+      ],
+      "tags": ["installation", "labyrinth", "1980"],
+      "exhibitions": ["Vestmannaeyjar 1980"],
+      "materials": ["mixed media", "installation"],
+      "searchText": "völundarhús labyrinth 1980 vestmannaeyjar magnús pálsson"
+    },
+    {
       "id": "taem-time-clock-now-1964",
       "title": "Tæm (Time Clock Now)",
       "year": 1964,
