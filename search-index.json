@@ -2,6 +2,78 @@
   "searchableContent": [
     {
       "type": "work",
+      "title": "Þiljur Bethanien Berlin",
+      "snippet": "Installation work created in Berlin at Bethanien in November 2002.",
+      "content": "Þiljur Bethanien Berlin Installation work created in Berlin at Bethanien in November 2002. 2002 installation berlin 2002 mixed media installation Bethanien Berlin 2002",
+      "url": "works.html?work=thiljur-bethanien-berlin-2002",
+      "year": 2002,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Þiljur Læknagarður",
+      "snippet": "Wall piece created for Læknagarður in 1995.",
+      "content": "Þiljur Læknagarður Wall piece created for Læknagarður in 1995. 1995 wall piece sculpture 1995 mixed media",
+      "url": "works.html?work=thiljur-laeknagarður-1995",
+      "year": 1995,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Þrætubálkur",
+      "snippet": "Sound and installation work from 1990, includes audio elements.",
+      "content": "Þrætubálkur Sound and installation work from 1990, includes audio elements. 1990 installation sound 1990 mixed media sound audio",
+      "url": "works.html?work=thraetubalkur-1990",
+      "year": 1990,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Þrígaldur þursavænn",
+      "snippet": "Installation work from 2013.",
+      "content": "Þrígaldur þursavænn Installation work from 2013. 2013 installation 2013 mixed media",
+      "url": "works.html?work=thrigaldur-thursavaenn-2013",
+      "year": 2013,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Walking on Water (Gengið á vatnið)",
+      "snippet": "Installation at Kling og Bang gallery in March 2012.",
+      "content": "Walking on Water (Gengið á vatnið) Installation at Kling og Bang gallery in March 2012. 2012 installation 2012 mixed media sculpture Kling og Bang March 2012",
+      "url": "works.html?work=walking-on-water-2012",
+      "year": 2012,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Watercolours",
+      "snippet": "Series of watercolour paintings from 2016-2018.",
+      "content": "Watercolours Series of watercolour paintings from 2016-2018. 2018 painting watercolour 2016-2018 watercolour paper",
+      "url": "works.html?work=watercolours-2016-2018",
+      "year": 2018,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Watercolours (Early Works)",
+      "snippet": "Early watercolour paintings and landscape studies.",
+      "content": "Watercolours (Early Works) Early watercolour paintings and landscape studies. 1977 painting watercolour landscape 1977 watercolour paper",
+      "url": "works.html?work=watercolours-early",
+      "year": 1977,
+      "page": "works"
+    },
+    {
+      "type": "work",
+      "title": "Wendy Walking",
+      "snippet": "Performance or documentation work from 1984.",
+      "content": "Wendy Walking Performance or documentation work from 1984. 1984 performance 1984 mixed media",
+      "url": "works.html?work=wendy-walking-1984",
+      "year": 1984,
+      "page": "works"
+    },
+    {
+      "type": "work",
       "title": "Ulla or Uðða Suðurgata 7",
       "snippet": "Student work from 1976, created at Suðurgata 7 studio.",
       "content": "Ulla or Uðða Suðurgata 7 Student work from 1976, created at Suðurgata 7 studio. 1976 installation student work 1976 mixed media",

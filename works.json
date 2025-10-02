@@ -1,6 +1,142 @@
 {
   "works": [
     {
+      "id": "thiljur-bethanien-berlin-2002",
+      "title": "Þiljur Bethanien Berlin",
+      "year": 2002,
+      "description": "Installation work created in Berlin at Bethanien in November 2002.",
+      "images": [
+        {"url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-01-medium.jpg", "caption": "Bethanien installation view 1", "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-01-thumb.jpg"},
+        {"url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-02-medium.jpg", "caption": "Bethanien installation view 2", "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-02-thumb.jpg"},
+        {"url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-03-medium.jpg", "caption": "Bethanien installation view 3", "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-03-thumb.jpg"},
+        {"url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-04-medium.jpg", "caption": "Bethanien installation view 4", "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-04-thumb.jpg"},
+        {"url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-05-medium.jpg", "caption": "Bethanien installation view 5", "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-05-thumb.jpg"}
+      ],
+      "tags": ["installation", "berlin", "2002"],
+      "exhibitions": ["Bethanien Berlin 2002"],
+      "materials": ["mixed media", "installation"],
+      "searchText": "þiljur thiljur bethanien berlin 2002 installation magnús pálsson"
+    },
+    {
+      "id": "thiljur-laeknagarður-1995",
+      "title": "Þiljur Læknagarður",
+      "year": 1995,
+      "description": "Wall piece created for Læknagarður in 1995.",
+      "images": [
+        {"url": "images/thiljur-laeknagarður-1995/medium/thiljur-laeknagarður-1995-01-medium.jpg", "caption": "Læknagarður wall piece view 1", "thumbnail": "images/thiljur-laeknagarður-1995/thumbs/thiljur-laeknagarður-1995-01-thumb.jpg"},
+        {"url": "images/thiljur-laeknagarður-1995/medium/thiljur-laeknagarður-1995-02-medium.jpg", "caption": "Læknagarður wall piece view 2", "thumbnail": "images/thiljur-laeknagarður-1995/thumbs/thiljur-laeknagarður-1995-02-thumb.jpg"},
+        {"url": "images/thiljur-laeknagarður-1995/medium/thiljur-laeknagarður-1995-03-medium.jpg", "caption": "Læknagarður wall piece view 3", "thumbnail": "images/thiljur-laeknagarður-1995/thumbs/thiljur-laeknagarður-1995-03-thumb.jpg"},
+        {"url": "images/thiljur-laeknagarður-1995/medium/thiljur-laeknagarður-1995-04-medium.jpg", "caption": "Læknagarður wall piece view 4", "thumbnail": "images/thiljur-laeknagarður-1995/thumbs/thiljur-laeknagarður-1995-04-thumb.jpg"},
+        {"url": "images/thiljur-laeknagarður-1995/medium/thiljur-laeknagarður-1995-05-medium.jpg", "caption": "Læknagarður wall piece view 5", "thumbnail": "images/thiljur-laeknagarður-1995/thumbs/thiljur-laeknagarður-1995-05-thumb.jpg"}
+      ],
+      "tags": ["wall piece", "sculpture", "1995"],
+      "exhibitions": [],
+      "materials": ["mixed media"],
+      "searchText": "þiljur thiljur læknagarður wall piece 1995 magnús pálsson"
+    },
+    {
+      "id": "thraetubalkur-1990",
+      "title": "Þrætubálkur",
+      "year": 1990,
+      "description": "Sound and installation work from 1990, includes audio elements.",
+      "images": [
+        {"url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-01-medium.jpg", "caption": "Þrætubálkur installation 1", "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-01-thumb.jpg"},
+        {"url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-02-medium.jpg", "caption": "Þrætubálkur installation 2", "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-02-thumb.jpg"},
+        {"url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-03-medium.jpg", "caption": "Þrætubálkur installation 3", "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-03-thumb.jpg"},
+        {"url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-04-medium.jpg", "caption": "Þrætubálkur installation 4", "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-04-thumb.jpg"},
+        {"url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-05-medium.jpg", "caption": "Þrætubálkur installation 5", "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-05-thumb.jpg"},
+        {"url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-06-medium.jpg", "caption": "Þrætubálkur installation 6", "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-06-thumb.jpg"}
+      ],
+      "tags": ["installation", "sound", "1990"],
+      "exhibitions": [],
+      "materials": ["mixed media", "sound", "audio"],
+      "searchText": "þrætubálkur thraetubalkur 1990 sound installation magnús pálsson"
+    },
+    {
+      "id": "thrigaldur-thursavaenn-2013",
+      "title": "Þrígaldur þursavænn",
+      "year": 2013,
+      "description": "Installation work from 2013.",
+      "images": [
+        {"url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-01-medium.jpg", "caption": "Þrígaldur þursavænn view 1", "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-01-thumb.jpg"},
+        {"url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-02-medium.jpg", "caption": "Þrígaldur þursavænn view 2", "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-02-thumb.jpg"},
+        {"url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-03-medium.jpg", "caption": "Þrígaldur þursavænn view 3", "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-03-thumb.jpg"},
+        {"url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-04-medium.jpg", "caption": "Þrígaldur þursavænn view 4", "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-04-thumb.jpg"},
+        {"url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-05-medium.jpg", "caption": "Þrígaldur þursavænn view 5", "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-05-thumb.jpg"},
+        {"url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-06-medium.jpg", "caption": "Þrígaldur þursavænn view 6", "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-06-thumb.jpg"}
+      ],
+      "tags": ["installation", "2013"],
+      "exhibitions": [],
+      "materials": ["mixed media"],
+      "searchText": "þrígaldur thrigaldur þursavænn thursavaenn 2013 installation magnús pálsson"
+    },
+    {
+      "id": "walking-on-water-2012",
+      "title": "Walking on Water (Gengið á vatnið)",
+      "year": 2012,
+      "description": "Installation at Kling og Bang gallery in March 2012.",
+      "images": [
+        {"url": "images/walking-on-water-2012/medium/walking-on-water-2012-01-medium.jpg", "caption": "Walking on Water installation 1", "thumbnail": "images/walking-on-water-2012/thumbs/walking-on-water-2012-01-thumb.jpg"},
+        {"url": "images/walking-on-water-2012/medium/walking-on-water-2012-02-medium.jpg", "caption": "Walking on Water installation 2", "thumbnail": "images/walking-on-water-2012/thumbs/walking-on-water-2012-02-thumb.jpg"},
+        {"url": "images/walking-on-water-2012/medium/walking-on-water-2012-03-medium.jpg", "caption": "Walking on Water installation 3", "thumbnail": "images/walking-on-water-2012/thumbs/walking-on-water-2012-03-thumb.jpg"},
+        {"url": "images/walking-on-water-2012/medium/walking-on-water-2012-04-medium.jpg", "caption": "Walking on Water installation 4", "thumbnail": "images/walking-on-water-2012/thumbs/walking-on-water-2012-04-thumb.jpg"},
+        {"url": "images/walking-on-water-2012/medium/walking-on-water-2012-05-medium.jpg", "caption": "Walking on Water installation 5", "thumbnail": "images/walking-on-water-2012/thumbs/walking-on-water-2012-05-thumb.jpg"}
+      ],
+      "tags": ["installation", "2012"],
+      "exhibitions": ["Kling og Bang March 2012"],
+      "materials": ["mixed media", "sculpture"],
+      "searchText": "walking on water gengið á vatnið 2012 kling og bang installation magnús pálsson"
+    },
+    {
+      "id": "watercolours-2016-2018",
+      "title": "Watercolours",
+      "year": 2018,
+      "description": "Series of watercolour paintings from 2016-2018.",
+      "images": [
+        {"url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-01-medium.jpg", "caption": "Watercolour 1", "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-01-thumb.jpg"},
+        {"url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-02-medium.jpg", "caption": "Watercolour 2", "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-02-thumb.jpg"},
+        {"url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-03-medium.jpg", "caption": "Watercolour 3", "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-03-thumb.jpg"},
+        {"url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-04-medium.jpg", "caption": "Watercolour 4", "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-04-thumb.jpg"},
+        {"url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-05-medium.jpg", "caption": "Watercolour 5", "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-05-thumb.jpg"},
+        {"url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-06-medium.jpg", "caption": "Watercolour 6", "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-06-thumb.jpg"}
+      ],
+      "tags": ["painting", "watercolour", "2016-2018"],
+      "exhibitions": [],
+      "materials": ["watercolour", "paper"],
+      "searchText": "watercolours 2016 2017 2018 painting magnús pálsson"
+    },
+    {
+      "id": "watercolours-early",
+      "title": "Watercolours (Early Works)",
+      "year": 1977,
+      "description": "Early watercolour paintings and landscape studies.",
+      "images": [
+        {"url": "images/watercolours-early/medium/watercolours-early-01-medium.jpg", "caption": "Backdrop Ballet", "thumbnail": "images/watercolours-early/thumbs/watercolours-early-01-thumb.jpg"},
+        {"url": "images/watercolours-early/medium/watercolours-early-02-medium.jpg", "caption": "Backdrop", "thumbnail": "images/watercolours-early/thumbs/watercolours-early-02-thumb.jpg"},
+        {"url": "images/watercolours-early/medium/watercolours-early-03-medium.jpg", "caption": "Landscape study", "thumbnail": "images/watercolours-early/thumbs/watercolours-early-03-thumb.jpg"},
+        {"url": "images/watercolours-early/medium/watercolours-early-04-medium.jpg", "caption": "Kistufoss", "thumbnail": "images/watercolours-early/thumbs/watercolours-early-04-thumb.jpg"},
+        {"url": "images/watercolours-early/medium/watercolours-early-05-medium.jpg", "caption": "Syðribrú", "thumbnail": "images/watercolours-early/thumbs/watercolours-early-05-thumb.jpg"},
+        {"url": "images/watercolours-early/medium/watercolours-early-06-medium.jpg", "caption": "Syðribrú landscape", "thumbnail": "images/watercolours-early/thumbs/watercolours-early-06-thumb.jpg"}
+      ],
+      "tags": ["painting", "watercolour", "landscape", "1977"],
+      "exhibitions": [],
+      "materials": ["watercolour", "paper"],
+      "searchText": "watercolours early 1977 painting landscape magnús pálsson"
+    },
+    {
+      "id": "wendy-walking-1984",
+      "title": "Wendy Walking",
+      "year": 1984,
+      "description": "Performance or documentation work from 1984.",
+      "images": [
+        {"url": "images/wendy-walking-1984/medium/wendy-walking-1984-01-medium.jpg", "caption": "Wendy Walking", "thumbnail": "images/wendy-walking-1984/thumbs/wendy-walking-1984-01-thumb.jpg"}
+      ],
+      "tags": ["performance", "1984"],
+      "exhibitions": [],
+      "materials": ["mixed media"],
+      "searchText": "wendy walking 1984 performance magnús pálsson"
+    },
+    {
       "id": "ulla-udda-sudurgata-7-1976",
       "title": "Ulla or Uðða Suðurgata 7",
       "year": 1976,
