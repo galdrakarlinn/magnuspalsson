@@ -1,5 +1,6 @@
 # Large media files and source materials
 Documents/
+images-not-used/
 *.aiff
 *.mov
 *.avi
