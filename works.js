@@ -451,7 +451,8 @@ class WorksManager {
     const work = this.allWorks.find(w => w.id === workId);
     if (!work) return;
 
-    const ownership = this.getOwnershipInfo(workId);
+    // Use ownership from work.json if available, otherwise fall back to legacy map
+    const ownership = work.ownership || this.getOwnershipInfo(workId);
     const modalBody = document.getElementById('modal-body');
     
     // Reset modal scroll position to top
@@ -510,8 +511,9 @@ class WorksManager {
           ${ownership ? `
             <div class="ownership-info">
               <h3>Collection</h3>
-              <p><strong>Owned by:</strong> <a href="${ownership.url}" target="_blank">${ownership.owner}</a></p>
+              <p><strong>Owned by:</strong> ${ownership.url ? `<a href="${ownership.url}" target="_blank">${ownership.owner}</a>` : ownership.owner}</p>
               ${ownership.catalogNumber ? `<p class="catalog-number">Catalog: ${ownership.catalogNumber}</p>` : ''}
+              ${ownership.notes ? `<p class="ownership-notes">${ownership.notes}</p>` : ''}
               ${ownership.altTitle ? `<p class="alt-title">Also listed as: "${ownership.altTitle}"</p>` : ''}
               <p><a href="collections.html">View full collections page →</a></p>
             </div>
