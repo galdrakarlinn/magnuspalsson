@@ -87,7 +87,11 @@
       "materials": [
         "mixed media"
       ],
-      "searchText": "þiljur thiljur læknagarður wall piece 1995 magnús pálsson"
+      "searchText": "þiljur thiljur læknagarður wall piece 1995 magnús pálsson",
+      "ownership": {
+        "owner": "Háskóli Íslands (University of Iceland)",
+        "notes": "Wall installation, 1995, Department of Physiology"
+      }
     },
     {
       "id": "thraetubalkur-1990",
@@ -436,7 +440,10 @@
       "materials": [
         "mixed media"
       ],
-      "searchText": "vænting expectation 1966 wall piece nýló magnús pálsson"
+      "searchText": "vænting expectation 1966 wall piece nýló magnús pálsson",
+      "ownership": {
+        "owner": "The Living Art Museum (Nýlistasafnið)"
+      }
     },
     {
       "id": "vakning-2015",
@@ -522,7 +529,11 @@
         "mixed media",
         "model"
       ],
-      "searchText": "vallanes model 1960s farm egilsstaðir magnús pálsson"
+      "searchText": "vallanes model 1960s farm egilsstaðir magnús pálsson",
+      "ownership": {
+        "owner": "Þjóðminjasafn Íslands (National Museum of Iceland)",
+        "notes": "Model of Vallanes village, 1976. One of three identical models."
+      }
     },
     {
       "id": "varla-hardly-1994",
@@ -609,7 +620,10 @@
         "wallpaper",
         "mixed media"
       ],
-      "searchText": "veggfóður ferð reise wallpaper 1965 ásmundarsalur magnús pálsson"
+      "searchText": "veggfóður ferð reise wallpaper 1965 ásmundarsalur magnús pálsson",
+      "ownership": {
+        "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)"
+      }
     },
     {
       "id": "volundarhus-labyrinth-1980",
@@ -835,7 +849,10 @@
       "materials": [
         "mixed media"
       ],
-      "searchText": "the offs 1994 installation magnús pálsson"
+      "searchText": "the offs 1994 installation magnús pálsson",
+      "ownership": {
+        "owner": "The Living Art Museum (Nýlistasafnið)"
+      }
     },
     {
       "id": "tilfaesla-rymis-1976",
@@ -1723,7 +1740,10 @@
       ],
       "exhibitions": [],
       "materials": [],
-      "searchText": "minning þórarinn nefjólfsson i8 reyk 2007 2007 magnús pálsson"
+      "searchText": "minning þórarinn nefjólfsson i8 reyk 2007 2007 magnús pálsson",
+      "ownership": {
+        "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)"
+      }
     },
     {
       "id": "kal-14-196366-1963",
@@ -2057,7 +2077,10 @@
       ],
       "exhibitions": [],
       "materials": [],
-      "searchText": "kúplingsdiskur clutch disc 1999 1999 magnús pálsson"
+      "searchText": "kúplingsdiskur clutch disc 1999 1999 magnús pálsson",
+      "ownership": {
+        "owner": "Listasafn Íslands (National Gallery of Iceland)"
+      }
     },
     {
       "id": "legitimate-concrete-fart-viggo-a-1990-1990",
@@ -2465,7 +2488,10 @@
         }
       ],
       "searchText": "þyrlulending helicopter landing sikorsky coast guard anticipation mechanical intervention plaster venice biennale 1980 iceland representation time sculpture",
-      "materials": []
+      "materials": [],
+      "ownership": {
+        "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)"
+      }
     },
     {
       "id": "vidtol_um_daudann_2011",
@@ -3079,7 +3105,10 @@
         "text",
         "PLACEHOLDER - needs review"
       ],
-      "searchText": "bílatal óðurin til bílsins cars poetry performance NÝLO 2002 magnús pálsson placeholder needs review"
+      "searchText": "bílatal óðurin til bílsins cars poetry performance NÝLO 2002 magnús pálsson placeholder needs review",
+      "ownership": {
+        "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)"
+      }
     },
     {
       "id": "bjossi_a_mjolkurbilnum_1994",
@@ -3647,7 +3676,11 @@
         "mixed media",
         "PLACEHOLDER - needs review"
       ],
-      "searchText": "dulargervi malnigarbakki camouflage early work 1966 magnús pálsson placeholder needs review"
+      "searchText": "dulargervi malnigarbakki camouflage early work 1966 magnús pálsson placeholder needs review",
+      "ownership": {
+        "owner": "Listasafn Íslands (National Gallery of Iceland)",
+        "catalogNumber": "LÍ-12155"
+      }
     },
     {
       "id": "davidssalmur_choir_piece",
@@ -4409,7 +4442,11 @@
         "collaboration",
         "PLACEHOLDER - needs review"
       ],
-      "searchText": "freyskatla audio radio steingrímur collaboration text 1992 magnús pálsson placeholder needs review"
+      "searchText": "freyskatla audio radio steingrímur collaboration text 1992 magnús pálsson placeholder needs review",
+      "ownership": {
+        "owner": "The Living Art Museum (Nýlistasafnið)",
+        "notes": "Sound sculpture version"
+      }
     },
     {
       "id": "automobile_bok_1970_74",
@@ -4442,7 +4479,10 @@
       "materials": [
         "PLACEHOLDER - needs review"
       ],
-      "searchText": "automobile bók book car 1970 1974 magnús pálsson placeholder needs review"
+      "searchText": "automobile bók book car 1970 1974 magnús pálsson placeholder needs review",
+      "ownership": {
+        "owner": "Listasafn Íslands (National Gallery of Iceland)"
+      }
     },
     {
       "id": "flaedamal_beach_1976",
@@ -5610,7 +5650,11 @@
         "documentation",
         "multimedia installation"
       ],
-      "searchText": "eyetalk augntal video multimedia communication perception language eyes speech visual verbal 1986 1990 1998 2017 discussion magnús pálsson"
+      "searchText": "eyetalk augntal video multimedia communication perception language eyes speech visual verbal 1986 1990 1998 2017 discussion magnús pálsson",
+      "ownership": {
+        "owner": "Listasafn Íslands (National Gallery of Iceland)",
+        "catalogNumber": "LÍ-7392"
+      }
     },
     {
       "id": "seeds-of-aspidistra-2002",
@@ -6001,7 +6045,10 @@
       ],
       "exhibitions": [],
       "materials": [],
-      "searchText": "spilaborg card house nh for ferðafuða 2003 2003 magnús pálsson"
+      "searchText": "spilaborg card house nh for ferðafuða 2003 2003 magnús pálsson",
+      "ownership": {
+        "owner": "The Living Art Museum (Nýlistasafnið)"
+      }
     },
     {
       "id": "sprengd-hljodhimna-burst-eardrum-1991-2012",
@@ -6335,7 +6382,10 @@
       ],
       "exhibitions": [],
       "materials": [],
-      "searchText": "stærðfræði  (maths) 1976 1976 magnús pálsson"
+      "searchText": "stærðfræði  (maths) 1976 1976 magnús pálsson",
+      "ownership": {
+        "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)"
+      }
     },
     {
       "id": "solskrikja-mus-kengura-bird-mouse-kangaroo-1980-1994",
@@ -6382,7 +6432,10 @@
       ],
       "exhibitions": [],
       "materials": [],
-      "searchText": "sólskrikja, mús, kengúra (bird, mouse, kangaroo) 1980 &1994 1980 magnús pálsson"
+      "searchText": "sólskrikja, mús, kengúra (bird, mouse, kangaroo) 1980 &1994 1980 magnús pálsson",
+      "ownership": {
+        "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)"
+      }
     },
     {
       "id": "solur-skagarstrand-aug-2015",
