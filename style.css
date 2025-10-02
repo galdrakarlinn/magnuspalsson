@@ -1081,15 +1081,40 @@ body {
   position: relative;
 }
 
+.modal-header-sticky {
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+  padding: 1.5rem 2rem 1rem 2rem;
+  border-bottom: 1px solid #e0e0e0;
+  z-index: 1002;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  border-radius: 8px 8px 0 0;
+}
+
+.modal-work-title {
+  font-size: 1.5rem;
+  margin: 0;
+  flex-grow: 1;
+}
+
+.work-year-header {
+  color: #666;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
 .close {
-  position: absolute;
+  position: sticky;
   top: 15px;
   right: 25px;
   color: #aaa;
   font-size: 28px;
   font-weight: bold;
   cursor: pointer;
-  z-index: 1001;
+  z-index: 1003;
   background: rgba(255, 255, 255, 0.9);
   width: 40px;
   height: 40px;
@@ -1097,6 +1122,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  float: right;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
 
 .close:hover {

@@ -38,16 +38,31 @@ class WorksManager {
     // Modal functionality
     const modal = document.getElementById('work-modal');
     const closeBtn = modal.querySelector('.close');
-    
-    closeBtn.addEventListener('click', () => {
+
+    const closeModal = () => {
+      // Stop all videos and audio
+      const videos = modal.querySelectorAll('video');
+      const audios = modal.querySelectorAll('audio');
+
+      videos.forEach(video => {
+        video.pause();
+        video.currentTime = 0;
+      });
+
+      audios.forEach(audio => {
+        audio.pause();
+        audio.currentTime = 0;
+      });
+
       modal.style.display = 'none';
       this.refreshWorkCards();
-    });
-    
+    };
+
+    closeBtn.addEventListener('click', closeModal);
+
     window.addEventListener('click', (e) => {
       if (e.target === modal) {
-        modal.style.display = 'none';
-        this.refreshWorkCards();
+        closeModal();
       }
     });
   }
@@ -445,6 +460,10 @@ class WorksManager {
       modalContent.scrollTop = 0;
     }
     modalBody.innerHTML = `
+      <div class="modal-header-sticky">
+        <h2 class="modal-work-title">${work.title}</h2>
+        <span class="work-year-header">${work.year}</span>
+      </div>
       <div class="work-detail">
         <div class="work-images">
           ${work.images.map(media => {
