@@ -519,9 +519,9 @@
     },
     {
       "id": "vallanes-model-1960s",
-      "title": "Vallanes Model",
-      "year": 1960,
-      "description": "Model of Vallanes farm near Egilsstaðir where Magnús Pálsson's father grew up. In collection of Listasafn Íslands.",
+      "title": "Líkan af Vallanesi (Model of Vallanes)",
+      "year": 1976,
+      "description": "Detailed model of Vallanes village created from father's descriptions. Made from plastic, 1.48 × 1.14 cm. This is one of three identical models - the others are in Canada and at the East Iceland Museum. Vallanes is the farm near Egilsstaðir where Magnús Pálsson's father grew up.",
       "images": [
         {
           "url": "images/vallanes-model-1960s/medium/vallanes-model-1960s-01-medium.jpg",
@@ -547,17 +547,19 @@
       "tags": [
         "model",
         "architecture",
-        "1960"
+        "sculpture",
+        "1976"
       ],
       "exhibitions": [],
       "materials": [
-        "mixed media",
+        "plastic",
         "model"
       ],
-      "searchText": "vallanes model 1960s farm egilsstaðir magnús pálsson",
+      "searchText": "líkan vallanes vallanesi model 1976 plastic farm village egilsstaðir magnús pálsson",
       "ownership": {
         "owner": "Þjóðminjasafn Íslands (National Museum of Iceland)",
-        "notes": "Model of Vallanes village, 1976. One of three identical models."
+        "url": "https://sarpur.is/Adfang.aspx?AdfangID=2595580",
+        "notes": "Model of Vallanes village, 1976. Plastic, 1.48 × 1.14 cm. One of three identical models - others in Canada and East Iceland Museum."
       }
     },
     {
