@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Rebuild search index from all content sources.
+Rebuild search index from all content sources with bilingual support.
 """
 
 import json
@@ -13,15 +13,35 @@ def load_works():
         data = json.load(f)
     return data['works']
 
-def create_work_search_entry(work):
-    """Create a search entry for a work"""
-    # Build searchable content
+def load_translations(lang='en'):
+    """Load translations for works"""
+    try:
+        with open(f'translations/{lang}.json', 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return {}
+
+def create_work_search_entry(work, translations_en=None, translations_is=None):
+    """Create a search entry for a work with bilingual content"""
+    work_id = work.get('id', '')
+
+    # Get translations if available
+    trans_en = translations_en.get(work_id, {}) if translations_en else {}
+    trans_is = translations_is.get(work_id, {}) if translations_is else {}
+
+    # Build searchable content (include both languages)
     content_parts = [
         work.get('title', ''),
+        trans_en.get('title', ''),
+        trans_is.get('title', ''),
         work.get('description', ''),
+        trans_en.get('description', ''),
+        trans_is.get('description', ''),
         str(work.get('year', '')),
         ' '.join(work.get('tags', [])),
-        ' '.join(work.get('materials', []))
+        ' '.join(work.get('materials', [])),
+        trans_en.get('materials', ''),
+        trans_is.get('materials', ''),
     ]
 
     # Add exhibition info
@@ -35,16 +55,19 @@ def create_work_search_entry(work):
 
     content = ' '.join(filter(None, content_parts))
 
-    # Create snippet from description or tags
-    snippet = work.get('description', '')
+    # Create snippet from description or tags (prefer English)
+    snippet = trans_en.get('description', work.get('description', ''))
     if len(snippet) > 150:
         snippet = snippet[:147] + '...'
     elif not snippet and work.get('tags'):
         snippet = ', '.join(work.get('tags', [])[:5])
 
+    # Use translated title if available, otherwise original
+    title = trans_en.get('title', work.get('title', 'Untitled'))
+
     return {
         "type": "work",
-        "title": work.get('title', 'Untitled'),
+        "title": title,
         "snippet": snippet,
         "content": content,
         "url": f"works.html?work={work.get('id', '')}",
@@ -53,11 +76,17 @@ def create_work_search_entry(work):
     }
 
 def rebuild_search_index():
-    """Rebuild the complete search index"""
+    """Rebuild the complete search index with bilingual support"""
 
-    print("Rebuilding search index...")
+    print("Rebuilding search index with bilingual content...")
 
     searchable_content = []
+
+    # Load translations
+    print("Loading translations...")
+    translations_en = load_translations('en')
+    translations_is = load_translations('is')
+    print(f"Loaded {len(translations_en)} English translations and {len(translations_is)} Icelandic translations")
 
     # Add all works
     works = load_works()
@@ -65,7 +94,7 @@ def rebuild_search_index():
 
     for work in works:
         try:
-            entry = create_work_search_entry(work)
+            entry = create_work_search_entry(work, translations_en, translations_is)
             searchable_content.append(entry)
         except Exception as e:
             print(f"Error processing work {work.get('id', 'unknown')}: {e}")
