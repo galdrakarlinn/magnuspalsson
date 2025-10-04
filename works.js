@@ -11,6 +11,13 @@ class WorksManager {
   }
 
   async init() {
+    // Initialize i18n if available
+    if (typeof i18n !== 'undefined') {
+      await i18n.init();
+      // Listen for language changes and re-render
+      i18n.onChange(() => this.refreshAll());
+    }
+
     await this.loadWorks();
     this.setupEventListeners();
     this.setupCategoryCollapse();
@@ -19,6 +26,43 @@ class WorksManager {
     this.renderDecades();
     this.setupClearButton(); // Setup clear button AFTER filters are rendered
     this.checkForDirectWorkLink();
+  }
+
+  // Helper to get translated work data
+  getTranslatedWork(work) {
+    if (typeof i18n === 'undefined') return work;
+
+    const translation = i18n.getWork(work.id);
+    return {
+      ...work,
+      title: translation.title || work.title,
+      description: translation.description || work.description,
+      materials: translation.materials || work.materials,
+      exhibitions: translation.exhibitions || work.exhibitions,
+      images: work.images.map((img, idx) => ({
+        ...img,
+        caption: translation.images?.[idx]?.caption || img.caption
+      })),
+      ownership: work.ownership ? {
+        ...work.ownership,
+        owner: translation.ownership?.owner || work.ownership.owner,
+        location: translation.ownership?.location || work.ownership.location
+      } : null
+    };
+  }
+
+  // Refresh all content when language changes
+  refreshAll() {
+    this.renderWorks();
+    // If modal is open, refresh it
+    const modal = document.getElementById('work-modal');
+    if (modal && modal.style.display === 'block') {
+      const modalBody = document.getElementById('modal-body');
+      const currentWorkId = modalBody.querySelector('[data-work-id]')?.dataset.workId;
+      if (currentWorkId) {
+        this.showWorkModal(currentWorkId);
+      }
+    }
   }
 
   async loadWorks() {
@@ -184,14 +228,15 @@ class WorksManager {
     }
 
     grid.innerHTML = this.filteredWorks.map(work => {
-      const firstMedia = work.images.length > 0 ? work.images[0] : null;
+      const translatedWork = this.getTranslatedWork(work);
+      const firstMedia = translatedWork.images.length > 0 ? translatedWork.images[0] : null;
       const isVideo = firstMedia && this.isVideoFile(firstMedia.url);
       const isAudio = firstMedia && this.isAudioFile(firstMedia.url);
       
       // For audio works, try to find a visual image to display instead
       let displayMedia = firstMedia;
-      if (isAudio && work.images.length > 1) {
-        displayMedia = work.images.find(img => !this.isAudioFile(img.url)) || firstMedia;
+      if (isAudio && translatedWork.images.length > 1) {
+        displayMedia = translatedWork.images.find(img => !this.isAudioFile(img.url)) || firstMedia;
       }
       
       return `
@@ -205,26 +250,26 @@ class WorksManager {
                  </video>
                  <div class="video-indicator">▶</div>` :
               isAudio && displayMedia !== firstMedia ?
-                `<img src="${this.getThumbPath(displayMedia.thumbnail || displayMedia.url)}" alt="${work.title}" loading="lazy" />
+                `<img src="${this.getThumbPath(displayMedia.thumbnail || displayMedia.url)}" alt="${translatedWork.title}" loading="lazy" />
                  <div class="audio-indicator">♪</div>` :
               isAudio ?
                 `<div class="audio-placeholder">
                    <div class="audio-icon">♪</div>
-                   <div class="audio-title">${work.title}</div>
+                   <div class="audio-title">${translatedWork.title}</div>
                  </div>` :
-                `<img src="${this.getThumbPath(firstMedia.thumbnail || firstMedia.url)}" alt="${work.title}" loading="lazy" />`
+                `<img src="${this.getThumbPath(firstMedia.thumbnail || firstMedia.url)}" alt="${translatedWork.title}" loading="lazy" />`
             ) : '<div class="no-image">No media available</div>'}
             <div class="work-overlay">
-              <h3>${work.title}</h3>
-              <p>${work.year}</p>
+              <h3>${translatedWork.title}</h3>
+              <p>${translatedWork.year}</p>
               <div class="work-tags">
-                ${work.tags.slice(0, 3).map(tag => `<span class="tag">${tag}</span>`).join('')}
+                ${translatedWork.tags.slice(0, 3).map(tag => `<span class="tag">${tag}</span>`).join('')}
               </div>
             </div>
           </div>
           <div class="work-info">
-            <h3 class="work-title">${work.title}</h3>
-            <p class="work-year">${work.year}</p>
+            <h3 class="work-title">${translatedWork.title}</h3>
+            <p class="work-year">${translatedWork.year}</p>
           </div>
         </div>
       `;
@@ -451,8 +496,11 @@ class WorksManager {
     const work = this.allWorks.find(w => w.id === workId);
     if (!work) return;
 
+    // Get translated work data
+    const translatedWork = this.getTranslatedWork(work);
+
     // Use ownership from work.json if available, otherwise fall back to legacy map
-    const ownership = work.ownership || this.getOwnershipInfo(workId);
+    const ownership = translatedWork.ownership || this.getOwnershipInfo(workId);
     const modalBody = document.getElementById('modal-body');
     
     // Reset modal scroll position to top
@@ -462,12 +510,12 @@ class WorksManager {
     }
     modalBody.innerHTML = `
       <div class="modal-header-sticky">
-        <h2 class="modal-work-title">${work.title}</h2>
-        <span class="work-year-header">${work.year}</span>
+        <h2 class="modal-work-title">${translatedWork.title}</h2>
+        <span class="work-year-header">${translatedWork.year}</span>
       </div>
-      <div class="work-detail">
+      <div class="work-detail" data-work-id="${workId}">
         <div class="work-images">
-          ${work.images.map(media => {
+          ${translatedWork.images.map(media => {
             const isVideo = this.isVideoFile(media.url);
             const isAudio = this.isAudioFile(media.url);
             const isPDF = this.isPDFFile(media.url);
@@ -505,9 +553,9 @@ class WorksManager {
           }).join('')}
         </div>
         <div class="work-info">
-          <h2>${work.title}</h2>
-          <p class="work-year">${work.year}</p>
-          <p class="work-description">${work.description}</p>
+          <h2>${translatedWork.title}</h2>
+          <p class="work-year">${translatedWork.year}</p>
+          <p class="work-description">${translatedWork.description}</p>
           ${ownership ? `
             <div class="ownership-info">
               <h3>Collection</h3>
@@ -519,23 +567,23 @@ class WorksManager {
             </div>
           ` : ''}
           <div class="work-tags">
-            ${work.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+            ${translatedWork.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
           </div>
-          ${work.collaborators && work.collaborators.length > 0 ? `
+          ${translatedWork.collaborators && translatedWork.collaborators.length > 0 ? `
             <div class="collaborators">
               <h3>Collaborators</h3>
               <ul>
-                ${work.collaborators.map(collab => `
+                ${translatedWork.collaborators.map(collab => `
                   <li><strong>${collab.name}</strong> - ${collab.role}${collab.description ? `: ${collab.description}` : ''}</li>
                 `).join('')}
               </ul>
             </div>
           ` : ''}
-          ${work.exhibitions.length > 0 ? `
+          ${translatedWork.exhibitions.length > 0 ? `
             <div class="exhibitions">
               <h3>Exhibitions</h3>
               <ul>
-                ${work.exhibitions.map(ex => `
+                ${translatedWork.exhibitions.map(ex => `
                   <li>${ex.title}, ${ex.venue}, ${ex.city} (${ex.year})</li>
                 `).join('')}
               </ul>

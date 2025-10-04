@@ -8,6 +8,9 @@ document.addEventListener("DOMContentLoaded", () => {
         // Initialize hamburger menu functionality
         initializeHamburgerMenu();
 
+        // Initialize language selector
+        initializeLanguageSelector();
+
         // Load global search functionality after nav is loaded
         if (!document.getElementById('global-search-script')) {
           const script = document.createElement('script');
@@ -130,4 +133,42 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     });
   }
-  
+
+  function initializeLanguageSelector() {
+    const languageSelectorMobile = document.getElementById('language-selector');
+    const languageSelectorDesktop = document.getElementById('language-selector-desktop');
+
+    if (typeof i18n !== 'undefined') {
+      // Set current language in both dropdowns
+      if (languageSelectorMobile) {
+        languageSelectorMobile.value = i18n.getLang();
+      }
+      if (languageSelectorDesktop) {
+        languageSelectorDesktop.value = i18n.getLang();
+      }
+
+      // Handle language change for mobile
+      if (languageSelectorMobile) {
+        languageSelectorMobile.addEventListener('change', async (e) => {
+          const newLang = e.target.value;
+          await i18n.setLang(newLang);
+          // Sync desktop selector
+          if (languageSelectorDesktop) {
+            languageSelectorDesktop.value = newLang;
+          }
+        });
+      }
+
+      // Handle language change for desktop
+      if (languageSelectorDesktop) {
+        languageSelectorDesktop.addEventListener('change', async (e) => {
+          const newLang = e.target.value;
+          await i18n.setLang(newLang);
+          // Sync mobile selector
+          if (languageSelectorMobile) {
+            languageSelectorMobile.value = newLang;
+          }
+        });
+      }
+    }
+  }

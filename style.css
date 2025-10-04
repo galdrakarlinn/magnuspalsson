@@ -151,6 +151,7 @@ body {
   justify-content: space-between;
   align-items: center;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  position: relative;
 }
 
 /* Navigation search - Minimalistic design */
@@ -1347,7 +1348,7 @@ body {
 
   .nav-controls {
     flex-shrink: 0 !important;
-    width: 60px !important;
+    width: auto !important;
     display: flex !important;
     gap: 0.2rem !important;
   }
@@ -1426,6 +1427,15 @@ body {
   }
 }
 
+/* Desktop Language Selector - hidden on mobile by default */
+.desktop-language-selector {
+  display: none;
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  z-index: 100;
+}
+
 @media (min-width: 769px) {
   /* Hide mobile elements, show desktop */
   .nav-header {
@@ -1442,6 +1452,10 @@ body {
 
   .desktop-search {
     display: block;
+  }
+
+  .desktop-language-selector {
+    display: block !important;
   }
 }
 
@@ -1467,6 +1481,33 @@ body {
 }
 
 /* Search toggle button */
+/* Language Selector */
+.language-selector {
+  background: #000000 !important;
+  color: #ffffff !important;
+  border: none !important;
+  border-radius: 3px !important;
+  cursor: pointer;
+  padding: 0.25rem 0.4rem !important;
+  font-size: 12px !important;
+  font-weight: bold !important;
+  height: 30px !important;
+  display: flex !important;
+  align-items: center !important;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+.language-selector:hover {
+  background: #333333 !important;
+}
+
+.language-selector option {
+  background: #ffffff;
+  color: #000000;
+}
+
 .search-toggle-btn {
   background: none !important;
   border: none !important;
