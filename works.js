@@ -21,11 +21,25 @@ class WorksManager {
     await this.loadWorks();
     this.setupEventListeners();
     this.setupCategoryCollapse();
+
+    // Set initial page title
+    this.updatePageTitle();
+
     this.renderWorks();
     this.renderTagFilters();
     this.renderDecades();
     this.setupClearButton(); // Setup clear button AFTER filters are rendered
     this.checkForDirectWorkLink();
+  }
+
+  updatePageTitle() {
+    if (typeof i18n === 'undefined') return;
+
+    const h1 = document.querySelector('.works-header h1');
+    if (h1) {
+      h1.textContent = i18n.t('works');
+    }
+    document.title = `${i18n.t('works')} – Magnús Pálsson`;
   }
 
   // Helper to get translated work data
@@ -53,15 +67,7 @@ class WorksManager {
 
   // Refresh all content when language changes
   refreshAll() {
-    // Update page title
-    const h1 = document.querySelector('.works-header h1');
-    if (h1) {
-      h1.textContent = i18n.t('works');
-    }
-
-    // Update page document title
-    document.title = `${i18n.t('works')} – Magnús Pálsson`;
-
+    this.updatePageTitle();
     this.renderWorks();
     // If modal is open, refresh it
     const modal = document.getElementById('work-modal');
