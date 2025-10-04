@@ -4777,6 +4777,15 @@
       "materials": [
         "PLACEHOLDER - needs review"
       ],
+      "sources": [
+        {
+          "type": "exhibition catalog",
+          "title": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
+          "publisher": "Reykjavík Art Museum",
+          "year": 2019,
+          "note": "Description enriched from exhibition catalog information about car parts transformed into book form and significance of linear form in Magnús's work"
+        }
+      ],
       "searchText": "automobile bók book car 1970 1974 magnús pálsson placeholder needs review",
       "ownership": {
         "owner": "Listasafn Íslands (National Gallery of Iceland)"
