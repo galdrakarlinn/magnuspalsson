@@ -53,6 +53,15 @@ class WorksManager {
 
   // Refresh all content when language changes
   refreshAll() {
+    // Update page title
+    const h1 = document.querySelector('.works-header h1');
+    if (h1) {
+      h1.textContent = i18n.t('works');
+    }
+
+    // Update page document title
+    document.title = `${i18n.t('works')} – Magnús Pálsson`;
+
     this.renderWorks();
     // If modal is open, refresh it
     const modal = document.getElementById('work-modal');

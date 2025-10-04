@@ -1,0 +1,910 @@
+{
+  "ui": {
+    "soloExhibitions": "Solo Exhibitions",
+    "groupExhibitions": "Group Exhibitions",
+    "year": "Year",
+    "title": "Title",
+    "venue": "Venue",
+    "location": "Location",
+    "notes": "Notes",
+    "underConstruction": "This page is under construction"
+  },
+  "solo": [
+    {
+      "year": "2019",
+      "title": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)",
+      "venue": "Reykjavík Art Museum – Hafnarhús",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2016",
+      "title": "Ævintýr (Folk tale)",
+      "venue": "Skaftfell (Samkoma handan Norðanvindsins)",
+      "location": "Seyðisfjörður, Iceland",
+      "notes": "Performed by the theatre group Grímur, advisor Halldóra Malin Pétursdóttir, director Tinna Guðmundsdóttir"
+    },
+    {
+      "year": "2016",
+      "title": "Rúllandi Snjóbolti/7 (Rolling Snowball/7)",
+      "venue": "Djúpivogur",
+      "location": "Iceland",
+      "notes": "Typewriter keyboard piece, performance with 20 performers & typists"
+    },
+    {
+      "year": "2016",
+      "title": "Gjörningar Hátið",
+      "venue": "Siglufjörður",
+      "location": "Iceland",
+      "notes": "Typewriter keyboard piece"
+    },
+    {
+      "year": "2015",
+      "title": "Vakning (Awakening)",
+      "venue": "Gjörningar Hátið",
+      "location": "Akureyri, Iceland",
+      "notes": "Performance for 4 soloists and clocks"
+    },
+    {
+      "year": "2015",
+      "title": "Kúakyn í hættu (Endangered cow)",
+      "venue": "Tectonics Festival, Harpa",
+      "location": "Reykjavík, Iceland",
+      "notes": "Performance for orchestra, speaking choir, actors, video and olfaction (dir. Ilan Volkov, Iceland Symphony Orchestra, NÝLO choir)"
+    },
+    {
+      "year": "2014",
+      "title": "Exhibition of sketches",
+      "venue": "Galleri Guðrún Hrönn Ragnarsdóttir",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2013",
+      "title": "Stuna (Last breath)",
+      "venue": "Reykjavík Arts Festival",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2013",
+      "title": "Sprengdt hljóðhimna (Burst eardrum)",
+      "venue": "Reykjavík Arts Festival",
+      "location": "Reykjavík, Iceland",
+      "notes": "Directed by Þórunn S Þorgrímsdóttir"
+    },
+    {
+      "year": "2013",
+      "title": "Ævintýr (Folk tale)",
+      "venue": "Reykjavík Arts Festival",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2013",
+      "title": "Anti-Society League concert",
+      "venue": "Reykjavík Arts Festival",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2013",
+      "title": "Þrígaldur Þursavænn (Threefold magic giant friendly)",
+      "venue": "Reykjavík Arts Festival",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2013",
+      "title": "Kross",
+      "venue": "Reykjavík Arts Festival",
+      "location": "Reykjavík, Iceland",
+      "notes": "Directed by Guðmundur Oddur"
+    },
+    {
+      "year": "2013",
+      "title": "Exhibition of performance documentation",
+      "venue": "Reykjavík Art Museum",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2012",
+      "title": "Panels (TTjur)",
+      "venue": "Kunstraum Kreuzberg/Bethanien",
+      "location": "Berlin, Germany",
+      "notes": "In “Gesture Sign Art. Deaf Culture / Hearing Culture” (curated by Wolfgang Müller, An Paenhuysen)"
+    },
+    {
+      "year": "2012",
+      "title": "Manuscripts and sculptures",
+      "venue": "Lund Konsthall",
+      "location": "Lund, Sweden",
+      "notes": "In “Spela med, stöpa om” (Play with, recast)"
+    },
+    {
+      "year": "2012",
+      "title": "Walking on water",
+      "venue": "Gallerí Kling og Bang",
+      "location": "Reykjavík, Iceland",
+      "notes": "Four sculptures"
+    },
+    {
+      "year": "2011",
+      "title": "Ævintýr (Folk tale)",
+      "venue": "Modern Art Oxford",
+      "location": "Oxford, UK",
+      "notes": "Performed in “Solo”"
+    },
+    {
+      "year": "2011",
+      "title": "Freyskatla",
+      "venue": "Korpúlfsstaðir",
+      "location": "Reykjavík, Iceland",
+      "notes": "Performed by Nýlokórinn"
+    },
+    {
+      "year": "2011",
+      "title": "Viðtöl um dauðann (Interviews about death)",
+      "venue": "National Gallery of Iceland",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2011",
+      "title": "Innsetning",
+      "venue": "National Gallery of Iceland",
+      "location": "Reykjavík, Iceland",
+      "notes": "(see 2003)"
+    },
+    {
+      "year": "2010",
+      "title": "Collapse",
+      "venue": "The Living Art Museum",
+      "location": "Reykjavík, Iceland",
+      "notes": "Solo performance"
+    },
+    {
+      "year": "2010",
+      "title": "Freyskatla Part III",
+      "venue": "Reykjavík Arts Festival, Korpúlfsstaðir",
+      "location": "Reykjavík, Iceland",
+      "notes": "Sound poetry, performed by The LAM Sound Poetry Choir with soloists"
+    },
+    {
+      "year": "2009",
+      "title": "Taðskegglingar",
+      "venue": "Sequences Arts Festival, Hafnarhús",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2009",
+      "title": "Freyskatla Part II",
+      "venue": "The Living Art Museum",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2009",
+      "title": "Oryoki",
+      "venue": "Gallery Start Art",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2008",
+      "title": "Rainbow Clippings",
+      "venue": "Start Art Gallery",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2008",
+      "title": "Rainbow Clippings",
+      "venue": "Gallery Crystal Ball",
+      "location": "Berlin, Germany"
+    },
+    {
+      "year": "2008",
+      "title": "Dreams written and spoken",
+      "venue": "Gallery Crystal Ball",
+      "location": "Berlin, Germany"
+    },
+    {
+      "year": "2008",
+      "title": "Freyskatla Part I",
+      "venue": "The Living Art Museum",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2007",
+      "title": "In Memory of Thorarinn Nefjólfsson",
+      "venue": "Gallery i8",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2006",
+      "title": "Ég",
+      "venue": "Icelandic State Television",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2006",
+      "title": "Foss/Waterfall",
+      "venue": "Safn Museum",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2005",
+      "title": "A Tribute to the Automobile",
+      "venue": "Reykjavík Art Museum",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2005",
+      "title": "The Skinned Rabbit and Other Dreams",
+      "venue": "Boekie Woekie",
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "year": "2005",
+      "title": "Brim (Surf)",
+      "venue": "Suðsuðvestur",
+      "location": "Keflavík, Iceland"
+    },
+    {
+      "year": "2003",
+      "title": "Viðtöl um dauðann (Interviews about Death)",
+      "venue": "Reykjavík Art Museum",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2002",
+      "title": "Tribute to the Automobile",
+      "venue": "The Living Art Museum",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "2002",
+      "title": "Strunz",
+      "venue": "Kópavogur Art Museum",
+      "location": "Kópavogur, Iceland"
+    },
+    {
+      "year": "2001",
+      "title": "Seeds of Aspidistra",
+      "venue": "Polypoetry Festival",
+      "location": "Maastricht, Netherlands"
+    },
+    {
+      "year": "2000",
+      "title": "Þrígaldur Þursavænn",
+      "venue": "Reykjavík Art Museum",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1999",
+      "title": "Kúplingsdiskur",
+      "venue": "Gallerí Ingólfsstræti 8",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1999",
+      "title": "Undir berum himni (video)",
+      "venue": "Gallerí Plús",
+      "location": "Akureyri, Iceland"
+    },
+    {
+      "year": "1999",
+      "title": "Sculpture",
+      "venue": "Safnasafnið",
+      "location": "Svalbarðsströnd, Iceland"
+    },
+    {
+      "year": "1997",
+      "title": "Ævintýr (Folk Tale)",
+      "venue": "The Living Art Museum",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1997",
+      "title": "Ævintýr (Folk Tale)",
+      "venue": "Yes be Poetry, Sound Poetry Festival",
+      "location": "Bologna, Italy"
+    },
+    {
+      "year": "1996",
+      "title": "Dreams",
+      "venue": "Boekie Woekie",
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "year": "1996",
+      "title": "Cross",
+      "venue": "Margrethe Fjorden",
+      "location": "Roskilde, Denmark"
+    },
+    {
+      "year": "1995",
+      "title": "Gapassipi",
+      "venue": "Reykjavík Town Hall",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1995",
+      "title": "100 ára stríðið (100 Years War)",
+      "venue": "Café Mokka",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1994",
+      "title": "Retrospective Exhibition",
+      "venue": "Reykjavík Art Museum, Kjarvalsstaðir",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1994",
+      "title": "Exhibition",
+      "venue": "Gallery Ellifjós",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1994",
+      "title": "Varla… (Not really…)",
+      "venue": "The Living Art Museum",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1993",
+      "title": "Enginn gleypir sólina (No one swallows the sun)",
+      "venue": "Gallery 11",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1993",
+      "title": "P-mál (performance)",
+      "venue": "The Living Art Museum",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1993",
+      "title": "Exhibition",
+      "venue": "Gallery Gangur",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1990",
+      "title": "Þrætubálkur",
+      "venue": "The Living Art Museum & Municipal Theatre",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1988",
+      "title": "Voice installation with video",
+      "venue": "Gallery Birgir Andrésson",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1986",
+      "title": "Madame President",
+      "venue": "Henie-Onstad Kunstsenter",
+      "location": "Høvikodden, Norway"
+    },
+    {
+      "year": "1985",
+      "title": "De kommer med kiste og hente meg (They are bringing the coffin to get me)",
+      "venue": "Henie-Onstad Kunstsenter",
+      "location": "Høvikodden, Norway"
+    },
+    {
+      "year": "1985",
+      "title": "Exhibition",
+      "venue": "Gallery Gangur",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1984",
+      "title": "Augustus, my God, I have it",
+      "venue": "Franklin Furnace",
+      "location": "New York, USA"
+    },
+    {
+      "year": "1984",
+      "title": "Teaching: the craziest branch of art",
+      "venue": "Reykjavík Arts Festival, The Living Art Museum",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1982",
+      "title": "In memory of a friend who ate a house in Akureyri and played blues on his tibia",
+      "venue": "The Red House",
+      "location": "Akureyri, Iceland"
+    },
+    {
+      "year": "1981",
+      "title": "Exhibition",
+      "venue": "Gallery Gangur",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1980",
+      "title": "Biennale di Venezia",
+      "venue": "",
+      "location": ""
+    },
+    {
+      "year": "1980",
+      "title": "Í minning Magnúsar Jónssonar",
+      "venue": "The Red House",
+      "location": "Akureyri, Iceland"
+    },
+    {
+      "year": "1978",
+      "title": "Exhibition",
+      "venue": "Gallery Lóa",
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "year": "1977",
+      "title": "Exhibition",
+      "venue": "Gallery Suðurgata 7",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1977",
+      "title": "Exhibition",
+      "venue": "Gallery \"A\"",
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "year": "1977",
+      "title": "Exhibition",
+      "venue": "Gallery Waalkens",
+      "location": "Finsterwolde, Holland"
+    },
+    {
+      "year": "1975",
+      "title": "Exhibition",
+      "venue": "Gallery Fignal",
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "year": "1971",
+      "title": "Exhibition",
+      "venue": "Gallery Balderich",
+      "location": "Mönchengladbach, Germany"
+    },
+    {
+      "year": "1968",
+      "title": "Exhibition",
+      "venue": "Gallery Hansjörg Mayer",
+      "location": "Stuttgart, Germany"
+    },
+    {
+      "year": "1968",
+      "title": "Erðanúborð (from 1962)",
+      "venue": "Ásmundarsalur",
+      "location": "Reykjavík, Iceland\n        Solo exhibition featuring sculptures and graphics (silkscreen and heliograph)"
+    },
+    {
+      "year": "1967",
+      "title": "Bestu stykkin",
+      "venue": "Ásmundarsalur",
+      "location": "Reykjavík, Iceland"
+    }
+  ],
+  "group": [
+    {
+      "year": "2019",
+      "title": "Hljóðön: sýning tónlistar",
+      "venue": "Hafnarborg",
+      "location": "Hafnarfjörður, Iceland \n            (work: Lúðurhljómur í skókassa)"
+    },
+    {
+      "year": "2018",
+      "title": "HÁTT OG LÁGT (High & Low)",
+      "venue": "Nordatlantens Brygge",
+      "location": "Copenhagen, Denmark \n            (works: Dalalæða, Búhh (Steinþoka), Eye Talk video)"
+    },
+    {
+      "year": "2018",
+      "title": "Rúllandi Snjóbolti/11 (Rolling Snowball/11)",
+      "venue": "Djúpivogur",
+      "location": "Iceland \n            (works: Kál x3 & Hundar x3, lent by Pétur Arason)"
+    },
+    {
+      "year": "2018",
+      "title": "No. 2 UMHVERFING",
+      "venue": "Dyngja, Egilsstaðir",
+      "location": "Iceland \n            (performance of Enginn gleypir sólina and 26 recent watercolours)"
+    },
+    {
+      "year": "2018",
+      "title": "From Iceland / Frá Íslandi",
+      "venue": "KEG EXPO",
+      "location": "Holland \n            (works: Hviskur, The Offs, Skák (Chess))"
+    },
+    {
+      "year": "2017",
+      "title": "UP AND DOWN",
+      "venue": "Kindl Gallery",
+      "location": "Berlin, Germany \n            (curator: An Paenhuysen, maths pieces)"
+    },
+    {
+      "year": "2017",
+      "title": "Literally – Concrete Poetry in Iceland: the mid-1950s to the present",
+      "venue": "Hafnarborg",
+      "location": "Hafnarfjörður, Iceland \n            (works: The Offs, Tæm, Sænskur sálmar etc",
+      "notes": "curator: Vigdís Rún Jónsdóttir)"
+    },
+    {
+      "year": "2017",
+      "title": "Videos",
+      "venue": "Reykjavík Art Museum – Hafnarhús",
+      "location": "Reykjavík, Iceland \n            (works: Talk preceding Eye Talk, Eye Talk & Eye Talk II)"
+    },
+    {
+      "year": "2017",
+      "title": "Performance of Ritvél",
+      "venue": "Reykjavík Art Museum – Hafnarhús",
+      "location": "Reykjavík, Iceland \n            (NÝLO choir conducted by Atli Ingólfsson)"
+    },
+    {
+      "year": "2014–2016",
+      "title": "Red Snow group exhibition “Walking on water”",
+      "venue": "Sculptures in Nuuk, Copenhagen, Reykjavík and Tórshavn",
+      "location": ""
+    },
+    {
+      "year": "2012",
+      "title": "Skyggi (Shadow)",
+      "venue": "Hafnarborg",
+      "location": "Hafnarfjörður, Iceland \n            (curator: Guðný Tómasson)"
+    },
+    {
+      "year": "2008",
+      "title": "Degrees North: Six Artists and the Icelandic Landscape",
+      "venue": "Center for Curatorial Studies, Bard College",
+      "location": "New York, USA"
+    },
+    {
+      "year": "2007",
+      "title": "Eye Talk II",
+      "venue": "Pelorus Trust Media Gallery",
+      "location": "Wellington, New Zealand (video)"
+    },
+    {
+      "year": "2007",
+      "title": "Sýning í Safnasafninu",
+      "venue": "Safnasafnið",
+      "location": "Akureyri, Iceland \n            (curator: Niels Hafstein, work: Toes)"
+    },
+    {
+      "year": "2006",
+      "title": "Fæðing (Birth)",
+      "venue": "Reykjavík City Museum",
+      "location": "Reykjavík, Iceland \n            (choral sound poetry, International Polipoetry Festival)"
+    },
+    {
+      "year": "2005",
+      "title": "Mutations (Bílatal)",
+      "venue": "Tate Modern, Hackney Empire, Filthy McNasty",
+      "location": "London, UK"
+    },
+    {
+      "year": "2005",
+      "title": "Mutations (Bílatal)",
+      "venue": "Touring UK with “The Greatest Ever Dada Show”",
+      "location": ""
+    },
+    {
+      "year": "2004",
+      "title": "Royal Academy Summer Exhibition",
+      "venue": "Royal Academy of Arts",
+      "location": "London, UK \n            (work: Hund (Dog))"
+    },
+    {
+      "year": "2002",
+      "title": "Royal Academy Summer Exhibition",
+      "venue": "Royal Academy of Arts",
+      "location": "London, UK"
+    },
+    {
+      "year": "2002",
+      "title": "30th Anniversary of the Sculptors Union",
+      "venue": "Hafnarhús, Reykjavik",
+      "location": "Iceland \n            (work: YXN - sound and video work with film of cows and poetry heard through 4 headphones",
+      "notes": "15 artists participated. Exhibition catalog PDF)"
+    },
+    {
+      "year": "2001",
+      "title": "Seeds of Aspidistra",
+      "venue": "Polipoetry Festival",
+      "location": "Maastricht, Netherlands \n            (with Ragnheiður Guðmundsdóttir)"
+    },
+    {
+      "year": "2000",
+      "title": "Að juða sér rangsælis",
+      "venue": "Iðnó Theatre",
+      "location": "Reykjavík, Iceland \n            (with Stilluppsteypa)"
+    },
+    {
+      "year": "1999",
+      "title": "Myndir á sýningu",
+      "venue": "Community Museum",
+      "location": "Egilsstaðir, Iceland"
+    },
+    {
+      "year": "1999",
+      "title": "Elvideoylapoesia",
+      "venue": "Barcelona",
+      "location": "Spain"
+    },
+    {
+      "year": "1999",
+      "title": "Pendúll in d z t…",
+      "venue": "National Theatre Cellar",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1998",
+      "title": "Bone",
+      "venue": "1st Performance Festival",
+      "location": "Bern, Switzerland"
+    },
+    {
+      "year": "1998",
+      "title": "La Coscienza Luccicante",
+      "venue": "Palazzo Della Esposizioni",
+      "location": "Rome, Italy"
+    },
+    {
+      "year": "1998",
+      "title": "Minus 30 Plus 60",
+      "venue": "Reykjavík Municipal Museum",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1998",
+      "title": "The Hunting of the Snark",
+      "venue": "The Living Art Museum",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1998",
+      "title": "3rd Video Sound Poetry Festival",
+      "venue": "Bologna",
+      "location": "Italy"
+    },
+    {
+      "year": "1998",
+      "title": "Exhibition",
+      "venue": "LNM Gallery",
+      "location": "Oslo, Norway"
+    },
+    {
+      "year": "1998",
+      "title": "Strandlengjan",
+      "venue": "Outdoor sculpture",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1996",
+      "title": "Dreams",
+      "venue": "Ormeau Baths Gallery",
+      "location": "Belfast, Northern Ireland"
+    },
+    {
+      "year": "1996",
+      "title": "Off-side",
+      "venue": "Installation with a voice",
+      "location": "Bergen, Norway"
+    },
+    {
+      "year": "1995",
+      "title": "Open-air sculpture",
+      "venue": "Hallormsstaður",
+      "location": "East Iceland"
+    },
+    {
+      "year": "1992",
+      "title": "Dreams",
+      "venue": "The Sculpture Park",
+      "location": "Gothenburg, Sweden"
+    },
+    {
+      "year": "1990",
+      "title": "The Sixties in the North",
+      "venue": "National Gallery of Iceland",
+      "location": "Reykjavík, Iceland \n            (touring Scandinavia)"
+    },
+    {
+      "year": "1990",
+      "title": "Other people’s dreams",
+      "venue": "Open-air exhibition",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1989",
+      "title": "To be Pulled up over the Stomach or the Chest",
+      "venue": "Viborg Teater",
+      "location": "Denmark & \n            Malmö Konsthall, Sweden"
+    },
+    {
+      "year": "1988",
+      "title": "10th Anniversary of the Living Art Museum",
+      "venue": "National Gallery of Iceland",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1987",
+      "title": "International exhibition of artists’ books",
+      "venue": "Gallery Zona",
+      "location": "Florence, Italy"
+    },
+    {
+      "year": "1987",
+      "title": "Liteartura",
+      "venue": "Brandts Klædefabrik",
+      "location": "Odense, Denmark"
+    },
+    {
+      "year": "1986",
+      "title": "Exhibition of works from Nordic Museums",
+      "venue": "Helsinki",
+      "location": "Finland"
+    },
+    {
+      "year": "1986",
+      "title": "Exhibition",
+      "venue": "Gallery Gangur",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1985",
+      "title": "International exhibition of artists’ books",
+      "venue": "Ulm University",
+      "location": "Germany"
+    },
+    {
+      "year": "1985",
+      "title": "1945–1980, Art in the North",
+      "venue": "Sveaborg",
+      "location": "Finland"
+    },
+    {
+      "year": "1985",
+      "title": "The Moraga Legend",
+      "venue": "Henie-Onstad Kunstsenter",
+      "location": "Norway"
+    },
+    {
+      "year": "1984",
+      "title": "Iceland: The Art Revealed",
+      "venue": "Franklin Furnace",
+      "location": "New York, USA"
+    },
+    {
+      "year": "1982",
+      "title": "Musik",
+      "venue": "Norrköping Konstmuseum",
+      "location": "Sweden"
+    },
+    {
+      "year": "1982",
+      "title": "Exhibition",
+      "venue": "Gallery Gangur",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1980",
+      "title": "Experimental Environment",
+      "venue": "Korpúlfsstaðir",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1979",
+      "title": "Iceland",
+      "venue": "Gallery Suðurgata 7",
+      "location": "Florence, Italy",
+      "notes": "in \n            Gallery Zona"
+    },
+    {
+      "year": "1979",
+      "title": "Exhibition",
+      "venue": "Reykjavík Municipal Art Museum",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1978–79",
+      "title": "11 Modern Icelandic Artists",
+      "venue": "Malmö Konsthall",
+      "location": "Sweden"
+    },
+    {
+      "year": "1977",
+      "title": "Documenta 6",
+      "venue": "Kassel",
+      "location": "Germany (book works)"
+    },
+    {
+      "year": "1977",
+      "title": "Exhibition",
+      "venue": "The Nordic House",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1976",
+      "title": "Exhibition",
+      "venue": "Gallery SÚM",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1976",
+      "title": "Other Books and So",
+      "venue": "Amsterdam",
+      "location": "Netherlands"
+    },
+    {
+      "year": "1976",
+      "title": "Pop-Art in Iceland",
+      "venue": "National Gallery of Iceland",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1975",
+      "title": "Exhibition",
+      "venue": "Gallery Fignal",
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "year": "1974",
+      "title": "1100 Years of Icelandic Art",
+      "venue": "Reykjavík Municipal Art Museum",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1973–76",
+      "title": "SÚM joint exhibitions",
+      "venue": "Reykjavík",
+      "location": "Iceland"
+    },
+    {
+      "year": "1972",
+      "title": "SÚM",
+      "venue": "Reykjavík Arts Festival",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1971",
+      "title": "Exhibition (with AH)",
+      "venue": "Gallery SÚM",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1971",
+      "title": "SÚM IV",
+      "venue": "Museum Fodor",
+      "location": "Amsterdam, Netherlands (showed Gibsbörn)"
+    },
+    {
+      "year": "1969",
+      "title": "SÚM III",
+      "venue": "Gallery SÚM",
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "year": "1969",
+      "title": "3. Biennale der Ostseestaaten",
+      "venue": "Rostock",
+      "location": "Germany"
+    },
+    {
+      "year": "1968",
+      "title": "Nordisk Kunst",
+      "venue": "Charlottenborg",
+      "location": "Copenhagen, Denmark"
+    },
+    {
+      "year": "1960",
+      "title": "La Biennale de Paris",
+      "venue": "Paris",
+      "location": "France (theatre work)"
+    },
+    {
+      "year": "1958",
+      "title": "Arts Festival",
+      "venue": "Bergen",
+      "location": "Norway (theatre work)"
+    }
+  ]
+}

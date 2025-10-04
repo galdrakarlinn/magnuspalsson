@@ -134,41 +134,46 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  function initializeLanguageSelector() {
-    const languageSelectorMobile = document.getElementById('language-selector');
-    const languageSelectorDesktop = document.getElementById('language-selector-desktop');
+  async function initializeLanguageSelector() {
+    const toggleMobile = document.getElementById('language-toggle-mobile');
+    const toggleDesktop = document.getElementById('language-toggle-desktop');
 
     if (typeof i18n !== 'undefined') {
-      // Set current language in both dropdowns
-      if (languageSelectorMobile) {
-        languageSelectorMobile.value = i18n.getLang();
-      }
-      if (languageSelectorDesktop) {
-        languageSelectorDesktop.value = i18n.getLang();
+      // Wait for i18n to be initialized
+      if (!i18n.isReady()) {
+        await i18n.waitForReady();
       }
 
-      // Handle language change for mobile
-      if (languageSelectorMobile) {
-        languageSelectorMobile.addEventListener('change', async (e) => {
-          const newLang = e.target.value;
-          await i18n.setLang(newLang);
-          // Sync desktop selector
-          if (languageSelectorDesktop) {
-            languageSelectorDesktop.value = newLang;
-          }
-        });
+      // Function to update button text to show opposite language
+      const updateButtons = (currentLang) => {
+        // Show the language you can switch TO (opposite of current)
+        const displayLang = currentLang === 'en' ? 'IS' : 'EN';
+        if (toggleMobile) toggleMobile.textContent = displayLang;
+        if (toggleDesktop) toggleDesktop.textContent = displayLang;
+      };
+
+      // Set initial button text
+      updateButtons(i18n.getLang());
+
+      // Listen for language changes from anywhere and update buttons
+      i18n.onChange((newLang) => {
+        updateButtons(newLang);
+      });
+
+      // Handle click - toggle to opposite language
+      const handleLanguageToggle = async () => {
+        const currentLang = i18n.getLang();
+        const newLang = currentLang === 'en' ? 'is' : 'en';
+        await i18n.setLang(newLang);
+        // Buttons will be updated by the onChange listener
+      };
+
+      if (toggleMobile) {
+        toggleMobile.addEventListener('click', handleLanguageToggle);
       }
 
-      // Handle language change for desktop
-      if (languageSelectorDesktop) {
-        languageSelectorDesktop.addEventListener('change', async (e) => {
-          const newLang = e.target.value;
-          await i18n.setLang(newLang);
-          // Sync mobile selector
-          if (languageSelectorMobile) {
-            languageSelectorMobile.value = newLang;
-          }
-        });
+      if (toggleDesktop) {
+        toggleDesktop.addEventListener('click', handleLanguageToggle);
       }
     }
   }

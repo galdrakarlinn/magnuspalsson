@@ -5,11 +5,15 @@ class I18n {
     this.currentLang = localStorage.getItem('language') || 'en';
     this.translations = {};
     this.listeners = [];
+    this.initialized = false;
   }
 
   async init() {
+    if (this.initialized) return; // Already initialized
     await this.loadTranslations(this.currentLang);
+    await this.loadExhibitionsTranslations(this.currentLang);
     this.updateHtmlLang();
+    this.initialized = true;
   }
 
   async loadTranslations(lang) {
@@ -19,7 +23,7 @@ class I18n {
       this.currentLang = lang;
       localStorage.setItem('language', lang);
       this.updateHtmlLang();
-      this.notifyListeners();
+      // Don't notify listeners yet - wait for exhibitions translations too
       return true;
     } catch (error) {
       console.error(`Error loading ${lang} translations:`, error);
@@ -27,6 +31,18 @@ class I18n {
       if (lang !== 'en') {
         return await this.loadTranslations('en');
       }
+      return false;
+    }
+  }
+
+  async loadExhibitionsTranslations(lang) {
+    try {
+      const response = await fetch(`translations/exhibitions-${lang}.json`);
+      this.exhibitionsTranslations = await response.json();
+      return true;
+    } catch (error) {
+      console.error(`Error loading exhibitions-${lang} translations:`, error);
+      this.exhibitionsTranslations = { ui: {}, solo: [], group: [] };
       return false;
     }
   }
@@ -53,9 +69,48 @@ class I18n {
   // Set language and reload translations
   async setLang(lang) {
     if (lang !== this.currentLang) {
-      return await this.loadTranslations(lang);
+      await this.loadTranslations(lang);
+      await this.loadExhibitionsTranslations(lang);
+      // Now notify listeners after BOTH files are loaded
+      this.notifyListeners();
+      return true;
     }
     return true;
+  }
+
+  // Get exhibitions data
+  getExhibitions(type) {
+    if (!this.exhibitionsTranslations) {
+      return [];
+    }
+    return this.exhibitionsTranslations[type] || [];
+  }
+
+  // Get exhibition UI translation
+  te(key) {
+    if (!this.exhibitionsTranslations || !this.exhibitionsTranslations.ui) {
+      return key;
+    }
+    return this.exhibitionsTranslations.ui[key] || key;
+  }
+
+  // Check if i18n is ready
+  isReady() {
+    return this.initialized;
+  }
+
+  // Wait for i18n to be ready
+  async waitForReady() {
+    if (this.initialized) return;
+    // Wait for initialization to complete
+    return new Promise((resolve) => {
+      const checkReady = setInterval(() => {
+        if (this.initialized) {
+          clearInterval(checkReady);
+          resolve();
+        }
+      }, 50);
+    });
   }
 
   // Subscribe to language changes
