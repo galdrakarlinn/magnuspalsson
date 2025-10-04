@@ -4458,9 +4458,9 @@
     },
     {
       "id": "automobile_bok_1970_74",
-      "title": "Automobile bók",
-      "year": 1970,
-      "description": "PLACEHOLDER: A book or documentation work about automobiles from 1970-74. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials.",
+      "title": "Automobile",
+      "year": 1969,
+      "description": "Groundbreaking book work series where parts of an entire automobile are transformed into book form. The work exemplifies Magnús's ability to see everyday objects in radical new ways. The linear form of the book—where pages are turned sequentially—can be seen reflected in many other works by Magnús. This series stands out as one of his most distinctive contributions to artist's book making, literally deconstructing a car and reconstructing it as multiple books. Featured in the 2019 'SOMETHING from NOTHING' exhibition.",
       "images": [
         {
           "url": "images/automobile-bok-1970-74/medium/automobile-bok-1970-74-01-medium.jpg",
@@ -4478,10 +4478,11 @@
         }
       ],
       "tags": [
-        "PLACEHOLDER",
-        "book",
-        "automobile",
-        "1970s"
+        "book work",
+        "conceptual art",
+        "found object",
+        "transformation",
+        "1960s"
       ],
       "exhibitions": [],
       "materials": [
