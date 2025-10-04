@@ -1,0 +1,291 @@
+{
+  "ui": {
+    "theater": "Leikhús",
+    "underConstruction": "Þessi síða er í vinnslu",
+    "author": "Höfundur",
+    "director": "Leikstjóri",
+    "venue": "Leikhús"
+  },
+  "productions": [
+    {
+      "year": "1996",
+      "title": "Undir berum himni",
+      "author": "S. Tesich",
+      "director": "Eyvindur Erlendsson",
+      "venue": "Leikfélag Akureyrar"
+    },
+    {
+      "year": "1991",
+      "title": "Md. Butterfly",
+      "author": "D. H. Hwang",
+      "director": "Þórhildur Þorleifsdóttir",
+      "venue": "Þjóðleikhúsið"
+    },
+    {
+      "year": "1991",
+      "title": "Sprengd hljóðhimna, vinstra megin",
+      "author": "Magnús Pálsson",
+      "director": "Magnús Pálsson",
+      "venue": "Þjóðleikhúsið"
+    },
+    {
+      "year": "1989",
+      "title": "At blive trukket op over maven eller brystet",
+      "author": "Magnús Pálsson",
+      "director": "María Kristjánsdóttir",
+      "venue": "Viborg Teater & Malmö Konsthall"
+    },
+    {
+      "year": "1986",
+      "title": "Die kommer med kista og henter mig",
+      "author": "Magnús Pálsson",
+      "director": "Magnús Pálsson",
+      "venue": "Stúdentaleikhúsið"
+    },
+    {
+      "year": "1983",
+      "title": "Guð gaf mér eyra",
+      "author": "Medoff",
+      "director": "Þorsteinn Gunnarsson",
+      "venue": "Leikfélag Reykjavíkur"
+    },
+    {
+      "year": "1979",
+      "title": "Hemmi",
+      "author": "Véstein Lúðvíksson",
+      "director": "María Kristjánsdóttir",
+      "venue": "Iðnó"
+    },
+    {
+      "year": "1974",
+      "title": "Haninn háttprúði",
+      "author": "",
+      "director": "",
+      "venue": "Leikfélag Akureyrar"
+    },
+    {
+      "year": "1973",
+      "title": "Loka þó",
+      "author": "Böðvar Guðmundsson",
+      "director": "Stefán Baldursson",
+      "venue": "Iðnó"
+    },
+    {
+      "year": "1973",
+      "title": "Don Juan",
+      "author": "Molière",
+      "director": "Magnús Jónsson",
+      "venue": "Leikfélag Akureyrar"
+    },
+    {
+      "year": "1972",
+      "title": "Atómstöðin",
+      "author": "",
+      "director": "",
+      "venue": "Leikfélag Reykjavíkur"
+    },
+    {
+      "year": "1972",
+      "title": "Túskildingsóperan",
+      "author": "",
+      "director": "",
+      "venue": "[Venue to be confirmed]"
+    },
+    {
+      "year": "1972",
+      "title": "Stundum bannað og stundum ekki",
+      "author": "Arnold & Bach",
+      "director": "Guðrún Ásmundsdóttir",
+      "venue": ""
+    },
+    {
+      "year": "1972",
+      "title": "Fjalla-Eyvindur",
+      "author": "",
+      "director": "",
+      "venue": "Leikfélag Akureyrar"
+    },
+    {
+      "year": "1971",
+      "title": "Túskildingsóperan",
+      "author": "",
+      "director": "",
+      "venue": "Leikfélag Akureyrar"
+    },
+    {
+      "year": "1967",
+      "title": "Málssóknin",
+      "author": "Franz Kafka",
+      "director": "Helgi Skúlason",
+      "venue": "Leikfélag Reykjavíkur"
+    },
+    {
+      "year": "1965",
+      "title": "Sú gamla kemur í heimsókn",
+      "author": "Friedrich Dürrenmatt",
+      "director": "Helgi Skúlason",
+      "venue": "Iðnó"
+    },
+    {
+      "year": "1965",
+      "title": "Gleðidagar",
+      "author": "Samuel Beckett",
+      "director": "Eyvindur Erlendsson",
+      "venue": "Gríma"
+    },
+    {
+      "year": "1965",
+      "title": "Leikritið um frjálst framtak Steinars Ólafssonar í veröldinni",
+      "author": "Magnús Jónsson",
+      "director": "Eyvindur Erlendsson",
+      "venue": "Gríma"
+    },
+    {
+      "year": "1960",
+      "title": "Beðið eftir Godot",
+      "author": "Samuel Beckett",
+      "director": "Baldvin Halldórsson",
+      "venue": "Þjóðleikhúsið"
+    },
+    {
+      "year": "1960",
+      "title": "Læstar dyr",
+      "author": "Jean-Paul Sartre",
+      "director": "Þorvarður Helgason",
+      "venue": "Gríma"
+    },
+    {
+      "year": "1960",
+      "title": "Sex persónur leita höfundar",
+      "author": "Luigi Pirandello",
+      "director": "Jón Sigurbjörnsson",
+      "venue": ""
+    },
+    {
+      "year": "1960",
+      "title": "Júlíus César",
+      "author": "",
+      "director": "",
+      "venue": "Þjóðleikhúsið"
+    },
+    {
+      "year": "1960",
+      "title": "Í Skálholti",
+      "author": "",
+      "director": "",
+      "venue": "Þjóðleikhúsið"
+    },
+    {
+      "year": "1959",
+      "title": "Túskildingsóperan",
+      "author": "Bertolt Brecht",
+      "director": "Gunnar Eyjólfsson",
+      "venue": "Iðnó"
+    },
+    {
+      "year": "1959",
+      "title": "Spretthlauparinn",
+      "author": "",
+      "director": "",
+      "venue": "Leikfélag Reykjavíkur"
+    },
+    {
+      "year": "1959",
+      "title": "Deleríum Búbónis",
+      "author": "",
+      "director": "",
+      "venue": "Leikfélag Reykjavíkur"
+    },
+    {
+      "year": "1958",
+      "title": "Horfðu reiður um öxl",
+      "author": "John Osborne",
+      "director": "Baldvin Halldórsson",
+      "venue": "Þjóðleikhúsið"
+    },
+    {
+      "year": "1958",
+      "title": "Glerdýrin",
+      "author": "",
+      "director": "",
+      "venue": "Leikfélag Reykjavíkur"
+    },
+    {
+      "year": "1958",
+      "title": "Allir synir mínir",
+      "author": "",
+      "director": "",
+      "venue": "Leikfélag Reykjavíkur"
+    },
+    {
+      "year": "1957",
+      "title": "Browningþýðingin",
+      "author": "Terence Rattigan",
+      "director": "Gísli Halldórsson",
+      "venue": "Leikfélag Reykjavíkur"
+    },
+    {
+      "year": "1957",
+      "title": "Þrjár systur",
+      "author": "",
+      "director": "",
+      "venue": "Leikfélag Reykjavíkur"
+    },
+    {
+      "year": "1956",
+      "title": "Djúpið blátt",
+      "author": "Terence Rattigan",
+      "director": "Baldvin Halldórsson",
+      "venue": "Leikfélag Reykjavíkur"
+    },
+    {
+      "year": "1955",
+      "title": "Antígóna",
+      "author": "Jean Anouilh",
+      "director": "Baldvin Halldórsson",
+      "venue": "Þjóðleikhúsið"
+    },
+    {
+      "year": "1955",
+      "title": "Ætlar konan að deyja",
+      "author": "Christopher Fry",
+      "director": "Baldvin Halldórsson",
+      "venue": "Þjóðleikhúsið"
+    },
+    {
+      "year": "1952",
+      "title": "Skugga-Sveinn",
+      "author": "",
+      "director": "",
+      "venue": "Þjóðleikhúsið"
+    },
+    {
+      "year": "1951",
+      "title": "Heilög Jóhanna",
+      "author": "",
+      "director": "",
+      "venue": "Þjóðleikhúsið"
+    },
+    {
+      "year": "1951",
+      "title": "Segðu steininum heldur en engum",
+      "author": "",
+      "director": "",
+      "venue": "Leikfélag Reykjavíkur"
+    },
+    {
+      "year": "1950",
+      "title": "Elsku Rut",
+      "author": "Norman Krasna",
+      "director": "Gunnar R. Hansen",
+      "venue": "Leikfélag Reykjavíkur"
+    },
+    {
+      "year": "1950",
+      "title": "Marmara",
+      "author": "Guðmundur Kamban",
+      "director": "Gunnar R. Hansen",
+      "venue": "Leikfélag Reykjavíkur"
+    }
+  ]
+}
