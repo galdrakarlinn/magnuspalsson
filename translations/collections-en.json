@@ -1,0 +1,494 @@
+{
+  "ui": {
+    "collectionsTitle": "Collections and Public Works",
+    "holdings": "Holdings include:"
+  },
+  "introduction": {
+    "paragraphs": [
+      "This page documents works by Magnús Pálsson held in museum collections, institutional archives, and public installations. This information is compiled from institutional databases, collection catalogs, and archival sources.",
+      "Holdings include:"
+    ],
+    "holdings": [
+      "Major museum collections of artworks and documentation",
+      "Permanent public installations and commissioned works",
+      "Archive materials and photographs",
+      "Institutional acquisitions and donations"
+    ]
+  },
+  "institutions": [
+    {
+      "name": "Listasafn Íslands (National Gallery of Iceland)",
+      "url": "https://www.listasafn.is/list/safneign/?page=list&subpage=safneign&flokkur=artwork&leit=Magn%C3%BAs+p%C3%A1lsson",
+      "works": [
+        {
+          "title": "Bók um bók og fleira",
+          "type": "Book work",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=2222835",
+          "note": "1st ed. 1980, 2nd ed. 2012"
+        },
+        {
+          "title": "Talk Preceeding Eye Talk",
+          "type": "Artwork/Documentation",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=2202983"
+        },
+        {
+          "title": "Eye Talk II",
+          "type": "Artwork/Documentation",
+          "url": "https://sarpur.is/Leit.aspx?search=Eye+Talk+II"
+        },
+        {
+          "title": "Augntal",
+          "type": "Video work, 1993",
+          "url": "https://www.listasafn.is/list/safneign/li-7392/",
+          "note": "LÍ-7392"
+        },
+        {
+          "title": "Kúplingsdiskur",
+          "type": "Artwork",
+          "url": "https://sarpur.is/Leit.aspx?search=Kúplingsdiskur"
+        },
+        {
+          "title": "Flæðarmál",
+          "type": "Art/Design work",
+          "url": "https://sarpur.is/Leit.aspx?search=Flæðarmál"
+        },
+        {
+          "title": "Dogbook",
+          "type": "Book work, 1973",
+          "url": "https://www.listasafn.is/list/safneign/li-8777/",
+          "note": "36 pages, 16 × 12 × 1 cm, LÍ-8777"
+        },
+        {
+          "title": "TJÖPÖRNIPINNIPI",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Leit.aspx?search=TJÖPÖRNIPINNIPI"
+        },
+        {
+          "title": "Pappírsást I",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Leit.aspx?search=Pappírsást"
+        },
+        {
+          "title": "Enginn gleypir sólina",
+          "type": "Sound installation, 1993",
+          "url": "https://www.listasafn.is/list/safneign/li-7321/",
+          "note": "\"No one swallows the sun\" - Four-channel sound with snuff and colored paper noses, LÍ-7321"
+        },
+        {
+          "title": "Dulargervi",
+          "type": "Sculpture/Low relief, 1967",
+          "url": "https://www.listasafn.is/list/safneign/li-12155/",
+          "note": "\"Disguise\" - 57 × 27 × 20.5 cm, LÍ-12155"
+        },
+        {
+          "title": "Kjóll",
+          "type": "Sculpture",
+          "url": "https://sarpur.is/Leit.aspx?search=Kjóll",
+          "note": "Featured in 1968 outdoor exhibition at Skólavörðuholt"
+        },
+        {
+          "title": "Erðanú borð!",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1626939"
+        },
+        {
+          "title": "Hundljóð / Hundar í 16 h...",
+          "type": "Sound work",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1626911",
+          "note": "Related to \"Hundljóð\" sound poetry work"
+        },
+        {
+          "title": "Hanskfjall",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1626937"
+        },
+        {
+          "title": "Ljóshirsla",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1626931"
+        },
+        {
+          "title": "Gifsbörn",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1626923"
+        },
+        {
+          "title": "bók um bók og fleira",
+          "type": "Book work, 1980",
+          "url": "https://www.listasafn.is/list/safneign/li-8697/",
+          "note": "195 pages, created by 10 MHÍ students under Magnús Pálsson's guidance, LÍ-8697"
+        },
+        {
+          "title": "MOB SHOP DUMMY",
+          "type": "Book work, 1986",
+          "url": "https://www.listasafn.is/list/safneign/li-8778/",
+          "note": "128 pages documenting Mob Shop 1 international workshop, LÍ-8778"
+        },
+        {
+          "title": "TREFFEN IM GEBIRGE (contribution)",
+          "type": "Book work, 1984",
+          "url": "https://www.listasafn.is/list/safneign/li-8806/",
+          "note": "Collaborative book with foldable pages extending to ~60cm, LÍ-8806"
+        },
+        {
+          "title": "Viðtöl um dauðann",
+          "type": "New Media, 2003",
+          "url": "https://www.listasafn.is/list/safneign/li-8249/",
+          "note": "Co-created with Helga Hansdóttir, \"Interviews about Death\", LÍ-8249"
+        },
+        {
+          "title": "KÁL I",
+          "type": "Silkscreen print, 1966",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=2376756",
+          "note": "91 × 101 cm, on masonite and paper"
+        },
+        {
+          "title": "KÁL II",
+          "type": "Silkscreen print, 1966",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=2376764",
+          "note": "91 × 101 cm, LÍ-5637"
+        }
+      ]
+    },
+    {
+      "name": "Safnasafnið - Alþýðulist (The Museum Museum - Folk Art)",
+      "url": "",
+      "works": [
+        {
+          "title": "Dogbook",
+          "type": "Art/Design work",
+          "url": "https://sarpur.is/Leit.aspx?search=Dogbook"
+        },
+        {
+          "title": "Rainbow Clippings",
+          "type": "Art/Design work",
+          "url": "https://sarpur.is/Leit.aspx?search=Rainbow+Clippings"
+        }
+      ]
+    },
+    {
+      "name": "Þjóðminjasafn Íslands (National Museum of Iceland)",
+      "url": "",
+      "works": [
+        {
+          "title": "Líkan af Vallanesi (Model of Vallanes)",
+          "type": "Model, 1976",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=2595580",
+          "note": "Plastic, 1.48 × 1.14 cm. Detailed model of Vallanes village created from father's descriptions. One of three identical models - others in Canada and East Iceland Museum"
+        }
+      ]
+    },
+    {
+      "name": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
+      "url": "https://listasafnreykjavikur.is/safneign?q=Magn%C3%BAs+P%C3%A1lsson",
+      "works": [
+        {
+          "title": "Augntal (Eye Count)",
+          "type": "Multi-technique, 1993",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Augntal"
+        },
+        {
+          "title": "Einsemd (Solitude)",
+          "type": "Sculpture, 2013",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Einsemd",
+          "note": "120 × 350 cm"
+        },
+        {
+          "title": "Eye Talk",
+          "type": "Multi-technique, 1990",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Eye+Talk"
+        },
+        {
+          "title": "Eye Talk II",
+          "type": "Multi-technique, 1998",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Eye+Talk+II"
+        },
+        {
+          "title": "Ferð (Journey)",
+          "type": "Installation, 1965/94",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Ferð",
+          "note": "60 × 160 cm"
+        },
+        {
+          "title": "Í minningu Njálsbrennu (In Memory of Njál's Burning)",
+          "type": "Installation, 1978",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Í+minningu+Njálsbrennu",
+          "note": "260 cm height"
+        },
+        {
+          "title": "Kúplingsdiskur (Coupling Disc)",
+          "type": "Multi-technique, 1999",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Kúplingsdiskur"
+        },
+        {
+          "title": "Minning Þórarins Nefjólfssonar (Memorial to Þórarinn Nefjólfsson)",
+          "type": "Sculpture, 2007",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Minning+Þórarins+Nefjólfssonar"
+        },
+        {
+          "title": "Óður til bílsins (Ode to the Car)",
+          "type": "Installation, 2002",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Óður+til+bílsins"
+        },
+        {
+          "title": "Sekúndurnar þar til Sikorskyþyrlan snertir (Seconds Before the Sikorsky Helicopter Touches)",
+          "type": "Installation, 1976",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Sekúndurnar",
+          "note": "Also known as \"Þyrlulending\" (Helicopter Landing)"
+        },
+        {
+          "title": "Sólskríkja, mús, kengúra (Wagtail, Mouse, Kangaroo)",
+          "type": "Photography, 1980-94",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Sólskríkja",
+          "note": "30.5 × 43 cm"
+        },
+        {
+          "title": "Stærðfræði (Mathematics)",
+          "type": "Sculpture, 1976",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Stærðfræði",
+          "note": "950 × 65 cm"
+        }
+      ]
+    },
+    {
+      "name": "Mosfellsbær Municipal Collection",
+      "url": "https://mos.is/mannlif/menning/listaverk/#skraning-a-listaverkum-0",
+      "works": [
+        {
+          "title": "Silfur Egils",
+          "type": "Clay sculpture",
+          "url": "",
+          "note": "300 × 180 cm, located on south wall of Varmárskóli older division, funded by National Art Decoration Fund"
+        },
+        {
+          "title": "Askur Yggdrasils",
+          "type": "Watercolor, 1980",
+          "url": "",
+          "note": "68 × 54 cm, purchased 1980, located at municipal offices 4th floor in Kjarna"
+        }
+      ]
+    },
+    {
+      "name": "Listasafn ASÍ (ASÍ Art Collection)",
+      "url": "",
+      "works": [
+        {
+          "title": "Á dansgólfinu",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=505485"
+        }
+      ]
+    },
+    {
+      "name": "The Living Art Museum (Nýlistasafnið)",
+      "url": "https://sarpur.is/Leit.aspx?search=%22Magn%C3%BAs%20P%C3%A1lsson%22&filter=895&museumID=0&typeID=0&page=1&skraID=-1&pageSize=16",
+      "works": [
+        {
+          "title": "Bestu stykkin (Frúöld series)",
+          "type": "Sculpture",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1396243",
+          "note": "Three surviving pieces from the original cloth figure series"
+        },
+        {
+          "title": "THINGUMMY",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1419334"
+        },
+        {
+          "title": "Bók um bók og fleira",
+          "type": "Book work",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1416878"
+        },
+        {
+          "title": "The Skinned Rabbit and O...",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1416877"
+        },
+        {
+          "title": "The Offs (a play in two...)",
+          "type": "Play/Performance work",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1416876"
+        },
+        {
+          "title": "Ferð - veggfóður",
+          "type": "Wallpaper work",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1413134",
+          "note": "(\"Journey\" - the revolutionary wallpaper artwork from 1969"
+        },
+        {
+          "title": "Vænting",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1412866"
+        },
+        {
+          "title": "Mob Shop Dummy",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1412112"
+        },
+        {
+          "title": "ECHO",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1411585"
+        },
+        {
+          "title": "Dogbook",
+          "type": "Book work",
+          "url": "https://sarpur.is/Leit.aspx?search=Dogbook"
+        },
+        {
+          "title": "Í minningu vinar míns se...",
+          "type": "Memorial work",
+          "url": "https://sarpur.is/Leit.aspx?search=Í+minningu+vinar"
+        },
+        {
+          "title": "Berdreyminn",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Leit.aspx?search=Berdreyminn"
+        },
+        {
+          "title": "Það sem Nefretíti hvísla...",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1815446"
+        },
+        {
+          "title": "Bjartsýnisbrú",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1815442"
+        },
+        {
+          "title": "Spilaborg",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1815440"
+        },
+        {
+          "title": "Hundur",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1815434"
+        },
+        {
+          "title": "Þumalfingur",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1815430"
+        },
+        {
+          "title": "Næmur",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1396261",
+          "note": "Part of \"Berdreyminn, Skyggn, Næmur\" series"
+        },
+        {
+          "title": "'Ferð' - veggfóður, frumgerð",
+          "type": "Wallpaper work",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=599420",
+          "note": "Original version of \"Journey\" wallpaper"
+        },
+        {
+          "title": "Nótt í London - svo sem",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=599418"
+        },
+        {
+          "title": "Magnús Pálsson sýnir í R...",
+          "type": "Exhibition documentation",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=618643"
+        },
+        {
+          "title": "Sounds of Norway",
+          "type": "Sound work",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=594457"
+        },
+        {
+          "title": "Hundaljóð",
+          "type": "Sound work",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=588380"
+        },
+        {
+          "title": "Steinþoka",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=588363"
+        },
+        {
+          "title": "Fairy space",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1452659"
+        },
+        {
+          "title": "Freyskatla - raddskúlptúr",
+          "type": "Sound sculpture",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1452456"
+        },
+        {
+          "title": "Augustus! My God, I have...",
+          "type": "Performance/Sound work",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1418742",
+          "note": "Related to 1984 work"
+        },
+        {
+          "title": "Án titils (Untitled)",
+          "type": "Visual Art/Design",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=588330"
+        }
+      ]
+    },
+    {
+      "name": "Háskóli Íslands (University of Iceland)",
+      "url": "",
+      "works": [
+        {
+          "title": "Hvískur",
+          "type": "Artwork",
+          "url": "",
+          "note": "Located in Læknagarður"
+        },
+        {
+          "title": "Mótun lands (The Formation of Land)",
+          "type": "Wall installation, 2010",
+          "url": "",
+          "note": "Department of Geology and Natural Science (Askja), tiling and engraving with text from Völuspá and Jónas Hallgrímsson poetry"
+        },
+        {
+          "title": "Þiljur (Claddings)",
+          "type": "Wall installation, 1995",
+          "url": "",
+          "note": "Department of Physiology, three wooden panels with sculpture and engraving, text from Edda transcribed into Wingdings, carving by Hannes Lárusson"
+        }
+      ]
+    },
+    {
+      "name": "Snælandsskóli, Kópavogur",
+      "url": "",
+      "works": [
+        {
+          "title": "Litill, Tritill, Karlsson og fuglarnir",
+          "type": "Public installation, 1985–2015",
+          "url": "",
+          "note": "Hungarian fairy tale depicted in 50 ceramic sculptures and texts on inside and outside walls"
+        }
+      ]
+    },
+    {
+      "name": "Skagaströnd Municipality",
+      "url": "",
+      "works": [
+        {
+          "title": "Sólur (Sun Dial)",
+          "type": "Public sculpture, 2014",
+          "url": "",
+          "note": "Stone and metal sculpture with text"
+        }
+      ]
+    },
+    {
+      "name": "Búnaðarbanki (Historical)",
+      "url": "",
+      "works": [
+        {
+          "title": "Jónsmessa",
+          "type": "Wall installation, 1982",
+          "url": "",
+          "note": "Aluminium wall piece, later relocated"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ui": {
+    "filmsTitle": "Films about Magnús Pálsson",
+    "underConstruction": "This page is under construction"
+  },
+  "films": [
+    {
+      "year": "2019",
+      "items": [
+        {
+          "title": "Á Skjón (Askew)",
+          "description": "a documentary by Steinþór Birgisson, dir. Sigurður Ingólfsson"
+        }
+      ]
+    },
+    {
+      "year": "1998",
+      "items": [
+        {
+          "title": "Hljóðlát sprenging (Silent Explosion)",
+          "description": "documentary by Þór Elís Pálsson"
+        }
+      ]
+    }
+  ]
+}

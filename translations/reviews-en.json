@@ -1,0 +1,1020 @@
+{
+  "ui": {
+    "reviewsTitle": "Reviews",
+    "introductionListHeader": "This documentation serves as an invaluable scholarly resource for:"
+  },
+  "introduction": {
+    "paragraphs": [
+      "This page presents the first comprehensive chronological archive of Magnús Pálsson's multidisciplinary career, spanning 74 years (1948-2022) with over 100 meticulously researched entries covering theater, visual arts, performance, teaching, and theoretical writings.",
+      "This documentation serves as an invaluable scholarly resource for:"
+    ],
+    "list": [
+      "Art historians researching conceptual art and the Fluxus movement in Iceland",
+      "Theater scholars studying experimental performance and stage design",
+      "Students learning about multidisciplinary artistic practice",
+      "Researchers exploring the development of contemporary Icelandic culture",
+      "Anyone interested in this pioneering artist's extraordinary career"
+    ]
+  },
+  "reviews": [
+    {
+      "year": "Recent",
+      "items": [
+        {
+          "title": "Two Sound Installations by Magnús Pálsson",
+          "description": "Review of archival releases,Bridge(Chicago)",
+          "venue": "Bridge",
+          "url": "https://www.bridge-chicago.org/bridge-audio/magnus-palsson-review"
+        },
+        {
+          "title": "European Live Art Archive Entry",
+          "description": "Comprehensive documentation of performance work and Fluxus contributions",
+          "venue": null,
+          "url": "https://elaa.cat/en/magnus-palsson/"
+        },
+        {
+          "title": "Academic Dissertation on SÚM Group",
+          "description": "\"The Conceptual, the Romantic, and the Nonhuman: The SUM Group and the Emergence of Contemporary Art in Iceland, 1965-1978\",Penn State University",
+          "venue": "Penn State University",
+          "url": "https://openpublishing.psu.edu/ahd/content/conceptual-romantic-and-nonhuman-sum-group-and-emergence-contemporary-art-iceland-1965-1978"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "items": [
+        {
+          "title": "Artist Profile with Statue Installation Story",
+          "description": "Profile mentioning statue placement near Hafnarfjall and artistic experiences,Skessuhorn, December 20, 2022",
+          "venue": "Skessuhorn",
+          "url": "https://timarit.is/page/7805881"
+        },
+        {
+          "title": "5 Questions to Adam Buffington about Mumbling Eye",
+          "description": "Discussion of Pálsson's influence on experimental music research,I Care If You Listen, March 2022",
+          "venue": "I Care If You Listen",
+          "url": "https://icareifyoulisten.com/2022/03/5-questions-to-adam-buffington-about-mumbling-eye/amp/"
+        },
+        {
+          "title": "Gapassipi Release",
+          "description": "First archival release by Mumbling Eye label, 40-page hardback book and CD of 1995 sound installation,Mumbling Eye, February 2022",
+          "venue": "Mumbling Eye",
+          "url": null
+        },
+        {
+          "title": "Stars Making a Social Impact",
+          "description": "Feature on Mumbling Eye's preservation of Icelandic experimental art,Authority Magazine, 2022",
+          "venue": "Authority Magazine",
+          "url": "https://medium.com/authority-magazine/stars-making-a-social-impact-why-how-adam-buffington-of-mumbling-eye-is-helping-to-change-our-d258ec1dbc99"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "items": [
+        {
+          "title": "PhD Dissertation Research",
+          "description": "\"Cross-cultural collaborations between Icelandic and non-Icelandic artists\" by Adam Buffington focusing on Pálsson's impact on art education,The Ohio State University, 2020",
+          "venue": "The Ohio State University",
+          "url": null
+        },
+        {
+          "title": "Department Conversations",
+          "description": "Academic discussions on collaborative practices and methods,Iceland University of the Arts, 2020",
+          "venue": "Iceland University of the Arts",
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "items": [
+        {
+          "title": "Heimildarmynd um Magnús Pálsson frumsýnd á jóladag",
+          "description": "Documentary \"Á Skjön\" by Steinþór Birgisson,RÚV, December 20, 2019",
+          "venue": "RÚV",
+          "url": "https://www.ruv.is/frettir/menning-og-daegurmal/heimildarmynd-um-magnus-palsson-frumsynd-a-joladag"
+        },
+        {
+          "title": "SOMETHING from NOTHING: The Visual Realm of Magnús Pálsson",
+          "description": "Exhibition coverage with Nýlókórinn performance at opening,Reykjavík Art Museum - Hafnarhús, September 28, 2019 - January 5, 2020",
+          "venue": "Reykjavík Art Museum - Hafnarhús",
+          "url": "https://listasafnreykjavikur.is/en/exhibitions/something-nothing-visual-realm-magnus-palsson"
+        },
+        {
+          "title": "50 Years of Icelandic Art at the Venice Biennale",
+          "description": "Exhibition examining Iceland's Venice Biennale history including Pálsson's 1980 participation,Reykjavík Art Museum",
+          "venue": "Reykjavík Art Museum",
+          "url": "https://listasafnreykjavikur.is/en/exhibitions/50-years-icelandic-art-venice-biennale"
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "items": [
+        {
+          "title": "Umhverfing Exhibition Coverage",
+          "description": "Performance \"Enginn gleypir sólina\" with Þórunn Dís Halldórsdóttir at group exhibition in Egilsstaðir,Morgunblaðið - Sunnudagur, July 8, 2018",
+          "venue": "Morgunblaðið - Sunnudagur",
+          "url": "https://timarit.is/page/6995299"
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "items": [
+        {
+          "title": "The Typewriter Performance",
+          "description": "Nýlókórinn performing work by Magnús Pálsson,Reykjavík Art Museum - Hafnarhús, March 2, 2017",
+          "venue": "Reykjavík Art Museum - Hafnarhús",
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "items": [
+        {
+          "title": "Nýlókórinn Premiere",
+          "description": "New work composed specially for the choir,Hafnarborg, Hafnarfjörður, March 6, 2016",
+          "venue": "Hafnarborg",
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "items": [
+        {
+          "title": "Kúakyn í hættu Performance",
+          "description": "Nýlókórinn with Karlkór Alþýðu and Fengjastrútur at \"Red Snow\" exhibition opening,Nordic House, 2015",
+          "venue": "Nordic House",
+          "url": null
+        },
+        {
+          "title": "Tectonics Festival Premiere",
+          "description": "\"Kúakyn í hættu\" premiered with Icelandic Symphony Orchestra,Tectonics Reykjavík, 2015",
+          "venue": "Tectonics Reykjavík",
+          "url": null
+        },
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Húnavaka, May 1, 2015",
+          "venue": "Húnavaka",
+          "url": "https://timarit.is/page/6456542"
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "items": [
+        {
+          "title": "Myndhöggvarafélagið Facilities Article",
+          "description": "Mentioned among prominent artists who have worked within the Sculptors' Association facilities,STARA, 2014",
+          "venue": "STARA",
+          "url": "https://timarit.is/page/6482034"
+        },
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Feykir, September 25, 2014",
+          "venue": "Feykir",
+          "url": "https://timarit.is/page/6945336"
+        }
+      ]
+    },
+    {
+      "year": "2013",
+      "items": [
+        {
+          "title": "The Sound of a Bugle in a Shoebox",
+          "description": "Exhibition coverage,Reykjavík Art Museumin collaboration with Reykjavík Arts Festival",
+          "venue": "Reykjavík Art Museum",
+          "url": null
+        },
+        {
+          "title": "Academic Publication",
+          "description": "\"Magnús Pálsson et le département New Art à Reykjavík 1975-1984 Teaching: the Maddest Artform\" by Æsa Sigurjónsdóttir, in \"Transmettre l'art – Figures et méthodes – Quelle histoire\",Les presses du réel, Paris, 2013, pp. 129-151",
+          "venue": "Les presses du réel",
+          "url": null
+        },
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Skírnir, Spring 2013",
+          "venue": "Skírnir",
+          "url": "https://timarit.is/page/7027373"
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "items": [
+        {
+          "title": "Bachelor's Thesis on Teaching Methods",
+          "description": "\"Geggjaðasta listgreinin. Kennsluaðferðir Magnúsar Pálssonar, afstaða hans til listarinnar og listhugtaksins\" by Baldvina Sigrún Sverrisdóttir, supervised by Æsa Sigurjónsdóttir,University of Iceland, May 9, 2012",
+          "venue": "University of Iceland",
+          "url": "https://skemman.is/bitstream/1946/11563/4/Lokaritger%C3%B0%20til%20Skemmunnar%201.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2011",
+      "items": [
+        {
+          "title": "Reykjavík City Artist Award",
+          "description": "Named City Artist by Council for Culture and Tourism,Reykjavík City, June 17, 2011",
+          "venue": "Reykjavík City",
+          "url": null
+        },
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Fréttablaðið, March 5, 2011",
+          "venue": "Fréttablaðið",
+          "url": "https://timarit.is/page/5136388"
+        }
+      ]
+    },
+    {
+      "year": "2010",
+      "items": [
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Ritið: tímarit Hugvísindastofnunar - Sérrit: Menningarheimar, December 1, 2010",
+          "venue": "Ritið: tímarit Hugvísindastofnunar - Sérrit: Menningarheimar",
+          "url": "https://timarit.is/page/7944785"
+        }
+      ]
+    },
+    {
+      "year": "2009",
+      "items": [
+        {
+          "title": "Technical Difficulties",
+          "description": "The Reykjavík Grapevine, November 12, 2009",
+          "venue": "The Reykjavík Grapevine",
+          "url": "https://grapevine.is/icelandic-culture/art/2009/11/12/art-technical-difficulties/"
+        },
+        {
+          "title": "Sequences Art Festival Honorary Artist",
+          "description": "Named honorary artist at 80 years old, described as \"concept art legend\",Various publications, October 31 - November 7, 2009",
+          "venue": "Various publications",
+          "url": null
+        },
+        {
+          "title": "Art in Sequence, Real-time!",
+          "description": "Festival coverage featuring Pálsson as honorary artist,The Reykjavík Grapevine, October 28, 2009",
+          "venue": "The Reykjavík Grapevine",
+          "url": "https://grapevine.is/icelandic-culture/art/2009/10/28/art-sequences-festival-2009/"
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "items": [
+        {
+          "title": "Dreams",
+          "description": "Performance,Galerie Crystal Ball, Berlin",
+          "venue": "Galerie Crystal Ball",
+          "url": null
+        },
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Morgunblaðið, September 10, 2008",
+          "venue": "Morgunblaðið",
+          "url": "https://timarit.is/page/4198340"
+        },
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Fréttablaðið, September 3, 2008",
+          "venue": "Fréttablaðið",
+          "url": "https://timarit.is/page/4006301"
+        },
+        {
+          "title": "Rainbow Clippings Exhibition",
+          "description": "Coverage of performance and collage work at StartArt gallery, performed with Rod Summers and Tom Winter,24 stundir, September 4, 2008",
+          "venue": "24 stundir",
+          "url": "https://timarit.is/page/3633876"
+        },
+        {
+          "title": "Design Credit",
+          "description": "Listed as layout designer (Magnús Valur Pálsson),Frjáls verslun, July 1, 2008",
+          "venue": "Frjáls verslun",
+          "url": "https://timarit.is/page/6252385"
+        },
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Almanak Hins íslenska þjóðvinafélags, January 1, 2008",
+          "venue": "Almanak Hins íslenska þjóðvinafélags",
+          "url": "https://timarit.is/page/5501568"
+        }
+      ]
+    },
+    {
+      "year": "2007",
+      "items": [
+        {
+          "title": "\"Músagildran\" Theater History",
+          "description": "Historical coverage of 1959 production where Pálsson created stage design and performed as actor in \"The Mousetrap\" by Leikfélag Kópavogs,Þjóðmál, 2007",
+          "venue": "Þjóðmál",
+          "url": "https://timarit.is/page/6654229"
+        }
+      ]
+    },
+    {
+      "year": "2006",
+      "items": [
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Morgunblaðið, September 23, 2006",
+          "venue": "Morgunblaðið",
+          "url": "https://timarit.is/page/4141189"
+        }
+      ]
+    },
+    {
+      "year": "2005",
+      "items": [
+        {
+          "title": "PPF International Polipoetry Festival Organizer",
+          "description": "Organized international sound poetry festival,Reykjavík City Museum & Reykjavík Arts Festival, 2005",
+          "venue": "Reykjavík City Museum & Reykjavík Arts Festival",
+          "url": null
+        },
+        {
+          "title": "\"Brim\" Exhibition at Suðsuðvestur",
+          "description": "First exhibition at new gallery space in Reykjanesbær, described as \"frumkvöðull hugmyndalistar\" with performance and video elements,Morgunblaðið, February 8, 2005",
+          "venue": "Morgunblaðið",
+          "url": "https://timarit.is/page/3652699"
+        },
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Dagblaðið Vísir - DV, January 24, 2005",
+          "venue": "Dagblaðið Vísir - DV",
+          "url": "https://timarit.is/page/5500817"
+        }
+      ]
+    },
+    {
+      "year": "2003",
+      "items": [
+        {
+          "title": "Nýlókórinn Founded",
+          "description": "Establishment of The Icelandic Sound Poetry Choir by Magnús Pálsson,Icelandic cultural press, 2003",
+          "venue": "Icelandic cultural press",
+          "url": null
+        },
+        {
+          "title": "A Certain Turbulence / Ákveðin ókyrrð",
+          "description": "Curator of performances with Icelandic Academy of Art,Reykjavík Municipal Museum, 2003",
+          "venue": "Reykjavík Municipal Museum",
+          "url": null
+        },
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Fréttablaðið, September 5, 2003",
+          "venue": "Fréttablaðið",
+          "url": "https://timarit.is/page/3706377"
+        },
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Dagblaðið Vísir - DV, February 10, 2003",
+          "venue": "Dagblaðið Vísir - DV",
+          "url": "https://timarit.is/page/3042440"
+        }
+      ]
+    },
+    {
+      "year": "2002",
+      "items": [
+        {
+          "title": "\"Hljóðlát sprenging\" Documentary Coverage",
+          "description": "Article about Þór Elís Pálsson's documentary exploring Magnús Pálsson's artistic journey, co-written with Gunnar J. Árnason,Morgunblaðið, October 18, 2002",
+          "venue": "Morgunblaðið",
+          "url": "https://timarit.is/page/3455330"
+        },
+        {
+          "title": "Silent Explosion (Hljóðlát sprenging)",
+          "description": "Documentary about Magnús Pálsson by Þór Elís Pálsson,Icelandic television, 2002",
+          "venue": "Icelandic television",
+          "url": null
+        },
+        {
+          "title": "Flökt / Ambulatory / Wandelgang",
+          "description": "Curator of exhibitions and performances,Living Art Museum, 2002",
+          "venue": "Living Art Museum",
+          "url": null
+        },
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Fréttablaðið, October 16, 2002",
+          "venue": "Fréttablaðið",
+          "url": "https://timarit.is/page/3696888"
+        }
+      ]
+    },
+    {
+      "year": "2001",
+      "items": [
+        {
+          "title": "Cross-Genre Artistic Analysis",
+          "description": "Analysis by Gunnar J. Árnason describing Pálsson as challenging genre boundaries and creating works \"on the borderlines of different art forms\",Skírnir, September 1, 2001",
+          "venue": "Skírnir",
+          "url": "https://timarit.is/page/7012593"
+        },
+        {
+          "title": "Stage Design Criticism Commentary",
+          "description": "Pálsson's critique of 1960s-70s theater criticism lacking understanding of visual arts, advocating for stage design as art form rather than design discipline,Sagnir, 2001",
+          "venue": "Sagnir",
+          "url": "https://timarit.is/page/5955080"
+        },
+        {
+          "title": "Theater Artistic Philosophy",
+          "description": "Pálsson's views on prioritizing art over commercial productions, wanting theaters to stop producing \"rusl\" (trash) and focus on artistic ambition,Sagnir, 2001",
+          "venue": "Sagnir",
+          "url": "https://timarit.is/page/5955085"
+        }
+      ]
+    },
+    {
+      "year": "2000",
+      "items": [
+        {
+          "title": "MOTORLAB#1 Music Review",
+          "description": "Collaboration with Stilluppsteypa mentioned,Morgunblaðið, December 16, 2000",
+          "venue": "Morgunblaðið",
+          "url": "https://timarit.is/page/1987789"
+        },
+        {
+          "title": "Threefold Magic, Giantfriendly",
+          "description": "Performance premiere",
+          "venue": null,
+          "url": null
+        },
+        {
+          "title": "\"Sólskríkja, mús, kengúra\" Artwork Analysis",
+          "description": "Detailed analysis of 1980 artwork using discarded materials, emphasizing process over product and \"personal poetic feeling\",Læknablaðið, 2000",
+          "venue": "Læknablaðið",
+          "url": "https://timarit.is/page/6182597"
+        },
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Lesbók Morgunblaðsins, June 24, 2000",
+          "venue": "Lesbók Morgunblaðsins",
+          "url": "https://timarit.is/page/3315626"
+        }
+      ]
+    },
+    {
+      "year": "1998",
+      "items": [
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Dagblaðið Vísir - DV - Fókus, September 4, 1998",
+          "venue": "Dagblaðið Vísir - DV - Fókus",
+          "url": "https://timarit.is/page/2973708"
+        }
+      ]
+    },
+    {
+      "year": "1997",
+      "items": [
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Alþýðublaðið, July 17, 1997",
+          "venue": "Alþýðublaðið",
+          "url": "https://timarit.is/page/3349451"
+        }
+      ]
+    },
+    {
+      "year": "1996",
+      "items": [
+        {
+          "title": "Cross",
+          "description": "Performance,Roskilde Festival, Denmark",
+          "venue": "Roskilde Festival",
+          "url": null
+        },
+        {
+          "title": "\"Undir berum himni\" Stage Design",
+          "description": "Set design for Akureyri Theater Company production of Steve Tesich play \"On the Road\", directed by Eyvindur Erlendsson,Leikhúsmál, 1996",
+          "venue": "Leikhúsmál",
+          "url": "https://timarit.is/page/7737493"
+        },
+        {
+          "title": "Folk Text Fragments in Art",
+          "description": "Discussion of Pálsson's use of folk text fragments in artworks,Alþýðublaðið, March 12, 1996",
+          "venue": "Alþýðublaðið",
+          "url": "https://timarit.is/page/3347225"
+        },
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Skírnir, September 1, 1996",
+          "venue": "Skírnir",
+          "url": "https://timarit.is/page/6539007"
+        }
+      ]
+    },
+    {
+      "year": "1995",
+      "items": [
+        {
+          "title": "Botngróður Sculpture Exhibition",
+          "description": "Listed as participating artist,Morgunblaðið, July 14, 1995",
+          "venue": "Morgunblaðið",
+          "url": "https://timarit.is/page/1833663"
+        }
+      ]
+    },
+    {
+      "year": "1994",
+      "items": [
+        {
+          "title": "Retrospective Exhibition",
+          "description": "Reykjavík Art Museum",
+          "venue": "Reykjavík Art Museum",
+          "url": null
+        },
+        {
+          "title": "Retrospective Exhibition Opening",
+          "description": "Coverage of major exhibition at Kjarvalsstöðum, described as key figure in 1970s Icelandic art associated with Fluxus and conceptual art,Alþýðublaðið, September 22, 1994",
+          "venue": "Alþýðublaðið",
+          "url": "https://timarit.is/page/3344607"
+        },
+        {
+          "title": "SÚM Group and Conceptual Art Pioneer",
+          "description": "Review of retrospective exhibition highlighting Pálsson's boundary-defying work across multiple media and his constant artistic redefinition,Dagblaðið Vísir - DV, September 26, 1994",
+          "venue": "Dagblaðið Vísir - DV",
+          "url": "https://timarit.is/page/2719348"
+        },
+        {
+          "title": "\"Varla...\" Exhibition Opening",
+          "description": "Art exhibition featuring voice sculptures with National Theater actors assistance including live performance,Dagblaðið Vísir - DV, January 11, 1994",
+          "venue": "Dagblaðið Vísir - DV",
+          "url": "https://timarit.is/page/2621808"
+        },
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Vikan, October 1, 1994",
+          "venue": "Vikan",
+          "url": "https://timarit.is/page/4539395"
+        }
+      ]
+    },
+    {
+      "year": "1991",
+      "items": [
+        {
+          "title": "Burst Eardrum, Left Side",
+          "description": "Performance premiere,Icelandic National Theater",
+          "venue": "Icelandic National Theater",
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1989",
+      "items": [
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Arkitektúr og skipulag, June 1, 1989",
+          "venue": "Arkitektúr og skipulag",
+          "url": "https://timarit.is/page/7803630"
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "items": [
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Teningur, January 1987",
+          "venue": "Teningur",
+          "url": "https://timarit.is/page/5385278"
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "items": [
+        {
+          "title": "\"Det kommer med kiste og henter mig\" Premiere",
+          "description": "Directed and wrote unconventional multilingual play performed by student theater, incorporating comic books, Hamsun, and Shakespeare,Morgunblaðið, July 18, 1986",
+          "venue": "Morgunblaðið",
+          "url": "https://timarit.is/page/1636920"
+        },
+        {
+          "title": "Hong Kong Press Founded",
+          "description": "Co-founded publishing house with Carina Hedén,Gothenburg, 1986",
+          "venue": "Gothenburg",
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1985",
+      "items": [
+        {
+          "title": "Book Art Exhibition at Nordic House",
+          "description": "Mentioned as pioneer of experimental book art in the 1970s alongside Dieter Roth,Morgunblaðið, December 8, 1985",
+          "venue": "Morgunblaðið",
+          "url": "https://timarit.is/page/1624123"
+        }
+      ]
+    },
+    {
+      "year": "1984-1985",
+      "items": [
+        {
+          "title": "State Academy Oslo Teacher",
+          "description": "Leader of experimental department,State Academy, Oslo, 1984-1985",
+          "venue": "State Academy",
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1984",
+      "items": [
+        {
+          "title": "Kennsla: geggjaðasta listgreinin (Teaching: The Craziest Art Form)",
+          "description": "Exhibition and cassette release showcasing fruits of teaching work in Netherlands,Living Art Museum & Reykjavík Arts Festival",
+          "venue": "Living Art Museum & Reykjavík Arts Festival",
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1983-1984",
+      "items": [
+        {
+          "title": "\"Mumbling Eye\" Artist's Book",
+          "description": "Created with students while lecturing,Jan van Eyck Academie, Maastricht, Netherlands, 1983-1984",
+          "venue": "Jan van Eyck Academie",
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1983",
+      "items": [
+        {
+          "title": "\"Guð gaf mér eyra\" Stage Design",
+          "description": "Created stage design for Leikfélag Reykjavíkur production of Mark Medoff's play about deaf-hearing communication, starring Berglind Stefánsdóttir,Tíminn, November 9, 1983",
+          "venue": "Tíminn",
+          "url": "https://timarit.is/page/4027909"
+        },
+        {
+          "title": "Artist Work Grant Award",
+          "description": "Received 6-month artist grant to work on art exhibition, among 42 recipients of artist stipends,Morgunblaðið, May 15, 1983",
+          "venue": "Morgunblaðið",
+          "url": "https://timarit.is/page/1574227"
+        }
+      ]
+    },
+    {
+      "year": "1982-1983",
+      "items": [
+        {
+          "title": "Docent at AKI",
+          "description": "Teaching position at Academie voor beeldende Kunst,AKI, Enschede, Holland, 1982-1983",
+          "venue": "AKI",
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1982",
+      "items": [
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Almanak Hins íslenska þjóðvinafélags, January 1, 1982",
+          "venue": "Almanak Hins íslenska þjóðvinafélags",
+          "url": "https://timarit.is/page/5491341"
+        },
+        {
+          "title": "[Timarit.is Article - Content TBD]",
+          "description": "[Details to be added after reading],Dagblaðið Vísir - DV, June 26, 1982",
+          "venue": "Dagblaðið Vísir - DV",
+          "url": "https://timarit.is/page/2463793"
+        }
+      ]
+    },
+    {
+      "year": "1980s",
+      "items": [
+        {
+          "title": "Mob Shop International Workshops",
+          "description": "Founded and directed series of performance-language-theater workshops featuring international Fluxus artists,Various international art press, 1981-1989",
+          "venue": "Various international art press",
+          "url": null
+        },
+        {
+          "title": "Experimental Art Department Coverage",
+          "description": "Press coverage of controversial teaching methods at Iceland Academy of Arts,Icelandic cultural press, 1980-1984",
+          "venue": "Icelandic cultural press",
+          "url": null
+        },
+        {
+          "title": "Bruni BB Band Activities",
+          "description": "Coverage of experimental band operating within the art department,Icelandic music press, early 1980s",
+          "venue": "Icelandic music press",
+          "url": null
+        },
+        {
+          "title": "Theater reviews and articles from major Icelandic newspapers to be added",
+          "description": "",
+          "venue": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1980-1983",
+      "items": [
+        {
+          "title": "Student Influence Documentation",
+          "description": "Steingrímur Eyfjörð, former student (1978), pursued graduate studies in new media,Jan van Eyck Academie, Maastricht, Netherlands, 1980-1983",
+          "venue": "Jan van Eyck Academie",
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1980",
+      "items": [
+        {
+          "title": "Venice Biennale Residency Grant",
+          "description": "Received 500,000 króna residency grant from Education Council for Italy stay and Venice Biennale participation,Morgunblaðið, May 21, 1980",
+          "venue": "Morgunblaðið",
+          "url": "https://timarit.is/page/1526957"
+        },
+        {
+          "title": "Venice Biennale Representation",
+          "description": "Iceland's representative, showed sculptural cast of helicopter space,37th Venice Biennale",
+          "venue": "37th Venice Biennale",
+          "url": null
+        },
+        {
+          "title": "International Press Coverage",
+          "description": "Venice Biennale participation with helicopter space sculpture received international attention,Various European art publications",
+          "venue": "Various European art publications",
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1979",
+      "items": [
+        {
+          "title": "\"Summer Music\" Album Release",
+          "description": "Double album collaboration with Dieter Roth, limited edition of 300 copies,Roth Verlag, 1979",
+          "venue": "Roth Verlag",
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1978",
+      "items": [
+        {
+          "title": "Founding of The Living Art Museum (Nýlistasafnið)",
+          "description": "Co-founder among 26 artists,Various press coverage, January 5, 1978",
+          "venue": "Various press coverage",
+          "url": null
+        },
+        {
+          "title": "Gríma Theater Group Interview",
+          "description": "Interview discussing founding of Gríma experimental theater group due to dissatisfaction with commercial theater play selection,Svart á hvítu, January 1, 1978",
+          "venue": "Svart á hvítu",
+          "url": "https://timarit.is/page/5386639"
+        }
+      ]
+    },
+    {
+      "year": "1977",
+      "items": [
+        {
+          "title": "documenta 6",
+          "description": "Participant in major international exhibition,Kassel, Germany",
+          "venue": "Kassel",
+          "url": null
+        },
+        {
+          "title": "Cast of Negative Spaces",
+          "description": "Exhibition featuring revolutionary sculptures capturing invisible spaces between objects,International art press",
+          "venue": "International art press",
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1976",
+      "items": [
+        {
+          "title": "Vallanes Model Creation",
+          "description": "Created detailed model of Vallanes village from father's descriptions, one of three identical models (others in Canada and East Iceland Museum),Various press coverage",
+          "venue": "Various press coverage",
+          "url": null
+        },
+        {
+          "title": "Helicopter Space Sculpture Creation",
+          "description": "Documentation of creating cast of space between Sikorsky helicopter wheels and landing field,Icelandic art documentation",
+          "venue": "Icelandic art documentation",
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1975-1981",
+      "items": [
+        {
+          "title": "New Art Department Leadership",
+          "description": "Led experimental arts pedagogy program with guest lecturers Robert Filliou, Dieter Roth, and Hermann Nitsch,Icelandic College of Arts and Crafts, 1975-1981",
+          "venue": "Icelandic College of Arts and Crafts",
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1973",
+      "items": [
+        {
+          "title": "\"Don Juan\" Stage Design Review",
+          "description": "Mixed review of Pálsson's stage design for Leikfélag Akureyrar production of Molière's Don Juan, directed by Magnús Jónsson,Vísir, November 15, 1973",
+          "venue": "Vísir",
+          "url": "https://timarit.is/page/3251613"
+        },
+        {
+          "title": "\"Don Juan\" Production Announcement",
+          "description": "Advertisement for Leikfélag Akureyrar production with Pálsson's stage design, directed by Magnús Jónsson,Dagur, November 7, 1973",
+          "venue": "Dagur",
+          "url": "https://timarit.is/page/2661769"
+        }
+      ]
+    },
+    {
+      "year": "1971",
+      "items": [
+        {
+          "title": "Plaster Sculptures of Children (Gipsmyndir)",
+          "description": "Coverage of innovative plaster sculptures of children, demonstrating his exploration of casting techniques and human forms,Þjóðviljinn, 1971",
+          "venue": "Þjóðviljinn",
+          "url": null
+        },
+        {
+          "title": "SÚM Gallery Exhibition with Arnar Herbertssson",
+          "description": "Two sculptures titled \"two interactive series of dogs\" made from plaster and plant material, co-exhibiting with Arnar Herbertssson,Þjóðviljinn, November 13, 1971",
+          "venue": "Þjóðviljinn",
+          "url": "https://timarit.is/page/2829543"
+        },
+        {
+          "title": "\"Konkret Ljóðlist\" (Concrete Poetry)",
+          "description": "Article by Magnús Pálsson on concrete art and poetry, exploring works as self-contained realities,Eintak, May 1, 1971",
+          "venue": "Eintak",
+          "url": "https://timarit.is/page/4390727"
+        }
+      ]
+    },
+    {
+      "year": "1970s",
+      "items": [
+        {
+          "title": "International Fluxus Collaborations",
+          "description": "Cross-cultural collaborations with Nam June Paik, Charlotte Moorman, and other international Fluxus artists in Reykjavík,International art press",
+          "venue": "International art press",
+          "url": null
+        },
+        {
+          "title": "Experimental Art Department Foundation",
+          "description": "Establishment of Nýlistadeild at Iceland Academy of Arts with Hildur Hákonardóttir,Icelandic educational press, 1975",
+          "venue": "Icelandic educational press",
+          "url": null
+        },
+        {
+          "title": "Reviews of early visual art exhibitions and experimental art department coverage to be added",
+          "description": "",
+          "venue": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1969",
+      "items": [
+        {
+          "title": "\"Jói í Brauðhúsum\" TV Stage Design",
+          "description": "Created stage design for television adaptation of Halldór Laxness short story, directed by Baldvin Halldórsson,Tíminn, November 22, 1969",
+          "venue": "Tíminn",
+          "url": "https://timarit.is/page/3515226"
+        },
+        {
+          "title": "\"Journey\" Wallpaper Exhibition",
+          "description": "Revolutionary wallpaper artwork that \"shook the Icelandic art world\" with long strips created from ink drawings,Gallerí SÚM, Reykjavík, 1969",
+          "venue": "Gallerí SÚM",
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1968",
+      "items": [
+        {
+          "title": "Outdoor Exhibition 1968 - \"Kjóll\" Sculpture",
+          "description": "Coverage of \"Útisýningin 1968\" at Skólavörðuholt featuring Pálsson's sculpture \"Kjóll\" made of fabric, plaster and paint,Vísir, September 10, 1968",
+          "venue": "Vísir",
+          "url": "https://timarit.is/page/2398117"
+        },
+        {
+          "title": "Memorial/Remembrance Article",
+          "description": "By Páll Kr. Pálsson,Organistablaðið, May 1, 1968",
+          "venue": "Organistablaðið",
+          "url": "https://timarit.is/page/5284823"
+        }
+      ]
+    },
+    {
+      "year": "1967",
+      "items": [
+        {
+          "title": "Reykjavík Theater Company 70th Anniversary Exhibition",
+          "description": "Helped prepare historical exhibition including stage design models, costumes, and theater artifacts at Unuhúsið,Vísir, January 16, 1967",
+          "venue": "Vísir",
+          "url": "https://timarit.is/page/2390133"
+        }
+      ]
+    },
+    {
+      "year": "1966",
+      "items": [
+        {
+          "title": "Children's Theater Workshop",
+          "description": "As Leikfélag Reykjavíkur stage designer, supervised 15 Art School children creating innovative set designs and costumes for new children's play by Þóri S. Guðbergsson,Vísir, December 16, 1966",
+          "venue": "Vísir",
+          "url": "https://timarit.is/page/2389315"
+        }
+      ]
+    },
+    {
+      "year": "1960s",
+      "items": [
+        {
+          "title": "SÚM Group Formation",
+          "description": "Co-founded influential artist collective with Jón Gunnar Árnason, Hreinn Friðfinnsson, and others inspired by Fluxus and Arte Povera movements,Various Icelandic publications, mid-1960s",
+          "venue": "Various Icelandic publications",
+          "url": null
+        },
+        {
+          "title": "Gríma Theater Group Founding",
+          "description": "Co-founded experimental theater group introducing avant-garde European and American works to Iceland,Icelandic theater press, early 1960s",
+          "venue": "Icelandic theater press",
+          "url": null
+        },
+        {
+          "title": "Kúlan Furniture House",
+          "description": "Co-founded innovative design shop with Dieter Roth, Manfred Vilhjalmsson, and Jón Gunnar Árnason,Reykjavík design press, 1961",
+          "venue": "Reykjavík design press",
+          "url": null
+        },
+        {
+          "title": "Reviews of first solo exhibition (1968) and early conceptual art work to be added",
+          "description": "",
+          "venue": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1959",
+      "items": [
+        {
+          "title": "\"Músagildran\" (The Mousetrap) Production",
+          "description": "Created stage design and performed as actor for Leikfélag Kópavogs production, translated by Halldór Stefánsson and directed by Klemenz Jónsson",
+          "venue": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1950s",
+      "items": [
+        {
+          "title": "Early theater reviews and stage design coverage to be added",
+          "description": "",
+          "venue": null,
+          "url": null
+        }
+      ]
+    },
+    {
+      "year": "1948",
+      "items": [
+        {
+          "title": "Boy Scout Instructor",
+          "description": "Served as instructor at boys' scout school at Úlfljótsvatn for 39 boys aged 11-16, showing early involvement in youth education,Skátalíf, 1948",
+          "venue": "Skátalíf",
+          "url": "https://timarit.is/page/5603701"
+        }
+      ]
+    }
+  ]
+}

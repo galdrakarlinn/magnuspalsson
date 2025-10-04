@@ -1,0 +1,338 @@
+{
+  "ui": {
+    "publicationsTitle": "Publications",
+    "underConstruction": "This page is under construction"
+  },
+  "publications": [
+    {
+      "year": "2008",
+      "items": [
+        {
+          "title": "Rainbow Clippings",
+          "description": "CD of sound poetry with Rod Summers & Tom Winter",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "year": "2006",
+      "items": [
+        {
+          "title": "Orðið tónlist : fjölljóðahátíð (The Word Music : Polypoetry Festival)",
+          "description": "compilation CD featuring \"Augustus, My God, I Have It\",Smekkleysa, Reykjavík",
+          "venue": "Smekkleysa"
+        }
+      ]
+    },
+    {
+      "year": "2005",
+      "items": [
+        {
+          "title": "The Skinned Rabbit and Other Dreams",
+          "description": "book & CD,Boekie Woekie, Amsterdam",
+          "venue": "Boekie Woekie"
+        }
+      ]
+    },
+    {
+      "year": "2002",
+      "items": [
+        {
+          "title": "Bílatal (Cartalk)",
+          "description": "spoken piece for mixed choir of 18 voices",
+          "venue": null
+        },
+        {
+          "title": "YXN",
+          "description": "sound poem with video",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "year": "2000",
+      "items": [
+        {
+          "title": "Nótt í London",
+          "description": "poem",
+          "venue": null
+        },
+        {
+          "title": "Mob Shop 1981 – The Audio Events",
+          "description": "CD with recordings from Mob Shop",
+          "venue": null
+        },
+        {
+          "title": "Að juða sér rangsælis",
+          "description": "2 videocassettes,Iðnó, Reykjavík",
+          "venue": "Iðnó"
+        }
+      ]
+    },
+    {
+      "year": "1999",
+      "items": [
+        {
+          "title": "Kúplingsdiskur (Clutch Disc)",
+          "description": "videocassette",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "year": "1998",
+      "items": [
+        {
+          "title": "Eye Talk II",
+          "description": "videocassette",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "year": "1997",
+      "items": [
+        {
+          "title": "Ævintýr (Folk Tale)",
+          "description": "audiocassette",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "year": "1996",
+      "items": [
+        {
+          "title": "Varla.....",
+          "description": "audiocassette",
+          "venue": null
+        },
+        {
+          "title": "Freyskatla",
+          "description": "book & choir score with cassette,Boekie Woekie, Amsterdam",
+          "venue": "Boekie Woekie"
+        }
+      ]
+    },
+    {
+      "year": "1995",
+      "items": [
+        {
+          "title": "Eye Talk",
+          "description": "videocassette",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "year": "1994",
+      "items": [
+        {
+          "title": "The Offs",
+          "description": "play,Reykjavík City Museum",
+          "venue": "Reykjavík City Museum"
+        },
+        {
+          "title": "The Stew and the Brazilian Aunt",
+          "description": "play (unperformed)",
+          "venue": null
+        },
+        {
+          "title": "Almost Never…",
+          "description": "3 voice sculptures, audiocassette",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "year": "1993",
+      "items": [
+        {
+          "title": "No One Swallows the Sun",
+          "description": "2 voice sculptures, cassette,Gallery 11, Reykjavík",
+          "venue": "Gallery 11"
+        },
+        {
+          "title": "Talk",
+          "description": "videocassette",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "year": "1992",
+      "items": [
+        {
+          "title": "Mapanipfepestopa",
+          "description": "manifesto in P-language?",
+          "venue": null
+        },
+        {
+          "title": "Freyskatla",
+          "description": "voice sculpture for choir & solo voices, RÚV, cassette published byGallery 11",
+          "venue": "Gallery 11"
+        }
+      ]
+    },
+    {
+      "year": "1991",
+      "items": [
+        {
+          "title": "Burst Eardrum, Left Side",
+          "description": "stage production,The National Theatre, Reykjavík",
+          "venue": "The National Theatre"
+        }
+      ]
+    },
+    {
+      "year": "1987",
+      "items": [
+        {
+          "title": "They're Bringing the Coffin to Get Me",
+          "description": "book work,Hong Kong Press, Gothenburg",
+          "venue": "Hong Kong Press"
+        },
+        {
+          "title": "Madame President",
+          "description": "voice sculpture, videocassette,Hong Kong Press, Gothenburg",
+          "venue": "Hong Kong Press"
+        },
+        {
+          "title": "The Contours of a Baby",
+          "description": "voice sculpture, audiocassette,Hong Kong Press, Gothenburg",
+          "venue": "Hong Kong Press"
+        }
+      ]
+    },
+    {
+      "year": "1986",
+      "items": [
+        {
+          "title": "They're Bringing the Coffin to Get Me",
+          "description": "stage production,The Students' Theatre, Reykjavík",
+          "venue": "The Students' Theatre"
+        },
+        {
+          "title": "Teaching: The Craziest Branch of Art",
+          "description": "cassette,NÝLO, Reykjavík",
+          "venue": "NÝLO"
+        },
+        {
+          "title": "Teaching and Teaching as an Art Form",
+          "description": "lecture & booklet,Henie-Onstad Kunstsenter",
+          "venue": "Henie-Onstad Kunstsenter"
+        },
+        {
+          "title": "Mob Shop Dummy",
+          "description": "book with Ingólfur Arnarsson,Hong Kong Press",
+          "venue": "Hong Kong Press"
+        }
+      ]
+    },
+    {
+      "year": "1984",
+      "items": [
+        {
+          "title": "Múrari",
+          "description": "7 sculptures & video of Jørgen Bruun Hansen, Oslo",
+          "venue": null
+        },
+        {
+          "title": "Augustus, My God, I Have It",
+          "description": "play, book & cassette,Jan van Eyck Academie, Maastricht",
+          "venue": "Jan van Eyck Academie"
+        },
+        {
+          "title": "Pegasus & Co",
+          "description": "collective sound work with students, Enschede",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "year": "1983",
+      "items": [
+        {
+          "title": "The Offs",
+          "description": "play, published inHet Vlot I,AKI, Enschede",
+          "venue": "AKI"
+        },
+        {
+          "title": "Mumbling Eye",
+          "description": "student book work",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "year": "1982",
+      "items": [
+        {
+          "title": "Fog Signals",
+          "description": "collective audio work with students, Enschede & Amsterdam",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "year": "1979 & 1981",
+      "items": [
+        {
+          "title": "Eddic Games for Everyone",
+          "description": "Sondern 4 & 5,Seedorn Verlag, Zürich",
+          "venue": "Seedorn Verlag"
+        }
+      ]
+    },
+    {
+      "year": "1973",
+      "items": [
+        {
+          "title": "Dogbook",
+          "description": "Edition Hansjörg Mayer, Stuttgart",
+          "venue": "Edition Hansjörg Mayer"
+        }
+      ]
+    },
+    {
+      "year": "1970 → ongoing",
+      "items": [
+        {
+          "title": "Automobile",
+          "description": "book project (10 books made from car parts)",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "year": "1966",
+      "items": [
+        {
+          "title": "Pappírsást I (Paperlove)",
+          "description": "4 handmade books",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "year": "1959–91",
+      "items": [
+        {
+          "title": "Stage designer at various theatres in Iceland",
+          "description": "",
+          "venue": null
+        }
+      ]
+    },
+    {
+      "year": "1951–59",
+      "items": [
+        {
+          "title": "Designer of sets & costumes atThe National TheatreandThe Municipal Players, Reykjavík",
+          "description": "",
+          "venue": "The National Theatre"
+        }
+      ]
+    }
+  ]
+}

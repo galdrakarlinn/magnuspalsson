@@ -1,0 +1,51 @@
+{
+  "ui": {
+    "awardsTitle": "Awards",
+    "underConstruction": "This page is under construction"
+  },
+  "awards": [
+    {
+      "year": "2013",
+      "items": [
+        "Main exhibitor in Lístahátið Reykjavíkur"
+      ]
+    },
+    {
+      "year": "2011",
+      "items": [
+        "Borgarlistamaður – Reykjavík Artist of the Year"
+      ]
+    },
+    {
+      "year": "2009",
+      "items": [
+        "Honorary artist of The Sequences Art Festival"
+      ]
+    },
+    {
+      "year": "2006",
+      "items": [
+        "The Icelandic medal for an outstanding life contribution to Art",
+        "Icelandic Government’s life salary for outstanding contribution to Art"
+      ]
+    },
+    {
+      "year": "2005",
+      "items": [
+        "Honorary Salary for Art from the Icelandic state"
+      ]
+    },
+    {
+      "year": "2003",
+      "items": [
+        "The Cultural Prize of the DV Newspaper, Reykjavík"
+      ]
+    },
+    {
+      "year": "1998",
+      "items": [
+        "The Order of Prince Eugen by the King of Sweden for Achievements in Art"
+      ]
+    }
+  ]
+}

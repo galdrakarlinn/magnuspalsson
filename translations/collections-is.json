@@ -1,0 +1,494 @@
+{
+  "ui": {
+    "collectionsTitle": "Söfn og opinber verk",
+    "holdings": "Í eigu:"
+  },
+  "introduction": {
+    "paragraphs": [
+      "",
+      ""
+    ],
+    "holdings": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "institutions": [
+    {
+      "name": "Listasafn Íslands (National Gallery of Iceland)",
+      "url": "https://www.listasafn.is/list/safneign/?page=list&subpage=safneign&flokkur=artwork&leit=Magn%C3%BAs+p%C3%A1lsson",
+      "works": [
+        {
+          "title": "Bók um bók og fleira",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=2222835",
+          "note": ""
+        },
+        {
+          "title": "Talk Preceeding Eye Talk",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=2202983"
+        },
+        {
+          "title": "Eye Talk II",
+          "type": "",
+          "url": "https://sarpur.is/Leit.aspx?search=Eye+Talk+II"
+        },
+        {
+          "title": "Augntal",
+          "type": "",
+          "url": "https://www.listasafn.is/list/safneign/li-7392/",
+          "note": ""
+        },
+        {
+          "title": "Kúplingsdiskur",
+          "type": "",
+          "url": "https://sarpur.is/Leit.aspx?search=Kúplingsdiskur"
+        },
+        {
+          "title": "Flæðarmál",
+          "type": "",
+          "url": "https://sarpur.is/Leit.aspx?search=Flæðarmál"
+        },
+        {
+          "title": "Dogbook",
+          "type": "",
+          "url": "https://www.listasafn.is/list/safneign/li-8777/",
+          "note": ""
+        },
+        {
+          "title": "TJÖPÖRNIPINNIPI",
+          "type": "",
+          "url": "https://sarpur.is/Leit.aspx?search=TJÖPÖRNIPINNIPI"
+        },
+        {
+          "title": "Pappírsást I",
+          "type": "",
+          "url": "https://sarpur.is/Leit.aspx?search=Pappírsást"
+        },
+        {
+          "title": "Enginn gleypir sólina",
+          "type": "",
+          "url": "https://www.listasafn.is/list/safneign/li-7321/",
+          "note": ""
+        },
+        {
+          "title": "Dulargervi",
+          "type": "",
+          "url": "https://www.listasafn.is/list/safneign/li-12155/",
+          "note": ""
+        },
+        {
+          "title": "Kjóll",
+          "type": "",
+          "url": "https://sarpur.is/Leit.aspx?search=Kjóll",
+          "note": ""
+        },
+        {
+          "title": "Erðanú borð!",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1626939"
+        },
+        {
+          "title": "Hundljóð / Hundar í 16 h...",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1626911",
+          "note": ""
+        },
+        {
+          "title": "Hanskfjall",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1626937"
+        },
+        {
+          "title": "Ljóshirsla",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1626931"
+        },
+        {
+          "title": "Gifsbörn",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1626923"
+        },
+        {
+          "title": "bók um bók og fleira",
+          "type": "",
+          "url": "https://www.listasafn.is/list/safneign/li-8697/",
+          "note": ""
+        },
+        {
+          "title": "MOB SHOP DUMMY",
+          "type": "",
+          "url": "https://www.listasafn.is/list/safneign/li-8778/",
+          "note": ""
+        },
+        {
+          "title": "TREFFEN IM GEBIRGE (contribution)",
+          "type": "",
+          "url": "https://www.listasafn.is/list/safneign/li-8806/",
+          "note": ""
+        },
+        {
+          "title": "Viðtöl um dauðann",
+          "type": "",
+          "url": "https://www.listasafn.is/list/safneign/li-8249/",
+          "note": ""
+        },
+        {
+          "title": "KÁL I",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=2376756",
+          "note": ""
+        },
+        {
+          "title": "KÁL II",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=2376764",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Safnasafnið - Alþýðulist (The Museum Museum - Folk Art)",
+      "url": "",
+      "works": [
+        {
+          "title": "Dogbook",
+          "type": "",
+          "url": "https://sarpur.is/Leit.aspx?search=Dogbook"
+        },
+        {
+          "title": "Rainbow Clippings",
+          "type": "",
+          "url": "https://sarpur.is/Leit.aspx?search=Rainbow+Clippings"
+        }
+      ]
+    },
+    {
+      "name": "Þjóðminjasafn Íslands (National Museum of Iceland)",
+      "url": "",
+      "works": [
+        {
+          "title": "Líkan af Vallanesi (Model of Vallanes)",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=2595580",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
+      "url": "https://listasafnreykjavikur.is/safneign?q=Magn%C3%BAs+P%C3%A1lsson",
+      "works": [
+        {
+          "title": "Augntal (Eye Count)",
+          "type": "",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Augntal"
+        },
+        {
+          "title": "Einsemd (Solitude)",
+          "type": "",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Einsemd",
+          "note": ""
+        },
+        {
+          "title": "Eye Talk",
+          "type": "",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Eye+Talk"
+        },
+        {
+          "title": "Eye Talk II",
+          "type": "",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Eye+Talk+II"
+        },
+        {
+          "title": "Ferð (Journey)",
+          "type": "",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Ferð",
+          "note": ""
+        },
+        {
+          "title": "Í minningu Njálsbrennu (In Memory of Njál's Burning)",
+          "type": "",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Í+minningu+Njálsbrennu",
+          "note": ""
+        },
+        {
+          "title": "Kúplingsdiskur (Coupling Disc)",
+          "type": "",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Kúplingsdiskur"
+        },
+        {
+          "title": "Minning Þórarins Nefjólfssonar (Memorial to Þórarinn Nefjólfsson)",
+          "type": "",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Minning+Þórarins+Nefjólfssonar"
+        },
+        {
+          "title": "Óður til bílsins (Ode to the Car)",
+          "type": "",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Óður+til+bílsins"
+        },
+        {
+          "title": "Sekúndurnar þar til Sikorskyþyrlan snertir (Seconds Before the Sikorsky Helicopter Touches)",
+          "type": "",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Sekúndurnar",
+          "note": ""
+        },
+        {
+          "title": "Sólskríkja, mús, kengúra (Wagtail, Mouse, Kangaroo)",
+          "type": "",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Sólskríkja",
+          "note": ""
+        },
+        {
+          "title": "Stærðfræði (Mathematics)",
+          "type": "",
+          "url": "https://listasafnreykjavikur.is/safneign?q=Stærðfræði",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Mosfellsbær Municipal Collection",
+      "url": "https://mos.is/mannlif/menning/listaverk/#skraning-a-listaverkum-0",
+      "works": [
+        {
+          "title": "Silfur Egils",
+          "type": "",
+          "url": "",
+          "note": ""
+        },
+        {
+          "title": "Askur Yggdrasils",
+          "type": "",
+          "url": "",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Listasafn ASÍ (ASÍ Art Collection)",
+      "url": "",
+      "works": [
+        {
+          "title": "Á dansgólfinu",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=505485"
+        }
+      ]
+    },
+    {
+      "name": "The Living Art Museum (Nýlistasafnið)",
+      "url": "https://sarpur.is/Leit.aspx?search=%22Magn%C3%BAs%20P%C3%A1lsson%22&filter=895&museumID=0&typeID=0&page=1&skraID=-1&pageSize=16",
+      "works": [
+        {
+          "title": "Bestu stykkin (Frúöld series)",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1396243",
+          "note": ""
+        },
+        {
+          "title": "THINGUMMY",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1419334"
+        },
+        {
+          "title": "Bók um bók og fleira",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1416878"
+        },
+        {
+          "title": "The Skinned Rabbit and O...",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1416877"
+        },
+        {
+          "title": "The Offs (a play in two...)",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1416876"
+        },
+        {
+          "title": "Ferð - veggfóður",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1413134",
+          "note": ""
+        },
+        {
+          "title": "Vænting",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1412866"
+        },
+        {
+          "title": "Mob Shop Dummy",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1412112"
+        },
+        {
+          "title": "ECHO",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1411585"
+        },
+        {
+          "title": "Dogbook",
+          "type": "",
+          "url": "https://sarpur.is/Leit.aspx?search=Dogbook"
+        },
+        {
+          "title": "Í minningu vinar míns se...",
+          "type": "",
+          "url": "https://sarpur.is/Leit.aspx?search=Í+minningu+vinar"
+        },
+        {
+          "title": "Berdreyminn",
+          "type": "",
+          "url": "https://sarpur.is/Leit.aspx?search=Berdreyminn"
+        },
+        {
+          "title": "Það sem Nefretíti hvísla...",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1815446"
+        },
+        {
+          "title": "Bjartsýnisbrú",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1815442"
+        },
+        {
+          "title": "Spilaborg",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1815440"
+        },
+        {
+          "title": "Hundur",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1815434"
+        },
+        {
+          "title": "Þumalfingur",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1815430"
+        },
+        {
+          "title": "Næmur",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1396261",
+          "note": ""
+        },
+        {
+          "title": "'Ferð' - veggfóður, frumgerð",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=599420",
+          "note": ""
+        },
+        {
+          "title": "Nótt í London - svo sem",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=599418"
+        },
+        {
+          "title": "Magnús Pálsson sýnir í R...",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=618643"
+        },
+        {
+          "title": "Sounds of Norway",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=594457"
+        },
+        {
+          "title": "Hundaljóð",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=588380"
+        },
+        {
+          "title": "Steinþoka",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=588363"
+        },
+        {
+          "title": "Fairy space",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1452659"
+        },
+        {
+          "title": "Freyskatla - raddskúlptúr",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1452456"
+        },
+        {
+          "title": "Augustus! My God, I have...",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=1418742",
+          "note": ""
+        },
+        {
+          "title": "Án titils (Untitled)",
+          "type": "",
+          "url": "https://sarpur.is/Adfang.aspx?AdfangID=588330"
+        }
+      ]
+    },
+    {
+      "name": "Háskóli Íslands (University of Iceland)",
+      "url": "",
+      "works": [
+        {
+          "title": "Hvískur",
+          "type": "",
+          "url": "",
+          "note": ""
+        },
+        {
+          "title": "Mótun lands (The Formation of Land)",
+          "type": "",
+          "url": "",
+          "note": ""
+        },
+        {
+          "title": "Þiljur (Claddings)",
+          "type": "",
+          "url": "",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Snælandsskóli, Kópavogur",
+      "url": "",
+      "works": [
+        {
+          "title": "Litill, Tritill, Karlsson og fuglarnir",
+          "type": "",
+          "url": "",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Skagaströnd Municipality",
+      "url": "",
+      "works": [
+        {
+          "title": "Sólur (Sun Dial)",
+          "type": "",
+          "url": "",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Búnaðarbanki (Historical)",
+      "url": "",
+      "works": [
+        {
+          "title": "Jónsmessa",
+          "type": "",
+          "url": "",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}
