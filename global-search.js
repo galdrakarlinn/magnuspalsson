@@ -190,21 +190,32 @@ class GlobalSearch {
   }
 
   setupFilterEventListeners() {
+    // Handle search result clicks with event delegation
+    document.addEventListener('click', (e) => {
+      const searchResult = e.target.closest('.search-result');
+      if (searchResult && searchResult.dataset.url) {
+        e.preventDefault();
+        e.stopPropagation();
+        window.location.href = searchResult.dataset.url;
+        return;
+      }
+    });
+
     // Filter buttons
     document.addEventListener('click', (e) => {
       if (e.target.classList.contains('filter-btn')) {
         const filterType = e.target.dataset.filter;
         const filterValue = e.target.dataset.value;
-        
+
         // Update active state
         document.querySelectorAll(`[data-filter="${filterType}"]`).forEach(btn => {
           btn.classList.remove('active');
         });
         e.target.classList.add('active');
-        
+
         // Update filter state
         this.currentFilters[filterType] = filterValue;
-        
+
         // Re-run search if there's a query
         const query = this.getCurrentQuery();
         if (query.length >= 2) {
@@ -416,7 +427,7 @@ class GlobalSearch {
           <button class="search-close-btn" onclick="window.globalSearchInstance.hideResults(); window.globalSearchInstance.hideFilters(); event.stopPropagation();">×</button>
         </div>
         ${results.map(result => `
-          <div class="search-result" onclick="event.stopPropagation(); window.location.href='${result.url}';">
+          <div class="search-result" data-url="${result.url}" style="cursor: pointer;">
             <div class="search-result-header">
               <div class="search-result-badge search-badge-${result.type}">${this.getTypeBadge(result.type)}</div>
               ${result.year ? `<div class="search-result-year">${result.year}</div>` : ''}
