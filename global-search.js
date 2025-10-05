@@ -437,7 +437,7 @@ class GlobalSearch {
           <button class="search-close-btn" onclick="window.globalSearchInstance.clearSearch(); event.stopPropagation();">×</button>
         </div>
         ${results.map(result => `
-          <a href="${result.url}" class="search-result" style="text-decoration: none; color: inherit; display: block; pointer-events: auto;">
+          <a href="${result.url}" class="search-result" style="text-decoration: none; color: inherit; display: block; pointer-events: auto; position: relative; z-index: 5000;">
             <div class="search-result-header" style="pointer-events: none;">
               <div class="search-result-badge search-badge-${result.type}">${this.getTypeBadge(result.type)}</div>
               ${result.year ? `<div class="search-result-year">${result.year}</div>` : ''}
