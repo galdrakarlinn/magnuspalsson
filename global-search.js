@@ -66,10 +66,12 @@ class GlobalSearch {
     this.setupSearchInput(this.searchInputMobile, this.searchResultsMobile);
     this.setupSearchInput(this.searchInputDesktop, this.searchResultsDesktop);
 
-    // Hide results when clicking on main content (but keep open for navigation)
+    // Handle search result navigation
     document.addEventListener('click', (e) => {
-      // Don't interfere with search result links (let them work naturally)
-      if (e.target.closest('.search-result')) {
+      // Handle search result link clicks
+      const searchResultLink = e.target.closest('a.search-result');
+      if (searchResultLink) {
+        // Let the link work naturally - don't prevent default
         return;
       }
 
