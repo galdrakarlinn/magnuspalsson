@@ -66,12 +66,23 @@ class GlobalSearch {
     this.setupSearchInput(this.searchInputMobile, this.searchResultsMobile);
     this.setupSearchInput(this.searchInputDesktop, this.searchResultsDesktop);
 
+    // Handle search result navigation - use mousedown to catch it earlier
+    document.addEventListener('mousedown', (e) => {
+      const searchResultLink = e.target.closest('a.search-result');
+      if (searchResultLink) {
+        console.log('Search result mousedown:', searchResultLink.href);
+        // Prevent any other handlers from interfering
+        e.stopPropagation();
+        e.stopImmediatePropagation();
+      }
+    }, true);
+
     // Handle search result navigation
     document.addEventListener('click', (e) => {
       // Handle search result link clicks
       const searchResultLink = e.target.closest('a.search-result');
       if (searchResultLink) {
-        console.log('Search result link clicked:', searchResultLink.href);
+        console.log('Search result clicked:', searchResultLink.href);
         // Let the link work naturally - don't prevent default
         return;
       }
