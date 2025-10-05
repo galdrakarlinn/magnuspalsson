@@ -415,6 +415,13 @@ class GlobalSearch {
   }
 
   displayResults(results, query) {
+    // Prevent re-rendering if already showing the same results
+    if (this.lastDisplayedQuery === query && this.lastDisplayedResults === results.length) {
+      return;
+    }
+    this.lastDisplayedQuery = query;
+    this.lastDisplayedResults = results.length;
+
     if (results.length === 0) {
       this.hideFilters(); // Hide filters when no results
       this.searchResults.innerHTML = `
