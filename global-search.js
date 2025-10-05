@@ -68,9 +68,14 @@ class GlobalSearch {
 
     // Hide results when clicking on main content (but keep open for navigation)
     document.addEventListener('click', (e) => {
+      // Don't hide if clicking on search results
+      if (e.target.closest('.search-result') || e.target.closest('#search-results-mobile') || e.target.closest('#search-results-desktop')) {
+        return;
+      }
+
       // Only hide if clicking on main content area, not navigation or search
-      if (!e.target.closest('.nav-search') && 
-          !e.target.closest('.navbar') && 
+      if (!e.target.closest('.nav-search') &&
+          !e.target.closest('.navbar') &&
           e.target.closest('main')) {
         this.hideResults();
         this.hideFilters();
@@ -411,7 +416,7 @@ class GlobalSearch {
           <button class="search-close-btn" onclick="window.globalSearchInstance.hideResults(); window.globalSearchInstance.hideFilters(); event.stopPropagation();">×</button>
         </div>
         ${results.map(result => `
-          <div class="search-result" onclick="window.location.href='${result.url}'; return false;">
+          <div class="search-result" onclick="event.stopPropagation(); window.location.href='${result.url}';">
             <div class="search-result-header">
               <div class="search-result-badge search-badge-${result.type}">${this.getTypeBadge(result.type)}</div>
               ${result.year ? `<div class="search-result-year">${result.year}</div>` : ''}
