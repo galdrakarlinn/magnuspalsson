@@ -191,15 +191,17 @@ class GlobalSearch {
 
   setupFilterEventListeners() {
     // Handle search result clicks with event delegation
-    document.addEventListener('click', (e) => {
+    const self = this; // Edge compatibility
+    document.addEventListener('click', function(e) {
       const searchResult = e.target.closest('.search-result');
       if (searchResult && searchResult.dataset.url) {
         e.preventDefault();
         e.stopPropagation();
+        e.stopImmediatePropagation(); // Prevent other handlers
         window.location.href = searchResult.dataset.url;
-        return;
+        return false;
       }
-    });
+    }, true); // Use capture phase
 
     // Filter buttons
     document.addEventListener('click', (e) => {
