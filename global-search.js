@@ -423,14 +423,14 @@ class GlobalSearch {
           <button class="search-close-btn" onclick="window.globalSearchInstance.clearSearch(); event.stopPropagation();">×</button>
         </div>
         ${results.map(result => `
-          <a href="${result.url}" class="search-result" style="text-decoration: none; color: inherit; display: block;">
-            <div class="search-result-header">
+          <a href="${result.url}" class="search-result" style="text-decoration: none; color: inherit; display: block; pointer-events: auto;">
+            <div class="search-result-header" style="pointer-events: none;">
               <div class="search-result-badge search-badge-${result.type}">${this.getTypeBadge(result.type)}</div>
               ${result.year ? `<div class="search-result-year">${result.year}</div>` : ''}
             </div>
-            <div class="search-result-title">${this.highlightQueryAdvanced(result.title, query)}</div>
-            <div class="search-result-snippet">${this.highlightQueryAdvanced(result.snippet, query)}</div>
-            <div class="search-result-meta">
+            <div class="search-result-title" style="pointer-events: none;">${this.highlightQueryAdvanced(result.title, query)}</div>
+            <div class="search-result-snippet" style="pointer-events: none;">${this.highlightQueryAdvanced(result.snippet, query)}</div>
+            <div class="search-result-meta" style="pointer-events: none;">
               <span class="search-result-page">${this.getPageLabel(result.type, result.page)}</span>
               ${result.score ? `<span class="search-result-relevance">Relevance: ${Math.round(result.score/10)}/100</span>` : ''}
             </div>
