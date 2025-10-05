@@ -424,7 +424,7 @@ class GlobalSearch {
       this.searchResults.innerHTML = `
         <div class="search-results-header">
           <span>${results.length} result${results.length === 1 ? '' : 's'} for "${query}"${activeFilters ? ` (${activeFilters})` : ''}</span>
-          <button class="search-close-btn" onclick="window.globalSearchInstance.hideResults(); window.globalSearchInstance.hideFilters(); event.stopPropagation();">×</button>
+          <button class="search-close-btn" onclick="window.globalSearchInstance.clearSearch(); event.stopPropagation();">×</button>
         </div>
         ${results.map(result => `
           <div class="search-result" data-url="${result.url}" style="cursor: pointer;">
@@ -532,6 +532,20 @@ class GlobalSearch {
     if (this.searchFilters) {
       this.searchFilters.style.display = 'none';
     }
+  }
+
+  clearSearch() {
+    // Clear both search inputs
+    if (this.searchInputMobile) this.searchInputMobile.value = '';
+    if (this.searchInputDesktop) this.searchInputDesktop.value = '';
+
+    // Clear results
+    this.currentResults = [];
+    this.hideResults();
+    this.hideFilters();
+
+    // Clear session storage
+    sessionStorage.removeItem('globalSearchState');
   }
 
   passesFilters(item) {
