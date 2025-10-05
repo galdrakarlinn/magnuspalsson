@@ -68,8 +68,18 @@ class GlobalSearch {
 
     // Hide results when clicking on main content (but keep open for navigation)
     document.addEventListener('click', (e) => {
-      // Don't hide if clicking on search results
-      if (e.target.closest('.search-result') || e.target.closest('#search-results-mobile') || e.target.closest('#search-results-desktop')) {
+      // Handle search result clicks first
+      const searchResult = e.target.closest('.search-result');
+      if (searchResult && searchResult.dataset.url) {
+        e.preventDefault();
+        e.stopPropagation();
+        e.stopImmediatePropagation();
+        window.location.href = searchResult.dataset.url;
+        return;
+      }
+
+      // Don't hide if clicking within search results container
+      if (e.target.closest('#search-results-mobile') || e.target.closest('#search-results-desktop')) {
         return;
       }
 
@@ -190,19 +200,6 @@ class GlobalSearch {
   }
 
   setupFilterEventListeners() {
-    // Handle search result clicks with event delegation
-    const self = this; // Edge compatibility
-    document.addEventListener('click', function(e) {
-      const searchResult = e.target.closest('.search-result');
-      if (searchResult && searchResult.dataset.url) {
-        e.preventDefault();
-        e.stopPropagation();
-        e.stopImmediatePropagation(); // Prevent other handlers
-        window.location.href = searchResult.dataset.url;
-        return false;
-      }
-    }, true); // Use capture phase
-
     // Filter buttons
     document.addEventListener('click', (e) => {
       if (e.target.classList.contains('filter-btn')) {
