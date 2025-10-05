@@ -17,7 +17,9 @@ def load_translations(lang='en'):
     """Load translations for works"""
     try:
         with open(f'translations/{lang}.json', 'r', encoding='utf-8') as f:
-            return json.load(f)
+            data = json.load(f)
+            # Handle both nested "works" structure and flat structure
+            return data.get('works', data)
     except FileNotFoundError:
         return {}
 
@@ -30,6 +32,21 @@ def create_work_search_entry(work, translations_en=None, translations_is=None):
     trans_is = translations_is.get(work_id, {}) if translations_is else {}
 
     # Build searchable content (include both languages)
+    # Handle materials - can be list or string
+    work_materials = work.get('materials', [])
+    if isinstance(work_materials, list):
+        work_materials_str = ' '.join(work_materials)
+    else:
+        work_materials_str = str(work_materials)
+
+    trans_en_materials = trans_en.get('materials', '')
+    if isinstance(trans_en_materials, list):
+        trans_en_materials = ' '.join(trans_en_materials)
+
+    trans_is_materials = trans_is.get('materials', '')
+    if isinstance(trans_is_materials, list):
+        trans_is_materials = ' '.join(trans_is_materials)
+
     content_parts = [
         work.get('title', ''),
         trans_en.get('title', ''),
@@ -39,9 +56,9 @@ def create_work_search_entry(work, translations_en=None, translations_is=None):
         trans_is.get('description', ''),
         str(work.get('year', '')),
         ' '.join(work.get('tags', [])),
-        ' '.join(work.get('materials', [])),
-        trans_en.get('materials', ''),
-        trans_is.get('materials', ''),
+        work_materials_str,
+        trans_en_materials,
+        trans_is_materials,
     ]
 
     # Add exhibition info
