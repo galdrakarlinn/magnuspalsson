@@ -71,12 +71,14 @@ class GlobalSearch {
       // Handle search result link clicks
       const searchResultLink = e.target.closest('a.search-result');
       if (searchResultLink) {
+        console.log('Search result link clicked:', searchResultLink.href);
         // Let the link work naturally - don't prevent default
         return;
       }
 
       // Don't hide if clicking within search results container
       if (e.target.closest('#search-results-mobile') || e.target.closest('#search-results-desktop')) {
+        console.log('Clicked within search results container');
         return;
       }
 
@@ -84,6 +86,7 @@ class GlobalSearch {
       if (!e.target.closest('.nav-search') &&
           !e.target.closest('.navbar') &&
           e.target.closest('main')) {
+        console.log('Hiding search results (clicked on main)');
         this.hideResults();
         this.hideFilters();
       }
