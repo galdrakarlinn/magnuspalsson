@@ -68,13 +68,8 @@ class GlobalSearch {
 
     // Hide results when clicking on main content (but keep open for navigation)
     document.addEventListener('click', (e) => {
-      // Handle search result clicks first
-      const searchResult = e.target.closest('.search-result');
-      if (searchResult && searchResult.dataset.url) {
-        e.preventDefault();
-        e.stopPropagation();
-        e.stopImmediatePropagation();
-        window.location.href = searchResult.dataset.url;
+      // Don't interfere with search result links (let them work naturally)
+      if (e.target.closest('.search-result')) {
         return;
       }
 
@@ -426,7 +421,7 @@ class GlobalSearch {
           <button class="search-close-btn" onclick="window.globalSearchInstance.clearSearch(); event.stopPropagation();">×</button>
         </div>
         ${results.map(result => `
-          <div class="search-result" data-url="${result.url}" style="cursor: pointer;">
+          <a href="${result.url}" class="search-result" style="text-decoration: none; color: inherit; display: block;">
             <div class="search-result-header">
               <div class="search-result-badge search-badge-${result.type}">${this.getTypeBadge(result.type)}</div>
               ${result.year ? `<div class="search-result-year">${result.year}</div>` : ''}
@@ -437,7 +432,7 @@ class GlobalSearch {
               <span class="search-result-page">${this.getPageLabel(result.type, result.page)}</span>
               ${result.score ? `<span class="search-result-relevance">Relevance: ${Math.round(result.score/10)}/100</span>` : ''}
             </div>
-          </div>
+          </a>
         `).join('')}
       `;
     }
