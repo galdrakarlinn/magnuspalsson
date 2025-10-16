@@ -8,98 +8,82 @@
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
   <link rel="stylesheet" href="style.css">
+  <style>
+    .intro-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 80vh;
+      padding: 2rem;
+    }
+
+    .intro-image {
+      max-width: 100%;
+      max-height: 70vh;
+      width: auto;
+      height: auto;
+      object-fit: contain;
+      margin-bottom: 2rem;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .intro-text {
+      text-align: center;
+      max-width: 600px;
+    }
+
+    .intro-text h1 {
+      margin-bottom: 1rem;
+    }
+
+    .intro-text p {
+      margin-bottom: 2rem;
+      opacity: 0.8;
+    }
+
+    .intro-links {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .intro-links a {
+      padding: 0.75rem 1.5rem;
+      text-decoration: none;
+      border: 1px solid currentColor;
+      border-radius: 4px;
+      transition: background-color 0.2s;
+    }
+
+    .intro-links a:hover {
+      background-color: rgba(0, 0, 0, 0.05);
+    }
+  </style>
 </head>
 <body>
 
   <!-- Navigation placeholder -->
   <div id="nav-placeholder"></div>
 
-  <div class="works-layout">
-    <!-- Filter Sidebar -->
-    <aside class="filter-sidebar">
-      <div class="sidebar-header">
-        <h2>Browse Works</h2>
-        <button type="button" id="clear-works-filters" class="clear-btn">Clear All</button>
-      </div>
+  <main class="intro-container">
+    <img
+      src="images/master-plaster-caster-2013/medium/master-plaster-caster-installation-medium.jpg"
+      alt="Master Plaster Caster installation by Magnús Pálsson"
+      class="intro-image"
+    />
 
-      <div class="filter-categories">
-        <div class="filter-category" data-category="medium">
-          <div class="category-header">
-            <h3>Medium & Format</h3>
-            <div class="category-controls">
-              <button class="pin-btn" title="Keep open">📌</button>
-              <button class="expand-btn">▼</button>
-            </div>
-          </div>
-          <div class="category-content collapsed">
-            <div class="tag-group" id="medium-tags"></div>
-          </div>
-        </div>
-
-        <div class="filter-category" data-category="concepts">
-          <div class="category-header">
-            <h3>Concepts & Themes</h3>
-            <div class="category-controls">
-              <button class="pin-btn" title="Keep open">📌</button>
-              <button class="expand-btn">▼</button>
-            </div>
-          </div>
-          <div class="category-content collapsed">
-            <div class="tag-group" id="concept-tags"></div>
-          </div>
-        </div>
-
-        <div class="filter-category" data-category="historical">
-          <div class="category-header">
-            <h3>Historical Context</h3>
-            <div class="category-controls">
-              <button class="pin-btn" title="Keep open">📌</button>
-              <button class="expand-btn">▼</button>
-            </div>
-          </div>
-          <div class="category-content collapsed">
-            <div class="tag-group" id="historical-tags"></div>
-          </div>
-        </div>
-
-        <div class="filter-category" data-category="decades">
-          <div class="category-header">
-            <h3>Decades</h3>
-            <div class="category-controls">
-              <button class="pin-btn" title="Keep open">📌</button>
-              <button class="expand-btn">▼</button>
-            </div>
-          </div>
-          <div class="category-content collapsed">
-            <div class="decade-group" id="decade-tags"></div>
-          </div>
-        </div>
-      </div>
-    </aside>
-
-    <!-- Main Content -->
-    <main class="works-main">
-      <header class="works-header">
-        <h1>Works</h1>
-        <div class="works-count" id="works-count">Loading works...</div>
-      </header>
-
-      <!-- Works Grid -->
-      <div class="works-grid" id="works-grid">
-        <!-- Works will be populated here by JavaScript -->
-      </div>
-    </main>
-  </div>
-
-    <!-- Work Modal -->
-    <div class="modal" id="work-modal">
-      <div class="modal-content">
-        <span class="close">&times;</span>
-        <div class="modal-body" id="modal-body">
-          <!-- Work details will be populated here -->
-        </div>
+    <div class="intro-text">
+      <h1>Magnús Pálsson</h1>
+      <p>Artist Archive</p>
+      <div class="intro-links">
+        <a href="works.html">View Works</a>
+        <a href="biography.html">Biography</a>
+        <a href="exhibitions.html">Exhibitions</a>
       </div>
     </div>
+  </main>
 
   <!-- Footer placeholder -->
   <div id="footer-placeholder"></div>
@@ -108,6 +92,6 @@
   <script src="i18n.js"></script>
   <script src="nav.js"></script>
   <script src="footer.js"></script>
-  <script src="works.js"></script>
+  <script src="intro.js"></script>
 </body>
 </html>

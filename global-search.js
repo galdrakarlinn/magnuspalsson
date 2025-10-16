@@ -35,15 +35,34 @@ class GlobalSearch {
             self.restoreSearchState();
           } catch (error) {
             console.error('Error parsing search index:', error);
+            self.showSearchError('Unable to load search data. Please refresh the page.');
             self.searchIndex = [];
           }
         } else {
-          console.error('Error loading search index:', xhr.status);
+          console.error('Error loading search index:', xhr.status, xhr.statusText);
+          self.showSearchError('Search is temporarily unavailable. Please try again later.');
           self.searchIndex = [];
         }
       }
     };
+    xhr.onerror = function() {
+      console.error('Network error loading search index');
+      self.showSearchError('Network error. Please check your connection and try again.');
+      self.searchIndex = [];
+    };
     xhr.send();
+  }
+
+  showSearchError(message) {
+    // Show error in search inputs placeholder
+    if (this.searchInputMobile) {
+      this.searchInputMobile.placeholder = message;
+      this.searchInputMobile.disabled = true;
+    }
+    if (this.searchInputDesktop) {
+      this.searchInputDesktop.placeholder = message;
+      this.searchInputDesktop.disabled = true;
+    }
   }
 
   setupEventListeners() {

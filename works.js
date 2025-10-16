@@ -6,7 +6,8 @@ class WorksManager {
       decades: [],
       tags: []
     };
-    
+    this.tagCategories = null;
+
     this.init();
   }
 
@@ -18,6 +19,7 @@ class WorksManager {
       i18n.onChange(() => this.refreshAll());
     }
 
+    await this.loadConfig();
     await this.loadWorks();
     this.setupEventListeners();
     this.setupCategoryCollapse();
@@ -30,6 +32,25 @@ class WorksManager {
     this.renderDecades();
     this.setupClearButton(); // Setup clear button AFTER filters are rendered
     this.checkForDirectWorkLink();
+  }
+
+  async loadConfig() {
+    try {
+      const response = await fetch('config.json');
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+      }
+      const config = await response.json();
+      this.tagCategories = config.tagCategories;
+    } catch (error) {
+      console.error('Error loading config:', error);
+      // Fallback to hardcoded categories if config fails to load
+      this.tagCategories = {
+        medium: ['sculpture', 'sound poetry', 'video', 'installation', 'audio art', 'book', 'headphones'],
+        concepts: ['negative space', 'positive space', 'materializing immaterial', 'void', 'absence', 'memory', 'perception', 'vulnerability', 'shadow', 'presence', 'death', 'mortality', 'dreams', 'authenticity', 'reproduction', 'revelation', 'irony', 'time', 'place', 'nature', 'landscape', 'mountain', 'technology', 'aviation'],
+        historical: ['1960s', '1970s', 'debut exhibition', 'anti-art', 'provocation', 'public reaction', 'destruction', 'dieter roth', 'frúöld', 'ásmundarsalur', 'SÚM', 'vatnsstígur', 'living art museum', 'sikorski', 'helicopter', 'collaboration', 'documentation', 'conversations', 'interviews', 'philosophy', 'existentialism', 'trilogy']
+      };
+    }
   }
 
   updatePageTitle() {
@@ -83,13 +104,29 @@ class WorksManager {
   async loadWorks() {
     try {
       const response = await fetch('works.json');
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+      }
       const data = await response.json();
       this.allWorks = data.works;
       this.filteredWorks = [...this.allWorks];
     } catch (error) {
       console.error('Error loading works:', error);
+      this.showErrorMessage('Unable to load works. Please refresh the page or try again later.');
       this.allWorks = [];
       this.filteredWorks = [];
+    }
+  }
+
+  showErrorMessage(message) {
+    const grid = document.getElementById('works-grid');
+    if (grid) {
+      grid.innerHTML = `
+        <div class="error-message" style="padding: 2rem; text-align: center; color: #721c24; background-color: #f8d7da; border: 1px solid #f5c6cb; border-radius: 4px;">
+          <h3>⚠️ Error</h3>
+          <p>${message}</p>
+        </div>
+      `;
     }
   }
 
@@ -114,6 +151,7 @@ class WorksManager {
       });
 
       modal.style.display = 'none';
+      modal.setAttribute('aria-hidden', 'true');
       this.refreshWorkCards();
     };
 
@@ -121,6 +159,13 @@ class WorksManager {
 
     window.addEventListener('click', (e) => {
       if (e.target === modal) {
+        closeModal();
+      }
+    });
+
+    // Keyboard accessibility for modal
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && modal.style.display === 'block') {
         closeModal();
       }
     });
@@ -149,15 +194,16 @@ class WorksManager {
       header.addEventListener('click', (e) => {
         // Don't trigger on pin button clicks
         if (e.target === pinBtn) return;
-        
+
         const isCollapsed = content.classList.contains('collapsed');
         const isPinned = category.classList.contains('pinned');
-        
+
         if (isCollapsed) {
           // Expand
           content.classList.remove('collapsed');
           expandBtn.textContent = '▲';
-          
+          expandBtn.setAttribute('aria-expanded', 'true');
+
           // If not pinned, auto-collapse other categories
           if (!isPinned) {
             document.querySelectorAll('.filter-category:not(.pinned)').forEach(otherCategory => {
@@ -166,6 +212,7 @@ class WorksManager {
                 const otherExpandBtn = otherCategory.querySelector('.expand-btn');
                 otherContent.classList.add('collapsed');
                 otherExpandBtn.textContent = '▼';
+                otherExpandBtn.setAttribute('aria-expanded', 'false');
               }
             });
           }
@@ -174,6 +221,7 @@ class WorksManager {
           if (!isPinned) {
             content.classList.add('collapsed');
             expandBtn.textContent = '▼';
+            expandBtn.setAttribute('aria-expanded', 'false');
           }
         }
       });
@@ -224,8 +272,13 @@ class WorksManager {
 
   renderWorks() {
     const grid = document.getElementById('works-grid');
+    if (!grid) {
+      console.error('Works grid element not found');
+      return;
+    }
+
     const counter = document.getElementById('works-count');
-    
+
     // Update count display
     if (counter) {
       const totalWorks = this.allWorks.length;
@@ -236,7 +289,7 @@ class WorksManager {
         counter.textContent = `${filteredCount} of ${totalWorks} works`;
       }
     }
-    
+
     if (this.filteredWorks.length === 0) {
       grid.innerHTML = '<p class="no-results">No works found matching your criteria.</p>';
       return;
@@ -397,29 +450,27 @@ class WorksManager {
   }
 
   renderTagFilters() {
+    if (!this.tagCategories) {
+      console.error('Tag categories not loaded');
+      return;
+    }
+
     const allTags = [...new Set(this.allWorks.flatMap(work => work.tags))].sort();
-    
-    // Categorize tags
-    const categories = {
-      medium: ['sculpture', 'sound poetry', 'video', 'installation', 'audio art', 'book', 'headphones'],
-      concepts: ['negative space', 'positive space', 'materializing immaterial', 'void', 'absence', 'memory', 'perception', 'vulnerability', 'shadow', 'presence', 'death', 'mortality', 'dreams', 'authenticity', 'reproduction', 'revelation', 'irony', 'time', 'place', 'nature', 'landscape', 'mountain', 'technology', 'aviation'],
-      historical: ['1960s', '1970s', 'debut exhibition', 'anti-art', 'provocation', 'public reaction', 'destruction', 'dieter roth', 'frúöld', 'ásmundarsalur', 'SÚM', 'vatnsstígur', 'living art museum', 'sikorski', 'helicopter', 'collaboration', 'documentation', 'conversations', 'interviews', 'philosophy', 'existentialism', 'trilogy']
-    };
 
     // Render medium tags
-    this.renderTagCategory('medium-tags', allTags.filter(tag => categories.medium.includes(tag)));
-    
+    this.renderTagCategory('medium-tags', allTags.filter(tag => this.tagCategories.medium.includes(tag)));
+
     // Render concept tags
-    this.renderTagCategory('concept-tags', allTags.filter(tag => categories.concepts.includes(tag)));
-    
+    this.renderTagCategory('concept-tags', allTags.filter(tag => this.tagCategories.concepts.includes(tag)));
+
     // Render historical tags
-    this.renderTagCategory('historical-tags', allTags.filter(tag => categories.historical.includes(tag)));
-    
+    this.renderTagCategory('historical-tags', allTags.filter(tag => this.tagCategories.historical.includes(tag)));
+
     // Render remaining uncategorized tags in concepts
-    const categorizedTags = [...categories.medium, ...categories.concepts, ...categories.historical];
+    const categorizedTags = [...this.tagCategories.medium, ...this.tagCategories.concepts, ...this.tagCategories.historical];
     const uncategorized = allTags.filter(tag => !categorizedTags.includes(tag));
     if (uncategorized.length > 0) {
-      this.renderTagCategory('concept-tags', [...allTags.filter(tag => categories.concepts.includes(tag)), ...uncategorized]);
+      this.renderTagCategory('concept-tags', [...allTags.filter(tag => this.tagCategories.concepts.includes(tag)), ...uncategorized]);
     }
   }
 
@@ -487,24 +538,9 @@ class WorksManager {
   }
 
   getOwnershipInfo(workId) {
-    const ownershipMap = {
-      'bestu_stykkin': {
-        owner: 'The Living Art Museum (Nýlistasafnið)',
-        url: 'https://sarpur.is/Adfang.aspx?AdfangID=1396243',
-        catalogNumber: 'N-277'
-      },
-      'vidtol_um_daudann_2011': {
-        owner: 'National Gallery of Iceland (Listasafn Íslands)',
-        url: 'https://www.listasafn.is/list/safneign/li-8249/',
-        catalogNumber: 'LÍ-8249'
-      },
-      'thyrlulending': {
-        owner: 'Reykjavík Art Museum',
-        url: 'https://listasafnreykjavikur.is/safneign?q=Sekúndurnar',
-        altTitle: 'Sekúndurnar þar til Sikorskyþyrlan snertir'
-      }
-    };
-    return ownershipMap[workId] || null;
+    // Legacy function - ownership info now stored in works.json
+    // Keeping this for backwards compatibility
+    return null;
   }
 
   showWorkModal(workId) {
@@ -608,7 +644,9 @@ class WorksManager {
       </div>
     `;
 
-    document.getElementById('work-modal').style.display = 'block';
+    const modal = document.getElementById('work-modal');
+    modal.style.display = 'block';
+    modal.setAttribute('aria-hidden', 'false');
   }
 
   clearAllFilters() {

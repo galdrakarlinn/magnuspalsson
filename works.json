@@ -2562,7 +2562,12 @@
         "glue",
         "paint"
       ],
-      "searchText": "bestu stykkin best pieces cloth figures frúöld anti-art ásmundarsalur 1967 debut exhibition dieter roth controversial ugly idiotic magnús pálsson hvarf garage studio"
+      "searchText": "bestu stykkin best pieces cloth figures frúöld anti-art ásmundarsalur 1967 debut exhibition dieter roth controversial ugly idiotic magnús pálsson hvarf garage studio",
+      "ownership": {
+        "owner": "The Living Art Museum (Nýlistasafnið)",
+        "url": "https://sarpur.is/Adfang.aspx?AdfangID=1396243",
+        "catalogNumber": "N-277"
+      }
     },
     {
       "id": "augustus_my_god",
@@ -2737,7 +2742,12 @@
       ],
       "searchText": "viðtöl um dauðann conversations about death mortality existential meaning inevitable human experience",
       "exhibitions": [],
-      "materials": []
+      "materials": [],
+      "ownership": {
+        "owner": "National Gallery of Iceland (Listasafn Íslands)",
+        "url": "https://www.listasafn.is/list/safneign/li-8249/",
+        "catalogNumber": "LÍ-8249"
+      }
     },
     {
       "id": "draumur_hlynsins_um_fjall_1974",
