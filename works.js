@@ -4,7 +4,8 @@ class WorksManager {
     this.filteredWorks = [];
     this.currentFilters = {
       decades: [],
-      tags: []
+      tags: [],
+      statuses: []
     };
     this.tagCategories = null;
 
@@ -30,6 +31,7 @@ class WorksManager {
     this.renderWorks();
     this.renderTagFilters();
     this.renderDecades();
+    this.renderStatusFilters();
     this.setupClearButton(); // Setup clear button AFTER filters are rendered
     this.checkForDirectWorkLink();
   }
@@ -262,6 +264,12 @@ class WorksManager {
       if (this.currentFilters.tags.length > 0) {
         const hasTag = this.currentFilters.tags.some(tag => work.tags.includes(tag));
         if (!hasTag) return false;
+      }
+
+      // Status filter
+      if (this.currentFilters.statuses.length > 0) {
+        const workStatus = work.status || 'not-set';
+        if (!this.currentFilters.statuses.includes(workStatus)) return false;
       }
 
       return true;
@@ -504,7 +512,7 @@ class WorksManager {
 
     // Get all unique decades from works
     const decades = [...new Set(this.allWorks.map(work => Math.floor(work.year / 10) * 10))].sort();
-    
+
     container.innerHTML = decades.map(decade => `
       <label class="tag-checkbox" for="decade-${decade}">
         <input type="checkbox" id="decade-${decade}" value="${decade}" title="${decade}s" />
@@ -519,6 +527,39 @@ class WorksManager {
           this.currentFilters.decades.push(parseInt(e.target.value));
         } else {
           this.currentFilters.decades = this.currentFilters.decades.filter(decade => decade !== parseInt(e.target.value));
+        }
+        this.filterWorks();
+      });
+    });
+  }
+
+  renderStatusFilters() {
+    const container = document.getElementById('status-tags');
+    if (!container) return;
+
+    // Define status options
+    const statuses = [
+      { value: 'complete', label: 'Complete' },
+      { value: 'needs-review', label: 'Needs Review' },
+      { value: 'incomplete', label: 'Incomplete' },
+      { value: 'draft', label: 'Draft' },
+      { value: 'not-set', label: 'Not Set' }
+    ];
+
+    container.innerHTML = statuses.map(status => `
+      <label class="tag-checkbox" for="status-${status.value}">
+        <input type="checkbox" id="status-${status.value}" value="${status.value}" title="${status.label}" />
+        <span>${status.label}</span>
+      </label>
+    `).join('');
+
+    // Add event listeners to status checkboxes
+    container.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+      checkbox.addEventListener('change', (e) => {
+        if (e.target.checked) {
+          this.currentFilters.statuses.push(e.target.value);
+        } else {
+          this.currentFilters.statuses = this.currentFilters.statuses.filter(s => s !== e.target.value);
         }
         this.filterWorks();
       });
@@ -653,7 +694,8 @@ class WorksManager {
     // Reset the filter state
     this.currentFilters.tags = [];
     this.currentFilters.decades = [];
-    
+    this.currentFilters.statuses = [];
+
     // Uncheck all checkboxes visually
     const allCheckboxes = document.querySelectorAll('.filter-sidebar input[type="checkbox"]');
     allCheckboxes.forEach(cb => {

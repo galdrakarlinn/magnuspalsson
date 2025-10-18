@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Edit Work - Admin Tool</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 2rem;
+      background: #f5f5f5;
+    }
+
+    h1 {
+      color: #333;
+      margin-bottom: 0.5rem;
+    }
+
+    .subtitle {
+      color: #666;
+      margin-bottom: 2rem;
+    }
+
+    .work-selector {
+      background: white;
+      padding: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      margin-bottom: 2rem;
+    }
+
+    .work-selector h2 {
+      margin-top: 0;
+      margin-bottom: 1rem;
+      color: #444;
+    }
+
+    .form-container {
+      background: white;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      margin-bottom: 2rem;
+      display: none;
+    }
+
+    .form-container.active {
+      display: block;
+    }
+
+    .form-section {
+      margin-bottom: 2rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid #eee;
+    }
+
+    .form-section:last-child {
+      border-bottom: none;
+    }
+
+    .form-section h2 {
+      color: #444;
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+    }
+
+    .form-group {
+      margin-bottom: 1.5rem;
+    }
+
+    label {
+      display: block;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      color: #333;
+    }
+
+    .required {
+      color: #e74c3c;
+    }
+
+    .help-text {
+      font-size: 0.875rem;
+      color: #666;
+      margin-top: 0.25rem;
+    }
+
+    input[type="text"],
+    input[type="number"],
+    textarea,
+    select {
+      width: 100%;
+      padding: 0.75rem;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 1rem;
+      font-family: inherit;
+    }
+
+    select {
+      cursor: pointer;
+    }
+
+    textarea {
+      min-height: 120px;
+      resize: vertical;
+    }
+
+    .tag-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 0.5rem;
+      margin-top: 0.5rem;
+    }
+
+    .tag-item {
+      display: flex;
+      align-items: center;
+    }
+
+    .tag-item input[type="checkbox"] {
+      width: auto;
+      margin-right: 0.5rem;
+    }
+
+    .image-entry {
+      background: #f9f9f9;
+      padding: 1rem;
+      border-radius: 4px;
+      margin-bottom: 1rem;
+      border: 1px solid #e0e0e0;
+    }
+
+    .image-entry h3 {
+      font-size: 1rem;
+      margin-bottom: 0.75rem;
+      color: #555;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .btn {
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 4px;
+      font-size: 1rem;
+      cursor: pointer;
+      font-weight: 600;
+      transition: background-color 0.2s;
+    }
+
+    .btn-primary {
+      background: #3498db;
+      color: white;
+    }
+
+    .btn-primary:hover {
+      background: #2980b9;
+    }
+
+    .btn-secondary {
+      background: #95a5a6;
+      color: white;
+    }
+
+    .btn-secondary:hover {
+      background: #7f8c8d;
+    }
+
+    .btn-success {
+      background: #27ae60;
+      color: white;
+    }
+
+    .btn-success:hover {
+      background: #229954;
+    }
+
+    .btn-danger {
+      background: #e74c3c;
+      color: white;
+      padding: 0.5rem 1rem;
+      font-size: 0.875rem;
+    }
+
+    .btn-danger:hover {
+      background: #c0392b;
+    }
+
+    .output-container {
+      background: white;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .output-container h2 {
+      color: #444;
+      margin-bottom: 1rem;
+    }
+
+    #jsonOutput {
+      width: 100%;
+      min-height: 300px;
+      padding: 1rem;
+      background: #2c3e50;
+      color: #ecf0f1;
+      font-family: 'Courier New', monospace;
+      font-size: 0.875rem;
+      border-radius: 4px;
+      border: none;
+      white-space: pre;
+      overflow-x: auto;
+    }
+
+    .button-group {
+      display: flex;
+      gap: 1rem;
+      margin-top: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .alert {
+      padding: 1rem;
+      border-radius: 4px;
+      margin-bottom: 1rem;
+    }
+
+    .alert-success {
+      background: #d4edda;
+      color: #155724;
+      border: 1px solid #c3e6cb;
+    }
+
+    .alert-info {
+      background: #d1ecf1;
+      color: #0c5460;
+      border: 1px solid #bee5eb;
+    }
+
+    .alert-warning {
+      background: #fff3cd;
+      color: #856404;
+      border: 1px solid #ffeaa7;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 2rem;
+      color: #666;
+    }
+
+    .work-info {
+      background: #e8f4f8;
+      padding: 1rem;
+      border-radius: 4px;
+      margin-bottom: 1rem;
+    }
+
+    .work-info p {
+      margin: 0.5rem 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Edit Existing Work</h1>
+  <p class="subtitle">Admin tool for updating artwork information in works.json</p>
+
+  <div class="alert alert-info">
+    <strong>Instructions:</strong> Select a work to edit, make your changes, click "Generate Updated JSON", and copy the result to update works.json.
+  </div>
+
+  <div class="alert alert-warning">
+    <strong>Important:</strong> After updating works.json, you must run <code>python rebuild_search_index.py</code> to update the search index!
+  </div>
+
+  <!-- Work Selector -->
+  <div class="work-selector">
+    <h2>Select Work to Edit</h2>
+    <div class="form-group">
+      <label for="workSelector">Choose a work:</label>
+      <select id="workSelector" onchange="loadWork()">
+        <option value="">-- Loading works... --</option>
+      </select>
+      <p class="help-text">Start typing to search by title or year</p>
+    </div>
+    <div id="workInfo" class="work-info" style="display: none;"></div>
+  </div>
+
+  <!-- Edit Form -->
+  <div class="form-container" id="formContainer">
+    <form id="workForm">
+
+      <!-- Basic Information -->
+      <div class="form-section">
+        <h2>Basic Information</h2>
+
+        <div class="form-group">
+          <label for="workId">Work ID <span class="required">*</span></label>
+          <input type="text" id="workId" required readonly style="background: #f0f0f0;">
+          <p class="help-text">Work ID cannot be changed (used in URLs and references)</p>
+        </div>
+
+        <div class="form-group">
+          <label for="title">Title <span class="required">*</span></label>
+          <input type="text" id="title" required placeholder="e.g., Helicopter Landing">
+        </div>
+
+        <div class="form-group">
+          <label for="year">Year <span class="required">*</span></label>
+          <input type="number" id="year" required placeholder="e.g., 1976" min="1960" max="2030">
+        </div>
+
+        <div class="form-group">
+          <label for="description">Description <span class="required">*</span></label>
+          <textarea id="description" required placeholder="Detailed description of the work..."></textarea>
+          <p class="help-text">Include context, materials, significance, and any relevant historical information.</p>
+        </div>
+
+        <div class="form-group">
+          <label for="status">Content Status</label>
+          <select id="status">
+            <option value="">-- Not set --</option>
+            <option value="complete">Complete - All content finished and reviewed</option>
+            <option value="needs-review">Needs Review - Content added but needs verification</option>
+            <option value="incomplete">Incomplete - Content still being added</option>
+            <option value="draft">Draft - Initial content only</option>
+          </select>
+          <p class="help-text">Track the completion state of this work's content</p>
+        </div>
+      </div>
+
+      <!-- Images -->
+      <div class="form-section">
+        <h2>Images</h2>
+        <p class="help-text" style="margin-bottom: 1rem;">Manage images for this work. Path format: images/work-id/medium/work-id-01-medium.jpg</p>
+
+        <div id="imagesContainer"></div>
+
+        <button type="button" class="btn btn-secondary" onclick="addImageField()">+ Add Another Image</button>
+      </div>
+
+      <!-- Tags -->
+      <div class="form-section">
+        <h2>Tags</h2>
+        <p class="help-text" style="margin-bottom: 1rem;">Select all tags that apply to this work.</p>
+
+        <div class="tag-grid" id="tagsContainer"></div>
+      </div>
+
+      <!-- Materials -->
+      <div class="form-section">
+        <h2>Materials</h2>
+        <div class="form-group">
+          <label for="materials">Materials (comma-separated)</label>
+          <input type="text" id="materials" placeholder="e.g., plaster, video, sound">
+          <p class="help-text">Separate multiple materials with commas</p>
+        </div>
+      </div>
+
+      <!-- Exhibitions -->
+      <div class="form-section">
+        <h2>Exhibitions</h2>
+        <div id="exhibitionsContainer"></div>
+        <button type="button" class="btn btn-secondary" onclick="addExhibitionField()">+ Add Exhibition</button>
+      </div>
+
+      <!-- Ownership -->
+      <div class="form-section">
+        <h2>Ownership (Optional)</h2>
+        <div class="form-group">
+          <label for="ownerName">Owner</label>
+          <input type="text" id="ownerName" placeholder="e.g., National Gallery of Iceland">
+        </div>
+        <div class="form-group">
+          <label for="ownerUrl">Collection URL</label>
+          <input type="text" id="ownerUrl" placeholder="https://...">
+        </div>
+        <div class="form-group">
+          <label for="catalogNumber">Catalog Number</label>
+          <input type="text" id="catalogNumber" placeholder="e.g., LÍ-8249">
+        </div>
+        <div class="form-group">
+          <label for="ownerNotes">Notes</label>
+          <textarea id="ownerNotes" placeholder="Additional ownership information" style="min-height: 80px;"></textarea>
+        </div>
+      </div>
+
+      <!-- Generate Button -->
+      <div class="button-group">
+        <button type="button" class="btn btn-primary" onclick="generateJSON()">Generate Updated JSON</button>
+        <button type="button" class="btn btn-secondary" onclick="location.reload()">Start Over</button>
+      </div>
+    </form>
+  </div>
+
+  <!-- Output -->
+  <div class="output-container">
+    <h2>Generated JSON</h2>
+    <p class="help-text" style="margin-bottom: 1rem;">Copy this and replace the existing work entry in works.json.</p>
+    <textarea id="jsonOutput" readonly placeholder="Select a work and make changes to generate updated JSON..."></textarea>
+    <div class="button-group">
+      <button class="btn btn-success" onclick="copyToClipboard()">Copy to Clipboard</button>
+    </div>
+    <div id="copyAlert" style="display: none; margin-top: 1rem;" class="alert alert-success">
+      ✓ Copied to clipboard!
+    </div>
+  </div>
+
+  <script>
+    let allWorks = [];
+    let currentWork = null;
+    let tagCategories = {};
+    let imageCount = 0;
+    let exhibitionCount = 0;
+
+    // Load works.json
+    fetch('works.json')
+      .then(response => response.json())
+      .then(data => {
+        allWorks = data.works;
+        populateWorkSelector();
+      })
+      .catch(error => {
+        alert('Error loading works.json: ' + error.message);
+      });
+
+    // Load config for tags
+    fetch('config.json')
+      .then(response => response.json())
+      .then(config => {
+        tagCategories = config.tagCategories;
+        loadTags();
+      })
+      .catch(error => {
+        console.error('Could not load config', error);
+        loadFallbackTags();
+      });
+
+    function populateWorkSelector() {
+      const selector = document.getElementById('workSelector');
+      selector.innerHTML = '<option value="">-- Select a work to edit --</option>';
+
+      allWorks.forEach((work, index) => {
+        const option = document.createElement('option');
+        option.value = index;
+        option.textContent = `${work.title} (${work.year})`;
+        selector.appendChild(option);
+      });
+    }
+
+    function loadWork() {
+      const selector = document.getElementById('workSelector');
+      const index = selector.value;
+
+      if (index === '') {
+        document.getElementById('formContainer').classList.remove('active');
+        document.getElementById('workInfo').style.display = 'none';
+        return;
+      }
+
+      currentWork = allWorks[index];
+
+      // Show work info
+      const workInfo = document.getElementById('workInfo');
+      workInfo.style.display = 'block';
+      const statusDisplay = currentWork.status ? `<strong>Status:</strong> ${currentWork.status}` : '<strong>Status:</strong> <em>Not set</em>';
+      workInfo.innerHTML = `
+        <p><strong>Current ID:</strong> ${currentWork.id}</p>
+        <p>${statusDisplay}</p>
+        <p><strong>Images:</strong> ${currentWork.images.length}</p>
+        <p><strong>Tags:</strong> ${currentWork.tags.length}</p>
+        <p><strong>Exhibitions:</strong> ${currentWork.exhibitions ? currentWork.exhibitions.length : 0}</p>
+      `;
+
+      // Populate form
+      document.getElementById('workId').value = currentWork.id;
+      document.getElementById('title').value = currentWork.title;
+      document.getElementById('year').value = currentWork.year;
+      document.getElementById('description').value = currentWork.description;
+      document.getElementById('status').value = currentWork.status || '';
+
+      // Clear and populate images
+      document.getElementById('imagesContainer').innerHTML = '';
+      imageCount = 0;
+      currentWork.images.forEach(img => {
+        addImageField(img);
+      });
+
+      // Set tags
+      document.querySelectorAll('#tagsContainer input[type="checkbox"]').forEach(checkbox => {
+        checkbox.checked = currentWork.tags.includes(checkbox.value);
+      });
+
+      // Set materials
+      document.getElementById('materials').value = currentWork.materials ? currentWork.materials.join(', ') : '';
+
+      // Clear and populate exhibitions
+      document.getElementById('exhibitionsContainer').innerHTML = '';
+      exhibitionCount = 0;
+      if (currentWork.exhibitions && currentWork.exhibitions.length > 0) {
+        currentWork.exhibitions.forEach(ex => {
+          addExhibitionField(ex);
+        });
+      }
+
+      // Set ownership if exists
+      if (currentWork.ownership) {
+        document.getElementById('ownerName').value = currentWork.ownership.owner || '';
+        document.getElementById('ownerUrl').value = currentWork.ownership.url || '';
+        document.getElementById('catalogNumber').value = currentWork.ownership.catalogNumber || '';
+        document.getElementById('ownerNotes').value = currentWork.ownership.notes || '';
+      } else {
+        document.getElementById('ownerName').value = '';
+        document.getElementById('ownerUrl').value = '';
+        document.getElementById('catalogNumber').value = '';
+        document.getElementById('ownerNotes').value = '';
+      }
+
+      // Show form
+      document.getElementById('formContainer').classList.add('active');
+      document.getElementById('formContainer').scrollIntoView({ behavior: 'smooth' });
+    }
+
+    function loadTags() {
+      const container = document.getElementById('tagsContainer');
+      container.innerHTML = '';
+      const allTags = [
+        ...tagCategories.medium,
+        ...tagCategories.concepts,
+        ...tagCategories.historical
+      ];
+
+      allTags.forEach(tag => {
+        const div = document.createElement('div');
+        div.className = 'tag-item';
+        div.innerHTML = `
+          <input type="checkbox" id="tag-${tag.replace(/\s+/g, '-')}" value="${tag}">
+          <label for="tag-${tag.replace(/\s+/g, '-')}" style="font-weight: normal; margin: 0;">${tag}</label>
+        `;
+        container.appendChild(div);
+      });
+    }
+
+    function loadFallbackTags() {
+      const fallbackTags = [
+        'sculpture', 'sound poetry', 'video', 'installation', 'audio art', 'book',
+        'negative space', 'positive space', 'void', 'conceptual', 'performance'
+      ];
+      const container = document.getElementById('tagsContainer');
+      container.innerHTML = '';
+      fallbackTags.forEach(tag => {
+        const div = document.createElement('div');
+        div.className = 'tag-item';
+        div.innerHTML = `
+          <input type="checkbox" id="tag-${tag.replace(/\s+/g, '-')}" value="${tag}">
+          <label for="tag-${tag.replace(/\s+/g, '-')}" style="font-weight: normal; margin: 0;">${tag}</label>
+        `;
+        container.appendChild(div);
+      });
+    }
+
+    function addImageField(imageData = null) {
+      imageCount++;
+      const container = document.getElementById('imagesContainer');
+      const div = document.createElement('div');
+      div.className = 'image-entry';
+      div.innerHTML = `
+        <h3>
+          Image ${imageCount}
+          <button type="button" class="btn btn-danger" onclick="this.parentElement.parentElement.remove()">Remove</button>
+        </h3>
+        <div class="form-group">
+          <label>Image URL/Path</label>
+          <input type="text" class="image-url" value="${imageData ? imageData.url : ''}" placeholder="images/work-id/medium/work-id-0${imageCount}-medium.jpg">
+        </div>
+        <div class="form-group">
+          <label>Caption</label>
+          <input type="text" class="image-caption" value="${imageData ? imageData.caption : ''}" placeholder="Description of this image">
+        </div>
+        <div class="form-group">
+          <label>Thumbnail Path (optional)</label>
+          <input type="text" class="image-thumbnail" value="${imageData && imageData.thumbnail ? imageData.thumbnail : ''}" placeholder="images/work-id/thumbs/work-id-0${imageCount}-thumb.jpg">
+          <p class="help-text">Leave empty if using automatic thumbnail generation</p>
+        </div>
+      `;
+      container.appendChild(div);
+    }
+
+    function addExhibitionField(exData = null) {
+      exhibitionCount++;
+      const container = document.getElementById('exhibitionsContainer');
+      const div = document.createElement('div');
+      div.className = 'image-entry';
+      div.innerHTML = `
+        <h3>
+          Exhibition ${exhibitionCount}
+          <button type="button" class="btn btn-danger" onclick="this.parentElement.parentElement.remove()">Remove</button>
+        </h3>
+        <div class="form-group">
+          <label>Exhibition Title</label>
+          <input type="text" class="exhibition-title" value="${exData ? exData.title : ''}" placeholder="e.g., Venice Biennale">
+        </div>
+        <div class="form-group">
+          <label>Venue</label>
+          <input type="text" class="exhibition-venue" value="${exData ? exData.venue : ''}" placeholder="e.g., Venice Biennale">
+        </div>
+        <div class="form-group">
+          <label>City</label>
+          <input type="text" class="exhibition-city" value="${exData ? exData.city : ''}" placeholder="e.g., Venice">
+        </div>
+        <div class="form-group">
+          <label>Year</label>
+          <input type="number" class="exhibition-year" value="${exData ? exData.year : ''}" placeholder="e.g., 1980">
+        </div>
+      `;
+      container.appendChild(div);
+    }
+
+    function generateJSON() {
+      if (!currentWork) {
+        alert('Please select a work to edit first');
+        return;
+      }
+
+      // Get basic info
+      const workId = document.getElementById('workId').value.trim();
+      const title = document.getElementById('title').value.trim();
+      const year = parseInt(document.getElementById('year').value);
+      const description = document.getElementById('description').value.trim();
+      const status = document.getElementById('status').value;
+
+      if (!workId || !title || !year || !description) {
+        alert('Please fill in all required fields');
+        return;
+      }
+
+      // Get images
+      const images = [];
+      document.querySelectorAll('.image-entry').forEach(entry => {
+        const url = entry.querySelector('.image-url');
+        const caption = entry.querySelector('.image-caption');
+        const thumbnail = entry.querySelector('.image-thumbnail');
+
+        if (url && caption && url.value.trim() && caption.value.trim()) {
+          const imageObj = {
+            url: url.value.trim(),
+            caption: caption.value.trim()
+          };
+          if (thumbnail && thumbnail.value.trim()) {
+            imageObj.thumbnail = thumbnail.value.trim();
+          }
+          images.push(imageObj);
+        }
+      });
+
+      if (images.length === 0) {
+        alert('Please add at least one image');
+        return;
+      }
+
+      // Get selected tags
+      const tags = [];
+      document.querySelectorAll('#tagsContainer input[type="checkbox"]:checked').forEach(checkbox => {
+        tags.push(checkbox.value);
+      });
+
+      // Get materials
+      const materialsInput = document.getElementById('materials').value.trim();
+      const materials = materialsInput ? materialsInput.split(',').map(m => m.trim()) : [];
+
+      // Get exhibitions
+      const exhibitions = [];
+      document.querySelectorAll('#exhibitionsContainer .image-entry').forEach(entry => {
+        const exTitle = entry.querySelector('.exhibition-title').value.trim();
+        const venue = entry.querySelector('.exhibition-venue').value.trim();
+        const city = entry.querySelector('.exhibition-city').value.trim();
+        const exYear = entry.querySelector('.exhibition-year').value.trim();
+
+        if (exTitle && venue && city && exYear) {
+          exhibitions.push({
+            title: exTitle,
+            venue: venue,
+            city: city,
+            year: parseInt(exYear)
+          });
+        }
+      });
+
+      // Get ownership
+      const ownerName = document.getElementById('ownerName').value.trim();
+      const ownerUrl = document.getElementById('ownerUrl').value.trim();
+      const catalogNumber = document.getElementById('catalogNumber').value.trim();
+      const ownerNotes = document.getElementById('ownerNotes').value.trim();
+
+      let ownership = null;
+      if (ownerName || ownerUrl || catalogNumber || ownerNotes) {
+        ownership = {};
+        if (ownerName) ownership.owner = ownerName;
+        if (ownerUrl) ownership.url = ownerUrl;
+        if (catalogNumber) ownership.catalogNumber = catalogNumber;
+        if (ownerNotes) ownership.notes = ownerNotes;
+      }
+
+      // Build work object (preserve existing fields like searchText)
+      const work = {
+        id: workId,
+        title: title,
+        year: year,
+        description: description,
+        images: images,
+        tags: tags,
+        exhibitions: exhibitions,
+        materials: materials,
+        searchText: currentWork.searchText || `${title.toLowerCase()} ${year} ${tags.join(' ')} magnús pálsson`
+      };
+
+      // Add status if set
+      if (status) {
+        work.status = status;
+      }
+
+      // Add ownership if exists
+      if (ownership) {
+        work.ownership = ownership;
+      }
+
+      // Display JSON
+      const jsonOutput = document.getElementById('jsonOutput');
+      jsonOutput.value = JSON.stringify(work, null, 2);
+
+      // Scroll to output
+      jsonOutput.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+
+    function copyToClipboard() {
+      const jsonOutput = document.getElementById('jsonOutput');
+      jsonOutput.select();
+      document.execCommand('copy');
+
+      const alert = document.getElementById('copyAlert');
+      alert.style.display = 'block';
+      setTimeout(() => {
+        alert.style.display = 'none';
+      }, 3000);
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Add New Work - Admin Tool</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem;
+      background: #f5f5f5;
+    }
+
+    h1 {
+      color: #333;
+      margin-bottom: 0.5rem;
+    }
+
+    .subtitle {
+      color: #666;
+      margin-bottom: 2rem;
+    }
+
+    .form-container {
+      background: white;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      margin-bottom: 2rem;
+    }
+
+    .form-section {
+      margin-bottom: 2rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid #eee;
+    }
+
+    .form-section:last-child {
+      border-bottom: none;
+    }
+
+    .form-section h2 {
+      color: #444;
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+    }
+
+    .form-group {
+      margin-bottom: 1.5rem;
+    }
+
+    label {
+      display: block;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      color: #333;
+    }
+
+    .required {
+      color: #e74c3c;
+    }
+
+    .help-text {
+      font-size: 0.875rem;
+      color: #666;
+      margin-top: 0.25rem;
+    }
+
+    input[type="text"],
+    input[type="number"],
+    textarea,
+    select {
+      width: 100%;
+      padding: 0.75rem;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 1rem;
+      font-family: inherit;
+    }
+
+    textarea {
+      min-height: 120px;
+      resize: vertical;
+    }
+
+    .tag-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 0.5rem;
+      margin-top: 0.5rem;
+    }
+
+    .tag-item {
+      display: flex;
+      align-items: center;
+    }
+
+    .tag-item input[type="checkbox"] {
+      width: auto;
+      margin-right: 0.5rem;
+    }
+
+    .image-entry {
+      background: #f9f9f9;
+      padding: 1rem;
+      border-radius: 4px;
+      margin-bottom: 1rem;
+      border: 1px solid #e0e0e0;
+    }
+
+    .image-entry h3 {
+      font-size: 1rem;
+      margin-bottom: 0.75rem;
+      color: #555;
+    }
+
+    .btn {
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 4px;
+      font-size: 1rem;
+      cursor: pointer;
+      font-weight: 600;
+      transition: background-color 0.2s;
+    }
+
+    .btn-primary {
+      background: #3498db;
+      color: white;
+    }
+
+    .btn-primary:hover {
+      background: #2980b9;
+    }
+
+    .btn-secondary {
+      background: #95a5a6;
+      color: white;
+    }
+
+    .btn-secondary:hover {
+      background: #7f8c8d;
+    }
+
+    .btn-success {
+      background: #27ae60;
+      color: white;
+    }
+
+    .btn-success:hover {
+      background: #229954;
+    }
+
+    .output-container {
+      background: white;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .output-container h2 {
+      color: #444;
+      margin-bottom: 1rem;
+    }
+
+    #jsonOutput {
+      width: 100%;
+      min-height: 300px;
+      padding: 1rem;
+      background: #2c3e50;
+      color: #ecf0f1;
+      font-family: 'Courier New', monospace;
+      font-size: 0.875rem;
+      border-radius: 4px;
+      border: none;
+      white-space: pre;
+      overflow-x: auto;
+    }
+
+    .button-group {
+      display: flex;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .alert {
+      padding: 1rem;
+      border-radius: 4px;
+      margin-bottom: 1rem;
+    }
+
+    .alert-success {
+      background: #d4edda;
+      color: #155724;
+      border: 1px solid #c3e6cb;
+    }
+
+    .alert-info {
+      background: #d1ecf1;
+      color: #0c5460;
+      border: 1px solid #bee5eb;
+    }
+  </style>
+</head>
+<body>
+  <h1>Add New Work</h1>
+  <p class="subtitle">Admin tool for adding artworks to works.json</p>
+
+  <div class="alert alert-info">
+    <strong>Instructions:</strong> Fill out the form below, click "Generate JSON", review the output, and copy it to add to works.json manually.
+  </div>
+
+  <div class="form-container">
+    <form id="workForm">
+
+      <!-- Basic Information -->
+      <div class="form-section">
+        <h2>Basic Information</h2>
+
+        <div class="form-group">
+          <label for="workId">Work ID <span class="required">*</span></label>
+          <input type="text" id="workId" required placeholder="e.g., helicopter_landing_1976">
+          <p class="help-text">Lowercase, use underscores, include year. Example: helicopter_landing_1976</p>
+        </div>
+
+        <div class="form-group">
+          <label for="title">Title <span class="required">*</span></label>
+          <input type="text" id="title" required placeholder="e.g., Helicopter Landing">
+        </div>
+
+        <div class="form-group">
+          <label for="year">Year <span class="required">*</span></label>
+          <input type="number" id="year" required placeholder="e.g., 1976" min="1960" max="2030">
+        </div>
+
+        <div class="form-group">
+          <label for="description">Description <span class="required">*</span></label>
+          <textarea id="description" required placeholder="Detailed description of the work..."></textarea>
+          <p class="help-text">Include context, materials, significance, and any relevant historical information.</p>
+        </div>
+      </div>
+
+      <!-- Images -->
+      <div class="form-section">
+        <h2>Images</h2>
+        <p class="help-text" style="margin-bottom: 1rem;">Add at least one image. Path format: images/work-id/medium/work-id-01-medium.jpg</p>
+
+        <div id="imagesContainer"></div>
+
+        <button type="button" class="btn btn-secondary" onclick="addImageField()">+ Add Another Image</button>
+      </div>
+
+      <!-- Tags -->
+      <div class="form-section">
+        <h2>Tags</h2>
+        <p class="help-text" style="margin-bottom: 1rem;">Select all tags that apply to this work.</p>
+
+        <div class="tag-grid" id="tagsContainer"></div>
+      </div>
+
+      <!-- Materials -->
+      <div class="form-section">
+        <h2>Materials</h2>
+        <div class="form-group">
+          <label for="materials">Materials (comma-separated)</label>
+          <input type="text" id="materials" placeholder="e.g., plaster, video, sound">
+          <p class="help-text">Separate multiple materials with commas</p>
+        </div>
+      </div>
+
+      <!-- Exhibitions -->
+      <div class="form-section">
+        <h2>Exhibitions (Optional)</h2>
+        <div id="exhibitionsContainer"></div>
+        <button type="button" class="btn btn-secondary" onclick="addExhibitionField()">+ Add Exhibition</button>
+      </div>
+
+      <!-- Generate Button -->
+      <div class="button-group">
+        <button type="button" class="btn btn-primary" onclick="generateJSON()">Generate JSON</button>
+        <button type="button" class="btn btn-secondary" onclick="resetForm()">Clear Form</button>
+      </div>
+    </form>
+  </div>
+
+  <!-- Output -->
+  <div class="output-container">
+    <h2>Generated JSON</h2>
+    <p class="help-text" style="margin-bottom: 1rem;">Copy this and add it to the works.json file (inside the "works" array).</p>
+    <textarea id="jsonOutput" readonly></textarea>
+    <div class="button-group">
+      <button class="btn btn-success" onclick="copyToClipboard()">Copy to Clipboard</button>
+    </div>
+    <div id="copyAlert" style="display: none; margin-top: 1rem;" class="alert alert-success">
+      ✓ Copied to clipboard!
+    </div>
+  </div>
+
+  <script>
+    // Load config for tags
+    let tagCategories = {};
+
+    // Fallback tags if config doesn't load
+    const fallbackTags = [
+      'sculpture', 'sound poetry', 'video', 'installation', 'audio art', 'book', 'headphones',
+      'negative space', 'positive space', 'void', 'absence', 'memory', 'perception',
+      '1960s', '1970s', '1980s', '1990s', '2000s', '2010s', '2020s',
+      'conceptual', 'performance', 'documentation', 'collaboration'
+    ];
+
+    // Load tags from config
+    fetch('config.json')
+      .then(response => response.json())
+      .then(config => {
+        tagCategories = config.tagCategories;
+        loadTags();
+      })
+      .catch(error => {
+        console.error('Could not load config, using fallback tags', error);
+        loadFallbackTags();
+      });
+
+    function loadTags() {
+      const container = document.getElementById('tagsContainer');
+      const allTags = [
+        ...tagCategories.medium,
+        ...tagCategories.concepts,
+        ...tagCategories.historical
+      ];
+
+      allTags.forEach(tag => {
+        const div = document.createElement('div');
+        div.className = 'tag-item';
+        div.innerHTML = `
+          <input type="checkbox" id="tag-${tag.replace(/\s+/g, '-')}" value="${tag}">
+          <label for="tag-${tag.replace(/\s+/g, '-')}" style="font-weight: normal; margin: 0;">${tag}</label>
+        `;
+        container.appendChild(div);
+      });
+    }
+
+    function loadFallbackTags() {
+      const container = document.getElementById('tagsContainer');
+      fallbackTags.forEach(tag => {
+        const div = document.createElement('div');
+        div.className = 'tag-item';
+        div.innerHTML = `
+          <input type="checkbox" id="tag-${tag.replace(/\s+/g, '-')}" value="${tag}">
+          <label for="tag-${tag.replace(/\s+/g, '-')}" style="font-weight: normal; margin: 0;">${tag}</label>
+        `;
+        container.appendChild(div);
+      });
+    }
+
+    // Initialize with one image field
+    let imageCount = 0;
+    addImageField();
+
+    function addImageField() {
+      imageCount++;
+      const container = document.getElementById('imagesContainer');
+      const div = document.createElement('div');
+      div.className = 'image-entry';
+      div.innerHTML = `
+        <h3>Image ${imageCount}</h3>
+        <div class="form-group">
+          <label>Image URL/Path</label>
+          <input type="text" class="image-url" placeholder="images/work-id/medium/work-id-0${imageCount}-medium.jpg">
+        </div>
+        <div class="form-group">
+          <label>Caption</label>
+          <input type="text" class="image-caption" placeholder="Description of this image">
+        </div>
+        <div class="form-group">
+          <label>Thumbnail Path (optional)</label>
+          <input type="text" class="image-thumbnail" placeholder="images/work-id/thumbs/work-id-0${imageCount}-thumb.jpg">
+          <p class="help-text">Leave empty if using automatic thumbnail generation</p>
+        </div>
+      `;
+      container.appendChild(div);
+    }
+
+    let exhibitionCount = 0;
+
+    function addExhibitionField() {
+      exhibitionCount++;
+      const container = document.getElementById('exhibitionsContainer');
+      const div = document.createElement('div');
+      div.className = 'image-entry';
+      div.innerHTML = `
+        <h3>Exhibition ${exhibitionCount}</h3>
+        <div class="form-group">
+          <label>Exhibition Title</label>
+          <input type="text" class="exhibition-title" placeholder="e.g., Venice Biennale">
+        </div>
+        <div class="form-group">
+          <label>Venue</label>
+          <input type="text" class="exhibition-venue" placeholder="e.g., Venice Biennale">
+        </div>
+        <div class="form-group">
+          <label>City</label>
+          <input type="text" class="exhibition-city" placeholder="e.g., Venice">
+        </div>
+        <div class="form-group">
+          <label>Year</label>
+          <input type="number" class="exhibition-year" placeholder="e.g., 1980">
+        </div>
+      `;
+      container.appendChild(div);
+    }
+
+    function generateJSON() {
+      // Get basic info
+      const workId = document.getElementById('workId').value.trim();
+      const title = document.getElementById('title').value.trim();
+      const year = parseInt(document.getElementById('year').value);
+      const description = document.getElementById('description').value.trim();
+
+      // Validate required fields
+      if (!workId || !title || !year || !description) {
+        alert('Please fill in all required fields (Work ID, Title, Year, Description)');
+        return;
+      }
+
+      // Get images
+      const images = [];
+      document.querySelectorAll('.image-entry').forEach(entry => {
+        const url = entry.querySelector('.image-url').value.trim();
+        const caption = entry.querySelector('.image-caption').value.trim();
+        const thumbnail = entry.querySelector('.image-thumbnail').value.trim();
+
+        if (url && caption) {
+          const imageObj = {
+            url: url,
+            caption: caption
+          };
+          if (thumbnail) {
+            imageObj.thumbnail = thumbnail;
+          }
+          images.push(imageObj);
+        }
+      });
+
+      if (images.length === 0) {
+        alert('Please add at least one image with URL and caption');
+        return;
+      }
+
+      // Get selected tags
+      const tags = [];
+      document.querySelectorAll('#tagsContainer input[type="checkbox"]:checked').forEach(checkbox => {
+        tags.push(checkbox.value);
+      });
+
+      // Get materials
+      const materialsInput = document.getElementById('materials').value.trim();
+      const materials = materialsInput ? materialsInput.split(',').map(m => m.trim()) : [];
+
+      // Get exhibitions
+      const exhibitions = [];
+      document.querySelectorAll('#exhibitionsContainer .image-entry').forEach(entry => {
+        const exTitle = entry.querySelector('.exhibition-title').value.trim();
+        const venue = entry.querySelector('.exhibition-venue').value.trim();
+        const city = entry.querySelector('.exhibition-city').value.trim();
+        const exYear = entry.querySelector('.exhibition-year').value.trim();
+
+        if (exTitle && venue && city && exYear) {
+          exhibitions.push({
+            title: exTitle,
+            venue: venue,
+            city: city,
+            year: parseInt(exYear)
+          });
+        }
+      });
+
+      // Build work object
+      const work = {
+        id: workId,
+        title: title,
+        year: year,
+        description: description,
+        images: images,
+        tags: tags,
+        exhibitions: exhibitions,
+        materials: materials,
+        searchText: `${title.toLowerCase()} ${year} ${tags.join(' ')} magnús pálsson`
+      };
+
+      // Display JSON
+      const jsonOutput = document.getElementById('jsonOutput');
+      jsonOutput.value = JSON.stringify(work, null, 2);
+
+      // Scroll to output
+      jsonOutput.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+
+    function copyToClipboard() {
+      const jsonOutput = document.getElementById('jsonOutput');
+      jsonOutput.select();
+      document.execCommand('copy');
+
+      const alert = document.getElementById('copyAlert');
+      alert.style.display = 'block';
+      setTimeout(() => {
+        alert.style.display = 'none';
+      }, 3000);
+    }
+
+    function resetForm() {
+      if (confirm('Are you sure you want to clear the form?')) {
+        document.getElementById('workForm').reset();
+        document.getElementById('imagesContainer').innerHTML = '';
+        document.getElementById('exhibitionsContainer').innerHTML = '';
+        document.getElementById('jsonOutput').value = '';
+        imageCount = 0;
+        exhibitionCount = 0;
+        addImageField();
+      }
+    }
+  </script>
+</body>
+</html>
