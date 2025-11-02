@@ -194,6 +194,79 @@
       background: #c0392b;
     }
 
+    .search-results {
+      max-height: 300px;
+      overflow-y: auto;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      margin-top: 0.5rem;
+      display: none;
+    }
+
+    .search-results.show {
+      display: block;
+    }
+
+    .search-result-item {
+      padding: 0.75rem;
+      border-bottom: 1px solid #eee;
+      cursor: pointer;
+      transition: background-color 0.2s;
+    }
+
+    .search-result-item:hover {
+      background-color: #f8f9fa;
+    }
+
+    .search-result-item:last-child {
+      border-bottom: none;
+    }
+
+    .search-result-title {
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+
+    .search-result-details {
+      font-size: 0.875rem;
+      color: #666;
+    }
+
+    .selected-exhibitions {
+      min-height: 100px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 0.5rem;
+    }
+
+    .selected-exhibition {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.75rem;
+      background: #f8f9fa;
+      border-radius: 4px;
+      margin-bottom: 0.5rem;
+    }
+
+    .selected-exhibition:last-child {
+      margin-bottom: 0;
+    }
+
+    .exhibition-info {
+      flex: 1;
+    }
+
+    .exhibition-title {
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+
+    .exhibition-details {
+      font-size: 0.875rem;
+      color: #666;
+    }
+
     .output-container {
       background: white;
       padding: 2rem;
@@ -385,8 +458,18 @@
       <!-- Exhibitions -->
       <div class="form-section">
         <h2>Exhibitions</h2>
-        <div id="exhibitionsContainer"></div>
-        <button type="button" class="btn btn-secondary" onclick="addExhibitionField()">+ Add Exhibition</button>
+        <p class="help-text">Select exhibitions from the list below. The exhibition details are managed in exhibitions.json.</p>
+
+        <div class="form-group">
+          <label>Search and Add Exhibition</label>
+          <input type="text" id="exhibitionSearch" placeholder="Search exhibitions by title, venue, or year...">
+          <div id="exhibitionSearchResults" class="search-results"></div>
+        </div>
+
+        <div class="form-group">
+          <label>Selected Exhibitions (in order they'll appear)</label>
+          <div id="selectedExhibitions" class="selected-exhibitions"></div>
+        </div>
       </div>
 
       <!-- Ownership -->
@@ -433,10 +516,24 @@
 
   <script>
     let allWorks = [];
+    let allExhibitions = []; // All exhibitions from exhibitions.json
+    let selectedExhibitionIds = []; // Selected exhibition IDs for current work
     let currentWork = null;
     let tagCategories = {};
     let imageCount = 0;
     let exhibitionCount = 0;
+
+    // Load exhibitions.json
+    fetch('exhibitions.json')
+      .then(response => response.json())
+      .then(data => {
+        // Combine solo and group exhibitions
+        allExhibitions = [...data.solo, ...data.group];
+        console.log(`Loaded ${allExhibitions.length} exhibitions`);
+      })
+      .catch(error => {
+        console.error('Error loading exhibitions:', error);
+      });
 
     // Load works.json
     fetch('works.json')
@@ -552,14 +649,8 @@
         document.getElementById('materialsIs').value = '';
       }
 
-      // Clear and populate exhibitions
-      document.getElementById('exhibitionsContainer').innerHTML = '';
-      exhibitionCount = 0;
-      if (currentWork.exhibitions && currentWork.exhibitions.length > 0) {
-        currentWork.exhibitions.forEach(ex => {
-          addExhibitionField(ex);
-        });
-      }
+      // Load exhibitions using new system
+      loadWorkExhibitions(currentWork);
 
       // Set ownership if exists
       if (currentWork.ownership) {
@@ -723,6 +814,95 @@
       container.appendChild(div);
     }
 
+    // === NEW EXHIBITION SELECTOR SYSTEM ===
+    // Setup exhibition search
+    document.getElementById('exhibitionSearch').addEventListener('input', function(e) {
+      const searchTerm = e.target.value.toLowerCase().trim();
+      const resultsDiv = document.getElementById('exhibitionSearchResults');
+
+      if (searchTerm.length < 2) {
+        resultsDiv.classList.remove('show');
+        resultsDiv.innerHTML = '';
+        return;
+      }
+
+      const results = allExhibitions.filter(ex => {
+        const titleEn = ex.title.en.toLowerCase();
+        const venueEn = ex.venue.en.toLowerCase();
+        const year = ex.year.toString();
+        return titleEn.includes(searchTerm) || venueEn.includes(searchTerm) || year.includes(searchTerm);
+      }).slice(0, 20);
+
+      if (results.length === 0) {
+        resultsDiv.innerHTML = '<div class="search-result-item">No exhibitions found</div>';
+      } else {
+        resultsDiv.innerHTML = results.map(ex => `
+          <div class="search-result-item" onclick="addExhibitionToWork('${ex.id}')">
+            <div class="search-result-title">${ex.title.en}</div>
+            <div class="search-result-details">${ex.venue.en}, ${ex.location} (${ex.year})</div>
+          </div>
+        `).join('');
+      }
+      resultsDiv.classList.add('show');
+    });
+
+    function addExhibitionToWork(exhibitionId) {
+      if (selectedExhibitionIds.includes(exhibitionId)) {
+        alert('This exhibition is already added');
+        return;
+      }
+      selectedExhibitionIds.push(exhibitionId);
+      renderSelectedExhibitions();
+      document.getElementById('exhibitionSearch').value = '';
+      document.getElementById('exhibitionSearchResults').classList.remove('show');
+    }
+
+    function removeExhibitionFromWork(exhibitionId) {
+      selectedExhibitionIds = selectedExhibitionIds.filter(id => id !== exhibitionId);
+      renderSelectedExhibitions();
+    }
+
+    function renderSelectedExhibitions() {
+      const container = document.getElementById('selectedExhibitions');
+      if (selectedExhibitionIds.length === 0) {
+        container.innerHTML = '<p style="color: #999; padding: 1rem; text-align: center;">No exhibitions selected</p>';
+        return;
+      }
+      container.innerHTML = selectedExhibitionIds.map(exId => {
+        const exhibition = allExhibitions.find(ex => ex.id === exId);
+        if (!exhibition) return '';
+        return `
+          <div class="selected-exhibition" data-ex-id="${exId}">
+            <div class="exhibition-info">
+              <div class="exhibition-title">${exhibition.title.en}</div>
+              <div class="exhibition-details">${exhibition.venue.en}, ${exhibition.location} (${exhibition.year})</div>
+            </div>
+            <button type="button" class="btn btn-danger" onclick="removeExhibitionFromWork('${exId}')">Remove</button>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function loadWorkExhibitions(work) {
+      selectedExhibitionIds = [];
+      if (!work.exhibitions || work.exhibitions.length === 0) {
+        renderSelectedExhibitions();
+        return;
+      }
+      work.exhibitions.forEach(ex => {
+        if (typeof ex === 'string') {
+          selectedExhibitionIds.push(ex);
+        } else if (typeof ex === 'object' && ex.title) {
+          const match = allExhibitions.find(e => {
+            const titleMatch = (e.title.en === ex.title.en || e.title.en === ex.title);
+            return titleMatch && e.year == ex.year;
+          });
+          if (match) selectedExhibitionIds.push(match.id);
+        }
+      });
+      renderSelectedExhibitions();
+    }
+
     function generateJSON() {
       if (!currentWork) {
         alert('Please select a work to edit first');
@@ -801,38 +981,8 @@
         };
       }
 
-      // Get exhibitions with bilingual titles and venues
-      const exhibitions = [];
-      document.querySelectorAll('#exhibitionsContainer .image-entry').forEach(entry => {
-        const titleEnInput = entry.querySelector('.exhibition-title-en');
-        const titleIsInput = entry.querySelector('.exhibition-title-is');
-        const venueEnInput = entry.querySelector('.exhibition-venue-en');
-        const venueIsInput = entry.querySelector('.exhibition-venue-is');
-        const location = entry.querySelector('.exhibition-location');
-        const exYear = entry.querySelector('.exhibition-year');
-
-        const titleEnVal = titleEnInput ? titleEnInput.value.trim() : '';
-        const titleIsVal = titleIsInput ? titleIsInput.value.trim() : '';
-        const venueEnVal = venueEnInput ? venueEnInput.value.trim() : '';
-        const venueIsVal = venueIsInput ? venueIsInput.value.trim() : '';
-        const locationVal = location ? location.value.trim() : '';
-        const yearVal = exYear ? exYear.value.trim() : '';
-
-        if (titleEnVal && venueEnVal && locationVal && yearVal) {
-          exhibitions.push({
-            title: {
-              en: titleEnVal,
-              is: titleIsVal || titleEnVal
-            },
-            venue: {
-              en: venueEnVal,
-              is: venueIsVal || venueEnVal
-            },
-            location: locationVal,
-            year: parseInt(yearVal)
-          });
-        }
-      });
+      // Use selected exhibition IDs (new system)
+      const exhibitions = selectedExhibitionIds;
 
       // Get ownership
       const ownerName = document.getElementById('ownerName').value.trim();
