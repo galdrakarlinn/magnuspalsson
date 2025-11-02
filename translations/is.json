@@ -285,13 +285,21 @@
     },
     "vakning-2015": {
       "title": "Vakning",
-      "description": "",
+      "description": "Frammistaðainnsetning með 4 sólóistum og klukkum, sýnd á A! Gjörningahátíð á Akureyri 2015.",
       "materials": [
-        "clocks",
+        "klukkur",
+        "frammistaða",
         "blandað efni"
       ],
       "exhibitions": [
-        "Akureyri 2015"
+        {
+          "title": "A! Gjörningahátíð",
+          "venue": "Listasafnið á Akureyri, Ketilhús",
+          "year": 2015,
+          "month": "3.-6. september",
+          "city": "Akureyri",
+          "country": "Ísland"
+        }
       ],
       "images": [
         {

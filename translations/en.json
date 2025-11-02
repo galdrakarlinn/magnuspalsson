@@ -285,13 +285,21 @@
     },
     "vakning-2015": {
       "title": "Vakning",
-      "description": "Installation with clocks, presented in Akureyri 2015.",
+      "description": "Performance installation with 4 soloists and clocks, presented at A! Gjörningahátíð (Performance Festival) in Akureyri 2015.",
       "materials": [
         "clocks",
+        "performance",
         "mixed media"
       ],
       "exhibitions": [
-        "Akureyri 2015"
+        {
+          "title": "A! Gjörningahátíð",
+          "venue": "Listasafnið á Akureyri, Ketilhús",
+          "year": 2015,
+          "month": "September 3-6",
+          "city": "Akureyri",
+          "country": "Iceland"
+        }
       ],
       "images": [
         {
