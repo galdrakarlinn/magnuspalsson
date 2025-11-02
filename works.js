@@ -8,6 +8,7 @@ class WorksManager {
       statuses: []
     };
     this.tagCategories = null;
+    this.exhibitionsData = null; // Will hold all exhibitions from exhibitions.json
 
     this.init();
   }
@@ -21,6 +22,7 @@ class WorksManager {
     }
 
     await this.loadConfig();
+    await this.loadExhibitions();
     await this.loadWorks();
     this.setupEventListeners();
     this.setupCategoryCollapse();
@@ -78,6 +80,19 @@ class WorksManager {
     return field[lang] || field.en || field.is || '';
   }
 
+  // Helper to look up exhibition by ID from exhibitions.json
+  lookupExhibition(exhibitionId) {
+    if (!this.exhibitionsData) return null;
+
+    // Search in both solo and group exhibitions
+    const allExhibitions = [
+      ...(this.exhibitionsData.solo || []),
+      ...(this.exhibitionsData.group || [])
+    ];
+
+    return allExhibitions.find(ex => ex.id === exhibitionId);
+  }
+
   // Helper to get translated work data
   getTranslatedWork(work) {
     return {
@@ -92,16 +107,33 @@ class WorksManager {
         caption: this.getLocalizedValue(img.caption)
       })),
       exhibitions: work.exhibitions ? work.exhibitions.map(ex => {
-        // Handle string format (legacy)
-        if (typeof ex === 'string') return ex;
-        // Handle bilingual object format
-        return {
-          ...ex,
-          title: this.getLocalizedValue(ex.title),
-          venue: this.getLocalizedValue(ex.venue),
-          location: ex.location,
-          year: ex.year
-        };
+        // Handle exhibition ID reference (new format)
+        if (typeof ex === 'string' && this.exhibitionsData) {
+          // Look up exhibition by ID
+          const exhibition = this.lookupExhibition(ex);
+          if (exhibition) {
+            return {
+              title: this.getLocalizedValue(exhibition.title),
+              venue: this.getLocalizedValue(exhibition.venue),
+              location: exhibition.location,
+              year: exhibition.year
+            };
+          }
+          // If not found, return the ID as-is (legacy string exhibition)
+          return ex;
+        }
+        // Handle bilingual object format (unmatched exhibitions)
+        if (typeof ex === 'object') {
+          return {
+            ...ex,
+            title: this.getLocalizedValue(ex.title),
+            venue: this.getLocalizedValue(ex.venue),
+            location: ex.location,
+            year: ex.year
+          };
+        }
+        // Handle legacy string format
+        return ex;
       }) : [],
       ownership: work.ownership
     };
@@ -143,6 +175,19 @@ class WorksManager {
       const infoTitle = card.querySelector('.work-info .work-title');
       if (infoTitle) infoTitle.textContent = translatedWork.title;
     });
+  }
+
+  async loadExhibitions() {
+    try {
+      const response = await fetch('exhibitions.json');
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+      }
+      this.exhibitionsData = await response.json();
+    } catch (error) {
+      console.error('Error loading exhibitions:', error);
+      this.exhibitionsData = { solo: [], group: [] };
+    }
   }
 
   async loadWorks() {

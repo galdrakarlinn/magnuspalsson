@@ -70,14 +70,20 @@ class ExhibitionsManager {
       html += `<ul>`;
 
       exhibitionsByYear[year].forEach(exhibition => {
+        // Get localized values for bilingual fields
+        const lang = i18n.getLang();
+        const title = typeof exhibition.title === 'object' ? (exhibition.title[lang] || exhibition.title.en) : exhibition.title;
+        const venue = typeof exhibition.venue === 'object' ? (exhibition.venue[lang] || exhibition.venue.en) : exhibition.venue;
+        const notes = typeof exhibition.notes === 'object' ? (exhibition.notes[lang] || exhibition.notes.en) : exhibition.notes;
+
         html += `<li>`;
-        html += `<span class="title">${exhibition.title}</span> — `;
-        html += `<span class="venue">${exhibition.venue}</span>`;
+        html += `<span class="title">${title}</span> — `;
+        html += `<span class="venue">${venue}</span>`;
         if (exhibition.location) {
           html += `, ${exhibition.location}`;
         }
-        if (exhibition.notes) {
-          html += `. ${exhibition.notes}`;
+        if (notes) {
+          html += `. ${notes}`;
         }
         html += `</li>`;
       });

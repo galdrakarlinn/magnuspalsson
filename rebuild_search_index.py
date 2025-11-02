@@ -13,6 +13,23 @@ def load_works():
         data = json.load(f)
     return data['works']
 
+def load_exhibitions():
+    """Load exhibitions from exhibitions.json"""
+    try:
+        with open('exhibitions.json', 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        return data
+    except FileNotFoundError:
+        return {'solo': [], 'group': []}
+
+def lookup_exhibition(exhibition_id, exhibitions_data):
+    """Look up exhibition by ID"""
+    all_exhibitions = exhibitions_data.get('solo', []) + exhibitions_data.get('group', [])
+    for ex in all_exhibitions:
+        if ex.get('id') == exhibition_id:
+            return ex
+    return None
+
 def get_localized_value(field, lang='en'):
     """Extract value from bilingual field or return string if legacy format"""
     if not field:
@@ -43,7 +60,7 @@ def get_materials_string(materials, lang='en'):
     # If it's a string
     return str(materials)
 
-def create_work_search_entry(work):
+def create_work_search_entry(work, exhibitions_data):
     """Create a search entry for a work with bilingual content"""
     work_id = work.get('id', '')
 
@@ -69,19 +86,29 @@ def create_work_search_entry(work):
         materials_is,
     ]
 
-    # Add exhibition info (handle bilingual exhibitions)
+    # Add exhibition info (handle ID references and bilingual objects)
     for ex in work.get('exhibitions', []):
-        if isinstance(ex, dict):
-            # Extract bilingual exhibition fields
+        if isinstance(ex, str):
+            # Exhibition ID reference - look up from exhibitions.json
+            exhibition = lookup_exhibition(ex, exhibitions_data)
+            if exhibition:
+                ex_title_en = get_localized_value(exhibition.get('title'), 'en')
+                ex_title_is = get_localized_value(exhibition.get('title'), 'is')
+                ex_venue_en = get_localized_value(exhibition.get('venue'), 'en')
+                ex_venue_is = get_localized_value(exhibition.get('venue'), 'is')
+                location = exhibition.get('location', '')
+                content_parts.extend([ex_title_en, ex_title_is, ex_venue_en, ex_venue_is, location])
+            else:
+                # Legacy string exhibition (just add as-is)
+                content_parts.append(ex)
+        elif isinstance(ex, dict):
+            # Unmatched exhibition with full bilingual data
             ex_title_en = get_localized_value(ex.get('title'), 'en')
             ex_title_is = get_localized_value(ex.get('title'), 'is')
             ex_venue_en = get_localized_value(ex.get('venue'), 'en')
             ex_venue_is = get_localized_value(ex.get('venue'), 'is')
             location = ex.get('location', ex.get('city', ''))
-
             content_parts.extend([ex_title_en, ex_title_is, ex_venue_en, ex_venue_is, location])
-        elif isinstance(ex, str):
-            content_parts.append(ex)
 
     # Add image captions
     for img in work.get('images', []):
@@ -117,9 +144,14 @@ def create_work_search_entry(work):
 def rebuild_search_index():
     """Rebuild the complete search index with bilingual support"""
 
-    print("Rebuilding search index from bilingual works.json...")
+    print("Rebuilding search index from bilingual works.json and exhibitions.json...")
 
     searchable_content = []
+
+    # Load exhibitions data
+    print("Loading exhibitions...")
+    exhibitions_data = load_exhibitions()
+    print(f"Loaded {len(exhibitions_data.get('solo', []))} solo + {len(exhibitions_data.get('group', []))} group exhibitions")
 
     # Add all works
     works = load_works()
@@ -127,7 +159,7 @@ def rebuild_search_index():
 
     for work in works:
         try:
-            entry = create_work_search_entry(work)
+            entry = create_work_search_entry(work, exhibitions_data)
             searchable_content.append(entry)
         except Exception as e:
             print(f"Error processing work {work.get('id', 'unknown')}: {e}")

@@ -1,0 +1,2239 @@
+{
+  "ui": {
+    "en": {
+      "soloExhibitions": "Solo Exhibitions",
+      "groupExhibitions": "Group Exhibitions",
+      "year": "Year",
+      "title": "Title",
+      "venue": "Venue",
+      "location": "Location",
+      "notes": "Notes",
+      "underConstruction": "This page is under construction"
+    },
+    "is": {
+      "soloExhibitions": "Einkasýningar",
+      "groupExhibitions": "Samsýningar",
+      "year": "Ár",
+      "title": "Titill",
+      "venue": "Staður",
+      "location": "Staðsetning",
+      "notes": "Athugasemdir",
+      "underConstruction": "Þessi síða er í vinnslu"
+    }
+  },
+  "solo": [
+    {
+      "id": "gapassipi-recreation-2025",
+      "year": "2025",
+      "title": {
+        "en": "GAPASSIPI (Recreation)",
+        "is": "GAPASSIPI (Endursköpun)"
+      },
+      "venue": {
+        "en": "The Boxing Gallery",
+        "is": "The Boxing Gallery"
+      },
+      "location": "Milan, Italy",
+      "notes": {
+        "en": "October 11, 2025, 7pm. Recreation of the 1995 sound installation GAPASSIPI, presented by Mumbling Eye, an archival label dedicated to the publication of rare and unreleased sound art in Iceland. The installation features a triangular formation of broken glass laid upon the floor, level with the lake visible outside through a large window. Eight loudspeakers positioned in the space play two vocal recitation tracks by Pálsson, reciting childhood vignettes and loosely chanting a prayer to the gander of the lake. The vocal tracks are in P-language, a child's play variation on Icelandic similar to English Pig Latin, where before any vowel a 'p' is added, preceded by the same vowel. Hence 'gassi' (gander) becomes 'gapassipi'. Accompanied by a talk by Mumbling Eye publishers Adam Buffington and Tumi Magnússon, and a screening of a documentary on Pálsson by Steinpór Birgisson.",
+        "is": "11. október 2025, kl. 19:00. Endursköpun á hljóðinnsetningunni GAPASSIPI frá 1995, kynnt af Mumbling Eye, safnmiða sem leggur áherslu á útgáfu sjaldgæfrar og óútgefinnar hljóðlistar á Íslandi. Innsetningin felur í sér þríhyrningslaga uppsetningu úr brotnu gleri sem lagt er á gólfið, í sömu hæð og vatnið sem sést út um stóra gluggann. Átta hátalara sem staðsettir eru í rýminu spila tvö raddflutningsspor eftir Pálsson, þar sem hann flytur bernskuminningar og blæðir lauslega í bæn til gasans í vatninu. Raddflutningurinn er á P-máli, barnaleg afbrigði af íslensku svipuð enska Pig Latin, þar sem fyrir framan sérhverja sérhljóða er bætt við 'p', með sama sérhljóða á undan. Þannig verður 'gassi' að 'gapassipi'. Fylgir erindi frá útgefendum Mumbling Eye, Adam Buffington og Tuma Magnússyni, og sýning á heimildarmynd um Pálsson eftir Steinpór Birgisson."
+      }
+    },
+    {
+      "id": "something-from-nothing-the-visual-realm-of-magnús-2019",
+      "year": "2019",
+      "title": {
+        "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson (EITTHVAÐ úr ENGU – Myndheimur Magnúsar Pálssonar)",
+        "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
+      },
+      "venue": {
+        "en": "Reykjavík Art Museum – Hafnarhús",
+        "is": "Reykjavík Art Museum – Hafnarhús"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "September 28, 2019 – January 5, 2020. Major retrospective exhibition at age 90, focusing on material visual works from early 1960s to present. Curators: Markús Þór Andrésson and Sigurður Trausti Traustason. Opening performance by Nýlókórinn. Exhibition spread across multiple floors including Galleries A, B, C, D and additional spaces throughout the museum.",
+        "is": ""
+      }
+    },
+    {
+      "id": "ævintýr-folk-tale-2016",
+      "year": "2016",
+      "title": {
+        "en": "Ævintýr (Folk tale)",
+        "is": "Ævintýr (Folk tale)"
+      },
+      "venue": {
+        "en": "Skaftfell (Samkoma handan Norðanvindsins)",
+        "is": "Skaftfell (Samkoma handan Norðanvindsins)"
+      },
+      "location": "Seyðisfjörður, Iceland",
+      "notes": {
+        "en": "Performed by the theatre group Grímur, advisor Halldóra Malin Pétursdóttir, director Tinna Guðmundsdóttir",
+        "is": ""
+      }
+    },
+    {
+      "id": "rúllandi-snjóbolti7-rolling-snowball7-2016",
+      "year": "2016",
+      "title": {
+        "en": "Rúllandi Snjóbolti/7 (Rolling Snowball/7)",
+        "is": "Rúllandi Snjóbolti/7 (Rolling Snowball/7)"
+      },
+      "venue": {
+        "en": "Djúpivogur",
+        "is": "Djúpivogur"
+      },
+      "location": "Iceland",
+      "notes": {
+        "en": "Typewriter keyboard piece, performance with 20 performers & typists",
+        "is": ""
+      }
+    },
+    {
+      "id": "gjörningar-hátið-2016",
+      "year": "2016",
+      "title": {
+        "en": "Gjörningar Hátið",
+        "is": "Gjörningar Hátið"
+      },
+      "venue": {
+        "en": "Siglufjörður",
+        "is": "Siglufjörður"
+      },
+      "location": "Iceland",
+      "notes": {
+        "en": "Typewriter keyboard piece",
+        "is": ""
+      }
+    },
+    {
+      "id": "vakning-awakening-2015",
+      "year": "2015",
+      "title": {
+        "en": "Vakning (Awakening)",
+        "is": "Vakning (Awakening)"
+      },
+      "venue": {
+        "en": "A! Gjörningahátíð, Listasafnið á Akureyri, Ketilhús",
+        "is": "A! Gjörningahátíð, Listasafnið á Akureyri, Ketilhús"
+      },
+      "location": "Akureyri, Iceland",
+      "notes": {
+        "en": "September 3-6, 2015. Performance for 4 soloists and clocks. Part of the four-day A! Gjörningahátíð (Performance Festival) organized by Listasafnið á Akureyri, Leikfélag Akureyrar, and Lókal. More information: https://www.listak.is/is/syningar/lidnar-syningar/2015/a-gjorningahatid",
+        "is": "3.-6. september 2015. Frammistaða fyrir 4 sólóistaog klukk ur. Hluti af fjögurra daga A! Gjörningahátíð skipulögð af Listasafninu á Akureyri, Leikfélagi Akureyrar og Lókal. Nánari upplýsingar: https://www.listak.is/is/syningar/lidnar-syningar/2015/a-gjorningahatid"
+      }
+    },
+    {
+      "id": "kúakyn-í-hættu-endangered-cow-2015",
+      "year": "2015",
+      "title": {
+        "en": "Kúakyn í hættu (Endangered cow)",
+        "is": "Kúakyn í hættu (Endangered cow)"
+      },
+      "venue": {
+        "en": "Tectonics Festival, Harpa",
+        "is": "Tectonics Festival, Harpa"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "Performance for orchestra, speaking choir, actors, video and olfaction (dir. Ilan Volkov, Iceland Symphony Orchestra, NÝLO choir)",
+        "is": ""
+      }
+    },
+    {
+      "id": "exhibition-of-sketches-2014",
+      "year": "2014",
+      "title": {
+        "en": "Exhibition of sketches",
+        "is": "Exhibition of sketches"
+      },
+      "venue": {
+        "en": "Galleri Guðrún Hrönn Ragnarsdóttir",
+        "is": "Galleri Guðrún Hrönn Ragnarsdóttir"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "stuna-last-breath-2013",
+      "year": "2013",
+      "title": {
+        "en": "Stuna (Last breath)",
+        "is": "Stuna (Last breath)"
+      },
+      "venue": {
+        "en": "Reykjavík Arts Festival",
+        "is": "Reykjavík Arts Festival"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "sprengdt-hljóðhimna-burst-eardrum-2013",
+      "year": "2013",
+      "title": {
+        "en": "Sprengdt hljóðhimna (Burst eardrum)",
+        "is": "Sprengdt hljóðhimna (Burst eardrum)"
+      },
+      "venue": {
+        "en": "Reykjavík Arts Festival",
+        "is": "Reykjavík Arts Festival"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "Directed by Þórunn S Þorgrímsdóttir",
+        "is": ""
+      }
+    },
+    {
+      "id": "ævintýr-folk-tale-2013",
+      "year": "2013",
+      "title": {
+        "en": "Ævintýr (Folk tale)",
+        "is": "Ævintýr (Folk tale)"
+      },
+      "venue": {
+        "en": "Reykjavík Arts Festival",
+        "is": "Reykjavík Arts Festival"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "anti-society-league-concert-2013",
+      "year": "2013",
+      "title": {
+        "en": "Anti-Society League concert",
+        "is": "Anti-Society League concert"
+      },
+      "venue": {
+        "en": "Reykjavík Arts Festival",
+        "is": "Reykjavík Arts Festival"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "þrígaldur-þursavænn-threefold-magic-giant-friendly-2013",
+      "year": "2013",
+      "title": {
+        "en": "Þrígaldur Þursavænn (Threefold magic giant friendly)",
+        "is": "Þrígaldur Þursavænn (Threefold magic giant friendly)"
+      },
+      "venue": {
+        "en": "Reykjavík Arts Festival",
+        "is": "Reykjavík Arts Festival"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "kross-2013",
+      "year": "2013",
+      "title": {
+        "en": "Kross",
+        "is": "Kross"
+      },
+      "venue": {
+        "en": "Reykjavík Arts Festival",
+        "is": "Reykjavík Arts Festival"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "Directed by Guðmundur Oddur",
+        "is": ""
+      }
+    },
+    {
+      "id": "the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013",
+      "year": "2013",
+      "title": {
+        "en": "The Sound of a Bugle in a Shoebox: Magnús Pálsson - A Performance Retrospective 1980-2013",
+        "is": "Hljómur lúðurs í skókassa: Magnús Pálsson - Yfirlit gjörninga 1980-2013"
+      },
+      "venue": {
+        "en": "Reykjavík Art Museum – Hafnarhús",
+        "is": "Listasafn Reykjavíkur – Hafnarhús"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "Solo retrospective exhibition of performance documentation spanning 33 years of Pálsson's performance art practice",
+        "is": "Einkasýning með yfirliti yfir 33 ára gjörningalist Pálssonar"
+      }
+    },
+    {
+      "id": "panels-ttjur-2012",
+      "year": "2012",
+      "title": {
+        "en": "Panels (TTjur)",
+        "is": "Panels (TTjur)"
+      },
+      "venue": {
+        "en": "Kunstraum Kreuzberg/Bethanien",
+        "is": "Kunstraum Kreuzberg/Bethanien"
+      },
+      "location": "Berlin, Germany",
+      "notes": {
+        "en": "In “Gesture Sign Art. Deaf Culture / Hearing Culture” (curated by Wolfgang Müller, An Paenhuysen)",
+        "is": ""
+      }
+    },
+    {
+      "id": "manuscripts-and-sculptures-2012",
+      "year": "2012",
+      "title": {
+        "en": "Manuscripts and sculptures",
+        "is": "Manuscripts and sculptures"
+      },
+      "venue": {
+        "en": "Lund Konsthall",
+        "is": "Lund Konsthall"
+      },
+      "location": "Lund, Sweden",
+      "notes": {
+        "en": "In “Spela med, stöpa om” (Play with, recast)",
+        "is": ""
+      }
+    },
+    {
+      "id": "walking-on-water-2012",
+      "year": "2012",
+      "title": {
+        "en": "Walking on water",
+        "is": "Walking on water"
+      },
+      "venue": {
+        "en": "Gallerí Kling og Bang",
+        "is": "Gallerí Kling og Bang"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "Four sculptures",
+        "is": ""
+      }
+    },
+    {
+      "id": "ævintýr-folk-tale-2011",
+      "year": "2011",
+      "title": {
+        "en": "Ævintýr (Folk tale)",
+        "is": "Ævintýr (Folk tale)"
+      },
+      "venue": {
+        "en": "Modern Art Oxford",
+        "is": "Modern Art Oxford"
+      },
+      "location": "Oxford, UK",
+      "notes": {
+        "en": "Performed in “Solo”",
+        "is": ""
+      }
+    },
+    {
+      "id": "freyskatla-2011",
+      "year": "2011",
+      "title": {
+        "en": "Freyskatla",
+        "is": "Freyskatla"
+      },
+      "venue": {
+        "en": "Korpúlfsstaðir",
+        "is": "Korpúlfsstaðir"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "Performed by Nýlokórinn",
+        "is": ""
+      }
+    },
+    {
+      "id": "viðtöl-um-dauðann-interviews-about-death-2011",
+      "year": "2011",
+      "title": {
+        "en": "Viðtöl um dauðann (Interviews about death)",
+        "is": "Viðtöl um dauðann (Interviews about death)"
+      },
+      "venue": {
+        "en": "National Gallery of Iceland",
+        "is": "National Gallery of Iceland"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "innsetning-2011",
+      "year": "2011",
+      "title": {
+        "en": "Innsetning",
+        "is": "Innsetning"
+      },
+      "venue": {
+        "en": "National Gallery of Iceland",
+        "is": "National Gallery of Iceland"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "(see 2003)",
+        "is": ""
+      }
+    },
+    {
+      "id": "collapse-2010",
+      "year": "2010",
+      "title": {
+        "en": "Collapse",
+        "is": "Collapse"
+      },
+      "venue": {
+        "en": "The Living Art Museum",
+        "is": "The Living Art Museum"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "Solo performance",
+        "is": ""
+      }
+    },
+    {
+      "id": "freyskatla-part-iii-2010",
+      "year": "2010",
+      "title": {
+        "en": "Freyskatla Part III",
+        "is": "Freyskatla Part III"
+      },
+      "venue": {
+        "en": "Reykjavík Arts Festival, Korpúlfsstaðir",
+        "is": "Reykjavík Arts Festival, Korpúlfsstaðir"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "Sound poetry, performed by The LAM Sound Poetry Choir with soloists",
+        "is": ""
+      }
+    },
+    {
+      "id": "taðskegglingar-2009",
+      "year": "2009",
+      "title": {
+        "en": "Taðskegglingar",
+        "is": "Taðskegglingar"
+      },
+      "venue": {
+        "en": "Sequences Arts Festival, Hafnarhús",
+        "is": "Sequences Arts Festival, Hafnarhús"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "freyskatla-part-ii-2009",
+      "year": "2009",
+      "title": {
+        "en": "Freyskatla Part II",
+        "is": "Freyskatla Part II"
+      },
+      "venue": {
+        "en": "The Living Art Museum",
+        "is": "The Living Art Museum"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "oryoki-2009",
+      "year": "2009",
+      "title": {
+        "en": "Oryoki",
+        "is": "Oryoki"
+      },
+      "venue": {
+        "en": "Gallery Start Art",
+        "is": "Gallery Start Art"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "rainbow-clippings-2008",
+      "year": "2008",
+      "title": {
+        "en": "Rainbow Clippings",
+        "is": "Rainbow Clippings"
+      },
+      "venue": {
+        "en": "Start Art Gallery",
+        "is": "Start Art Gallery"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "rainbow-clippings-2008",
+      "year": "2008",
+      "title": {
+        "en": "Rainbow Clippings",
+        "is": "Rainbow Clippings"
+      },
+      "venue": {
+        "en": "Gallery Crystal Ball",
+        "is": "Gallery Crystal Ball"
+      },
+      "location": "Berlin, Germany"
+    },
+    {
+      "id": "dreams-written-and-spoken-2008",
+      "year": "2008",
+      "title": {
+        "en": "Dreams written and spoken",
+        "is": "Dreams written and spoken"
+      },
+      "venue": {
+        "en": "Gallery Crystal Ball",
+        "is": "Gallery Crystal Ball"
+      },
+      "location": "Berlin, Germany"
+    },
+    {
+      "id": "freyskatla-part-i-2008",
+      "year": "2008",
+      "title": {
+        "en": "Freyskatla Part I",
+        "is": "Freyskatla Part I"
+      },
+      "venue": {
+        "en": "The Living Art Museum",
+        "is": "The Living Art Museum"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "in-memory-of-thorarinn-nefjólfsson-2007",
+      "year": "2007",
+      "title": {
+        "en": "In Memory of Thorarinn Nefjólfsson",
+        "is": "In Memory of Thorarinn Nefjólfsson"
+      },
+      "venue": {
+        "en": "Gallery i8",
+        "is": "Gallery i8"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "ég-2006",
+      "year": "2006",
+      "title": {
+        "en": "Ég",
+        "is": "Ég"
+      },
+      "venue": {
+        "en": "Icelandic State Television",
+        "is": "Icelandic State Television"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "fosswaterfall-2006",
+      "year": "2006",
+      "title": {
+        "en": "Foss/Waterfall",
+        "is": "Foss/Waterfall"
+      },
+      "venue": {
+        "en": "Safn Museum",
+        "is": "Safn Museum"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "a-tribute-to-the-automobile-2005",
+      "year": "2005",
+      "title": {
+        "en": "A Tribute to the Automobile",
+        "is": "A Tribute to the Automobile"
+      },
+      "venue": {
+        "en": "Reykjavík Art Museum",
+        "is": "Reykjavík Art Museum"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "the-skinned-rabbit-and-other-dreams-2005",
+      "year": "2005",
+      "title": {
+        "en": "The Skinned Rabbit and Other Dreams",
+        "is": "The Skinned Rabbit and Other Dreams"
+      },
+      "venue": {
+        "en": "Boekie Woekie",
+        "is": "Boekie Woekie"
+      },
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "id": "brim-surf-2005",
+      "year": "2005",
+      "title": {
+        "en": "Brim (Surf)",
+        "is": "Brim (Surf)"
+      },
+      "venue": {
+        "en": "Suðsuðvestur",
+        "is": "Suðsuðvestur"
+      },
+      "location": "Keflavík, Iceland"
+    },
+    {
+      "id": "viðtöl-um-dauðann-interviews-about-death-2003",
+      "year": "2003",
+      "title": {
+        "en": "Viðtöl um dauðann (Interviews about Death)",
+        "is": "Viðtöl um dauðann (Interviews about Death)"
+      },
+      "venue": {
+        "en": "Reykjavík Art Museum",
+        "is": "Reykjavík Art Museum"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "tribute-to-the-automobile-2002",
+      "year": "2002",
+      "title": {
+        "en": "Tribute to the Automobile",
+        "is": "Tribute to the Automobile"
+      },
+      "venue": {
+        "en": "The Living Art Museum",
+        "is": "The Living Art Museum"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "strunz-2002",
+      "year": "2002",
+      "title": {
+        "en": "Strunz",
+        "is": "Strunz"
+      },
+      "venue": {
+        "en": "Kópavogur Art Museum",
+        "is": "Kópavogur Art Museum"
+      },
+      "location": "Kópavogur, Iceland"
+    },
+    {
+      "id": "seeds-of-aspidistra-2001",
+      "year": "2001",
+      "title": {
+        "en": "Seeds of Aspidistra",
+        "is": "Seeds of Aspidistra"
+      },
+      "venue": {
+        "en": "Polypoetry Festival",
+        "is": "Polypoetry Festival"
+      },
+      "location": "Maastricht, Netherlands"
+    },
+    {
+      "id": "þrígaldur-þursavænn-2000",
+      "year": "2000",
+      "title": {
+        "en": "Þrígaldur Þursavænn",
+        "is": "Þrígaldur Þursavænn"
+      },
+      "venue": {
+        "en": "Reykjavík Art Museum",
+        "is": "Reykjavík Art Museum"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "kúplingsdiskur-1999",
+      "year": "1999",
+      "title": {
+        "en": "Kúplingsdiskur",
+        "is": "Kúplingsdiskur"
+      },
+      "venue": {
+        "en": "Gallerí Ingólfsstræti 8",
+        "is": "Gallerí Ingólfsstræti 8"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "undir-berum-himni-video-1999",
+      "year": "1999",
+      "title": {
+        "en": "Undir berum himni (video)",
+        "is": "Undir berum himni (video)"
+      },
+      "venue": {
+        "en": "Gallerí Plús",
+        "is": "Gallerí Plús"
+      },
+      "location": "Akureyri, Iceland"
+    },
+    {
+      "id": "sculpture-1999",
+      "year": "1999",
+      "title": {
+        "en": "Sculpture",
+        "is": "Sculpture"
+      },
+      "venue": {
+        "en": "Safnasafnið",
+        "is": "Safnasafnið"
+      },
+      "location": "Svalbarðsströnd, Iceland"
+    },
+    {
+      "id": "ævintýr-folk-tale-1997",
+      "year": "1997",
+      "title": {
+        "en": "Ævintýr (Folk Tale)",
+        "is": "Ævintýr (Folk Tale)"
+      },
+      "venue": {
+        "en": "The Living Art Museum",
+        "is": "The Living Art Museum"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "ævintýr-folk-tale-1997",
+      "year": "1997",
+      "title": {
+        "en": "Ævintýr (Folk Tale)",
+        "is": "Ævintýr (Folk Tale)"
+      },
+      "venue": {
+        "en": "Yes be Poetry, Sound Poetry Festival",
+        "is": "Yes be Poetry, Sound Poetry Festival"
+      },
+      "location": "Bologna, Italy"
+    },
+    {
+      "id": "dreams-1996",
+      "year": "1996",
+      "title": {
+        "en": "Dreams",
+        "is": "Dreams"
+      },
+      "venue": {
+        "en": "Boekie Woekie",
+        "is": "Boekie Woekie"
+      },
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "id": "cross-1996",
+      "year": "1996",
+      "title": {
+        "en": "Cross",
+        "is": "Cross"
+      },
+      "venue": {
+        "en": "Margrethe Fjorden",
+        "is": "Margrethe Fjorden"
+      },
+      "location": "Roskilde, Denmark"
+    },
+    {
+      "id": "gapassipi-1995",
+      "year": "1995",
+      "title": {
+        "en": "Gapassipi",
+        "is": "Gapassipi"
+      },
+      "venue": {
+        "en": "Reykjavík Town Hall",
+        "is": "Reykjavík Town Hall"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "100-ára-stríðið-100-years-war-1995",
+      "year": "1995",
+      "title": {
+        "en": "100 ára stríðið (100 Years War)",
+        "is": "100 ára stríðið (100 Years War)"
+      },
+      "venue": {
+        "en": "Café Mokka",
+        "is": "Café Mokka"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "retrospective-exhibition-1994",
+      "year": "1994",
+      "title": {
+        "en": "Retrospective Exhibition",
+        "is": "Retrospective Exhibition"
+      },
+      "venue": {
+        "en": "Reykjavík Art Museum, Kjarvalsstaðir",
+        "is": "Reykjavík Art Museum, Kjarvalsstaðir"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "September 24 - October 23, 1994. Retrospective overview showcasing works from a transformative period in Icelandic art. Pálsson served as a principal figure in these artistic transformations of the 1960s, functioning both as a conceptual innovator and educator. Throughout his career, he developed a distinctive approach to conceptual art creation, consistently challenging conventional boundaries between artistic disciplines while redefining the role and nature of the artwork itself. Exhibition materials include catalog and extensive media coverage from major Icelandic publications. More information: https://listasafnreykjavikur.is/syningar/magnus-palsson",
+        "is": "24. september - 23. október 1994. Yfirlit yfir listaverk frá umbreytingatímabili í íslenskri list. Pálsson var einn af aðalpersónum í þessum listrænu umbreytingum á sjötta áratugnum, starfaði bæði sem hugmyndamaður og kennari. Í gegnum feril sinn þróaði hann sérstaka nálgun á sköpun hugmyndalistar, ögrar stöðugt hefðbundnum mörkum milli listgreina og endurskilgreinir hlutverk og eðli listaverksins sjálfs. Sýningargögn innihalda sýningarskrá og umfangsmikla fjölmiðlaumfjöllun frá helstu íslenskum fjölmiðlum. Nánari upplýsingar: https://listasafnreykjavikur.is/syningar/magnus-palsson"
+      }
+    },
+    {
+      "id": "exhibition-1994",
+      "year": "1994",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "Gallery Ellifjós",
+        "is": "Gallery Ellifjós"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "varla-not-really-1994",
+      "year": "1994",
+      "title": {
+        "en": "Varla… (Not really…)",
+        "is": "Varla… (Not really…)"
+      },
+      "venue": {
+        "en": "The Living Art Museum",
+        "is": "The Living Art Museum"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "enginn-gleypir-sólina-no-one-swallows-the-sun-1993",
+      "year": "1993",
+      "title": {
+        "en": "Enginn gleypir sólina (No one swallows the sun)",
+        "is": "Enginn gleypir sólina (No one swallows the sun)"
+      },
+      "venue": {
+        "en": "Gallery 11",
+        "is": "Gallery 11"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "p-mál-performance-1993",
+      "year": "1993",
+      "title": {
+        "en": "P-mál (performance)",
+        "is": "P-mál (performance)"
+      },
+      "venue": {
+        "en": "The Living Art Museum",
+        "is": "The Living Art Museum"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "exhibition-1993",
+      "year": "1993",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "Gallery Gangur",
+        "is": "Gallery Gangur"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "þrætubálkur-1990",
+      "year": "1990",
+      "title": {
+        "en": "Þrætubálkur",
+        "is": "Þrætubálkur"
+      },
+      "venue": {
+        "en": "The Living Art Museum & Municipal Theatre",
+        "is": "The Living Art Museum & Municipal Theatre"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "voice-installation-with-video-1988",
+      "year": "1988",
+      "title": {
+        "en": "Voice installation with video",
+        "is": "Voice installation with video"
+      },
+      "venue": {
+        "en": "Gallery Birgir Andrésson",
+        "is": "Gallery Birgir Andrésson"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "madame-president-1986",
+      "year": "1986",
+      "title": {
+        "en": "Madame President",
+        "is": "Madame President"
+      },
+      "venue": {
+        "en": "Henie-Onstad Kunstsenter",
+        "is": "Henie-Onstad Kunstsenter"
+      },
+      "location": "Høvikodden, Norway"
+    },
+    {
+      "id": "de-kommer-med-kiste-og-hente-meg-they-are-bringing-1985",
+      "year": "1985",
+      "title": {
+        "en": "De kommer med kiste og hente meg (They are bringing the coffin to get me)",
+        "is": "De kommer med kiste og hente meg (They are bringing the coffin to get me)"
+      },
+      "venue": {
+        "en": "Henie-Onstad Kunstsenter",
+        "is": "Henie-Onstad Kunstsenter"
+      },
+      "location": "Høvikodden, Norway"
+    },
+    {
+      "id": "exhibition-1985",
+      "year": "1985",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "Gallery Gangur",
+        "is": "Gallery Gangur"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "augustus-my-god-i-have-it-1984",
+      "year": "1984",
+      "title": {
+        "en": "Augustus, my God, I have it",
+        "is": "Augustus, my God, I have it"
+      },
+      "venue": {
+        "en": "Franklin Furnace",
+        "is": "Franklin Furnace"
+      },
+      "location": "New York, USA"
+    },
+    {
+      "id": "teaching-the-craziest-branch-of-art-1984",
+      "year": "1984",
+      "title": {
+        "en": "Teaching: the craziest branch of art",
+        "is": "Teaching: the craziest branch of art"
+      },
+      "venue": {
+        "en": "Reykjavík Arts Festival, The Living Art Museum",
+        "is": "Reykjavík Arts Festival, The Living Art Museum"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "in-memory-of-a-friend-who-ate-a-house-in-akureyri-1982",
+      "year": "1982",
+      "title": {
+        "en": "In memory of a friend who ate a house in Akureyri and played blues on his tibia",
+        "is": "In memory of a friend who ate a house in Akureyri and played blues on his tibia"
+      },
+      "venue": {
+        "en": "The Red House",
+        "is": "The Red House"
+      },
+      "location": "Akureyri, Iceland"
+    },
+    {
+      "id": "exhibition-1981",
+      "year": "1981",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "Gallery Gangur",
+        "is": "Gallery Gangur"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "biennale-di-venezia-1980",
+      "year": "1980",
+      "title": {
+        "en": "Biennale di Venezia",
+        "is": "Biennale di Venezia"
+      },
+      "venue": {
+        "en": "",
+        "is": ""
+      },
+      "location": ""
+    },
+    {
+      "id": "í-minning-magnúsar-jónssonar-1980",
+      "year": "1980",
+      "title": {
+        "en": "Í minning Magnúsar Jónssonar",
+        "is": "Í minning Magnúsar Jónssonar"
+      },
+      "venue": {
+        "en": "The Red House",
+        "is": "The Red House"
+      },
+      "location": "Akureyri, Iceland"
+    },
+    {
+      "id": "exhibition-1978",
+      "year": "1978",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "Gallery Lóa",
+        "is": "Gallery Lóa"
+      },
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "id": "exhibition-1977",
+      "year": "1977",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "Gallery Suðurgata 7",
+        "is": "Gallery Suðurgata 7"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "exhibition-1977",
+      "year": "1977",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "Gallery \"A\"",
+        "is": "Gallery \"A\""
+      },
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "id": "exhibition-1977",
+      "year": "1977",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "Gallery Waalkens",
+        "is": "Gallery Waalkens"
+      },
+      "location": "Finsterwolde, Holland"
+    },
+    {
+      "id": "exhibition-1975",
+      "year": "1975",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "Gallery Fignal",
+        "is": "Gallery Fignal"
+      },
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "id": "exhibition-1971",
+      "year": "1971",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "Gallery Balderich",
+        "is": "Gallery Balderich"
+      },
+      "location": "Mönchengladbach, Germany"
+    },
+    {
+      "id": "exhibition-1968",
+      "year": "1968",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "Gallery Hansjörg Mayer",
+        "is": "Gallery Hansjörg Mayer"
+      },
+      "location": "Stuttgart, Germany"
+    },
+    {
+      "id": "erðanúborð-from-1962-1968",
+      "year": "1968",
+      "title": {
+        "en": "Erðanúborð (from 1962)",
+        "is": "Erðanúborð (from 1962)"
+      },
+      "venue": {
+        "en": "Ásmundarsalur",
+        "is": "Ásmundarsalur"
+      },
+      "location": "Reykjavík, Iceland\n        Solo exhibition featuring sculptures and graphics (silkscreen and heliograph)"
+    },
+    {
+      "id": "bestu-stykkin-1967",
+      "year": "1967",
+      "title": {
+        "en": "Bestu stykkin",
+        "is": "Bestu stykkin"
+      },
+      "venue": {
+        "en": "Ásmundarsalur",
+        "is": "Ásmundarsalur"
+      },
+      "location": "Reykjavík, Iceland"
+    }
+  ],
+  "group": [
+    {
+      "id": "nr-4-umhverfing-no-4-around-2022",
+      "year": "2022",
+      "title": {
+        "en": "Nr. 4 Umhverfing | No 4 Around",
+        "is": "Nr. 4 Umhverfing | No 4 Around"
+      },
+      "venue": {
+        "en": "Academy of the Senses (Akademía skynjunarinnar)",
+        "is": "Akademía skynjunarinnar"
+      },
+      "location": "Westfjords (Vestfirði), Strandir, and Dales (Dalir), Iceland",
+      "notes": {
+        "en": "Summer 2022 (June-August). Traveling group exhibition showcasing contemporary visual art across unconventional venues and abandoned buildings throughout three Icelandic regions. Magnús Pálsson exhibited the work 'Jón'. The project aimed to introduce art in non-traditional exhibition spaces in collaboration with local communities. Fourth iteration in the Umhverfing series. More information: https://www.academyofthesenses.is/nr-4-umhverfing-no-4-around",
+        "is": "Sumar 2022 (júní-ágúst). Ferðasýning á nútímalistum á óhefðbundnum sýningarstöðum og í yfirgefnum byggingum um þrjú íslensk svæði. Magnús Pálsson sýndi verkið 'Jón'. Verkefnið hafði að markmiði að kynna list á óhefðbundnum sýningarstöðum í samstarfi við staðbundið samfélag. Fjórða útgáfa Umhverfing seríunnar. Nánari upplýsingar: https://www.academyofthesenses.is/nr-4-umhverfing-no-4-around"
+      }
+    },
+    {
+      "id": "hljóðön-sýning-tónlistar-2019",
+      "year": "2019",
+      "title": {
+        "en": "Hljóðön: sýning tónlistar",
+        "is": "Hljóðön: sýning tónlistar"
+      },
+      "venue": {
+        "en": "Hafnarborg",
+        "is": "Hafnarborg"
+      },
+      "location": "Hafnarfjörður, Iceland \n            (work: Lúðurhljómur í skókassa)"
+    },
+    {
+      "id": "hátt-og-lágt-high-low-2018",
+      "year": "2018",
+      "title": {
+        "en": "HÁTT OG LÁGT (High & Low)",
+        "is": "HÁTT OG LÁGT (High & Low)"
+      },
+      "venue": {
+        "en": "Nordatlantens Brygge",
+        "is": "Nordatlantens Brygge"
+      },
+      "location": "Copenhagen, Denmark \n            (works: Dalalæða, Búhh (Steinþoka), Eye Talk video)"
+    },
+    {
+      "id": "rúllandi-snjóbolti11-rolling-snowball11-2018",
+      "year": "2018",
+      "title": {
+        "en": "Rúllandi Snjóbolti/11 (Rolling Snowball/11)",
+        "is": "Rúllandi Snjóbolti/11 (Rolling Snowball/11)"
+      },
+      "venue": {
+        "en": "Djúpivogur",
+        "is": "Djúpivogur"
+      },
+      "location": "Iceland \n            (works: Kál x3 & Hundar x3, lent by Pétur Arason)"
+    },
+    {
+      "id": "nr-2-umhverfing-no-2-around-2018",
+      "year": "2018",
+      "title": {
+        "en": "Nr. 2 Umhverfing | No 2 Around",
+        "is": "Nr. 2 Umhverfing | No 2 Around"
+      },
+      "venue": {
+        "en": "Multiple venues in Egilsstaðir / Fljótsdalshérað",
+        "is": "Margir staðir á Egilsstöðum / Fljótsdalshéraði"
+      },
+      "location": "Iceland",
+      "notes": {
+        "en": "Summer 2018. Group exhibition with 37 artists organized by Academy of the Senses (Akademía skynjunarinnar). Magnús Pálsson exhibited 26 recent watercolours and a work with noces and tobacco at Dyngja, and presented a performance of 'Enginn gleypir sólina' (No one swallows the sun) at Sláturhúsið Egilsstaðir. Part of the 'Around' initiative to bring contemporary art to Icelandic districts with limited art access. More information: https://www.academyofthesenses.is/nr-2-umhverfing-no-2-around",
+        "is": "Sumar 2018. Hópsýning með 37 listamönnum skipulögð af Akademíu skynjunarinnar. Magnús Pálsson sýndi 26 nýleg vatnslitaverk og verk með nótur og tóbak í Dyngju, og flutti gjörning 'Enginn gleypir sólina' í Sláturhúsinu Egilsstöðum. Hluti af 'Umhverfing' frumkvæðinu að koma nútímalist til landsbyggðarsvæða með takmarkaðan aðgang að list. Nánari upplýsingar: https://www.academyofthesenses.is/nr-2-umhverfing-no-2-around"
+      }
+    },
+    {
+      "id": "from-iceland-frá-íslandi-2018",
+      "year": "2018",
+      "title": {
+        "en": "From Iceland / Frá Íslandi",
+        "is": "From Iceland / Frá Íslandi"
+      },
+      "venue": {
+        "en": "KEG EXPO",
+        "is": "KEG EXPO"
+      },
+      "location": "Holland \n            (works: Hviskur, The Offs, Skák (Chess))"
+    },
+    {
+      "id": "up-and-down-2017",
+      "year": "2017",
+      "title": {
+        "en": "UP AND DOWN",
+        "is": "UP AND DOWN"
+      },
+      "venue": {
+        "en": "Kindl Gallery",
+        "is": "Kindl Gallery"
+      },
+      "location": "Berlin, Germany \n            (curator: An Paenhuysen, maths pieces)"
+    },
+    {
+      "id": "literally-concrete-poetry-in-iceland-the-mid-1950s-2017",
+      "year": "2017",
+      "title": {
+        "en": "Literally – Concrete Poetry in Iceland: the mid-1950s to the present",
+        "is": "Literally – Concrete Poetry in Iceland: the mid-1950s to the present"
+      },
+      "venue": {
+        "en": "Hafnarborg",
+        "is": "Hafnarborg"
+      },
+      "location": "Hafnarfjörður, Iceland \n            (works: The Offs, Tæm, Sænskur sálmar etc",
+      "notes": {
+        "en": "curator: Vigdís Rún Jónsdóttir)",
+        "is": ""
+      }
+    },
+    {
+      "id": "videos-2017",
+      "year": "2017",
+      "title": {
+        "en": "Videos",
+        "is": "Videos"
+      },
+      "venue": {
+        "en": "Reykjavík Art Museum – Hafnarhús",
+        "is": "Reykjavík Art Museum – Hafnarhús"
+      },
+      "location": "Reykjavík, Iceland \n            (works: Talk preceding Eye Talk, Eye Talk & Eye Talk II)"
+    },
+    {
+      "id": "bout-four-bouts-of-video-works-2017",
+      "year": "2017",
+      "title": {
+        "en": "Bout – Four Bouts of Video Works",
+        "is": "Bout – Fjögur umferð myndbandsverka"
+      },
+      "venue": {
+        "en": "Reykjavík Art Museum – Hafnarhús",
+        "is": "Listasafn Reykjavíkur – Hafnarhús"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "Group exhibition featuring video art works",
+        "is": "Hópsýning með myndbandsverkum"
+      }
+    },
+    {
+      "id": "performance-of-ritvél-2017",
+      "year": "2017",
+      "title": {
+        "en": "Performance of Ritvél",
+        "is": "Performance of Ritvél"
+      },
+      "venue": {
+        "en": "Reykjavík Art Museum – Hafnarhús",
+        "is": "Reykjavík Art Museum – Hafnarhús"
+      },
+      "location": "Reykjavík, Iceland \n            (NÝLO choir conducted by Atli Ingólfsson)"
+    },
+    {
+      "id": "red-snow-ice-in-motion-2016",
+      "year": "2016",
+      "title": {
+        "en": "Red Snow - Ice in Motion",
+        "is": "Rauður snjór – þegar loftslaginu blæðir"
+      },
+      "venue": {
+        "en": "Nordic House (Nordes Hus)",
+        "is": "Norðurlandahúsið (Nordes Hus)"
+      },
+      "location": "Tórshavn, Faroe Islands",
+      "notes": {
+        "en": "March 9 - April 3, 2016. Traveling Nordic art and science exhibition addressing climate change in the North Atlantic. Magnús Pálsson exhibited 'Walking on water' sculpture. Part of a four-country exhibition tour organized to raise awareness about climate change impacts. Opening celebration with drum dancing and musical performances. More information: https://nordichouse.is/en/event/raudur-snjor/",
+        "is": "9. mars - 3. apríl 2016. Ferðasýning norrænnar listar og vísinda um loftslagsbreytingar á Norður-Atlantshafi. Magnús Pálsson sýndi 'Walking on water' skúlptúr. Hluti af fjögurra landa sýningarferð til að vekja athygli á áhrifum loftslagsbreytinga. Opnunarhátíð með trommuslagsátökum og tónlistarflutningi. Nánari upplýsingar: https://nordichouse.is/en/event/raudur-snjor/"
+      }
+    },
+    {
+      "id": "red-snow-ice-in-motion-2015",
+      "year": "2015",
+      "title": {
+        "en": "Red Snow - Ice in Motion",
+        "is": "Rauður snjór - Ís í hreyfingu"
+      },
+      "venue": {
+        "en": "The Nordic House",
+        "is": "Norðurlandahúsið"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "October 15 - November 22, 2015. Traveling Nordic art and science exhibition addressing climate change in the North Atlantic. Magnús Pálsson exhibited 'Walking on water' sculpture. Opening remarks by former Icelandic President Vigdís Finnbogadóttir, followed by concerts and scientific presentations. Exhibition featured works by 12 artists exploring climate themes. More information: https://nordichouse.is/en/event/raudur-snjor/",
+        "is": "15. október - 22. nóvember 2015. Ferðasýning norrænnar listar og vísinda um loftslagsbreytingar á Norður-Atlantshafi. Magnús Pálsson sýndi 'Walking on water' skúlptúr. Opnunarræða eftir Vigdísi Finnbogadóttur fyrrverandi forseta, fylgt eftir með tónleikum og vísindalegum kynningum. Sýningin innihélt verk eftir 12 listamenn sem kanna loftslagsþemu. Nánari upplýsingar: https://nordichouse.is/en/event/raudur-snjor/"
+      }
+    },
+    {
+      "id": "a-gjörningahátíð-performance-festival-2015",
+      "year": "2015",
+      "title": {
+        "en": "A! Gjörningahátíð (Performance Festival)",
+        "is": "A! Gjörningahátíð"
+      },
+      "venue": {
+        "en": "Listasafnið á Akureyri, Ketilhús",
+        "is": "Listasafnið á Akureyri, Ketilhús"
+      },
+      "location": "Akureyri, Iceland",
+      "notes": {
+        "en": "September 3-6, 2015. Four-day performance art festival featuring Magnús Pálsson's 'Vakning' (Awakening) - a performance for 4 soloists and clocks. Organized by Listasafnið á Akureyri, Leikfélag Akureyrar, and Lókal. More information: https://www.listak.is/is/syningar/lidnar-syningar/2015/a-gjorningahatid",
+        "is": "3.-6. september 2015. Fjögurra daga gjörningahátíð með 'Vakningu' eftir Magnús Pálsson - frammistaða fyrir 4 sólóista og klukkur. Skipulögð af Listasafninu á Akureyri, Leikfélagi Akureyrar og Lókal. Nánari upplýsingar: https://www.listak.is/is/syningar/lidnar-syningar/2015/a-gjorningahatid"
+      }
+    },
+    {
+      "id": "red-snow-ice-in-motion-2015",
+      "year": "2015",
+      "title": {
+        "en": "Red Snow - Ice in Motion",
+        "is": "Rauður snjór - Ís í hreyfingu"
+      },
+      "venue": {
+        "en": "Nordatlantens Brygge",
+        "is": "Nordatlantens Brygge"
+      },
+      "location": "Copenhagen, Denmark",
+      "notes": {
+        "en": "June 12 - August 23, 2015. Traveling Nordic art and science exhibition addressing climate change in the North Atlantic. Magnús Pálsson exhibited 'Walking on water' sculpture. Exhibition open weekdays 10am-5pm and weekends 12pm-5pm. Part of the project's tour through Nordic capitals.",
+        "is": "12. júní - 23. ágúst 2015. Ferðasýning norrænnar listar og vísinda um loftslagsbreytingar á Norður-Atlantshafi. Magnús Pálsson sýndi 'Walking on water' skúlptúr. Sýning opin virka daga 10-17 og um helgar 12-17. Hluti af ferð verkefnisins um norrænar höfuðborgir."
+      }
+    },
+    {
+      "id": "red-snow-ice-in-motion-2014",
+      "year": "2014",
+      "title": {
+        "en": "Red Snow - Ice in Motion",
+        "is": "Rauður snjór - Ís í hreyfingu"
+      },
+      "venue": {
+        "en": "Katuaq (Greenland's Cultural House)",
+        "is": "Katuaq (Menningarhús Grænlands)"
+      },
+      "location": "Nuuk, Greenland",
+      "notes": {
+        "en": "October 11-30, 2014. Inaugural exhibition of the traveling Nordic art and science project addressing climate change. Magnús Pálsson exhibited 'Walking on water' sculpture. Opening featured speeches, drum performances, and scientific lectures on Arctic climate impacts. First stop of a four-country tour.",
+        "is": "11.-30. október 2014. Upphafsýning ferðaverkefnis í norrænum listum og vísindum um loftslagsbreytingar. Magnús Pálsson sýndi 'Walking on water' skúlptúr. Opnun með ræðum, trommuslagsátökum og vísindaráðstefnum um loftslagsáhrif á norðurslóðum. Fyrsti viðkomustaður fjögurra landa ferðar."
+      }
+    },
+    {
+      "id": "icelandic-video-art-from-19751990-2013",
+      "year": "2013",
+      "title": {
+        "en": "Icelandic Video Art from 1975–1990",
+        "is": "Íslensk myndbandalist frá 1975–1990"
+      },
+      "venue": {
+        "en": "Reykjavík Art Museum – Hafnarhús",
+        "is": "Listasafn Reykjavíkur – Hafnarhús"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "Group exhibition showcasing the development of Icelandic video art",
+        "is": "Hópsýning sem sýnir þróun íslenskrar myndbandslistar"
+      }
+    },
+    {
+      "id": "skyggi-shadow-2012",
+      "year": "2012",
+      "title": {
+        "en": "Skyggi (Shadow)",
+        "is": "Skyggi (Shadow)"
+      },
+      "venue": {
+        "en": "Hafnarborg",
+        "is": "Hafnarborg"
+      },
+      "location": "Hafnarfjörður, Iceland \n            (curator: Guðný Tómasson)"
+    },
+    {
+      "id": "50-years-of-icelandic-art-at-the-venice-biennale-2011",
+      "year": "2011",
+      "title": {
+        "en": "50 Years of Icelandic Art at the Venice Biennale",
+        "is": "50 ár íslenskrar listar á Feneyjatvíæringnum"
+      },
+      "venue": {
+        "en": "Reykjavík Art Museum – Kjarvalsstaðir",
+        "is": "Listasafn Reykjavíkur – Kjarvalsstaðir"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "Group exhibition commemorating five decades of Icelandic participation in the Venice Biennale",
+        "is": "Hópsýning til minningar um fimm áratugi íslenskrar þátttöku í Feneyjatvíæringnum"
+      }
+    },
+    {
+      "id": "a-new-art-emerges-2011",
+      "year": "2011",
+      "title": {
+        "en": "A New Art Emerges",
+        "is": "Ný list kemur fram"
+      },
+      "venue": {
+        "en": "Reykjavík Art Museum – Kjarvalsstaðir",
+        "is": "Listasafn Reykjavíkur – Kjarvalsstaðir"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "Group exhibition exploring the emergence of new artistic movements in Iceland",
+        "is": "Hópsýning sem kannar tilurð nýrra listahreyfinga á Íslandi"
+      }
+    },
+    {
+      "id": "perspectives-on-the-borders-of-art-and-philosophy-2011",
+      "year": "2011",
+      "title": {
+        "en": "Perspectives - On the Borders of Art and Philosophy",
+        "is": "Sjónarhorn - Á mörkum listar og heimspeki"
+      },
+      "venue": {
+        "en": "Reykjavík Art Museum – Hafnarhús",
+        "is": "Listasafn Reykjavíkur – Hafnarhús"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "Group exhibition examining the intersections between contemporary art and philosophical thought",
+        "is": "Hópsýning sem skoðar samskipti nútímalistar og heimspekilegrar hugsunar"
+      }
+    },
+    {
+      "id": "degrees-north-six-artists-and-the-icelandic-landsc-2008",
+      "year": "2008",
+      "title": {
+        "en": "Degrees North: Six Artists and the Icelandic Landscape",
+        "is": "Degrees North: Six Artists and the Icelandic Landscape"
+      },
+      "venue": {
+        "en": "Center for Curatorial Studies, Bard College",
+        "is": "Center for Curatorial Studies, Bard College"
+      },
+      "location": "New York, USA"
+    },
+    {
+      "id": "eye-talk-ii-2007",
+      "year": "2007",
+      "title": {
+        "en": "Eye Talk II",
+        "is": "Eye Talk II"
+      },
+      "venue": {
+        "en": "Pelorus Trust Media Gallery",
+        "is": "Pelorus Trust Media Gallery"
+      },
+      "location": "Wellington, New Zealand (video)"
+    },
+    {
+      "id": "sýning-í-safnasafninu-2007",
+      "year": "2007",
+      "title": {
+        "en": "Sýning í Safnasafninu",
+        "is": "Sýning í Safnasafninu"
+      },
+      "venue": {
+        "en": "Safnasafnið",
+        "is": "Safnasafnið"
+      },
+      "location": "Akureyri, Iceland \n            (curator: Niels Hafstein, work: Toes)"
+    },
+    {
+      "id": "fæðing-birth-2006",
+      "year": "2006",
+      "title": {
+        "en": "Fæðing (Birth)",
+        "is": "Fæðing (Birth)"
+      },
+      "venue": {
+        "en": "Reykjavík City Museum",
+        "is": "Reykjavík City Museum"
+      },
+      "location": "Reykjavík, Iceland \n            (choral sound poetry, International Polipoetry Festival)"
+    },
+    {
+      "id": "a-selection-of-20th-century-works-2005",
+      "year": "2005",
+      "title": {
+        "en": "A Selection of 20th Century Works",
+        "is": "Úrval 20. aldar verka"
+      },
+      "venue": {
+        "en": "National Gallery of Iceland – Kjarvalsstaðir",
+        "is": "Listasafn Íslands – Kjarvalsstaðir"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "Group exhibition featuring selected works from the gallery's 20th century collection",
+        "is": "Hópsýning með völdum verkum úr 20. aldar safni gallerísins"
+      }
+    },
+    {
+      "id": "reykjavík-art-museum-acquisitions-2002-2005-2005",
+      "year": "2005",
+      "title": {
+        "en": "Reykjavík Art Museum Acquisitions 2002-2005",
+        "is": "Kaup Listasafns Reykjavíkur 2002-2005"
+      },
+      "venue": {
+        "en": "Reykjavík Art Museum – Hafnarhús",
+        "is": "Listasafn Reykjavíkur – Hafnarhús"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "Group exhibition showcasing recent acquisitions by the museum",
+        "is": "Hópsýning sem sýnir nýleg kaup safnsins"
+      }
+    },
+    {
+      "id": "mutations-bílatal-2005",
+      "year": "2005",
+      "title": {
+        "en": "Mutations (Bílatal)",
+        "is": "Mutations (Bílatal)"
+      },
+      "venue": {
+        "en": "Tate Modern, Hackney Empire, Filthy McNasty",
+        "is": "Tate Modern, Hackney Empire, Filthy McNasty"
+      },
+      "location": "London, UK"
+    },
+    {
+      "id": "mutations-bílatal-2005",
+      "year": "2005",
+      "title": {
+        "en": "Mutations (Bílatal)",
+        "is": "Mutations (Bílatal)"
+      },
+      "venue": {
+        "en": "Touring UK with “The Greatest Ever Dada Show”",
+        "is": "Touring UK with “The Greatest Ever Dada Show”"
+      },
+      "location": ""
+    },
+    {
+      "id": "royal-academy-summer-exhibition-2004",
+      "year": "2004",
+      "title": {
+        "en": "Royal Academy Summer Exhibition",
+        "is": "Royal Academy Summer Exhibition"
+      },
+      "venue": {
+        "en": "Royal Academy of Arts",
+        "is": "Royal Academy of Arts"
+      },
+      "location": "London, UK \n            (work: Hund (Dog))"
+    },
+    {
+      "id": "royal-academy-summer-exhibition-2002",
+      "year": "2002",
+      "title": {
+        "en": "Royal Academy Summer Exhibition",
+        "is": "Royal Academy Summer Exhibition"
+      },
+      "venue": {
+        "en": "Royal Academy of Arts",
+        "is": "Royal Academy of Arts"
+      },
+      "location": "London, UK"
+    },
+    {
+      "id": "30th-anniversary-of-the-sculptors-union-2002",
+      "year": "2002",
+      "title": {
+        "en": "30th Anniversary of the Sculptors Union",
+        "is": "30th Anniversary of the Sculptors Union"
+      },
+      "venue": {
+        "en": "Hafnarhús, Reykjavik",
+        "is": "Hafnarhús, Reykjavik"
+      },
+      "location": "Iceland \n            (work: YXN - sound and video work with film of cows and poetry heard through 4 headphones",
+      "notes": {
+        "en": "15 artists participated. Exhibition catalog PDF)",
+        "is": ""
+      }
+    },
+    {
+      "id": "seeds-of-aspidistra-2001",
+      "year": "2001",
+      "title": {
+        "en": "Seeds of Aspidistra",
+        "is": "Seeds of Aspidistra"
+      },
+      "venue": {
+        "en": "Polipoetry Festival",
+        "is": "Polipoetry Festival"
+      },
+      "location": "Maastricht, Netherlands \n            (with Ragnheiður Guðmundsdóttir)"
+    },
+    {
+      "id": "að-juða-sér-rangsælis-2000",
+      "year": "2000",
+      "title": {
+        "en": "Að juða sér rangsælis",
+        "is": "Að juða sér rangsælis"
+      },
+      "venue": {
+        "en": "Iðnó Theatre",
+        "is": "Iðnó Theatre"
+      },
+      "location": "Reykjavík, Iceland \n            (with Stilluppsteypa)"
+    },
+    {
+      "id": "myndir-á-sýningu-1999",
+      "year": "1999",
+      "title": {
+        "en": "Myndir á sýningu",
+        "is": "Myndir á sýningu"
+      },
+      "venue": {
+        "en": "Community Museum",
+        "is": "Community Museum"
+      },
+      "location": "Egilsstaðir, Iceland"
+    },
+    {
+      "id": "elvideoylapoesia-1999",
+      "year": "1999",
+      "title": {
+        "en": "Elvideoylapoesia",
+        "is": "Elvideoylapoesia"
+      },
+      "venue": {
+        "en": "Barcelona",
+        "is": "Barcelona"
+      },
+      "location": "Spain"
+    },
+    {
+      "id": "pendúll-in-d-z-t-1999",
+      "year": "1999",
+      "title": {
+        "en": "Pendúll in d z t…",
+        "is": "Pendúll in d z t…"
+      },
+      "venue": {
+        "en": "National Theatre Cellar",
+        "is": "National Theatre Cellar"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "bone-1998",
+      "year": "1998",
+      "title": {
+        "en": "Bone",
+        "is": "Bone"
+      },
+      "venue": {
+        "en": "1st Performance Festival",
+        "is": "1st Performance Festival"
+      },
+      "location": "Bern, Switzerland"
+    },
+    {
+      "id": "la-coscienza-luccicante-1998",
+      "year": "1998",
+      "title": {
+        "en": "La Coscienza Luccicante",
+        "is": "La Coscienza Luccicante"
+      },
+      "venue": {
+        "en": "Palazzo Della Esposizioni",
+        "is": "Palazzo Della Esposizioni"
+      },
+      "location": "Rome, Italy"
+    },
+    {
+      "id": "minus-30-plus-60-1998",
+      "year": "1998",
+      "title": {
+        "en": "Minus 30 Plus 60",
+        "is": "Minus 30 Plus 60"
+      },
+      "venue": {
+        "en": "Reykjavík Municipal Museum",
+        "is": "Reykjavík Municipal Museum"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "the-hunting-of-the-snark-1998",
+      "year": "1998",
+      "title": {
+        "en": "The Hunting of the Snark",
+        "is": "The Hunting of the Snark"
+      },
+      "venue": {
+        "en": "The Living Art Museum",
+        "is": "The Living Art Museum"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "3rd-video-sound-poetry-festival-1998",
+      "year": "1998",
+      "title": {
+        "en": "3rd Video Sound Poetry Festival",
+        "is": "3rd Video Sound Poetry Festival"
+      },
+      "venue": {
+        "en": "Bologna",
+        "is": "Bologna"
+      },
+      "location": "Italy"
+    },
+    {
+      "id": "exhibition-1998",
+      "year": "1998",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "LNM Gallery",
+        "is": "LNM Gallery"
+      },
+      "location": "Oslo, Norway"
+    },
+    {
+      "id": "strandlengjan-1998",
+      "year": "1998",
+      "title": {
+        "en": "Strandlengjan",
+        "is": "Strandlengjan"
+      },
+      "venue": {
+        "en": "Outdoor sculpture",
+        "is": "Outdoor sculpture"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "dreams-1996",
+      "year": "1996",
+      "title": {
+        "en": "Dreams",
+        "is": "Dreams"
+      },
+      "venue": {
+        "en": "Ormeau Baths Gallery",
+        "is": "Ormeau Baths Gallery"
+      },
+      "location": "Belfast, Northern Ireland"
+    },
+    {
+      "id": "off-side-1996",
+      "year": "1996",
+      "title": {
+        "en": "Off-side",
+        "is": "Off-side"
+      },
+      "venue": {
+        "en": "Installation with a voice",
+        "is": "Installation with a voice"
+      },
+      "location": "Bergen, Norway"
+    },
+    {
+      "id": "open-air-sculpture-1995",
+      "year": "1995",
+      "title": {
+        "en": "Open-air sculpture",
+        "is": "Open-air sculpture"
+      },
+      "venue": {
+        "en": "Hallormsstaður",
+        "is": "Hallormsstaður"
+      },
+      "location": "East Iceland"
+    },
+    {
+      "id": "dreams-1992",
+      "year": "1992",
+      "title": {
+        "en": "Dreams",
+        "is": "Dreams"
+      },
+      "venue": {
+        "en": "The Sculpture Park",
+        "is": "The Sculpture Park"
+      },
+      "location": "Gothenburg, Sweden"
+    },
+    {
+      "id": "the-sixties-in-the-north-1990",
+      "year": "1990",
+      "title": {
+        "en": "The Sixties in the North",
+        "is": "The Sixties in the North"
+      },
+      "venue": {
+        "en": "National Gallery of Iceland",
+        "is": "National Gallery of Iceland"
+      },
+      "location": "Reykjavík, Iceland \n            (touring Scandinavia)"
+    },
+    {
+      "id": "other-peoples-dreams-1990",
+      "year": "1990",
+      "title": {
+        "en": "Other people’s dreams",
+        "is": "Other people’s dreams"
+      },
+      "venue": {
+        "en": "Open-air exhibition",
+        "is": "Open-air exhibition"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "to-be-pulled-up-over-the-stomach-or-the-chest-1989",
+      "year": "1989",
+      "title": {
+        "en": "To be Pulled up over the Stomach or the Chest",
+        "is": "To be Pulled up over the Stomach or the Chest"
+      },
+      "venue": {
+        "en": "Viborg Teater",
+        "is": "Viborg Teater"
+      },
+      "location": "Denmark & \n            Malmö Konsthall, Sweden"
+    },
+    {
+      "id": "10th-anniversary-of-the-living-art-museum-1988",
+      "year": "1988",
+      "title": {
+        "en": "10th Anniversary of the Living Art Museum",
+        "is": "10th Anniversary of the Living Art Museum"
+      },
+      "venue": {
+        "en": "National Gallery of Iceland",
+        "is": "National Gallery of Iceland"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "international-exhibition-of-artists-books-1987",
+      "year": "1987",
+      "title": {
+        "en": "International exhibition of artists’ books",
+        "is": "International exhibition of artists’ books"
+      },
+      "venue": {
+        "en": "Gallery Zona",
+        "is": "Gallery Zona"
+      },
+      "location": "Florence, Italy"
+    },
+    {
+      "id": "liteartura-1987",
+      "year": "1987",
+      "title": {
+        "en": "Liteartura",
+        "is": "Liteartura"
+      },
+      "venue": {
+        "en": "Brandts Klædefabrik",
+        "is": "Brandts Klædefabrik"
+      },
+      "location": "Odense, Denmark"
+    },
+    {
+      "id": "exhibition-of-works-from-nordic-museums-1986",
+      "year": "1986",
+      "title": {
+        "en": "Exhibition of works from Nordic Museums",
+        "is": "Exhibition of works from Nordic Museums"
+      },
+      "venue": {
+        "en": "Helsinki",
+        "is": "Helsinki"
+      },
+      "location": "Finland"
+    },
+    {
+      "id": "exhibition-1986",
+      "year": "1986",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "Gallery Gangur",
+        "is": "Gallery Gangur"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "international-exhibition-of-artists-books-1985",
+      "year": "1985",
+      "title": {
+        "en": "International exhibition of artists’ books",
+        "is": "International exhibition of artists’ books"
+      },
+      "venue": {
+        "en": "Ulm University",
+        "is": "Ulm University"
+      },
+      "location": "Germany"
+    },
+    {
+      "id": "19451980-art-in-the-north-1985",
+      "year": "1985",
+      "title": {
+        "en": "1945–1980, Art in the North",
+        "is": "1945–1980, Art in the North"
+      },
+      "venue": {
+        "en": "Sveaborg",
+        "is": "Sveaborg"
+      },
+      "location": "Finland"
+    },
+    {
+      "id": "the-moraga-legend-1985",
+      "year": "1985",
+      "title": {
+        "en": "The Moraga Legend",
+        "is": "The Moraga Legend"
+      },
+      "venue": {
+        "en": "Henie-Onstad Kunstsenter",
+        "is": "Henie-Onstad Kunstsenter"
+      },
+      "location": "Norway"
+    },
+    {
+      "id": "iceland-the-art-revealed-1984",
+      "year": "1984",
+      "title": {
+        "en": "Iceland: The Art Revealed",
+        "is": "Iceland: The Art Revealed"
+      },
+      "venue": {
+        "en": "Franklin Furnace",
+        "is": "Franklin Furnace"
+      },
+      "location": "New York, USA"
+    },
+    {
+      "id": "musik-1982",
+      "year": "1982",
+      "title": {
+        "en": "Musik",
+        "is": "Musik"
+      },
+      "venue": {
+        "en": "Norrköping Konstmuseum",
+        "is": "Norrköping Konstmuseum"
+      },
+      "location": "Sweden"
+    },
+    {
+      "id": "exhibition-1982",
+      "year": "1982",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "Gallery Gangur",
+        "is": "Gallery Gangur"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "experimental-environment-1980",
+      "year": "1980",
+      "title": {
+        "en": "Experimental Environment",
+        "is": "Experimental Environment"
+      },
+      "venue": {
+        "en": "Korpúlfsstaðir",
+        "is": "Korpúlfsstaðir"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "iceland-1979",
+      "year": "1979",
+      "title": {
+        "en": "Iceland",
+        "is": "Iceland"
+      },
+      "venue": {
+        "en": "Gallery Suðurgata 7",
+        "is": "Gallery Suðurgata 7"
+      },
+      "location": "Florence, Italy",
+      "notes": {
+        "en": "in \n            Gallery Zona",
+        "is": ""
+      }
+    },
+    {
+      "id": "exhibition-1979",
+      "year": "1979",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "Reykjavík Municipal Art Museum",
+        "is": "Reykjavík Municipal Art Museum"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "11-modern-icelandic-artists-1978–79",
+      "year": "1978–79",
+      "title": {
+        "en": "11 Modern Icelandic Artists",
+        "is": "11 Modern Icelandic Artists"
+      },
+      "venue": {
+        "en": "Malmö Konsthall",
+        "is": "Malmö Konsthall"
+      },
+      "location": "Sweden"
+    },
+    {
+      "id": "documenta-6-1977",
+      "year": "1977",
+      "title": {
+        "en": "Documenta 6",
+        "is": "Documenta 6"
+      },
+      "venue": {
+        "en": "Kassel",
+        "is": "Kassel"
+      },
+      "location": "Germany (book works)"
+    },
+    {
+      "id": "exhibition-1977",
+      "year": "1977",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "The Nordic House",
+        "is": "The Nordic House"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "exhibition-1976",
+      "year": "1976",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "Gallery SÚM",
+        "is": "Gallery SÚM"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "other-books-and-so-1976",
+      "year": "1976",
+      "title": {
+        "en": "Other Books and So",
+        "is": "Other Books and So"
+      },
+      "venue": {
+        "en": "Amsterdam",
+        "is": "Amsterdam"
+      },
+      "location": "Netherlands"
+    },
+    {
+      "id": "pop-art-in-iceland-1976",
+      "year": "1976",
+      "title": {
+        "en": "Pop-Art in Iceland",
+        "is": "Pop-Art in Iceland"
+      },
+      "venue": {
+        "en": "National Gallery of Iceland",
+        "is": "National Gallery of Iceland"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "exhibition-1975",
+      "year": "1975",
+      "title": {
+        "en": "Exhibition",
+        "is": "Exhibition"
+      },
+      "venue": {
+        "en": "Gallery Fignal",
+        "is": "Gallery Fignal"
+      },
+      "location": "Amsterdam, Netherlands"
+    },
+    {
+      "id": "1100-years-of-icelandic-art-1974",
+      "year": "1974",
+      "title": {
+        "en": "1100 Years of Icelandic Art",
+        "is": "1100 Years of Icelandic Art"
+      },
+      "venue": {
+        "en": "Reykjavík Municipal Art Museum",
+        "is": "Reykjavík Municipal Art Museum"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "súm-joint-exhibitions-1973–76",
+      "year": "1973–76",
+      "title": {
+        "en": "SÚM joint exhibitions",
+        "is": "SÚM joint exhibitions"
+      },
+      "venue": {
+        "en": "Reykjavík",
+        "is": "Reykjavík"
+      },
+      "location": "Iceland"
+    },
+    {
+      "id": "súm-1972",
+      "year": "1972",
+      "title": {
+        "en": "SÚM",
+        "is": "SÚM"
+      },
+      "venue": {
+        "en": "Reykjavík Arts Festival",
+        "is": "Reykjavík Arts Festival"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "exhibition-with-ah-1971",
+      "year": "1971",
+      "title": {
+        "en": "Exhibition (with AH)",
+        "is": "Exhibition (with AH)"
+      },
+      "venue": {
+        "en": "Gallery SÚM",
+        "is": "Gallery SÚM"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "súm-iv-1971",
+      "year": "1971",
+      "title": {
+        "en": "SÚM IV",
+        "is": "SÚM IV"
+      },
+      "venue": {
+        "en": "Museum Fodor",
+        "is": "Museum Fodor"
+      },
+      "location": "Amsterdam, Netherlands (showed Gibsbörn)"
+    },
+    {
+      "id": "súm-iii-1969",
+      "year": "1969",
+      "title": {
+        "en": "SÚM III",
+        "is": "SÚM III"
+      },
+      "venue": {
+        "en": "Gallery SÚM",
+        "is": "Gallery SÚM"
+      },
+      "location": "Reykjavík, Iceland"
+    },
+    {
+      "id": "3-biennale-der-ostseestaaten-1969",
+      "year": "1969",
+      "title": {
+        "en": "3. Biennale der Ostseestaaten",
+        "is": "3. Biennale der Ostseestaaten"
+      },
+      "venue": {
+        "en": "Rostock",
+        "is": "Rostock"
+      },
+      "location": "Germany"
+    },
+    {
+      "id": "nordisk-kunst-1968",
+      "year": "1968",
+      "title": {
+        "en": "Nordisk Kunst",
+        "is": "Nordisk Kunst"
+      },
+      "venue": {
+        "en": "Charlottenborg",
+        "is": "Charlottenborg"
+      },
+      "location": "Copenhagen, Denmark"
+    },
+    {
+      "id": "la-biennale-de-paris-1960",
+      "year": "1960",
+      "title": {
+        "en": "La Biennale de Paris",
+        "is": "La Biennale de Paris"
+      },
+      "venue": {
+        "en": "Paris",
+        "is": "Paris"
+      },
+      "location": "France (theatre work)"
+    },
+    {
+      "id": "arts-festival-1958",
+      "year": "1958",
+      "title": {
+        "en": "Arts Festival",
+        "is": "Arts Festival"
+      },
+      "venue": {
+        "en": "Bergen",
+        "is": "Bergen"
+      },
+      "location": "Norway (theatre work)"
+    }
+  ]
+}

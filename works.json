@@ -98,9 +98,7 @@
         "berlin",
         "2002"
       ],
-      "exhibitions": [
-        "Bethanien Berlin 2002"
-      ],
+      "exhibitions": [],
       "materials": {
         "en": [
           "mixed media",
@@ -261,18 +259,7 @@
         "1990"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -477,78 +464,12 @@
         "installation"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "Red Snow - Ice in Motion",
-            "is": "Rauður snjór - Ís í hreyfingu"
-          },
-          "venue": {
-            "en": "Nordic House (Nordes Hus)",
-            "is": "Norðurlandahúsið (Nordes Hus)"
-          },
-          "location": "Tórshavn, Færeyjar",
-          "year": 2016
-        },
-        {
-          "title": {
-            "en": "Red Snow - Ice in Motion",
-            "is": "Rauður snjór - Ís í hreyfingu"
-          },
-          "venue": {
-            "en": "The Nordic House",
-            "is": "Nordatlantens Brygge"
-          },
-          "location": "Kaupmannahöfn, Danmörk",
-          "year": 2015
-        },
-        {
-          "title": {
-            "en": "Red Snow - Ice in Motion",
-            "is": "Rauður snjór - Ís í hreyfingu"
-          },
-          "venue": {
-            "en": "Nordatlantens Brygge",
-            "is": "Nordatlantens Brygge"
-          },
-          "location": "Kaupmannahöfn, Danmörk",
-          "year": 2015
-        },
-        {
-          "title": {
-            "en": "Red Snow - Ice in Motion",
-            "is": "Rauður snjór - Ís í hreyfingu"
-          },
-          "venue": {
-            "en": "Katuaq",
-            "is": "Katuaq (Menningarhús Grænlands)"
-          },
-          "location": "Nuuk, Grænland",
-          "year": 2014
-        },
-        {
-          "title": {
-            "en": "Walking on water",
-            "is": "Walking on water"
-          },
-          "venue": {
-            "en": "Gallerí Kling og Bang",
-            "is": "Gallerí Kling og Bang"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": 2012
-        },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": 2019
-        }
+        "red-snow-ice-in-motion-2016",
+        "red-snow-ice-in-motion-2015",
+        "red-snow-ice-in-motion-2015",
+        "red-snow-ice-in-motion-2014",
+        "walking-on-water-2012",
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "searchText": "walking on water gengið á vatnið 2012 kling og bang installation magnús pálsson",
       "materials": {
@@ -751,18 +672,7 @@
         "1984"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -894,18 +804,7 @@
         "1966"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -980,9 +879,7 @@
         "clocks",
         "2015"
       ],
-      "exhibitions": [
-        "Akureyri 2015"
-      ],
+      "exhibitions": [],
       "materials": {
         "en": [
           "clocks",
@@ -1131,18 +1028,7 @@
         "1994"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -1201,19 +1087,7 @@
         "1965"
       ],
       "exhibitions": [
-        "Ásmundarsalur",
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -1300,19 +1174,7 @@
         "1980"
       ],
       "exhibitions": [
-        "Vestmannaeyjar 1980",
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -1370,18 +1232,7 @@
         "1964"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -1531,9 +1382,7 @@
         "literary",
         "1998"
       ],
-      "exhibitions": [
-        "NÝLÓ 1998"
-      ],
+      "exhibitions": [],
       "materials": {
         "en": [
           "mixed media"
@@ -1610,18 +1459,7 @@
         "1994"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -1712,9 +1550,7 @@
         "sound",
         "2016"
       ],
-      "exhibitions": [
-        "Sigló 2016"
-      ],
+      "exhibitions": [],
       "materials": {
         "en": [
           "typewriter",
@@ -1794,9 +1630,7 @@
         "installation",
         "2009"
       ],
-      "exhibitions": [
-        "Sequences Festival 2009"
-      ],
+      "exhibitions": [],
       "materials": {
         "en": [
           "performance",
@@ -1841,10 +1675,7 @@
         "dada",
         "2005"
       ],
-      "exhibitions": [
-        "Hackney Empire London",
-        "Tate Modern London"
-      ],
+      "exhibitions": [],
       "materials": {
         "en": [
           "video",
@@ -1949,18 +1780,7 @@
         "1976"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -2438,18 +2258,7 @@
         "1975"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -2606,18 +2415,7 @@
         "1966"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -2713,18 +2511,7 @@
         "1977"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -3008,18 +2795,7 @@
         "1977"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -3129,18 +2905,7 @@
         "2007"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -3242,18 +3007,7 @@
         "1963"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -3409,18 +3163,7 @@
         "1972"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -3561,18 +3304,7 @@
         "1979"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -3633,18 +3365,7 @@
         "1984"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -3762,18 +3483,7 @@
         "1999"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -3885,18 +3595,7 @@
         "1975"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -3936,18 +3635,7 @@
         "1986"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -4018,18 +3706,7 @@
         "1977"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -4128,18 +3805,7 @@
         "1982"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -4186,18 +3852,7 @@
         "1972"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -4333,30 +3988,8 @@
         "debut exhibition"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "Bestu stykkin",
-            "is": "Bestu stykkin"
-          },
-          "venue": {
-            "en": "Ásmundarsalur",
-            "is": "Ásmundarsalur"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": 1967
-        },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "bestu-stykkin-1967",
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -4438,18 +4071,7 @@
       ],
       "searchText": "augustus my god have it sound poetry audio art book performance language revelation nordic sound art festival reykjavik",
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -4549,18 +4171,7 @@
           "location": "Venice",
           "year": 1980
         },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "searchText": "þyrlulending helicopter landing sikorsky coast guard anticipation mechanical intervention plaster venice biennale 1980 iceland representation time sculpture",
       "materials": {
@@ -4703,18 +4314,7 @@
       ],
       "searchText": "draumur hlynsins um fjall dreams sound landscape mountain collaboration edda jónsdóttir 1974 poetry magnús pálsson",
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -4803,30 +4403,8 @@
         "headphones"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "30th Anniversary of the Sculptors Union",
-            "is": "30th Anniversary of the Sculptors Union"
-          },
-          "venue": {
-            "en": "Hafnarhús, Reykjavik",
-            "is": "Hafnarhús, Reykjavik"
-          },
-          "location": "Iceland \n            (work: YXN - sound and video work with film of cows and poetry heard through 4 headphones",
-          "year": 2002
-        },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "30th-anniversary-of-the-sculptors-union-2002",
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -5109,30 +4687,8 @@
         "PLACEHOLDER - needs review"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
-            "is": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]"
-          },
-          "venue": {
-            "en": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
-            "is": "PLACEHOLDER - Venue [NEEDS RESEARCH]"
-          },
-          "location": "PLACEHOLDER - City [NEEDS RESEARCH]",
-          "year": 1975
-        },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "exhibition-1975",
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -5216,18 +4772,7 @@
           "location": "Norkjöping",
           "year": 1982
         },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -5298,18 +4843,7 @@
         "PLACEHOLDER - needs review"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "Solo Exhibition",
-            "is": "Solo Exhibition"
-          },
-          "venue": {
-            "en": "Ásmundarsalur (Reykjavik Sculpture Museum)",
-            "is": "Ásmundarsalur (Reykjavik Sculpture Museum)"
-          },
-          "location": "Reykjavik",
-          "year": 1968
-        }
+        "exhibition-1968"
       ],
       "materials": {
         "en": [
@@ -5378,30 +4912,8 @@
         "PLACEHOLDER - needs review"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
-            "is": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]"
-          },
-          "venue": {
-            "en": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
-            "is": "PLACEHOLDER - Venue [NEEDS RESEARCH]"
-          },
-          "location": "PLACEHOLDER - City [NEEDS RESEARCH]",
-          "year": 1975
-        },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "exhibition-1975",
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -5463,18 +4975,7 @@
         "PLACEHOLDER - needs review"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
-            "is": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]"
-          },
-          "venue": {
-            "en": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
-            "is": "PLACEHOLDER - Venue [NEEDS RESEARCH]"
-          },
-          "location": "PLACEHOLDER - City [NEEDS RESEARCH]",
-          "year": 1981
-        }
+        "exhibition-1981"
       ],
       "materials": {
         "en": [
@@ -5643,18 +5144,7 @@
         "PLACEHOLDER - needs review"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "Exhibition",
-            "is": "Exhibition"
-          },
-          "venue": {
-            "en": "Kjarvalstaðir",
-            "is": "Gallery Ellifjós"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": 1994
-        }
+        "exhibition-1994"
       ],
       "materials": {
         "en": [
@@ -5722,18 +5212,7 @@
           "location": "PLACEHOLDER - City [NEEDS RESEARCH]",
           "year": 1980
         },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -6017,18 +5496,7 @@
         "PLACEHOLDER - needs review"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "Brim",
-            "is": "Brim (Surf)"
-          },
-          "venue": {
-            "en": "PLACEHOLDER - Venue in Keflavik [NEEDS RESEARCH]",
-            "is": "Suðsuðvestur"
-          },
-          "location": "Keflavík, Iceland",
-          "year": 2005
-        }
+        "brim-surf-2005"
       ],
       "materials": {
         "en": [
@@ -6099,30 +5567,8 @@
         "1960s"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
-            "is": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]"
-          },
-          "venue": {
-            "en": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
-            "is": "PLACEHOLDER - Venue [NEEDS RESEARCH]"
-          },
-          "location": "PLACEHOLDER - City [NEEDS RESEARCH]",
-          "year": 1968
-        },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "exhibition-1968",
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -6346,30 +5792,8 @@
         "1970s"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
-            "is": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]"
-          },
-          "venue": {
-            "en": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
-            "is": "PLACEHOLDER - Venue [NEEDS RESEARCH]"
-          },
-          "location": "PLACEHOLDER - City [NEEDS RESEARCH]",
-          "year": 1975
-        },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "exhibition-1975",
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -6497,18 +5921,7 @@
           "location": "PLACEHOLDER - City [NEEDS RESEARCH]",
           "year": 1966
         },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -6583,18 +5996,7 @@
         "PLACEHOLDER - needs review"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
-            "is": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]"
-          },
-          "venue": {
-            "en": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
-            "is": "PLACEHOLDER - Venue [NEEDS RESEARCH]"
-          },
-          "location": "PLACEHOLDER - City [NEEDS RESEARCH]",
-          "year": 1985
-        }
+        "exhibition-1985"
       ],
       "materials": {
         "en": [
@@ -6699,18 +6101,7 @@
           "location": "Reykjavík",
           "year": 1986
         },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -6797,18 +6188,7 @@
           "location": "Berlin",
           "year": 2005
         },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -6878,30 +6258,8 @@
         "PLACEHOLDER - needs review"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]",
-            "is": "PLACEHOLDER - Exhibition [NEEDS RESEARCH]"
-          },
-          "venue": {
-            "en": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
-            "is": "PLACEHOLDER - Venue [NEEDS RESEARCH]"
-          },
-          "location": "PLACEHOLDER - City [NEEDS RESEARCH]",
-          "year": 1976
-        },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "exhibition-1976",
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -7147,18 +6505,7 @@
         "1990s"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "Enginn gleypir sólina",
-            "is": "Enginn gleypir sólina (No one swallows the sun)"
-          },
-          "venue": {
-            "en": "Gallery One-One (Gallerí einn einn)",
-            "is": "Gallery 11"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": 1993
-        }
+        "enginn-gleypir-sólina-no-one-swallows-the-sun-1993"
       ],
       "materials": {
         "en": [
@@ -7225,18 +6572,7 @@
           "location": "PLACEHOLDER - City [NEEDS RESEARCH]",
           "year": 1969
         },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -7403,18 +6739,7 @@
           "location": "PLACEHOLDER - City [NEEDS RESEARCH]",
           "year": 1983
         },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -7744,18 +7069,7 @@
           "location": "PLACEHOLDER - City [NEEDS RESEARCH]",
           "year": 1992
         },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -7821,18 +7135,7 @@
         "1960s"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -7914,18 +7217,7 @@
         "1970s"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "Retrospective Exhibition",
-            "is": "Retrospective Exhibition"
-          },
-          "venue": {
-            "en": "Kjarvalstaðir",
-            "is": "Reykjavík Art Museum, Kjarvalsstaðir"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": 1994
-        },
+        "retrospective-exhibition-1994",
         {
           "title": {
             "en": "Something from nothing (Eitthvað úr engu) - Retrospective",
@@ -7950,18 +7242,7 @@
           "location": "Lund",
           "year": 2012
         },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -8103,30 +7384,8 @@
         "1980s"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "Exhibition at Galleri Gangur",
-            "is": "Exhibition at Galleri Gangur"
-          },
-          "venue": {
-            "en": "Galleri Gangur",
-            "is": "Galleri Gangur"
-          },
-          "location": "Reykjavík",
-          "year": 1982
-        },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "exhibition-1982",
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -8229,18 +7488,7 @@
         "1990s"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "Gapassipi (Tjöpörnipinnipi)",
-            "is": "Gapassipi"
-          },
-          "venue": {
-            "en": "Ráðhúsið (Reykjavík City Hall)",
-            "is": "Reykjavík Town Hall"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": 1995
-        }
+        "gapassipi-1995"
       ],
       "materials": {
         "en": [
@@ -8502,30 +7750,8 @@
         "1970s"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "Exhibition at Gallery Fodor",
-            "is": "Exhibition at Gallery Fodor"
-          },
-          "venue": {
-            "en": "Gallery Fodor",
-            "is": "Gallery Fodor"
-          },
-          "location": "Amsterdam",
-          "year": 1971
-        },
-        {
-          "title": {
-            "en": "Exhibition in Lund",
-            "is": "Exhibition in Lund"
-          },
-          "venue": {
-            "en": "Lund (venue to be confirmed)",
-            "is": "Lund (venue to be confirmed)"
-          },
-          "location": "Lund",
-          "year": 1971
-        }
+        "exhibition-1971",
+        "exhibition-1971"
       ],
       "materials": {
         "en": [
@@ -9095,18 +8321,7 @@
           "location": "Reykjavik",
           "year": 1970
         },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -9189,18 +8404,7 @@
           "location": "Reykjavik",
           "year": 1975
         },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -9620,18 +8824,7 @@
           "location": "Iceland",
           "year": 2017
         },
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
@@ -9890,18 +9083,7 @@
         "1975"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -9955,18 +9137,7 @@
         "1968"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -10136,18 +9307,7 @@
         "2016"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -10309,18 +9469,7 @@
         "1977"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -10692,18 +9841,7 @@
         "1977"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -10945,18 +10083,7 @@
         "1976"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [],
@@ -11372,18 +10499,7 @@
         "1975"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
-            "is": "Retrospective – Myndheimur: Eitthvað úr engu (The Visual Realm of Magnús Pálsson. Something from Nothing)"
-          },
-          "venue": {
-            "en": "Reykjavík Art Museum – Hafnarhús",
-            "is": "Reykjavík Art Museum – Hafnarhús"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": "2019"
-        }
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [

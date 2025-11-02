@@ -37,11 +37,22 @@ class I18n {
 
   async loadExhibitionsTranslations(lang) {
     try {
-      const response = await fetch(`translations/exhibitions-${lang}.json`);
-      this.exhibitionsTranslations = await response.json();
+      // Load single bilingual exhibitions.json file if not already loaded
+      if (!this.exhibitionsData) {
+        const response = await fetch(`exhibitions.json`);
+        this.exhibitionsData = await response.json();
+      }
+
+      // Extract data for current language
+      this.exhibitionsTranslations = {
+        ui: this.exhibitionsData.ui?.[lang] || {},
+        solo: this.exhibitionsData.solo || [],
+        group: this.exhibitionsData.group || []
+      };
+
       return true;
     } catch (error) {
-      console.error(`Error loading exhibitions-${lang} translations:`, error);
+      console.error(`Error loading exhibitions translations:`, error);
       this.exhibitionsTranslations = { ui: {}, solo: [], group: [] };
       return false;
     }
