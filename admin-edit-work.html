@@ -613,8 +613,9 @@
           <input type="text" class="exhibition-venue" value="${exData ? exData.venue : ''}" placeholder="e.g., Venice Biennale">
         </div>
         <div class="form-group">
-          <label>City</label>
-          <input type="text" class="exhibition-city" value="${exData ? exData.city : ''}" placeholder="e.g., Venice">
+          <label>Location (City/Country)</label>
+          <input type="text" class="exhibition-location" value="${exData ? (exData.location || exData.city || '') : ''}" placeholder="e.g., Venice, Italy or just Venice">
+          <p class="help-text">Can be just city name or "City, Country" format</p>
         </div>
         <div class="form-group">
           <label>Year</label>
@@ -681,14 +682,14 @@
       document.querySelectorAll('#exhibitionsContainer .image-entry').forEach(entry => {
         const exTitle = entry.querySelector('.exhibition-title').value.trim();
         const venue = entry.querySelector('.exhibition-venue').value.trim();
-        const city = entry.querySelector('.exhibition-city').value.trim();
+        const location = entry.querySelector('.exhibition-location').value.trim();
         const exYear = entry.querySelector('.exhibition-year').value.trim();
 
-        if (exTitle && venue && city && exYear) {
+        if (exTitle && venue && location && exYear) {
           exhibitions.push({
             title: exTitle,
             venue: venue,
-            city: city,
+            location: location,
             year: parseInt(exYear)
           });
         }
