@@ -105,9 +105,10 @@
     },
     {
       "year": "2013",
-      "title": "Exhibition of performance documentation",
-      "venue": "Reykjavík Art Museum",
-      "location": "Reykjavík, Iceland"
+      "title": "The Sound of a Bugle in a Shoebox: Magnús Pálsson - A Performance Retrospective 1980-2013",
+      "venue": "Reykjavík Art Museum – Hafnarhús",
+      "location": "Reykjavík, Iceland",
+      "notes": "Solo retrospective exhibition of performance documentation spanning 33 years of Pálsson's performance art practice"
     },
     {
       "year": "2012",
@@ -551,6 +552,13 @@
     },
     {
       "year": "2017",
+      "title": "Bout – Four Bouts of Video Works",
+      "venue": "Reykjavík Art Museum – Hafnarhús",
+      "location": "Reykjavík, Iceland",
+      "notes": "Group exhibition featuring video art works"
+    },
+    {
+      "year": "2017",
       "title": "Performance of Ritvél",
       "venue": "Reykjavík Art Museum – Hafnarhús",
       "location": "Reykjavík, Iceland \n            (NÝLO choir conducted by Atli Ingólfsson)"
@@ -591,10 +599,38 @@
       "notes": "October 11-30, 2014. Inaugural exhibition of the traveling Nordic art and science project addressing climate change. Magnús Pálsson exhibited 'Walking on water' sculpture. Opening featured speeches, drum performances, and scientific lectures on Arctic climate impacts. First stop of a four-country tour."
     },
     {
+      "year": "2013",
+      "title": "Icelandic Video Art from 1975–1990",
+      "venue": "Reykjavík Art Museum – Hafnarhús",
+      "location": "Reykjavík, Iceland",
+      "notes": "Group exhibition showcasing the development of Icelandic video art"
+    },
+    {
       "year": "2012",
       "title": "Skyggi (Shadow)",
       "venue": "Hafnarborg",
       "location": "Hafnarfjörður, Iceland \n            (curator: Guðný Tómasson)"
+    },
+    {
+      "year": "2011",
+      "title": "50 Years of Icelandic Art at the Venice Biennale",
+      "venue": "Reykjavík Art Museum – Kjarvalsstaðir",
+      "location": "Reykjavík, Iceland",
+      "notes": "Group exhibition commemorating five decades of Icelandic participation in the Venice Biennale"
+    },
+    {
+      "year": "2011",
+      "title": "A New Art Emerges",
+      "venue": "Reykjavík Art Museum – Kjarvalsstaðir",
+      "location": "Reykjavík, Iceland",
+      "notes": "Group exhibition exploring the emergence of new artistic movements in Iceland"
+    },
+    {
+      "year": "2011",
+      "title": "Perspectives - On the Borders of Art and Philosophy",
+      "venue": "Reykjavík Art Museum – Hafnarhús",
+      "location": "Reykjavík, Iceland",
+      "notes": "Group exhibition examining the intersections between contemporary art and philosophical thought"
     },
     {
       "year": "2008",
@@ -619,6 +655,20 @@
       "title": "Fæðing (Birth)",
       "venue": "Reykjavík City Museum",
       "location": "Reykjavík, Iceland \n            (choral sound poetry, International Polipoetry Festival)"
+    },
+    {
+      "year": "2005",
+      "title": "A Selection of 20th Century Works",
+      "venue": "National Gallery of Iceland – Kjarvalsstaðir",
+      "location": "Reykjavík, Iceland",
+      "notes": "Group exhibition featuring selected works from the gallery's 20th century collection"
+    },
+    {
+      "year": "2005",
+      "title": "Reykjavík Art Museum Acquisitions 2002-2005",
+      "venue": "Reykjavík Art Museum – Hafnarhús",
+      "location": "Reykjavík, Iceland",
+      "notes": "Group exhibition showcasing recent acquisitions by the museum"
     },
     {
       "year": "2005",

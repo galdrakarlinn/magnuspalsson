@@ -104,9 +104,10 @@
     },
     {
       "year": "2013",
-      "title": "Exhibition of performance documentation",
-      "venue": "Reykjavík Art Museum",
-      "location": "Reykjavík, Iceland"
+      "title": "Hljómur lúðurs í skókassa: Magnús Pálsson - Yfirlit gjörninga 1980-2013",
+      "venue": "Listasafn Reykjavíkur – Hafnarhús",
+      "location": "Reykjavík, Ísland",
+      "notes": "Einkasýning með yfirliti yfir 33 ára gjörningalist Pálssonar"
     },
     {
       "year": "2012",
@@ -550,6 +551,13 @@
     },
     {
       "year": "2017",
+      "title": "Bout – Fjögur umferð myndbandsverka",
+      "venue": "Listasafn Reykjavíkur – Hafnarhús",
+      "location": "Reykjavík, Ísland",
+      "notes": "Hópsýning með myndbandsverkum"
+    },
+    {
+      "year": "2017",
       "title": "Performance of Ritvél",
       "venue": "Reykjavík Art Museum – Hafnarhús",
       "location": "Reykjavík, Iceland \n            (NÝLO choir conducted by Atli Ingólfsson)"
@@ -590,10 +598,38 @@
       "notes": "11.-30. október 2014. Upphafsýning ferðaverkefnis í norrænum listum og vísindum um loftslagsbreytingar. Magnús Pálsson sýndi 'Walking on water' skúlptúr. Opnun með ræðum, trommuslagsátökum og vísindaráðstefnum um loftslagsáhrif á norðurslóðum. Fyrsti viðkomustaður fjögurra landa ferðar."
     },
     {
+      "year": "2013",
+      "title": "Íslensk myndbandalist frá 1975–1990",
+      "venue": "Listasafn Reykjavíkur – Hafnarhús",
+      "location": "Reykjavík, Ísland",
+      "notes": "Hópsýning sem sýnir þróun íslenskrar myndbandslistar"
+    },
+    {
       "year": "2012",
       "title": "Skyggi (Shadow)",
       "venue": "Hafnarborg",
       "location": "Hafnarfjörður, Iceland \n            (curator: Guðný Tómasson)"
+    },
+    {
+      "year": "2011",
+      "title": "50 ár íslenskrar listar á Feneyjatvíæringnum",
+      "venue": "Listasafn Reykjavíkur – Kjarvalsstaðir",
+      "location": "Reykjavík, Ísland",
+      "notes": "Hópsýning til minningar um fimm áratugi íslenskrar þátttöku í Feneyjatvíæringnum"
+    },
+    {
+      "year": "2011",
+      "title": "Ný list kemur fram",
+      "venue": "Listasafn Reykjavíkur – Kjarvalsstaðir",
+      "location": "Reykjavík, Ísland",
+      "notes": "Hópsýning sem kannar tilurð nýrra listahreyfinga á Íslandi"
+    },
+    {
+      "year": "2011",
+      "title": "Sjónarhorn - Á mörkum listar og heimspeki",
+      "venue": "Listasafn Reykjavíkur – Hafnarhús",
+      "location": "Reykjavík, Ísland",
+      "notes": "Hópsýning sem skoðar samskipti nútímalistar og heimspekilegrar hugsunar"
     },
     {
       "year": "2008",
@@ -618,6 +654,20 @@
       "title": "Fæðing (Birth)",
       "venue": "Reykjavík City Museum",
       "location": "Reykjavík, Iceland \n            (choral sound poetry, International Polipoetry Festival)"
+    },
+    {
+      "year": "2005",
+      "title": "Úrval 20. aldar verka",
+      "venue": "Listasafn Íslands – Kjarvalsstaðir",
+      "location": "Reykjavík, Ísland",
+      "notes": "Hópsýning með völdum verkum úr 20. aldar safni gallerísins"
+    },
+    {
+      "year": "2005",
+      "title": "Kaup Listasafns Reykjavíkur 2002-2005",
+      "venue": "Listasafn Reykjavíkur – Hafnarhús",
+      "location": "Reykjavík, Ísland",
+      "notes": "Hópsýning sem sýnir nýleg kaup safnsins"
     },
     {
       "year": "2005",
