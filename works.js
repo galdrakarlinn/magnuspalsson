@@ -152,6 +152,11 @@ class WorksManager {
         audio.currentTime = 0;
       });
 
+      // Remove work parameter from URL
+      const url = new URL(window.location);
+      url.searchParams.delete('work');
+      window.history.pushState({}, '', url);
+
       modal.style.display = 'none';
       modal.setAttribute('aria-hidden', 'true');
       this.refreshWorkCards();
@@ -587,6 +592,11 @@ class WorksManager {
   showWorkModal(workId) {
     const work = this.allWorks.find(w => w.id === workId);
     if (!work) return;
+
+    // Update URL with work parameter
+    const url = new URL(window.location);
+    url.searchParams.set('work', workId);
+    window.history.pushState({}, '', url);
 
     // Get translated work data
     const translatedWork = this.getTranslatedWork(work);
