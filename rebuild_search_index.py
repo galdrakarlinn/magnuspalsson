@@ -13,74 +13,96 @@ def load_works():
         data = json.load(f)
     return data['works']
 
-def load_translations(lang='en'):
-    """Load translations for works"""
-    try:
-        with open(f'translations/{lang}.json', 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            # Handle both nested "works" structure and flat structure
-            return data.get('works', data)
-    except FileNotFoundError:
-        return {}
+def get_localized_value(field, lang='en'):
+    """Extract value from bilingual field or return string if legacy format"""
+    if not field:
+        return ''
+    if isinstance(field, dict) and (lang in field):
+        return field[lang]
+    if isinstance(field, dict):
+        # Fallback to any available language
+        return field.get('en', field.get('is', ''))
+    return str(field)  # Legacy string format
 
-def create_work_search_entry(work, translations_en=None, translations_is=None):
+def get_materials_string(materials, lang='en'):
+    """Convert materials to searchable string, handling various formats"""
+    if not materials:
+        return ''
+
+    # If it's a bilingual object with language keys
+    if isinstance(materials, dict) and (lang in materials or 'en' in materials or 'is' in materials):
+        mat = materials.get(lang, materials.get('en', materials.get('is', [])))
+        if isinstance(mat, list):
+            return ' '.join(mat)
+        return str(mat)
+
+    # If it's a simple list
+    if isinstance(materials, list):
+        return ' '.join(materials)
+
+    # If it's a string
+    return str(materials)
+
+def create_work_search_entry(work):
     """Create a search entry for a work with bilingual content"""
     work_id = work.get('id', '')
 
-    # Get translations if available
-    trans_en = translations_en.get(work_id, {}) if translations_en else {}
-    trans_is = translations_is.get(work_id, {}) if translations_is else {}
+    # Extract bilingual fields
+    title_en = get_localized_value(work.get('title'), 'en')
+    title_is = get_localized_value(work.get('title'), 'is')
+    desc_en = get_localized_value(work.get('description'), 'en')
+    desc_is = get_localized_value(work.get('description'), 'is')
+
+    # Handle materials in both languages
+    materials_en = get_materials_string(work.get('materials'), 'en')
+    materials_is = get_materials_string(work.get('materials'), 'is')
 
     # Build searchable content (include both languages)
-    # Handle materials - can be list or string
-    work_materials = work.get('materials', [])
-    if isinstance(work_materials, list):
-        work_materials_str = ' '.join(work_materials)
-    else:
-        work_materials_str = str(work_materials)
-
-    trans_en_materials = trans_en.get('materials', '')
-    if isinstance(trans_en_materials, list):
-        trans_en_materials = ' '.join(trans_en_materials)
-
-    trans_is_materials = trans_is.get('materials', '')
-    if isinstance(trans_is_materials, list):
-        trans_is_materials = ' '.join(trans_is_materials)
-
     content_parts = [
-        work.get('title', ''),
-        trans_en.get('title', ''),
-        trans_is.get('title', ''),
-        work.get('description', ''),
-        trans_en.get('description', ''),
-        trans_is.get('description', ''),
+        title_en,
+        title_is,
+        desc_en,
+        desc_is,
         str(work.get('year', '')),
         ' '.join(work.get('tags', [])),
-        work_materials_str,
-        trans_en_materials,
-        trans_is_materials,
+        materials_en,
+        materials_is,
     ]
 
-    # Add exhibition info
+    # Add exhibition info (handle bilingual exhibitions)
     for ex in work.get('exhibitions', []):
         if isinstance(ex, dict):
-            content_parts.append(ex.get('title', ''))
-            content_parts.append(ex.get('venue', ''))
-            content_parts.append(ex.get('city', ''))
+            # Extract bilingual exhibition fields
+            ex_title_en = get_localized_value(ex.get('title'), 'en')
+            ex_title_is = get_localized_value(ex.get('title'), 'is')
+            ex_venue_en = get_localized_value(ex.get('venue'), 'en')
+            ex_venue_is = get_localized_value(ex.get('venue'), 'is')
+            location = ex.get('location', ex.get('city', ''))
+
+            content_parts.extend([ex_title_en, ex_title_is, ex_venue_en, ex_venue_is, location])
         elif isinstance(ex, str):
             content_parts.append(ex)
 
+    # Add image captions
+    for img in work.get('images', []):
+        caption_en = get_localized_value(img.get('caption'), 'en')
+        caption_is = get_localized_value(img.get('caption'), 'is')
+        if caption_en:
+            content_parts.append(caption_en)
+        if caption_is:
+            content_parts.append(caption_is)
+
     content = ' '.join(filter(None, content_parts))
 
-    # Create snippet from description or tags (prefer English)
-    snippet = trans_en.get('description', work.get('description', ''))
+    # Create snippet from description (prefer English)
+    snippet = desc_en if desc_en else desc_is
     if len(snippet) > 150:
         snippet = snippet[:147] + '...'
     elif not snippet and work.get('tags'):
         snippet = ', '.join(work.get('tags', [])[:5])
 
-    # Use translated title if available, otherwise original
-    title = trans_en.get('title', work.get('title', 'Untitled'))
+    # Use English title, fallback to Icelandic
+    title = title_en if title_en else title_is if title_is else 'Untitled'
 
     return {
         "type": "work",
@@ -95,26 +117,22 @@ def create_work_search_entry(work, translations_en=None, translations_is=None):
 def rebuild_search_index():
     """Rebuild the complete search index with bilingual support"""
 
-    print("Rebuilding search index with bilingual content...")
+    print("Rebuilding search index from bilingual works.json...")
 
     searchable_content = []
 
-    # Load translations
-    print("Loading translations...")
-    translations_en = load_translations('en')
-    translations_is = load_translations('is')
-    print(f"Loaded {len(translations_en)} English translations and {len(translations_is)} Icelandic translations")
-
     # Add all works
     works = load_works()
-    print(f"Adding {len(works)} works to search index...")
+    print(f"Processing {len(works)} works...")
 
     for work in works:
         try:
-            entry = create_work_search_entry(work, translations_en, translations_is)
+            entry = create_work_search_entry(work)
             searchable_content.append(entry)
         except Exception as e:
             print(f"Error processing work {work.get('id', 'unknown')}: {e}")
+            import traceback
+            traceback.print_exc()
 
     # Read existing search index to preserve non-work entries
     existing_entries = []

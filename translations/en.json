@@ -4017,6 +4017,11 @@
     "reviews": "Reviews",
     "studios": "Studios",
     "collections": "Collections",
-    "searchArchive": "Search archive..."
+    "searchArchive": "Search archive...",
+    "collection": "Collection",
+    "ownedBy": "Owned by:",
+    "catalog": "Catalog",
+    "alsoListedAs": "Also listed as:",
+    "viewCollectionsPage": "View full collections page"
   }
 }

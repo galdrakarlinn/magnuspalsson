@@ -309,8 +309,14 @@
         </div>
 
         <div class="form-group">
-          <label for="title">Title <span class="required">*</span></label>
-          <input type="text" id="title" required placeholder="e.g., Helicopter Landing">
+          <label for="titleEn">Title (English) <span class="required">*</span></label>
+          <input type="text" id="titleEn" required placeholder="e.g., Helicopter Landing">
+        </div>
+
+        <div class="form-group">
+          <label for="titleIs">Title (Icelandic)</label>
+          <input type="text" id="titleIs" placeholder="e.g., Þyrlulendingin">
+          <p class="help-text">Icelandic translation of the title</p>
         </div>
 
         <div class="form-group">
@@ -319,9 +325,15 @@
         </div>
 
         <div class="form-group">
-          <label for="description">Description <span class="required">*</span></label>
-          <textarea id="description" required placeholder="Detailed description of the work..."></textarea>
+          <label for="descriptionEn">Description (English) <span class="required">*</span></label>
+          <textarea id="descriptionEn" required placeholder="Detailed description of the work..."></textarea>
           <p class="help-text">Include context, materials, significance, and any relevant historical information.</p>
+        </div>
+
+        <div class="form-group">
+          <label for="descriptionIs">Description (Icelandic)</label>
+          <textarea id="descriptionIs" placeholder="Ítarleg lýsing á verkinu..."></textarea>
+          <p class="help-text">Icelandic translation of the description</p>
         </div>
 
         <div class="form-group">
@@ -359,9 +371,14 @@
       <div class="form-section">
         <h2>Materials</h2>
         <div class="form-group">
-          <label for="materials">Materials (comma-separated)</label>
-          <input type="text" id="materials" placeholder="e.g., plaster, video, sound">
+          <label for="materialsEn">Materials (English, comma-separated)</label>
+          <input type="text" id="materialsEn" placeholder="e.g., plaster, video, sound">
           <p class="help-text">Separate multiple materials with commas</p>
+        </div>
+        <div class="form-group">
+          <label for="materialsIs">Materials (Icelandic, comma-separated)</label>
+          <input type="text" id="materialsIs" placeholder="e.g., gifs, myndband, hljóð">
+          <p class="help-text">Icelandic translations of materials</p>
         </div>
       </div>
 
@@ -451,7 +468,9 @@
       allWorks.forEach((work, index) => {
         const option = document.createElement('option');
         option.value = index;
-        option.textContent = `${work.title} (${work.year})`;
+        // Handle bilingual title - show English for selector
+        const title = typeof work.title === 'object' ? work.title.en : work.title;
+        option.textContent = `${title} (${work.year})`;
         selector.appendChild(option);
       });
     }
@@ -482,9 +501,27 @@
 
       // Populate form
       document.getElementById('workId').value = currentWork.id;
-      document.getElementById('title').value = currentWork.title;
+
+      // Handle bilingual title
+      if (typeof currentWork.title === 'object') {
+        document.getElementById('titleEn').value = currentWork.title.en || '';
+        document.getElementById('titleIs').value = currentWork.title.is || '';
+      } else {
+        document.getElementById('titleEn').value = currentWork.title;
+        document.getElementById('titleIs').value = '';
+      }
+
       document.getElementById('year').value = currentWork.year;
-      document.getElementById('description').value = currentWork.description;
+
+      // Handle bilingual description
+      if (typeof currentWork.description === 'object') {
+        document.getElementById('descriptionEn').value = currentWork.description.en || '';
+        document.getElementById('descriptionIs').value = currentWork.description.is || '';
+      } else {
+        document.getElementById('descriptionEn').value = currentWork.description;
+        document.getElementById('descriptionIs').value = '';
+      }
+
       document.getElementById('status').value = currentWork.status || '';
 
       // Clear and populate images
@@ -499,8 +536,21 @@
         checkbox.checked = currentWork.tags.includes(checkbox.value);
       });
 
-      // Set materials
-      document.getElementById('materials').value = currentWork.materials ? currentWork.materials.join(', ') : '';
+      // Set materials - handle bilingual format
+      if (currentWork.materials) {
+        if (typeof currentWork.materials === 'object' && !Array.isArray(currentWork.materials)) {
+          // Bilingual object format
+          document.getElementById('materialsEn').value = currentWork.materials.en ? currentWork.materials.en.join(', ') : '';
+          document.getElementById('materialsIs').value = currentWork.materials.is ? currentWork.materials.is.join(', ') : '';
+        } else if (Array.isArray(currentWork.materials)) {
+          // Legacy array format
+          document.getElementById('materialsEn').value = currentWork.materials.join(', ');
+          document.getElementById('materialsIs').value = '';
+        }
+      } else {
+        document.getElementById('materialsEn').value = '';
+        document.getElementById('materialsIs').value = '';
+      }
 
       // Clear and populate exhibitions
       document.getElementById('exhibitionsContainer').innerHTML = '';
@@ -572,6 +622,19 @@
       const container = document.getElementById('imagesContainer');
       const div = document.createElement('div');
       div.className = 'image-entry';
+
+      // Handle bilingual captions
+      let captionEn = '';
+      let captionIs = '';
+      if (imageData && imageData.caption) {
+        if (typeof imageData.caption === 'object') {
+          captionEn = imageData.caption.en || '';
+          captionIs = imageData.caption.is || '';
+        } else {
+          captionEn = imageData.caption;
+        }
+      }
+
       div.innerHTML = `
         <h3>
           Image ${imageCount}
@@ -582,8 +645,12 @@
           <input type="text" class="image-url" value="${imageData ? imageData.url : ''}" placeholder="images/work-id/medium/work-id-0${imageCount}-medium.jpg">
         </div>
         <div class="form-group">
-          <label>Caption</label>
-          <input type="text" class="image-caption" value="${imageData ? imageData.caption : ''}" placeholder="Description of this image">
+          <label>Caption (English)</label>
+          <input type="text" class="image-caption-en" value="${captionEn}" placeholder="Description of this image">
+        </div>
+        <div class="form-group">
+          <label>Caption (Icelandic)</label>
+          <input type="text" class="image-caption-is" value="${captionIs}" placeholder="Lýsing á þessari mynd">
         </div>
         <div class="form-group">
           <label>Thumbnail Path (optional)</label>
@@ -599,18 +666,49 @@
       const container = document.getElementById('exhibitionsContainer');
       const div = document.createElement('div');
       div.className = 'image-entry';
+
+      // Handle bilingual exhibition fields
+      let titleEn = '';
+      let titleIs = '';
+      let venueEn = '';
+      let venueIs = '';
+
+      if (exData) {
+        if (typeof exData.title === 'object') {
+          titleEn = exData.title.en || '';
+          titleIs = exData.title.is || '';
+        } else {
+          titleEn = exData.title || '';
+        }
+
+        if (typeof exData.venue === 'object') {
+          venueEn = exData.venue.en || '';
+          venueIs = exData.venue.is || '';
+        } else {
+          venueEn = exData.venue || '';
+        }
+      }
+
       div.innerHTML = `
         <h3>
           Exhibition ${exhibitionCount}
           <button type="button" class="btn btn-danger" onclick="this.parentElement.parentElement.remove()">Remove</button>
         </h3>
         <div class="form-group">
-          <label>Exhibition Title</label>
-          <input type="text" class="exhibition-title" value="${exData ? exData.title : ''}" placeholder="e.g., Venice Biennale">
+          <label>Exhibition Title (English)</label>
+          <input type="text" class="exhibition-title-en" value="${titleEn}" placeholder="e.g., Venice Biennale">
         </div>
         <div class="form-group">
-          <label>Venue</label>
-          <input type="text" class="exhibition-venue" value="${exData ? exData.venue : ''}" placeholder="e.g., Venice Biennale">
+          <label>Exhibition Title (Icelandic)</label>
+          <input type="text" class="exhibition-title-is" value="${titleIs}" placeholder="e.g., Feneyjatvíæringurinn">
+        </div>
+        <div class="form-group">
+          <label>Venue (English)</label>
+          <input type="text" class="exhibition-venue-en" value="${venueEn}" placeholder="e.g., Venice Biennale">
+        </div>
+        <div class="form-group">
+          <label>Venue (Icelandic)</label>
+          <input type="text" class="exhibition-venue-is" value="${venueIs}" placeholder="e.g., Feneyjatvíæringurinn">
         </div>
         <div class="form-group">
           <label>Location (City/Country)</label>
@@ -633,27 +731,45 @@
 
       // Get basic info
       const workId = document.getElementById('workId').value.trim();
-      const title = document.getElementById('title').value.trim();
+      const titleEn = document.getElementById('titleEn').value.trim();
+      const titleIs = document.getElementById('titleIs').value.trim();
       const year = parseInt(document.getElementById('year').value);
-      const description = document.getElementById('description').value.trim();
+      const descriptionEn = document.getElementById('descriptionEn').value.trim();
+      const descriptionIs = document.getElementById('descriptionIs').value.trim();
       const status = document.getElementById('status').value;
 
-      if (!workId || !title || !year || !description) {
-        alert('Please fill in all required fields');
+      if (!workId || !titleEn || !year || !descriptionEn) {
+        alert('Please fill in all required fields (English title and description are required)');
         return;
       }
 
-      // Get images
+      // Build bilingual title
+      const title = {
+        en: titleEn,
+        is: titleIs || titleEn  // Fallback to English if Icelandic not provided
+      };
+
+      // Build bilingual description
+      const description = {
+        en: descriptionEn,
+        is: descriptionIs || descriptionEn  // Fallback to English if Icelandic not provided
+      };
+
+      // Get images with bilingual captions
       const images = [];
-      document.querySelectorAll('.image-entry').forEach(entry => {
+      document.querySelectorAll('#imagesContainer .image-entry').forEach(entry => {
         const url = entry.querySelector('.image-url');
-        const caption = entry.querySelector('.image-caption');
+        const captionEn = entry.querySelector('.image-caption-en');
+        const captionIs = entry.querySelector('.image-caption-is');
         const thumbnail = entry.querySelector('.image-thumbnail');
 
-        if (url && caption && url.value.trim() && caption.value.trim()) {
+        if (url && url.value.trim()) {
           const imageObj = {
             url: url.value.trim(),
-            caption: caption.value.trim()
+            caption: {
+              en: captionEn ? captionEn.value.trim() : '',
+              is: captionIs ? captionIs.value.trim() : ''
+            }
           };
           if (thumbnail && thumbnail.value.trim()) {
             imageObj.thumbnail = thumbnail.value.trim();
@@ -673,24 +789,47 @@
         tags.push(checkbox.value);
       });
 
-      // Get materials
-      const materialsInput = document.getElementById('materials').value.trim();
-      const materials = materialsInput ? materialsInput.split(',').map(m => m.trim()) : [];
+      // Get materials with bilingual support
+      const materialsEnInput = document.getElementById('materialsEn').value.trim();
+      const materialsIsInput = document.getElementById('materialsIs').value.trim();
 
-      // Get exhibitions
+      let materials = null;
+      if (materialsEnInput || materialsIsInput) {
+        materials = {
+          en: materialsEnInput ? materialsEnInput.split(',').map(m => m.trim()) : [],
+          is: materialsIsInput ? materialsIsInput.split(',').map(m => m.trim()) : []
+        };
+      }
+
+      // Get exhibitions with bilingual titles and venues
       const exhibitions = [];
       document.querySelectorAll('#exhibitionsContainer .image-entry').forEach(entry => {
-        const exTitle = entry.querySelector('.exhibition-title').value.trim();
-        const venue = entry.querySelector('.exhibition-venue').value.trim();
-        const location = entry.querySelector('.exhibition-location').value.trim();
-        const exYear = entry.querySelector('.exhibition-year').value.trim();
+        const titleEnInput = entry.querySelector('.exhibition-title-en');
+        const titleIsInput = entry.querySelector('.exhibition-title-is');
+        const venueEnInput = entry.querySelector('.exhibition-venue-en');
+        const venueIsInput = entry.querySelector('.exhibition-venue-is');
+        const location = entry.querySelector('.exhibition-location');
+        const exYear = entry.querySelector('.exhibition-year');
 
-        if (exTitle && venue && location && exYear) {
+        const titleEnVal = titleEnInput ? titleEnInput.value.trim() : '';
+        const titleIsVal = titleIsInput ? titleIsInput.value.trim() : '';
+        const venueEnVal = venueEnInput ? venueEnInput.value.trim() : '';
+        const venueIsVal = venueIsInput ? venueIsInput.value.trim() : '';
+        const locationVal = location ? location.value.trim() : '';
+        const yearVal = exYear ? exYear.value.trim() : '';
+
+        if (titleEnVal && venueEnVal && locationVal && yearVal) {
           exhibitions.push({
-            title: exTitle,
-            venue: venue,
-            location: location,
-            year: parseInt(exYear)
+            title: {
+              en: titleEnVal,
+              is: titleIsVal || titleEnVal
+            },
+            venue: {
+              en: venueEnVal,
+              is: venueIsVal || venueEnVal
+            },
+            location: locationVal,
+            year: parseInt(yearVal)
           });
         }
       });
@@ -719,9 +858,13 @@
         images: images,
         tags: tags,
         exhibitions: exhibitions,
-        materials: materials,
-        searchText: currentWork.searchText || `${title.toLowerCase()} ${year} ${tags.join(' ')} magnús pálsson`
+        searchText: currentWork.searchText || `${titleEn.toLowerCase()} ${year} ${tags.join(' ')} magnús pálsson`
       };
+
+      // Add materials if provided
+      if (materials && (materials.en.length > 0 || materials.is.length > 0)) {
+        work.materials = materials;
+      }
 
       // Add status if set
       if (status) {

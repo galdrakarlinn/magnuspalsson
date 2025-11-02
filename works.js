@@ -65,33 +65,52 @@ class WorksManager {
     document.title = `${i18n.t('works')} – Magnús Pálsson`;
   }
 
+  // Helper to get current language
+  getCurrentLanguage() {
+    return (typeof i18n !== 'undefined' && i18n.currentLang) ? i18n.currentLang : 'en';
+  }
+
+  // Helper to get localized value from bilingual field
+  getLocalizedValue(field) {
+    if (!field) return '';
+    if (typeof field === 'string') return field; // Legacy fallback
+    const lang = this.getCurrentLanguage();
+    return field[lang] || field.en || field.is || '';
+  }
+
   // Helper to get translated work data
   getTranslatedWork(work) {
-    if (typeof i18n === 'undefined') return work;
-
-    const translation = i18n.getWork(work.id);
     return {
       ...work,
-      title: translation.title || work.title,
-      description: translation.description || work.description,
-      materials: translation.materials || work.materials,
-      exhibitions: translation.exhibitions || work.exhibitions,
-      images: work.images.map((img, idx) => ({
+      title: this.getLocalizedValue(work.title),
+      description: this.getLocalizedValue(work.description),
+      materials: typeof work.materials === 'object' && !Array.isArray(work.materials)
+        ? this.getLocalizedValue(work.materials)
+        : work.materials,
+      images: work.images.map(img => ({
         ...img,
-        caption: translation.images?.[idx]?.caption || img.caption
+        caption: this.getLocalizedValue(img.caption)
       })),
-      ownership: work.ownership ? {
-        ...work.ownership,
-        owner: translation.ownership?.owner || work.ownership.owner,
-        location: translation.ownership?.location || work.ownership.location
-      } : null
+      exhibitions: work.exhibitions ? work.exhibitions.map(ex => {
+        // Handle string format (legacy)
+        if (typeof ex === 'string') return ex;
+        // Handle bilingual object format
+        return {
+          ...ex,
+          title: this.getLocalizedValue(ex.title),
+          venue: this.getLocalizedValue(ex.venue),
+          location: ex.location,
+          year: ex.year
+        };
+      }) : [],
+      ownership: work.ownership
     };
   }
 
   // Refresh all content when language changes
   refreshAll() {
     this.updatePageTitle();
-    this.renderWorks();
+    this.updateWorkCardsLanguage(); // Fast update instead of full re-render
     // If modal is open, refresh it
     const modal = document.getElementById('work-modal');
     if (modal && modal.style.display === 'block') {
@@ -101,6 +120,29 @@ class WorksManager {
         this.showWorkModal(currentWorkId);
       }
     }
+  }
+
+  // Fast language update - only changes text, doesn't rebuild DOM
+  updateWorkCardsLanguage() {
+    const grid = document.getElementById('works-grid');
+    if (!grid) return;
+
+    const cards = grid.querySelectorAll('.work-card');
+    cards.forEach(card => {
+      const workId = card.dataset.workId;
+      const work = this.allWorks.find(w => w.id === workId);
+      if (!work) return;
+
+      const translatedWork = this.getTranslatedWork(work);
+
+      // Update title in overlay
+      const overlayTitle = card.querySelector('.work-overlay h3');
+      if (overlayTitle) overlayTitle.textContent = translatedWork.title;
+
+      // Update title in info section
+      const infoTitle = card.querySelector('.work-info .work-title');
+      if (infoTitle) infoTitle.textContent = translatedWork.title;
+    });
   }
 
   async loadWorks() {
@@ -660,12 +702,12 @@ class WorksManager {
           <p class="work-description">${translatedWork.description}</p>
           ${ownership ? `
             <div class="ownership-info">
-              <h3>Collection</h3>
-              <p><strong>Owned by:</strong> ${ownership.url ? `<a href="${ownership.url}" target="_blank">${ownership.owner}</a>` : ownership.owner}</p>
-              ${ownership.catalogNumber ? `<p class="catalog-number">Catalog: ${ownership.catalogNumber}</p>` : ''}
+              <h3>${i18n.t('collection')}</h3>
+              <p><strong>${i18n.t('ownedBy')}</strong> ${ownership.url ? `<a href="${ownership.url}" target="_blank">${ownership.owner}</a>` : ownership.owner}</p>
+              ${ownership.catalogNumber ? `<p class="catalog-number">${i18n.t('catalog')}: ${ownership.catalogNumber}</p>` : ''}
               ${ownership.notes ? `<p class="ownership-notes">${ownership.notes}</p>` : ''}
-              ${ownership.altTitle ? `<p class="alt-title">Also listed as: "${ownership.altTitle}"</p>` : ''}
-              <p><a href="collections.html">View full collections page →</a></p>
+              ${ownership.altTitle ? `<p class="alt-title">${i18n.t('alsoListedAs')}: "${ownership.altTitle}"</p>` : ''}
+              <p><a href="collections.html">${i18n.t('viewCollectionsPage')} →</a></p>
             </div>
           ` : ''}
           <div class="work-tags">
@@ -685,9 +727,11 @@ class WorksManager {
             <div class="exhibitions">
               <h3>Exhibitions</h3>
               <ul>
-                ${translatedWork.exhibitions.map(ex => `
-                  <li>${ex.title}, ${ex.venue}, ${ex.city} (${ex.year})</li>
-                `).join('')}
+                ${translatedWork.exhibitions.map(ex => {
+                  // Handle both string and object format
+                  if (typeof ex === 'string') return `<li>${ex}</li>`;
+                  return `<li>${ex.title}, ${ex.venue}, ${ex.location || ex.city} (${ex.year})</li>`;
+                }).join('')}
               </ul>
             </div>
           ` : ''}

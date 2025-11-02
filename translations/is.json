@@ -4007,9 +4007,9 @@
     "ownership": "Eign",
     "location": "Staðsetning",
     "collection": "Safn",
-    "ownedBy": "Í eigu",
-    "catalog": "Skrá",
-    "alsoListedAs": "Einnig skráð sem",
+    "ownedBy": "Eigandi:",
+    "catalog": "Skráningarnúmer",
+    "alsoListedAs": "Einnig skráð sem:",
     "viewCollections": "Skoða safnasíðu",
     "collaborators": "Samstarfsfólk",
     "noResults": "Engin verk fundust.",
@@ -4032,6 +4032,7 @@
     "reviews": "Umsagnir",
     "studios": "Vinnustofur",
     "collections": "Söfn",
-    "searchArchive": "Leita í safni..."
+    "searchArchive": "Leita í safni...",
+    "viewCollectionsPage": "Skoða allar safnasíður"
   }
 }
