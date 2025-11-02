@@ -232,7 +232,12 @@
       "title": "Einsemd",
       "year": 2013,
       "description": "Sculpture work related to 'The Anti-Society League Concert' from 1982. The artist orchestrated a band performance where members would stop and remain still at a specific moment. He then created a plaster cast of the empty space—the negative room in the venue—thereby materializing the music and atmosphere. Created for Reykjavík Arts Festival 2013, performed by Icelandic band MUCK. Dimensions: H: 120cm, W: 350cm.",
-      "images": [],
+      "images": [
+        {
+          "url": "images/placeholder.jpg",
+          "caption": "Einsemd (Isolation) - documentation pending"
+        }
+      ],
       "tags": [
         "sculpture",
         "2013",
