@@ -141,11 +141,36 @@
         "höggmynd"
       ],
       "exhibitions": [
-        "Rauður snjór - Ís í hreyfingu, Tórshavn, Færeyjar, mars 2016",
-        "Rauður snjór - Ís í hreyfingu, Reykjavík, Ísland, október-nóvember 2015",
-        "Rauður snjór - Ís í hreyfingu, Kaupmannahöfn, Danmörk, júní-ágúst 2015",
-        "Rauður snjór - Ís í hreyfingu, Nuuk, Grænland, október 2014",
-        "Kling og Bang March 2012"
+        {
+          "title": "Rauður snjór - Ís í hreyfingu",
+          "venue": "Norðurlandahúsið (Nordes Hus)",
+          "city": "Tórshavn, Færeyjar",
+          "year": 2016
+        },
+        {
+          "title": "Rauður snjór - Ís í hreyfingu",
+          "venue": "Norræna húsið",
+          "city": "Reykjavík, Ísland",
+          "year": 2015
+        },
+        {
+          "title": "Rauður snjór - Ís í hreyfingu",
+          "venue": "Nordatlantens Brygge",
+          "city": "Kaupmannahöfn, Danmörk",
+          "year": 2015
+        },
+        {
+          "title": "Rauður snjór - Ís í hreyfingu",
+          "venue": "Katuaq",
+          "city": "Nuuk, Grænland",
+          "year": 2014
+        },
+        {
+          "title": "Gengið á vatnið",
+          "venue": "Gallerí Kling og Bang",
+          "city": "Reykjavík, Ísland",
+          "year": 2012
+        }
       ],
       "images": [
         {

@@ -141,11 +141,36 @@
         "sculpture"
       ],
       "exhibitions": [
-        "Red Snow - Ice in Motion, Tórshavn, Faroe Islands, March 2016",
-        "Red Snow - Ice in Motion, Reykjavík, Iceland, October-November 2015",
-        "Red Snow - Ice in Motion, Copenhagen, Denmark, June-August 2015",
-        "Red Snow - Ice in Motion, Nuuk, Greenland, October 2014",
-        "Kling og Bang March 2012"
+        {
+          "title": "Red Snow - Ice in Motion",
+          "venue": "Nordic House (Nordes Hus)",
+          "city": "Tórshavn, Faroe Islands",
+          "year": 2016
+        },
+        {
+          "title": "Red Snow - Ice in Motion",
+          "venue": "The Nordic House",
+          "city": "Reykjavík, Iceland",
+          "year": 2015
+        },
+        {
+          "title": "Red Snow - Ice in Motion",
+          "venue": "Nordatlantens Brygge",
+          "city": "Copenhagen, Denmark",
+          "year": 2015
+        },
+        {
+          "title": "Red Snow - Ice in Motion",
+          "venue": "Katuaq",
+          "city": "Nuuk, Greenland",
+          "year": 2014
+        },
+        {
+          "title": "Walking on water",
+          "venue": "Gallerí Kling og Bang",
+          "city": "Reykjavík, Iceland",
+          "year": 2012
+        }
       ],
       "images": [
         {
