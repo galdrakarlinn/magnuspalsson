@@ -3955,6 +3955,18 @@
     "mediumFormat": "Miðill",
     "conceptsThemes": "Hugmyndir",
     "historicalContext": "Sögulegt samhengi",
-    "decades": "Áratugir"
+    "decades": "Áratugir",
+    "theater": "Leikhús",
+    "biography": "Æviágrip",
+    "soloExhibitions": "Einkasýningar",
+    "groupExhibitions": "Hópsýningar",
+    "publicWorks": "Opinber verk",
+    "archive": "Safn",
+    "publications": "Útgáfa",
+    "films": "Kvikmyndir",
+    "reviews": "Umsagnir",
+    "studios": "Vinnustofur",
+    "collections": "Söfn",
+    "searchArchive": "Leita í safni..."
   }
 }

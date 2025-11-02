@@ -134,6 +134,27 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
+  // Function to update all menu translations
+  function updateMenuTranslations() {
+    if (typeof i18n === 'undefined' || !i18n.isReady()) {
+      return;
+    }
+
+    // Update all elements with data-i18n attribute
+    document.querySelectorAll('[data-i18n]').forEach(element => {
+      const key = element.getAttribute('data-i18n');
+      const translation = i18n.t(key);
+      element.textContent = translation;
+    });
+
+    // Update all input placeholders with data-i18n-placeholder attribute
+    document.querySelectorAll('[data-i18n-placeholder]').forEach(element => {
+      const key = element.getAttribute('data-i18n-placeholder');
+      const translation = i18n.t(key);
+      element.setAttribute('placeholder', translation);
+    });
+  }
+
   async function initializeLanguageSelector() {
     const toggleMobile = document.getElementById('language-toggle-mobile');
     const toggleDesktop = document.getElementById('language-toggle-desktop');
@@ -155,9 +176,13 @@ document.addEventListener("DOMContentLoaded", () => {
       // Set initial button text
       updateButtons(i18n.getLang());
 
+      // Update menu translations on initial load
+      updateMenuTranslations();
+
       // Listen for language changes from anywhere and update buttons
       i18n.onChange((newLang) => {
         updateButtons(newLang);
+        updateMenuTranslations();
       });
 
       // Handle click - toggle to opposite language

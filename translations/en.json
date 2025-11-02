@@ -3940,6 +3940,18 @@
     "materials": "Materials",
     "exhibitions": "Exhibitions",
     "ownership": "Ownership",
-    "location": "Location"
+    "location": "Location",
+    "theater": "Theater",
+    "biography": "Biography",
+    "soloExhibitions": "Solo Exhibitions",
+    "groupExhibitions": "Group Exhibitions",
+    "publicWorks": "Public Works",
+    "archive": "Archive",
+    "publications": "Publications",
+    "films": "Films",
+    "reviews": "Reviews",
+    "studios": "Studios",
+    "collections": "Collections",
+    "searchArchive": "Search archive..."
   }
 }
