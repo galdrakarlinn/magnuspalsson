@@ -301,12 +301,41 @@
         "2012"
       ],
       "exhibitions": [
-        "Kling og Bang March 2012",
         {
-          "year": "2019",
+          "title": "Red Snow - Ice in Motion",
+          "venue": "Nordic House (Nordes Hus)",
+          "location": "Tórshavn, Faroe Islands",
+          "year": 2016
+        },
+        {
+          "title": "Red Snow - Ice in Motion",
+          "venue": "The Nordic House",
+          "location": "Reykjavík, Iceland",
+          "year": 2015
+        },
+        {
+          "title": "Red Snow - Ice in Motion",
+          "venue": "Nordatlantens Brygge",
+          "location": "Copenhagen, Denmark",
+          "year": 2015
+        },
+        {
+          "title": "Red Snow - Ice in Motion",
+          "venue": "Katuaq",
+          "location": "Nuuk, Greenland",
+          "year": 2014
+        },
+        {
+          "title": "Walking on water",
+          "venue": "Gallerí Kling og Bang",
+          "location": "Reykjavík, Iceland",
+          "year": 2012
+        },
+        {
           "title": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
           "venue": "Reykjavík Art Museum – Hafnarhús",
-          "location": "Reykjavík, Iceland"
+          "location": "Reykjavík, Iceland",
+          "year": 2019
         }
       ],
       "materials": [
