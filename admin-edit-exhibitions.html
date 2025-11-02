@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Edit Exhibitions - Admin Tool</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem;
+      background: #f5f5f5;
+    }
+
+    h1 {
+      color: #333;
+      margin-bottom: 0.5rem;
+    }
+
+    .subtitle {
+      color: #666;
+      margin-bottom: 2rem;
+    }
+
+    .exhibition-selector {
+      background: white;
+      padding: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      margin-bottom: 2rem;
+    }
+
+    .exhibition-selector h2 {
+      margin-top: 0;
+      margin-bottom: 1rem;
+      color: #444;
+    }
+
+    .type-tabs {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .type-tab {
+      padding: 0.5rem 1.5rem;
+      background: #e0e0e0;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 1rem;
+      transition: background 0.2s;
+    }
+
+    .type-tab.active {
+      background: #3498db;
+      color: white;
+    }
+
+    select {
+      width: 100%;
+      padding: 0.75rem;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 1rem;
+    }
+
+    .form-container {
+      background: white;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      margin-bottom: 2rem;
+      display: none;
+    }
+
+    .form-container.active {
+      display: block;
+    }
+
+    .form-section {
+      margin-bottom: 2rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid #eee;
+    }
+
+    .form-section:last-child {
+      border-bottom: none;
+    }
+
+    .form-section h2 {
+      color: #444;
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+    }
+
+    .form-group {
+      margin-bottom: 1.5rem;
+    }
+
+    label {
+      display: block;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      color: #333;
+    }
+
+    .required {
+      color: #e74c3c;
+    }
+
+    .help-text {
+      font-size: 0.875rem;
+      color: #666;
+      margin-top: 0.25rem;
+    }
+
+    input[type="text"],
+    input[type="number"],
+    textarea,
+    select {
+      width: 100%;
+      padding: 0.75rem;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 1rem;
+      font-family: inherit;
+    }
+
+    textarea {
+      min-height: 100px;
+      resize: vertical;
+    }
+
+    .btn {
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 4px;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .btn-primary {
+      background: #3498db;
+      color: white;
+    }
+
+    .btn-primary:hover {
+      background: #2980b9;
+    }
+
+    .btn-success {
+      background: #27ae60;
+      color: white;
+    }
+
+    .btn-success:hover {
+      background: #229954;
+    }
+
+    .btn-danger {
+      background: #e74c3c;
+      color: white;
+      padding: 0.5rem 1rem;
+      font-size: 0.875rem;
+    }
+
+    .btn-danger:hover {
+      background: #c0392b;
+    }
+
+    .btn-secondary {
+      background: #95a5a6;
+      color: white;
+    }
+
+    .btn-secondary:hover {
+      background: #7f8c8d;
+    }
+
+    .output-container {
+      background: white;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .output-container h2 {
+      margin-top: 0;
+      color: #444;
+    }
+
+    textarea.json-output {
+      width: 100%;
+      height: 400px;
+      font-family: 'Courier New', monospace;
+      font-size: 0.875rem;
+      padding: 1rem;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      background: #f8f9fa;
+    }
+
+    .exhibition-info {
+      background: #f8f9fa;
+      padding: 1rem;
+      border-radius: 4px;
+      margin-bottom: 1rem;
+    }
+
+    .button-group {
+      display: flex;
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+
+    .lang-toggle {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    .warning {
+      background: #fff3cd;
+      border: 1px solid #ffc107;
+      padding: 1rem;
+      border-radius: 4px;
+      margin-bottom: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Exhibition Editor</h1>
+  <p class="subtitle">Edit exhibitions for the Magnús Pálsson website</p>
+
+  <div class="exhibition-selector">
+    <h2>Select Exhibition</h2>
+
+    <div class="type-tabs">
+      <button class="type-tab active" onclick="setExhibitionType('solo')">Solo Exhibitions</button>
+      <button class="type-tab" onclick="setExhibitionType('group')">Group Exhibitions</button>
+    </div>
+
+    <select id="exhibitionSelector" size="10">
+      <option value="">-- Select an exhibition --</option>
+    </select>
+
+    <div class="button-group">
+      <button class="btn btn-primary" onclick="loadExhibition()">Edit Selected</button>
+      <button class="btn btn-success" onclick="createNewExhibition()">+ Create New Exhibition</button>
+    </div>
+  </div>
+
+  <div id="formContainer" class="form-container">
+    <div class="exhibition-info" id="exhibitionInfo"></div>
+
+    <form id="exhibitionForm">
+      <div class="form-section">
+        <h2>Basic Information</h2>
+
+        <div class="form-group">
+          <label for="exhibitionId">Exhibition ID <span class="required">*</span></label>
+          <input type="text" id="exhibitionId" required readonly style="background: #f0f0f0;">
+          <p class="help-text">Auto-generated from title and year</p>
+        </div>
+
+        <div class="form-group">
+          <label for="year">Year <span class="required">*</span></label>
+          <input type="text" id="year" required placeholder="e.g., 2019">
+        </div>
+
+        <div class="form-group">
+          <label for="location">Location <span class="required">*</span></label>
+          <input type="text" id="location" required placeholder="e.g., Reykjavík, Iceland">
+          <p class="help-text">City and country</p>
+        </div>
+      </div>
+
+      <div class="form-section">
+        <h2>Title (Bilingual)</h2>
+
+        <div class="form-group">
+          <label for="titleEn">Title (English) <span class="required">*</span></label>
+          <input type="text" id="titleEn" required placeholder="e.g., Venice Biennale">
+        </div>
+
+        <div class="form-group">
+          <label for="titleIs">Title (Icelandic)</label>
+          <input type="text" id="titleIs" placeholder="e.g., Feneyjatvíæringurinn">
+          <p class="help-text">Icelandic translation (if available)</p>
+        </div>
+      </div>
+
+      <div class="form-section">
+        <h2>Venue (Bilingual)</h2>
+
+        <div class="form-group">
+          <label for="venueEn">Venue (English) <span class="required">*</span></label>
+          <input type="text" id="venueEn" required placeholder="e.g., Venice Biennale Pavilion">
+        </div>
+
+        <div class="form-group">
+          <label for="venueIs">Venue (Icelandic)</label>
+          <input type="text" id="venueIs" placeholder="Icelandic venue name">
+        </div>
+      </div>
+
+      <div class="form-section">
+        <h2>Notes (Optional)</h2>
+
+        <div class="form-group">
+          <label for="notesEn">Notes (English)</label>
+          <textarea id="notesEn" placeholder="Additional information about this exhibition..."></textarea>
+        </div>
+
+        <div class="form-group">
+          <label for="notesIs">Notes (Icelandic)</label>
+          <textarea id="notesIs" placeholder="Viðbótarupplýsingar um þessa sýningu..."></textarea>
+        </div>
+      </div>
+
+      <div class="button-group">
+        <button type="button" class="btn btn-primary" onclick="generateJSON()">Generate Updated JSON</button>
+        <button type="button" class="btn btn-danger" onclick="deleteExhibition()">Delete Exhibition</button>
+      </div>
+    </form>
+  </div>
+
+  <div class="output-container">
+    <h2>Updated Exhibition JSON</h2>
+    <div class="warning">
+      <strong>⚠️ Important:</strong> Copy this JSON and paste it into exhibitions.json, then rebuild the search index.
+    </div>
+    <button class="btn btn-success" onclick="copyToClipboard()" style="margin-bottom: 1rem;">📋 Copy JSON to Clipboard</button>
+    <textarea id="jsonOutput" class="json-output" readonly placeholder="Click 'Generate Updated JSON' to see the output here..."></textarea>
+  </div>
+
+  <script>
+    let allExhibitions = { solo: [], group: [] };
+    let currentExhibition = null;
+    let currentType = 'solo'; // 'solo' or 'group'
+    let isNewExhibition = false;
+
+    // Load exhibitions.json
+    fetch('exhibitions.json')
+      .then(response => response.json())
+      .then(data => {
+        allExhibitions = data;
+        console.log(`Loaded ${data.solo.length} solo + ${data.group.length} group exhibitions`);
+        populateExhibitionSelector();
+      })
+      .catch(error => {
+        console.error('Error loading exhibitions:', error);
+        alert('Error loading exhibitions.json. Make sure the file exists.');
+      });
+
+    function setExhibitionType(type) {
+      currentType = type;
+
+      // Update tab styling
+      document.querySelectorAll('.type-tab').forEach(tab => {
+        tab.classList.remove('active');
+      });
+      event.target.classList.add('active');
+
+      populateExhibitionSelector();
+    }
+
+    function populateExhibitionSelector() {
+      const selector = document.getElementById('exhibitionSelector');
+      selector.innerHTML = '<option value="">-- Select an exhibition --</option>';
+
+      const exhibitions = allExhibitions[currentType] || [];
+      exhibitions.forEach((ex, index) => {
+        const option = document.createElement('option');
+        option.value = index;
+        option.textContent = `${ex.title.en} (${ex.year}) - ${ex.location}`;
+        selector.appendChild(option);
+      });
+    }
+
+    function loadExhibition() {
+      const selector = document.getElementById('exhibitionSelector');
+      const index = selector.value;
+
+      if (index === '') {
+        alert('Please select an exhibition to edit');
+        return;
+      }
+
+      isNewExhibition = false;
+      currentExhibition = allExhibitions[currentType][index];
+
+      // Show form
+      document.getElementById('formContainer').classList.add('active');
+
+      // Show exhibition info
+      const info = document.getElementById('exhibitionInfo');
+      info.innerHTML = `
+        <strong>Editing:</strong> ${currentType === 'solo' ? 'Solo' : 'Group'} Exhibition<br>
+        <strong>ID:</strong> ${currentExhibition.id}
+      `;
+
+      // Populate form
+      document.getElementById('exhibitionId').value = currentExhibition.id;
+      document.getElementById('year').value = currentExhibition.year;
+      document.getElementById('location').value = currentExhibition.location || '';
+
+      document.getElementById('titleEn').value = currentExhibition.title.en || '';
+      document.getElementById('titleIs').value = currentExhibition.title.is || '';
+
+      document.getElementById('venueEn').value = currentExhibition.venue.en || '';
+      document.getElementById('venueIs').value = currentExhibition.venue.is || '';
+
+      if (currentExhibition.notes) {
+        document.getElementById('notesEn').value = currentExhibition.notes.en || '';
+        document.getElementById('notesIs').value = currentExhibition.notes.is || '';
+      } else {
+        document.getElementById('notesEn').value = '';
+        document.getElementById('notesIs').value = '';
+      }
+
+      // Scroll to form
+      document.getElementById('formContainer').scrollIntoView({ behavior: 'smooth' });
+    }
+
+    function createNewExhibition() {
+      isNewExhibition = true;
+      currentExhibition = null;
+
+      // Show form
+      document.getElementById('formContainer').classList.add('active');
+
+      // Show info
+      const info = document.getElementById('exhibitionInfo');
+      info.innerHTML = `<strong>Creating New:</strong> ${currentType === 'solo' ? 'Solo' : 'Group'} Exhibition`;
+
+      // Clear form
+      document.getElementById('exhibitionId').value = '(will be auto-generated)';
+      document.getElementById('year').value = '';
+      document.getElementById('location').value = '';
+      document.getElementById('titleEn').value = '';
+      document.getElementById('titleIs').value = '';
+      document.getElementById('venueEn').value = '';
+      document.getElementById('venueIs').value = '';
+      document.getElementById('notesEn').value = '';
+      document.getElementById('notesIs').value = '';
+
+      // Scroll to form
+      document.getElementById('formContainer').scrollIntoView({ behavior: 'smooth' });
+    }
+
+    function generateExhibitionId(title, year) {
+      // Generate ID from title and year
+      const idBase = title.toLowerCase()
+        .replace(/[^\w\s-]/g, '')
+        .replace(/\s+/g, '-')
+        .replace(/-+/g, '-')
+        .substring(0, 50)
+        .replace(/^-|-$/g, '');
+
+      return `${idBase}-${year}`;
+    }
+
+    function generateJSON() {
+      // Get form values
+      const year = document.getElementById('year').value.trim();
+      const location = document.getElementById('location').value.trim();
+      const titleEn = document.getElementById('titleEn').value.trim();
+      const titleIs = document.getElementById('titleIs').value.trim();
+      const venueEn = document.getElementById('venueEn').value.trim();
+      const venueIs = document.getElementById('venueIs').value.trim();
+      const notesEn = document.getElementById('notesEn').value.trim();
+      const notesIs = document.getElementById('notesIs').value.trim();
+
+      // Validate required fields
+      if (!year || !location || !titleEn || !venueEn) {
+        alert('Please fill in all required fields (marked with *)');
+        return;
+      }
+
+      // Generate or use existing ID
+      const id = isNewExhibition ? generateExhibitionId(titleEn, year) : currentExhibition.id;
+
+      // Build exhibition object
+      const exhibition = {
+        id: id,
+        year: year,
+        title: {
+          en: titleEn,
+          is: titleIs || titleEn
+        },
+        venue: {
+          en: venueEn,
+          is: venueIs || venueEn
+        },
+        location: location
+      };
+
+      // Add notes if provided
+      if (notesEn || notesIs) {
+        exhibition.notes = {
+          en: notesEn,
+          is: notesIs
+        };
+      }
+
+      // Update allExhibitions
+      const updatedExhibitions = { ...allExhibitions };
+
+      if (isNewExhibition) {
+        // Add new exhibition
+        updatedExhibitions[currentType].push(exhibition);
+        // Sort by year descending
+        updatedExhibitions[currentType].sort((a, b) => b.year.localeCompare(a.year));
+      } else {
+        // Update existing exhibition
+        const index = updatedExhibitions[currentType].findIndex(ex => ex.id === currentExhibition.id);
+        if (index !== -1) {
+          updatedExhibitions[currentType][index] = exhibition;
+        }
+      }
+
+      // Display full exhibitions.json
+      const output = document.getElementById('jsonOutput');
+      output.value = JSON.stringify(updatedExhibitions, null, 2);
+
+      // Scroll to output
+      output.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+
+      alert('JSON generated! Copy the entire JSON output and paste it into exhibitions.json');
+    }
+
+    function deleteExhibition() {
+      if (isNewExhibition) {
+        alert('Cannot delete - this is a new exhibition that hasn\'t been saved yet');
+        return;
+      }
+
+      if (!confirm(`Are you sure you want to delete "${currentExhibition.title.en}" (${currentExhibition.year})?`)) {
+        return;
+      }
+
+      // Remove from allExhibitions
+      const updatedExhibitions = { ...allExhibitions };
+      updatedExhibitions[currentType] = updatedExhibitions[currentType].filter(ex => ex.id !== currentExhibition.id);
+
+      // Display updated JSON
+      const output = document.getElementById('jsonOutput');
+      output.value = JSON.stringify(updatedExhibitions, null, 2);
+
+      alert('Exhibition deleted! Copy the JSON output and paste it into exhibitions.json to save the change.');
+
+      // Clear form
+      document.getElementById('formContainer').classList.remove('active');
+      currentExhibition = null;
+    }
+
+    function copyToClipboard() {
+      const output = document.getElementById('jsonOutput');
+
+      if (!output.value) {
+        alert('No JSON to copy! Click "Generate Updated JSON" first.');
+        return;
+      }
+
+      output.select();
+      document.execCommand('copy');
+
+      // Visual feedback
+      const btn = event.target;
+      const originalText = btn.textContent;
+      btn.textContent = '✓ Copied!';
+      btn.style.background = '#27ae60';
+
+      setTimeout(() => {
+        btn.textContent = originalText;
+        btn.style.background = '';
+      }, 2000);
+    }
+  </script>
+</body>
+</html>
