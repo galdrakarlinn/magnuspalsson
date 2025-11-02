@@ -228,6 +228,38 @@
       "searchText": "þrígaldur thrigaldur þursavænn thursavaenn 2013 installation magnús pálsson"
     },
     {
+      "id": "einsemd-2013",
+      "title": "Einsemd",
+      "year": 2013,
+      "description": "Sculpture work related to 'The Anti-Society League Concert' from 1982. The artist orchestrated a band performance where members would stop and remain still at a specific moment. He then created a plaster cast of the empty space—the negative room in the venue—thereby materializing the music and atmosphere. Created for Reykjavík Arts Festival 2013, performed by Icelandic band MUCK. Dimensions: H: 120cm, W: 350cm.",
+      "images": [],
+      "tags": [
+        "sculpture",
+        "2013",
+        "performance",
+        "negative space"
+      ],
+      "exhibitions": [
+        {
+          "year": 2013,
+          "title": "Reykjavík Arts Festival",
+          "venue": "Reykjavík Arts Festival",
+          "city": "Reykjavík, Iceland"
+        }
+      ],
+      "materials": [
+        "plaster",
+        "sculpture"
+      ],
+      "ownership": {
+        "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
+        "url": "https://listasafnreykjavikur.is/safneign/listamadur/id/11525A97-BA7F-4B3C-B035-603961A0E971",
+        "catalogNumber": "107748",
+        "notes": "Sculpture, 2013. H: 120cm, W: 350cm"
+      },
+      "searchText": "einsemd isolation loneliness 2013 sculpture plaster anti-society league concert muck reykjavík arts festival magnús pálsson"
+    },
+    {
       "id": "walking-on-water-2012",
       "title": "Walking on Water (Gengið á vatnið)",
       "year": 2012,
