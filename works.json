@@ -719,9 +719,10 @@
       ],
       "searchText": "veggfóður ferð reise wallpaper 1965 ásmundarsalur magnús pálsson",
       "ownership": {
-        "owner": "The Living Art Museum (Nýlistasafnið)",
-        "url": "https://sarpur.is/Adfang.aspx?AdfangID=1413134",
-        "notes": "\"Journey\" - the revolutionary wallpaper artwork from 1969"
+        "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
+        "url": "https://listasafnreykjavikur.is/safneign/listamadur/id/11525A97-BA7F-4B3C-B035-603961A0E971",
+        "catalogNumber": "91550",
+        "notes": "Installation - Ferð, 1965/94"
       }
     },
     {
@@ -970,9 +971,10 @@
       ],
       "searchText": "the offs 1994 installation magnús pálsson",
       "ownership": {
-        "owner": "The Living Art Museum (Nýlistasafnið)",
-        "url": "https://sarpur.is/Adfang.aspx?AdfangID=1416876",
-        "notes": "Play/Performance work"
+        "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
+        "url": "https://listasafnreykjavikur.is/safneign/listamadur/id/11525A97-BA7F-4B3C-B035-603961A0E971",
+        "catalogNumber": "91900",
+        "notes": "Book art - \"The Offs. Play in two acts\", 1993, 31.5 × 24 cm"
       }
     },
     {
@@ -1798,7 +1800,13 @@
         }
       ],
       "materials": [],
-      "searchText": "minning njálsbrennu 1977 1977 magnús pálsson"
+      "searchText": "minning njálsbrennu 1977 1977 magnús pálsson",
+      "ownership": {
+        "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
+        "url": "https://listasafnreykjavikur.is/safneign/listamadur/id/11525A97-BA7F-4B3C-B035-603961A0E971",
+        "catalogNumber": "91075",
+        "notes": "Installation - Í minningu Njálsbrennu, 1978, H: 260 cm"
+      }
     },
     {
       "id": "minning-thorarinn-nefjolfsson-i8-reyk-2007-2007",
@@ -1869,6 +1877,7 @@
       "ownership": {
         "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
         "url": "https://listasafnreykjavikur.is/safneign?q=Minning+Þórarins+Nefjólfssonar",
+        "catalogNumber": "108204",
         "notes": "Sculpture, 2007"
       }
     },
@@ -2241,8 +2250,10 @@
       "materials": [],
       "searchText": "kúplingsdiskur clutch disc 1999 1999 magnús pálsson",
       "ownership": {
-        "owner": "Listasafn Íslands (National Gallery of Iceland)",
-        "url": "https://sarpur.is/Adfang.aspx?AdfangID=2202287"
+        "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
+        "url": "https://listasafnreykjavikur.is/safneign/listamadur/id/11525A97-BA7F-4B3C-B035-603961A0E971",
+        "catalogNumber": "93882",
+        "notes": "Multimedia work, 1999"
       }
     },
     {
@@ -2714,6 +2725,7 @@
       "ownership": {
         "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
         "url": "https://listasafnreykjavikur.is/safneign?q=Sekúndurnar",
+        "catalogNumber": "93817",
         "notes": "Also known as \"Sekúndurnar þar til Sikorskyþyrlan snertir\" (Seconds Before the Sikorsky Helicopter Touches), 1976"
       }
     },
@@ -3369,6 +3381,7 @@
       "ownership": {
         "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
         "url": "https://listasafnreykjavikur.is/safneign?q=Óður+til+bílsins",
+        "catalogNumber": "100733",
         "notes": "Installation, 2002"
       }
     },
@@ -6807,6 +6820,7 @@
       "ownership": {
         "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
         "url": "https://listasafnreykjavikur.is/safneign?q=Stærðfræði",
+        "catalogNumber": "91549",
         "notes": "Sculpture, 1976, 950 × 65 cm"
       }
     },
@@ -6859,6 +6873,7 @@
       "ownership": {
         "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
         "url": "https://listasafnreykjavikur.is/safneign?q=Sólskríkja",
+        "catalogNumber": "91551",
         "notes": "Photography, 1980-94, 30.5 × 43 cm"
       }
     },
