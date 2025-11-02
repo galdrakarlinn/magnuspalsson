@@ -2439,6 +2439,14 @@
       ],
       "exhibitions": [
         {
+          "title": "Nr. 2 Umhverfing | No 2 Around",
+          "venue": "Sláturhúsið Egilsstöðum",
+          "year": 2018,
+          "month": "Sumar",
+          "city": "Egilsstaðir",
+          "country": "Ísland"
+        },
+        {
           "title": "Enginn gleypir sólina",
           "venue": "Gallery One-One (Gallerí einn einn)",
           "year": 1993,
@@ -3135,6 +3143,14 @@
         "exhibition materials"
       ],
       "exhibitions": [
+        {
+          "title": "Nr. 4 Umhverfing | No 4 Around",
+          "venue": "Akademía skynjunarinnar",
+          "year": 2022,
+          "month": "Sumar",
+          "city": "Vestfirðir, Strandir og Dalir",
+          "country": "Ísland"
+        },
         {
           "title": "Nýp Exhibition",
           "venue": "Exhibition space",

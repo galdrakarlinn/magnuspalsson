@@ -2439,6 +2439,14 @@
       ],
       "exhibitions": [
         {
+          "title": "Nr. 2 Umhverfing | No 2 Around",
+          "venue": "Sláturhúsið Egilsstaðir",
+          "year": 2018,
+          "month": "Summer",
+          "city": "Egilsstaðir",
+          "country": "Iceland"
+        },
+        {
           "title": "Enginn gleypir sólina",
           "venue": "Gallery One-One (Gallerí einn einn)",
           "year": 1993,
@@ -3135,6 +3143,14 @@
         "exhibition materials"
       ],
       "exhibitions": [
+        {
+          "title": "Nr. 4 Umhverfing | No 4 Around",
+          "venue": "Academy of the Senses",
+          "year": 2022,
+          "month": "Summer",
+          "city": "Westfjords, Strandir, and Dales",
+          "country": "Iceland"
+        },
         {
           "title": "Nýp Exhibition",
           "venue": "Exhibition space",
