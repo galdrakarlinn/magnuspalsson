@@ -1,0 +1,116 @@
+// Exhibition search and selection functions for admin-edit-work.html
+
+// Setup exhibition search
+document.getElementById('exhibitionSearch').addEventListener('input', function(e) {
+  const searchTerm = e.target.value.toLowerCase().trim();
+  const resultsDiv = document.getElementById('exhibitionSearchResults');
+
+  if (searchTerm.length < 2) {
+    resultsDiv.classList.remove('show');
+    resultsDiv.innerHTML = '';
+    return;
+  }
+
+  // Filter exhibitions
+  const results = allExhibitions.filter(ex => {
+    const titleEn = ex.title.en.toLowerCase();
+    const titleIs = ex.title.is.toLowerCase();
+    const venueEn = ex.venue.en.toLowerCase();
+    const year = ex.year.toString();
+
+    return titleEn.includes(searchTerm) ||
+           titleIs.includes(searchTerm) ||
+           venueEn.includes(searchTerm) ||
+           year.includes(searchTerm);
+  }).slice(0, 20); // Limit to 20 results
+
+  if (results.length === 0) {
+    resultsDiv.innerHTML = '<div class="search-result-item">No exhibitions found</div>';
+  } else {
+    resultsDiv.innerHTML = results.map(ex => `
+      <div class="search-result-item" onclick="addExhibitionToWork('${ex.id}')">
+        <div class="search-result-title">${ex.title.en}</div>
+        <div class="search-result-details">${ex.venue.en}, ${ex.location} (${ex.year})</div>
+      </div>
+    `).join('');
+  }
+
+  resultsDiv.classList.add('show');
+});
+
+// Add exhibition to work
+function addExhibitionToWork(exhibitionId) {
+  if (selectedExhibitionIds.includes(exhibitionId)) {
+    alert('This exhibition is already added');
+    return;
+  }
+
+  selectedExhibitionIds.push(exhibitionId);
+  renderSelectedExhibitions();
+
+  // Clear search
+  document.getElementById('exhibitionSearch').value = '';
+  document.getElementById('exhibitionSearchResults').classList.remove('show');
+  document.getElementById('exhibitionSearchResults').innerHTML = '';
+}
+
+// Remove exhibition from work
+function removeExhibitionFromWork(exhibitionId) {
+  selectedExhibitionIds = selectedExhibitionIds.filter(id => id !== exhibitionId);
+  renderSelectedExhibitions();
+}
+
+// Render selected exhibitions
+function renderSelectedExhibitions() {
+  const container = document.getElementById('selectedExhibitions');
+
+  if (selectedExhibitionIds.length === 0) {
+    container.innerHTML = '<p style="color: #999; padding: 1rem; text-align: center;">No exhibitions selected</p>';
+    return;
+  }
+
+  container.innerHTML = selectedExhibitionIds.map(exId => {
+    const exhibition = allExhibitions.find(ex => ex.id === exId);
+    if (!exhibition) return '';
+
+    return `
+      <div class="selected-exhibition" data-ex-id="${exId}">
+        <div class="exhibition-info">
+          <div class="exhibition-title">${exhibition.title.en}</div>
+          <div class="exhibition-details">${exhibition.venue.en}, ${exhibition.location} (${exhibition.year})</div>
+        </div>
+        <button type="button" class="btn btn-danger" onclick="removeExhibitionFromWork('${exId}')">Remove</button>
+      </div>
+    `;
+  }).join('');
+}
+
+// Load exhibitions for a work
+function loadWorkExhibitions(work) {
+  selectedExhibitionIds = [];
+
+  if (!work.exhibitions || work.exhibitions.length === 0) {
+    renderSelectedExhibitions();
+    return;
+  }
+
+  // Handle both ID strings and full objects
+  work.exhibitions.forEach(ex => {
+    if (typeof ex === 'string') {
+      // Exhibition ID reference
+      selectedExhibitionIds.push(ex);
+    } else if (typeof ex === 'object' && ex.title) {
+      // Full exhibition object (unmatched) - try to find by title+year
+      const match = allExhibitions.find(e => {
+        const titleMatch = (e.title.en === ex.title.en || e.title.en === ex.title);
+        const yearMatch = e.year === ex.year || e.year === String(ex.year);
+        return titleMatch && yearMatch;
+      });
+      if (match) {
+        selectedExhibitionIds.push(match.id);
+      }
+    }
+  });
+
+  renderSelectedExhibitions();
+}
