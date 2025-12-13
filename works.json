@@ -1899,82 +1899,71 @@
     {
       "id": "pappirsast-19656-1965",
       "title": {
-        "en": "Pappirsást 1965-6",
-        "is": "Pappirsást 1965-6"
+        "en": "Paper love",
+        "is": "Pappírsást"
       },
       "year": 1965,
       "description": {
-        "en": "A work by Magnús Pálsson from 1965. This piece demonstrates his artistic exploration and creative development during this period.",
-        "is": ""
+        "en": "Bookwork. Positive and negative space. Each page conforms to the distorted shape of the adjacent page.\n\nThe interplay between the space delimited by the form of the object (internal space) and the space outside the object which the object shapes and delimits (external space). Both types of space belong to the same, continuous space.",
+        "is": "Bókverk.  Jákvætt (pósitíft) og neikvætt rými.  Hver síða lagar sig að afmynduðu formi nærliggjandi síðu. \nSamspil þess rýmis sem afmarkast af formi hlutarins (innra rými) og þess rýmis sem er utan hlutarins en sem hluturinn formar og afmarkar (ytra rými). Báðar tegundir rýmis teljast til sama, samfellda rýmisins."
       },
       "images": [
         {
-          "url": "images/pappirsast-19656-1965/medium/pappirsast-01-medium.jpg",
+          "url": "images/pappirsast-19656-1965/medium/pappirsast-06-medium.jpg",
           "caption": {
-            "en": "Pappirsást - view 1",
-            "is": ""
+            "en": "Paper love",
+            "is": "Pappírsást"
           }
         },
         {
           "url": "images/pappirsast-19656-1965/medium/pappirsast-02-medium.jpg",
           "caption": {
-            "en": "Pappirsást - view 2",
-            "is": ""
+            "en": "Paper love",
+            "is": "Pappírsást"
           }
         },
         {
-          "url": "images/pappirsast-19656-1965/medium/pappirsast-03-medium.jpg",
+          "url": "images/pappirsast-19656-1965/medium/pappirsast-09-medium.jpg",
           "caption": {
-            "en": "Pappirsást - view 3",
-            "is": ""
+            "en": "Paper love (in display case)",
+            "is": "Pappírsást (í sýningarkassa)"
           }
         },
         {
-          "url": "images/pappirsast-19656-1965/medium/pappirsast-04-medium.jpg",
+          "url": "images/pappirsast-19656-1965/medium/pappirsast-01-medium.jpg",
           "caption": {
-            "en": "Pappirsást - view 4",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/pappirsast-19656-1965/medium/pappirsast-05-medium.jpg",
-          "caption": {
-            "en": "Pappirsást - view 5",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/pappirsast-19656-1965/medium/pappirsast-06-medium.jpg",
-          "caption": {
-            "en": "Pappirsást - view 6",
-            "is": ""
+            "en": "Paper love",
+            "is": "Pappírsást"
           }
         },
         {
           "url": "images/pappirsast-19656-1965/medium/pappirsast-07-medium.jpg",
           "caption": {
-            "en": "Pappirsást - view 7",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/pappirsast-19656-1965/medium/pappirsast-08-medium.jpg",
-          "caption": {
-            "en": "Pappirsást - view 8",
-            "is": ""
+            "en": "Paper love",
+            "is": "Pappírsást"
           }
         }
       ],
       "tags": [
-        "artwork",
-        "1965"
+        "negative space",
+        "positive space"
       ],
-      "exhibitions": [],
-      "materials": {
-        "en": [],
-        "is": []
+      "exhibitions": [
+        "retrospective-exhibition-1994",
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
+      ],
+      "ownership": {
+        "owner": "Magnús Pálsson"
       },
-      "searchText": "pappirsást 1965-6 1965 magnús pálsson"
+      "searchText": "pappirsást 1965-6 1965 magnús pálsson",
+      "materials": {
+        "en": [
+          "Paper"
+        ],
+        "is": [
+          "Pappír"
+        ]
+      }
     },
     {
       "id": "portrait-of-dorothy-1966-1966",

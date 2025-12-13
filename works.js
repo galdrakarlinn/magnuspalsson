@@ -752,7 +752,7 @@ class WorksManager {
               ${ownership.catalogNumber ? `<p class="catalog-number">${i18n.t('catalog')}: ${ownership.catalogNumber}</p>` : ''}
               ${ownership.notes ? `<p class="ownership-notes">${ownership.notes}</p>` : ''}
               ${ownership.altTitle ? `<p class="alt-title">${i18n.t('alsoListedAs')}: "${ownership.altTitle}"</p>` : ''}
-              <p><a href="collections.html">${i18n.t('viewCollectionsPage')} →</a></p>
+              ${ownership.url ? `<p><a href="collections.html">${i18n.t('viewCollectionsPage')} →</a></p>` : ''}
             </div>
           ` : ''}
           <div class="work-tags">
