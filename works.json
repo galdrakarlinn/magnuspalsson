@@ -10498,6 +10498,47 @@
         ]
       },
       "searchText": "hvískur hviskur whisper 1 1975 paper sculpture installation magnús pálsson"
+    },
+    {
+      "id": "spud-kling-og-bang-2012",
+      "title": {
+        "en": "Spud",
+        "is": "Spud"
+      },
+      "year": 2012,
+      "description": {
+        "en": "Performance/installation at Kling og Bang gallery, Reykjavík.\n\nMore information: http://kob.this.is/klingogbang/archive_view.php?lang=en&id=263",
+        "is": "Gjörningur/innsetning í Kling og Bang gallerí, Reykjavík.\n\nNánari upplýsingar: http://kob.this.is/klingogbang/archive_view.php?lang=is&id=263"
+      },
+      "images": [],
+      "tags": [
+        "performance",
+        "installation",
+        "2012"
+      ],
+      "exhibitions": [
+        "Kling og Bang 2012"
+      ],
+      "materials": {
+        "en": [
+          "performance",
+          "installation"
+        ],
+        "is": [
+          "gjörningur",
+          "innsetning"
+        ]
+      },
+      "contentStatus": "needs review",
+      "externalLinks": [
+        {
+          "url": "http://kob.this.is/klingogbang/archive_view.php?lang=en&id=263",
+          "title": {
+            "en": "Kling og Bang Archive",
+            "is": "Kling og Bang safn"
+          }
+        }
+      ]
     }
   ],
   "exhibitions": [
