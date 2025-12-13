@@ -258,6 +258,24 @@
       }
     },
     {
+      "id": "thiljur-bethanien-berlin-2002",
+      "year": "2002",
+      "type": "group",
+      "title": {
+        "en": "Þiljur (Cladding)",
+        "is": "Þiljur"
+      },
+      "venue": {
+        "en": "Kunstquartier Bethanien",
+        "is": "Kunstquartier Bethanien"
+      },
+      "location": "Berlin, Germany",
+      "notes": {
+        "en": "November 2002",
+        "is": "Nóvember 2002"
+      }
+    },
+    {
       "id": "panels-ttjur-2012",
       "year": "2012",
       "title": {
@@ -270,7 +288,7 @@
       },
       "location": "Berlin, Germany",
       "notes": {
-        "en": "In “Gesture Sign Art. Deaf Culture / Hearing Culture” (curated by Wolfgang Müller, An Paenhuysen)",
+        "en": "In "Gesture Sign Art. Deaf Culture / Hearing Culture" (curated by Wolfgang Müller, An Paenhuysen)",
         "is": ""
       }
     },

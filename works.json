@@ -8,97 +8,52 @@
       },
       "year": 2002,
       "description": {
-        "en": "Installation work created in Berlin at Bethanien in November 2002.",
-        "is": "Innsetning búin til í Berlin á Bethanien í nóvember 2002."
+        "en": "The work \"Cladding\" was installed at Kunstquartier Bethanien in Berlin in 2002. This piece continues Magnús Pálsson's ongoing investigation into the acoustics and material presence of space.\n\n\"Þiljur\" refers to panels or walls, and the work often manifests as a large-scale installation where the reflection of sound and the audience's spatial experience are central. Magnús Pálsson employs simple materials and industrial elements to create a complex experience where the viewer becomes an active participant in the formation of sound and space. By erecting these panels, which function as both barriers and reflective surfaces, the artist redefines the relationship between the artwork, the exhibition space, and the observer.",
+        "is": "Verkið \"Þiljur\" var sett upp í Kunstquartier Bethanien í Berlín árið 2002. Verkið heldur áfram rannsókn Magnúsar Pálssonar á hljóðvist og efniskennd rýmisins.\n\n\"Þiljur\" vísa til þilja, eða veggja, og verkið felst oft í stórri innsetningu þar sem endurvarp hljóðs og rýmisupplifun gesta er í forgrunni. Magnús Pálsson notar einföld efni og iðnaðarhluti til að skapa flókna reynslu þar sem áhorfandinn er virkur þátttakandi í myndun hljóðs og rýmis. Með því að stilla upp þiljum, sem virka sem bæði hindranir og endurvarpsfletir, endurskilgreinir listamaðurinn samhengið milli verks, rýmis og áhorfanda."
       },
       "images": [
         {
           "url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-01-medium.jpg",
           "caption": {
-            "en": "Installation view with wooden panels",
-            "is": ""
+            "en": "Installation view at Kunstquartier Bethanien",
+            "is": "Innsetningin í Kunstquartier Bethanien"
           },
           "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-01-thumb.jpg"
         },
         {
           "url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-02-medium.jpg",
           "caption": {
-            "en": "Detail of carved wooden panel",
-            "is": ""
+            "en": "Wall text detail",
+            "is": "Nánari mynd af veggtext"
           },
           "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-02-thumb.jpg"
         },
         {
           "url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-03-medium.jpg",
           "caption": {
-            "en": "Installation view showing multiple panels",
-            "is": ""
+            "en": "Floor text detail",
+            "is": "Nánari mynd af gólftext"
           },
           "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-03-thumb.jpg"
         },
         {
           "url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-04-medium.jpg",
           "caption": {
-            "en": "Close-up of text carving detail",
-            "is": ""
+            "en": "Installation with lighting",
+            "is": "Innsetningin með lýsingu"
           },
           "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-04-thumb.jpg"
-        },
-        {
-          "url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-05-medium.jpg",
-          "caption": {
-            "en": "Wooden panel installation process",
-            "is": ""
-          },
-          "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-05-thumb.jpg"
-        },
-        {
-          "url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-06-medium.jpg",
-          "caption": {
-            "en": "Panel detail with carved text",
-            "is": ""
-          },
-          "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-06-thumb.jpg"
-        },
-        {
-          "url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-07-medium.jpg",
-          "caption": {
-            "en": "Installation overview",
-            "is": ""
-          },
-          "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-07-thumb.jpg"
-        },
-        {
-          "url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-08-medium.jpg",
-          "caption": {
-            "en": "Detail of panel section",
-            "is": ""
-          },
-          "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-08-thumb.jpg"
-        },
-        {
-          "url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-09-medium.jpg",
-          "caption": {
-            "en": "Working on the installation",
-            "is": ""
-          },
-          "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-09-thumb.jpg"
-        },
-        {
-          "url": "images/thiljur-bethanien-berlin-2002/medium/thiljur-bethanien-berlin-2002-10-medium.jpg",
-          "caption": {
-            "en": "Magnús with the installation",
-            "is": ""
-          },
-          "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-10-thumb.jpg"
         }
       ],
       "tags": [
         "installation",
         "berlin",
-        "2002"
+        "sound",
+        "acoustics"
       ],
-      "exhibitions": [],
+      "exhibitions": [
+        "thiljur-bethanien-berlin-2002"
+      ],
       "materials": {
         "en": [
           "mixed media",
@@ -109,18 +64,20 @@
           "innsetning"
         ]
       },
-      "searchText": "þiljur thiljur bethanien berlin 2002 installation magnús pálsson"
+      "searchText": "þiljur thiljur bethanien berlin 2002 installation magnús pálsson",
+      "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-02-thumb.jpg",
+      "contentStatus": "needs review"
     },
     {
       "id": "thiljur-laeknagarður-1995",
       "title": {
-        "en": "Þiljur Læknagarður",
-        "is": "Þiljur Læknagarður"
+        "en": "Cladding (Þiljur)",
+        "is": "Þiljur"
       },
       "year": 1995,
       "description": {
-        "en": "Wall piece created for Læknagarður in 1995.",
-        "is": "Veggverk búið til fyrir Læknagarður árið 1995."
+        "en": "The work \"Þiljur\" (Cladding) is a large-scale installation comprising three panels situated in the entrance hall of the Anatomy Department at the University of Iceland (Læknagarður). The work integrates pagan Norse mythology with scientific anatomy.\n\nThe core concept is the creation myth from Snorri Sturluson's Edda, detailing how the sky and earth were formed from the body of the giant Ymir. The text inscribed on the panels describes how the Earth was made from Ymir's flesh, the sea and waterways from his blood, the cliffs and mountains from his bones, the sky was created from his skull, and the clouds were formed from his brain.\n\nSince the work was created for a medical institution, the creation myth and the description of Ymir's body parts are juxtaposed with anatomical terms in Icelandic. These terms are drawn from the glossary compiled by Guðmundur Hannesson, a professor of medicine in the early 20th century, who translated Latin anatomical terms into Icelandic. Magnús Pálsson notes that Hannesson's imaginative use of the Icelandic language creates such \"beauty that it could be called poetry\".\n\nThe text is carved and written into wood using various computer typefaces.",
+        "is": "Verkið \"Þiljur\" er stór innsetning sem samanstendur af þremur þiljum í anddyri Líffærafræðistofnunar Háskóla Íslands (Læknagarði). Verkið vinnur með sameiningu heiðinnar norrænnar goðafræði og vísindalegrar líffærafræði.\n\nGrunnhugmyndin er sköpunarsagan úr Eddu Snorra Sturlusonar, þar sem himinn og jörð eru sköpuð úr líkama jötunsins Ýmis. Verkinu er ætlað að sýna hvernig jörðin varð til af holdi Ýmis, sær og votnin af blóði hans, björgin af beinunum, himinninn var gerður úr hausi hans, og skýin voru sköpuð úr heila hans.\n\nÞar sem verkið er gert fyrir vísindastofnun eru sköpunarsagan og lýsingar á líkamshlutum Ýmis tengdar líffærafræðilegum heitum á íslensku. Þessi heiti eru fengin úr orðalista Guðmundar Hannessonar, prófessors í læknisfræði á fyrri hluta 20. aldar, sem þýddi latnesk líffæraheiti yfir á íslensku. Listamaðurinn segir að þessi þýðing Guðmundar sé „slíkrar fegurðar að það megi kallast ljóð\".\n\nTextinn er ritaður og rist í tré með mismunandi tölvualfabetum (tölvuletri)."
       },
       "images": [
         {
@@ -165,35 +122,43 @@
         }
       ],
       "tags": [
-        "wall piece",
-        "sculpture",
-        "1995"
+        "installation",
+        "mythology",
+        "anatomy",
+        "text",
+        "wood carving"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "mixed media"
+          "wood",
+          "carved text"
         ],
         "is": [
-          "blandað efni"
+          "tré",
+          "útskorinn texti"
         ]
       },
-      "searchText": "þiljur thiljur læknagarður wall piece 1995 magnús pálsson",
+      "searchText": "þiljur thiljur læknagarður cladding panels 1995 anatomy ymir edda magnús pálsson",
       "ownership": {
         "owner": "Háskóli Íslands (University of Iceland)",
-        "notes": "Wall installation, 1995, Department of Physiology"
-      }
+        "notes": {
+          "en": "Permanent installation, Anatomy Department (Líffærafræðistofnun), Læknagarður",
+          "is": "Varanleg innsetning, Líffærafræðistofnun, Læknagarður"
+        }
+      },
+      "contentStatus": "needs review"
     },
     {
       "id": "thraetubalkur-1990",
       "title": {
-        "en": "Þrætubálkur",
+        "en": "Dispute Pole (Þrætubálkur)",
         "is": "Þrætubálkur"
       },
       "year": 1990,
       "description": {
-        "en": "Sound and installation work from 1990, includes audio elements.",
-        "is": ""
+        "en": "\"Þrætubálkur\" (Dispute Pole) is a sound sculpture by Magnús Pálsson exploring communication, conflict, and acoustics within a defined space. The work directly references Homer's Iliad, using Sveinbjörn Egilsson's translation with specific alterations by Steinar Sigurjónsson.\n\nThe work was produced in the Multimedia Department of the Icelandic College of Arts and Crafts (MHÍ) and performed by its students. Part 1 (Blót/Sacrifice) focuses on the Greek siege of Troy, where both armies call upon the gods for aid in the war. The sound performance features choirs of men and women, with the prayers delivered by students.\n\nThe images of the work on the website are taken from its exhibition at The Living Art Museum (Nýlistasafnið) at Vatnsstíg in Reykjavík. By translating the ancient dispute of the Iliad into a contemporary installation, Magnús creates a space where the viewer becomes part of the echoing narrative and conflict.",
+        "is": "\"Þrætubálkur\" er hljóðskúlptúr eftir Magnús Pálsson sem byggir á samskiptum, átökum og hljóðvist innan rýmis. Verkið tekur beinan mið af Ílíonskviðu Hómers, notast er við þýðingu Sveinbjarnar Egilssonar með ákveðnum breytingum eftir Steinar Sigurjónsson.\n\nVerkið var unnið í Fjöltæknideild Myndlista- og handíðaskóla Íslands (MHÍ) og flutt af nemendum deildarinnar. Fyrsti þátturinn (Blót) snýst um umsátur Grikkja um Tróuborg, þar sem báðir herir ákalla guðina til fulltingis í stríðinu. Hljóðsetningin var flutt af kórum karla og kvenna og bænin flutt af nemendum.\n\nMyndir af verkinu á vefsíðunni eru teknar þegar það var sýnt í Nýlistasafninu (NÝLÓ) á Vatnsstíg. Með því að færa hina fornu deilu úr Ílíonskviðu inn í nútíma sýningarrými skapar Magnús rými þar sem áhorfandinn verður hluti af endurómi sögunnar og átakanna."
       },
       "images": [
         {
@@ -254,37 +219,41 @@
         }
       ],
       "tags": [
+        "sound sculpture",
         "installation",
-        "sound",
-        "1990"
+        "Homer",
+        "Iliad",
+        "mythology",
+        "choir"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
-          "mixed media",
           "sound",
-          "audio"
+          "performance",
+          "choir"
         ],
         "is": [
-          "blandað efni",
           "hljóð",
-          "hljóð"
+          "flutningur",
+          "kór"
         ]
       },
-      "searchText": "þrætubálkur thraetubalkur 1990 sound installation magnús pálsson"
+      "searchText": "þrætubálkur thraetubalkur dispute pole 1990 sound sculpture iliad homer nýlistasafnið magnús pálsson",
+      "contentStatus": "needs review"
     },
     {
       "id": "thrigaldur-thursavaenn-2013",
       "title": {
-        "en": "Þrígaldur þursavænn",
-        "is": "Þrígaldur þursavænn"
+        "en": "Three Spells (Þrígaldur þursavænn)",
+        "is": "Þrígaldur (Þursavænn)"
       },
       "year": 2013,
       "description": {
-        "en": "Installation work from 2013.",
-        "is": ""
+        "en": "\"Þrígaldur (Þursavænn)\" (Three Spells / Giant's Waft) is a complex installation by Magnús Pálsson that deals with the imperfection of video recording and listening. The artist deliberately divides the space and transforms it through sound.\n\nThe work is related to the artist's use of video footage and elements from spaces he has utilized or has been put in charge of. It is described as a dramaturgical performance set up in Hafnarhús: ordinary floor sculptures and a rescue boat in the hall are performances that open the space to the outside sphere, through doors. This circulation acts as a technical supplement – deus ex machina.\n\nMagnús utilizes a video perspective that shows a person, another reality, that disrupts the familiar approach and rushes into the whole picture with an unexpected experience. He shifts the videos so they replace computer language, or the internet, urging us to listen to sounds in plaster walls. The artist points out that nothing is fully perfect, as video recordings are inherently imperfect.",
+        "is": "\"Þrígaldur (Þursavænn)\" er flókin innsetning sem vinnur með ófullkomleika vídeóupptöku og hlustunar. Magnús Pálsson beitir sér fyrir því að skipta rýminu upp og umbreyta því með hljóði.\n\nVerkið er hluti af vinnu listamannsins með vídeóum og hlutum úr rými sem hann hefur notað eða hefur verið umráðalaus um. Þetta er lýst sem leikrænni gjörningi sem var settur upp í Hafnarhúsinu: venjulegum skólflúrum og björgunarbátar í salnum eru gjörningar sem opna rýmið á ytra sviði, en gegnum hurðir. Þessi hringrás virkar sem tæknilegt viðbót – deus ex machina.\n\nMagnús notar sjónarhorn í vídeóinu sem sýnir manneskju, annan veruleika, sem skekur til nálgunina og ryðst inn í heildarmyndina með óvæntri upplifun. Hann færir vídeóin svo þau skipta út tölvumáli, eða veraldarvefinum, og fær okkur til að hlusta á hljóð í gipsveggjum. Listamaðurinn er að benda á að ekkert sé fullkomið, þar sem vídeóupptökur eru í eðli sínu ófullkomnar."
       },
       "images": [
         {
@@ -298,8 +267,8 @@
         {
           "url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-02-medium.jpg",
           "caption": {
-            "en": "Þrígaldur þursavænn view 2",
-            "is": ""
+            "en": "Exhibition catalog front page",
+            "is": "Forsíða sýningarskrár"
           },
           "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-02-thumb.jpg"
         },
@@ -334,22 +303,46 @@
             "is": ""
           },
           "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-06-thumb.jpg"
+        },
+        {
+          "url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-07-medium.jpg",
+          "caption": {
+            "en": "Catalog text page 1 (Icelandic)",
+            "is": "Sýningarskrá bls. 1"
+          },
+          "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-07-thumb.jpg"
+        },
+        {
+          "url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-08-medium.jpg",
+          "caption": {
+            "en": "Catalog text page 2 by Halldór Björn Runólfsson",
+            "is": "Sýningarskrá bls. 2 eftir Halldór Björn Runólfsson"
+          },
+          "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-08-thumb.jpg"
         }
       ],
       "tags": [
         "installation",
-        "2013"
+        "sound",
+        "video",
+        "space",
+        "imperfection"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
+          "video",
+          "sound",
           "mixed media"
         ],
         "is": [
+          "vídeó",
+          "hljóð",
           "blandað efni"
         ]
       },
-      "searchText": "þrígaldur thrigaldur þursavænn thursavaenn 2013 installation magnús pálsson"
+      "searchText": "þrígaldur thrigaldur þursavænn thursavaenn three spells giants waft 2013 video sound installation hafnarhús magnús pálsson",
+      "contentStatus": "needs review"
     },
     {
       "id": "einsemd-2013",
@@ -414,8 +407,8 @@
       },
       "year": 2012,
       "description": {
-        "en": "Installation at Kling og Bang gallery in March 2012.",
-        "is": "Innsetning í Gallerý Kling og Bang í mars 2012."
+        "en": "The work \"Walking on Water\" directly references the mythological idea of transcendental movement. Magnús Pálsson utilizes this concept to investigate materiality, gravity, and perception through an innovative arrangement.\n\nThe installation may involve creating a surface of water or a water reflection in an unexpected location within the space. By simply objectifying the impossible, the artist prompts the viewer to question the limitations of physics.\n\nThe work was exhibited at Kling & Bang in March 2012, accompanied by a performance called \"Spud\". This emphasizes the movement itself and the physical experience of the artist or participant in the face of the impossible. The performance transforms the work from a static sculpture into a living reflection on faith, power, and perception.",
+        "is": "Verkið \"Gengið á vatni\" vísar beint til hinnar goðsögulegu hugmyndar um yfirskilvitlega hreyfingu. Magnús Pálsson notar þessa hugmynd til að kanna efniskennd, þyngdarafl og skynjun með nýstárlegri uppsetningu.\n\nInnsetningin getur falist í því að skapa yfirborð vatns eða endurkast vatns á óvæntum stað í rýminu. Með þessari einföldu hlutgervingu hið ómögulega, fær listamaðurinn áhorfandann til að spyrja sig um takmarkanir eðlisfræðinnar.\n\nVerkið var sýnt í Kling & Bang í mars 2012, ásamt gjörningi sem nefndist \"Spud\". Þetta leggur áherslu á hreyfinguna sjálfa og líkamlega reynslu listamannsins eða þátttakandans andspænis hinu ómögulega. Gjörningurinn umbreytir verkinu úr kyrrstæðum skúlptúr í lifandi speglun á trú, krafti og skynjun."
       },
       "images": [
         {
@@ -460,32 +453,35 @@
         }
       ],
       "tags": [
-        "sculpture",
-        "installation"
+        "installation",
+        "performance",
+        "water",
+        "perception",
+        "gravity"
       ],
       "exhibitions": [
-        "red-snow-ice-in-motion-2016",
-        "red-snow-ice-in-motion-2015",
-        "red-snow-ice-in-motion-2015",
-        "red-snow-ice-in-motion-2014",
         "walking-on-water-2012",
+        "red-snow-ice-in-motion-2014",
+        "red-snow-ice-in-motion-2015",
+        "red-snow-ice-in-motion-2016",
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
-      "searchText": "walking on water gengið á vatnið 2012 kling og bang installation magnús pálsson",
+      "searchText": "walking on water gengið á vatni 2012 kling og bang installation performance magnús pálsson",
       "materials": {
         "en": [
           "mixed media",
-          "sculpture"
+          "water"
         ],
         "is": [
           "blandað efni",
-          "höggmynd"
+          "vatn"
         ]
       },
-      "status": "incomplete",
+      "status": "ready_for_review",
       "ownership": {
         "owner": "Magnús Pálsson"
-      }
+      },
+      "contentStatus": "needs review"
     },
     {
       "id": "watercolours-2016-2018",
@@ -1963,7 +1959,8 @@
         "is": [
           "Pappír"
         ]
-      }
+      },
+      "status": "ready_for_review"
     },
     {
       "id": "portrait-of-dorothy-1966-1966",

@@ -25,10 +25,10 @@ class IntroPage {
       ? 'Magnús Pálsson – Listamaður'
       : 'Magnús Pálsson – Artist';
 
-    // Update subtitle
-    const subtitle = document.querySelector('.intro-text p');
-    if (subtitle) {
-      subtitle.textContent = lang === 'is' ? 'Listaverk' : 'Artist Archive';
+    // Update quote
+    const quoteText = document.querySelector('.intro-quote p[data-i18n="home.quote"]');
+    if (quoteText) {
+      quoteText.textContent = i18n.t('home.quote');
     }
 
     // Update button links
