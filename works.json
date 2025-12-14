@@ -4889,6 +4889,14 @@
           "copyright": "© Estate of Magnús Pálsson"
         }
       ],
+      "model3d": {
+        "url": "models/ast-i-sundlaug-1975/ast-i-sundlaug.glb",
+        "caption": {
+          "en": "3D scan of the sculpture - click and drag to rotate",
+          "is": "Þrívíð skönnun á höggmyndinni - smelltu og dragðu til að snúa"
+        },
+        "credit": "3D scan by Jón Bergmann Heimisson / Punktaský ehf"
+      },
       "tags": [
         "love",
         "pool",
@@ -4896,7 +4904,8 @@
         "sketch",
         "drawing",
         "1970s",
-        "PLACEHOLDER - needs review"
+        "sculpture",
+        "3d-scan"
       ],
       "exhibitions": [
         "exhibition-1975",
@@ -4907,16 +4916,16 @@
           "sketch",
           "drawing",
           "photography",
-          "PLACEHOLDER - needs review"
+          "sculpture"
         ],
         "is": [
           "sketch",
           "teikning",
           "ljósmyndun",
-          "PLACEHOLDER - needs review"
+          "höggmynd"
         ]
       },
-      "searchText": "ást í sundlaug love in the pool swimming sketch drawing 1975 magnús pálsson placeholder needs review"
+      "searchText": "ást í sundlaug love in the pool swimming sketch drawing sculpture 3d scan 1975 magnús pálsson"
     },
     {
       "id": "bacarolle_i_fis_dur_1981",

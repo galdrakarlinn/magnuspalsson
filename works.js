@@ -135,7 +135,11 @@ class WorksManager {
         // Handle legacy string format
         return ex;
       }) : [],
-      ownership: work.ownership
+      ownership: work.ownership,
+      model3d: work.model3d ? {
+        ...work.model3d,
+        caption: this.getLocalizedValue(work.model3d.caption)
+      } : null
     };
   }
 
@@ -740,6 +744,23 @@ class WorksManager {
               ` : ''}
             `;
           }).join('')}
+          ${translatedWork.model3d ? `
+            <div class="model-viewer-container">
+              <model-viewer
+                src="${translatedWork.model3d.url}"
+                alt="${translatedWork.title} - 3D model"
+                camera-controls
+                touch-action="pan-y"
+                auto-rotate
+                shadow-intensity="0.5"
+                exposure="0.5"
+                environment-image="neutral"
+                tone-mapping="commerce"
+              ></model-viewer>
+              <p class="model-caption">${translatedWork.model3d.caption}</p>
+              ${translatedWork.model3d.credit ? `<p class="model-credit">${translatedWork.model3d.credit}</p>` : ''}
+            </div>
+          ` : ''}
         </div>
         <div class="work-info">
           <h2>${translatedWork.title}</h2>
