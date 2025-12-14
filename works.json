@@ -1900,8 +1900,8 @@
       },
       "year": 1965,
       "description": {
-        "en": "Bookwork. Positive and negative space. Each page conforms to the distorted shape of the adjacent page.\n\nThe interplay between the space delimited by the form of the object (internal space) and the space outside the object which the object shapes and delimits (external space). Both types of space belong to the same, continuous space.",
-        "is": "Bókverk.  Jákvætt (pósitíft) og neikvætt rými.  Hver síða lagar sig að afmynduðu formi nærliggjandi síðu. \nSamspil þess rýmis sem afmarkast af formi hlutarins (innra rými) og þess rýmis sem er utan hlutarins en sem hluturinn formar og afmarkar (ytra rými). Báðar tegundir rýmis teljast til sama, samfellda rýmisins."
+        "en": "Magnús's first book work, created in 1966 before most artists - Icelandic or international - had begun working with artist books. Pappírsást is a sculptural bookwork in 4 copies, each a variation on the same concept. In one copy, the first page was folded over the irregularities of the cover page, then the next page folded over the first, and so on until the irregularities flattened out.\n\nBookwork. Positive and negative space. Each page conforms to the distorted shape of the adjacent page.\n\nThe interplay between the space delimited by the form of the object (internal space) and the space outside the object which the object shapes and delimits (external space). Both types of space belong to the same, continuous space.\n\nReference: Gunnar Harðarson, \"Trönurnar fljúga - Um bókagerð íslenskra myndlistarmanna\", Tímarit Máls og menningar, 1985.",
+        "is": "Fyrsta bókverk Magnúsar, frá 1966, þ.e.a.s. áður en meginþorri listamanna, erlendra sem innlendra, var tekinn til við bókagerð. Pappírsást er einskonar skúlptúrverk í 4 eintökum, sem hvert er tilbrigði við sömu hugmynd. Eitt eintakið var t.d. gert þannig að fyrsta blað bókarinnar var brotið yfir ójöfnur á kápublaðinu og næsta blað síðan brotið við fyrsta blaðið og svo koll af kolli uns ójöfnunar flöttust út.\n\nBókverk.  Jákvætt (pósitíft) og neikvætt rými.  Hver síða lagar sig að afmynduðu formi nærliggjandi síðu. \nSamspil þess rýmis sem afmarkast af formi hlutarins (innra rými) og þess rýmis sem er utan hlutarins en sem hluturinn formar og afmarkar (ytra rými). Báðar tegundir rýmis teljast til sama, samfellda rýmisins.\n\nHeimild: Gunnar Harðarson, \"Trönurnar fljúga - Um bókagerð íslenskra myndlistarmanna\", Tímarit Máls og menningar, 1985."
       },
       "images": [
         {
@@ -1960,7 +1960,8 @@
           "Pappír"
         ]
       },
-      "status": "ready_for_review"
+      "status": "ready_for_review",
+      "contentStatus": "needs review"
     },
     {
       "id": "portrait-of-dorothy-1966-1966",
@@ -7088,8 +7089,8 @@
       },
       "year": 1969,
       "description": {
-        "en": "PLACEHOLDER: A book or documentation work about automobiles from 1970-74. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials.",
-        "is": ""
+        "en": "Magnús's second sculpture book, even more adventurous in concept than Pappírsást. The original idea was to take a whole car and break down its various parts into books. Although the complete concept was never fully realized, Automobile from 1970 is a step toward that vision.\n\nThe book was made by cutting a tire and inner tube in two, then welding the tube ends together, inflating it, and gluing it into the middle of the tire. The tire served as the cover, while the inflated tube ends on each side served as the pages.\n\nReference: Gunnar Harðarson, \"Trönurnar fljúga - Um bókagerð íslenskra myndlistarmanna\", Tímarit Máls og menningar, 1985.",
+        "is": "Önnur skúlptúrbók Magnúsar, öllu ævintyralegri í hugsun en Pappírsást. Hugmyndin að henni var sú að taka heilan bíl og brjóta ýmsa hluta hans niður í bækur. Ekkert varð þó úr því að þessi hugmynd næði fram að ganga í heild en „bílabókin\" Automobile frá 1970 er skref í áttina að útfærslu þessarar hugmyndar.\n\nHún var búin til þannig að hjólbarði og slanga voru skorin í tvennt, slangan síðan soðin saman á endunum, blásin upp og límd í hjólbarðann í miðju. Hjólbarðinn gegndí þá hlutverki kápunnar en uppblásnu slönguendarnir hvur um sig hlutverki blaðsíðnanna.\n\nHeimild: Gunnar Harðarson, \"Trönurnar fljúga - Um bókagerð íslenskra myndlistarmanna\", Tímarit Máls og menningar, 1985."
       },
       "images": [
         {
@@ -7143,7 +7144,8 @@
       "searchText": "automobile bók book car 1970 1974 magnús pálsson placeholder needs review",
       "ownership": {
         "owner": "Listasafn Íslands (National Gallery of Iceland)"
-      }
+      },
+      "contentStatus": "needs review"
     },
     {
       "id": "flaedamal_beach_1976",
@@ -9382,77 +9384,47 @@
       "searchText": "sounds of norway student work 1985 1985 magnús pálsson"
     },
     {
-      "id": "spenna-suspense-saenskir-salmar-hymn-bok-1977",
+      "id": "spenna-suspense-1975",
       "title": {
-        "en": "Spenna, Suspense, Sænskir sálmar, Hymn bok 1977",
-        "is": "Spenna, Suspense, Sænskir sálmar, Hymn bok 1977"
+        "en": "Spenna / Suspense",
+        "is": "Spenna / Suspense"
       },
-      "year": 1977,
+      "year": 1975,
       "description": {
-        "en": "A work by Magnús Pálsson from 1977. This piece demonstrates his artistic exploration and creative development during this period.",
-        "is": ""
+        "en": "Bookwork from 1975. In this work, the invisible is made tangible. Magnús stopped reading a thriller at the moment of highest suspense and made a plaster cast of the open book, thereby objectifying the suspense contained within.\n\nThis work exemplifies Magnús's exploration of \"negative\" space - the void and the objectification of the invisible - which runs throughout his book-making practice alongside his work with sculpture as visible object.\n\nReference: Gunnar Harðarson, \"Trönurnar fljúga - Um bókagerð íslenskra myndlistarmanna\", Tímarit Máls og menningar, 1985.",
+        "is": "Bókverk frá 1975. Hér er hið ósýnilega hlutgert á þann hátt að Magnús hætti að lesa spennandi reyfara þegar spennan stóð sem hæst og tók gísmót af opnu bókarinnar sem hlutgerði þannig spennuna í bókinni.\n\nÞetta verk er dæmi um umfjöllun Magnúsar um „negatíft\" rúm eða tómarúm og hlutgerving hins ósynilega, sem tengist bókagerð hans jafnt og vinnu hans með skúlptúr sem sýnilegan hlut.\n\nHeimild: Gunnar Harðarson, \"Trönurnar fljúga - Um bókagerð íslenskra myndlistarmanna\", Tímarit Máls og menningar, 1985."
       },
       "images": [
         {
-          "url": "images/spenna-suspense-saenskir-salmar-hymn-bok-1977/medium/spenna-01-medium.jpg",
+          "url": "images/spenna-suspense-1975/medium/spenna-suspense-01-medium.jpg",
           "caption": {
-            "en": "Spenna, Suspense, Sænskir sálmar, Hymn bok 1977 - view 1",
-            "is": ""
-          }
+            "en": "Spenna / Suspense - plaster cast of open thriller",
+            "is": "Spenna / Suspense - gífsmót af opinni spennu"
+          },
+          "thumbnail": "images/spenna-suspense-1975/thumbs/spenna-suspense-01-thumb.jpg"
         },
         {
-          "url": "images/spenna-suspense-saenskir-salmar-hymn-bok-1977/medium/spenna-02-medium.jpg",
+          "url": "images/spenna-suspense-1975/medium/spenna-suspense-02-medium.jpg",
           "caption": {
-            "en": "Spenna, Suspense, Sænskir sálmar, Hymn bok 1977 - view 2",
-            "is": ""
-          }
+            "en": "Spenna / Suspense - detail",
+            "is": "Spenna / Suspense - smáatriði"
+          },
+          "thumbnail": "images/spenna-suspense-1975/thumbs/spenna-suspense-02-thumb.jpg"
         },
         {
-          "url": "images/spenna-suspense-saenskir-salmar-hymn-bok-1977/medium/spenna-03-medium.jpg",
+          "url": "images/spenna-suspense-1975/medium/spenna-suspense-03-medium.jpg",
           "caption": {
-            "en": "Spenna, Suspense, Sænskir sálmar, Hymn bok 1977 - view 3",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/spenna-suspense-saenskir-salmar-hymn-bok-1977/medium/spenna-04-medium.jpg",
-          "caption": {
-            "en": "Spenna, Suspense, Sænskir sálmar, Hymn bok 1977 - view 4",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/spenna-suspense-saenskir-salmar-hymn-bok-1977/medium/spenna-05-medium.jpg",
-          "caption": {
-            "en": "Spenna, Suspense, Sænskir sálmar, Hymn bok 1977 - view 5",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/spenna-suspense-saenskir-salmar-hymn-bok-1977/medium/spenna-06-medium.jpg",
-          "caption": {
-            "en": "Spenna, Suspense, Sænskir sálmar, Hymn bok 1977 - view 6",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/spenna-suspense-saenskir-salmar-hymn-bok-1977/medium/spenna-07-medium.jpg",
-          "caption": {
-            "en": "Spenna, Suspense, Sænskir sálmar, Hymn bok 1977 - view 7",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/spenna-suspense-saenskir-salmar-hymn-bok-1977/medium/spenna-08-medium.jpg",
-          "caption": {
-            "en": "Spenna, Suspense, Sænskir sálmar, Hymn bok 1977 - view 8",
-            "is": ""
-          }
+            "en": "Spenna / Suspense - detail",
+            "is": "Spenna / Suspense - smáatriði"
+          },
+          "thumbnail": "images/spenna-suspense-1975/thumbs/spenna-suspense-03-thumb.jpg"
         }
       ],
       "tags": [
-        "artwork",
-        "1977"
+        "bookwork",
+        "sculpture",
+        "plaster cast",
+        "1975"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -9461,7 +9433,74 @@
         "en": [],
         "is": []
       },
-      "searchText": "spenna, suspense, sænskir sálmar, hymn bok 1977 1977 magnús pálsson"
+      "searchText": "spenna, suspense, sænskir sálmar, hymn bok 1977 1977 magnús pálsson",
+      "contentStatus": "needs review",
+      "thumbnail": "images/spenna-suspense-1975/thumbs/spenna-suspense-01-thumb.jpg"
+    },
+    {
+      "id": "saenskir-salmar-hymn-1975",
+      "title": {
+        "en": "Sænskir sálmar / Swedish Hymns",
+        "is": "Sænskir sálmar / Swedish Hymns"
+      },
+      "year": 1975,
+      "description": {
+        "en": "Bookwork from 1975. Using the same technique as Spenna/Suspense, Magnús made a plaster cast of an open hymn book, objectifying the sound of hymns in solid form.\n\nThis work exemplifies Magnús's exploration of \"negative\" space - the void and the objectification of the invisible - capturing something intangible (sound, music) in sculptural form.\n\nReference: Gunnar Harðarson, \"Trönurnar fljúga - Um bókagerð íslenskra myndlistarmanna\", Tímarit Máls og menningar, 1985.",
+        "is": "Bókverk frá 1975. Magnús notaði sömu tækni og í Spennu/Suspense og tók gísmót af opinni sálmabók og hlutgerði þannig hljóð sálmanna í föstu formi.\n\nÞetta verk er dæmi um umfjöllun Magnúsar um „negatíft\" rúm eða tómarúm og hlutgerving hins ósynilega - að fanga eitthvað óáþreifanlegt (hljóð, tónlist) í skúlptúrformi.\n\nHeimild: Gunnar Harðarson, \"Trönurnar fljúga - Um bókagerð íslenskra myndlistarmanna\", Tímarit Máls og menningar, 1985."
+      },
+      "images": [
+        {
+          "url": "images/saenskir-salmar-hymn-1975/medium/saenskir-salmar-01-medium.jpg",
+          "caption": {
+            "en": "Sænskir sálmar - 5 pieces",
+            "is": "Sænskir sálmar - 5 stykki"
+          },
+          "thumbnail": "images/saenskir-salmar-hymn-1975/thumbs/saenskir-salmar-01-thumb.jpg"
+        },
+        {
+          "url": "images/saenskir-salmar-hymn-1975/medium/saenskir-salmar-02-medium.jpg",
+          "caption": {
+            "en": "Sænskir sálmar - showing Swedish hymn text",
+            "is": "Sænskir sálmar - sýnir sænska sálmatexta"
+          },
+          "thumbnail": "images/saenskir-salmar-hymn-1975/thumbs/saenskir-salmar-02-thumb.jpg"
+        },
+        {
+          "url": "images/saenskir-salmar-hymn-1975/medium/saenskir-salmar-03-medium.jpg",
+          "caption": {
+            "en": "Sænskir sálmar - detail",
+            "is": "Sænskir sálmar - smáatriði"
+          },
+          "thumbnail": "images/saenskir-salmar-hymn-1975/thumbs/saenskir-salmar-03-thumb.jpg"
+        },
+        {
+          "url": "images/saenskir-salmar-hymn-1975/medium/saenskir-salmar-04-medium.jpg",
+          "caption": {
+            "en": "Sænskir sálmar - detail",
+            "is": "Sænskir sálmar - smáatriði"
+          },
+          "thumbnail": "images/saenskir-salmar-hymn-1975/thumbs/saenskir-salmar-04-thumb.jpg"
+        }
+      ],
+      "tags": [
+        "bookwork",
+        "sculpture",
+        "plaster cast",
+        "1975"
+      ],
+      "exhibitions": [],
+      "materials": {
+        "en": [
+          "plaster",
+          "book"
+        ],
+        "is": [
+          "gifs",
+          "bók"
+        ]
+      },
+      "contentStatus": "needs review",
+      "thumbnail": "images/saenskir-salmar-hymn-1975/thumbs/saenskir-salmar-01-thumb.jpg"
     },
     {
       "id": "spilaborg-card-house-nh-for-ferdafuda-2003",
