@@ -4100,12 +4100,12 @@
       "id": "thyrlulending",
       "title": {
         "en": "Þyrlulending (Helicopter Landing)",
-        "is": "Þyrlulending (Helicopter Landing)"
+        "is": "Þyrlulending"
       },
       "year": 1976,
       "description": {
-        "en": "Conceptual work measuring anticipation and mechanical intervention, titled 'Sekúndurnar þar til Sikorskýþyrlan snertir' (The Seconds Before the Sikorsky Helicopter Touches Down). This time-based sculpture captures the moment before the Coast Guard's helicopter lands, materializing the immaterial through three plaster forms arranged in a triangle on the floor. The forms are casts of the negative space between the helicopter's wheels and the ground, with different heights indicating temporal progression - the tail wheel, which lands last, is the highest. Time is here transformed into solid matter, exploring themes of anticipation, mechanical intervention, and the transformation of temporal experience into physical form. Exhibited at the Venice Biennale in 1980 where Pálsson represented Iceland. (Source: Reykjavík Art Museum collection description and Kjarvalstaðir catalog)",
-        "is": ""
+        "en": "The work Helicopter Landing, fully titled The Seconds Before the Sikorsky Helicopter Touches Down, is a conceptual plaster work from 1976 that combines the concepts of positive and negative space with time. The piece is part of Magnús's systematic investigation into objectifying the immaterial.\n\n<strong>Work Execution</strong>\nTo create the forms, Magnús borrowed tires from the Coast Guard's helicopter. He took the tires to his studio and created the molds there.\n\n<strong>Negative Space and Time</strong>\nThe work consists of three plaster forms which are casts of the negative space between the helicopter's wheels and the ground. The height of the casts indicates the temporal progression of the landing: the tail wheel, which touches down last, is the highest form, thus transforming time into solid matter.\n\n<strong>International Context</strong>\nThe work was exhibited at the Venice Biennale in 1980, where Magnús Pálsson represented Iceland.",
+        "is": "Verkið Þyrlulending, fullu nafni Sekúndurnar þar til Sikorskýþyrlan snertir, er konseptúalt gifsverk frá 1976 sem sameinar hugtök jákvæðs og neikvæðs rýmis við tíma. Verkið er hluti af þeirri kerfisbundnu rannsókn Magnúsar að hlutgera hið óefniskennda.\n\nVerkið er tilraun til að mæla eftirvæntingu og vélræna inngrip með því að efnisgera tímabundna upplifun.\n\n<strong>Framkvæmd Verksins</strong>\nTil að búa til formin fékk Magnús dekk að láni af þyrlu Landhelgisgæslunnar. Hann fór með dekkin á vinnustofu sína og gerði þar mót af þeim.\n\n<strong>Neikvætt Rými og Tími</strong>\nVerkið samanstendur af þremur gifsformum sem eru afsteypur af neikvæða rýminu á milli hjóla þyrlunnar og jarðar. Hæð afsteypnanna sýnir tímalega framvindu lendingarinnar: halahjólið, sem lendir síðast, er táknað með hæsta forminu, og tíminn er þannig umbreyttur í fast efni.\n\n<strong>Alþjóðlegt Samhengi</strong>\nVerkið var sýnt á Feneyjatvíæringnum (Venice Biennale) árið 1980, þar sem Magnús Pálsson var fulltrúi Íslands."
       },
       "images": [
         {
@@ -4167,14 +4167,8 @@
       ],
       "tags": [
         "sculpture",
-        "conceptual",
-        "time",
-        "anticipation",
         "plaster",
-        "helicopter",
-        "venice biennale",
-        "negative space",
-        "1970s"
+        "conceptual"
       ],
       "exhibitions": [
         {
@@ -4193,8 +4187,12 @@
       ],
       "searchText": "þyrlulending helicopter landing sikorsky coast guard anticipation mechanical intervention plaster venice biennale 1980 iceland representation time sculpture",
       "materials": {
-        "en": [],
-        "is": []
+        "en": [
+          "plaster"
+        ],
+        "is": [
+          "gifs"
+        ]
       },
       "ownership": {
         "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
@@ -4202,7 +4200,7 @@
         "catalogNumber": "93817",
         "notes": "Also known as \"Sekúndurnar þar til Sikorskyþyrlan snertir\" (Seconds Before the Sikorsky Helicopter Touches), 1976"
       },
-      "contentStatus": "draft"
+      "contentStatus": "needs review"
     },
     {
       "id": "vidtol_um_daudann_2011",
@@ -10260,12 +10258,9 @@
         }
       ],
       "tags": [
-        "plaster",
         "sculpture",
-        "conceptual",
-        "positive-negative-space",
-        "mathematics",
-        "1970s"
+        "plaster",
+        "conceptual"
       ],
       "exhibitions": [
         "biennale-di-venezia-1980",
