@@ -25,10 +25,18 @@ class IntroPage {
       ? 'Magnús Pálsson – Listamaður'
       : 'Magnús Pálsson – Artist';
 
-    // Update quote
+    // Update quotes
     const quoteText = document.querySelector('.intro-quote p[data-i18n="home.quote"]');
     if (quoteText) {
       quoteText.textContent = i18n.t('home.quote');
+    }
+    const quote2Text = document.querySelector('.intro-quote p[data-i18n="home.quote2"]');
+    if (quote2Text) {
+      quote2Text.textContent = i18n.t('home.quote2');
+    }
+    const quote2Source = document.querySelector('.intro-quote p[data-i18n="home.quote2source"]');
+    if (quote2Source) {
+      quote2Source.textContent = i18n.t('home.quote2source');
     }
 
     // Update button links

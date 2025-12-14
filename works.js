@@ -364,7 +364,8 @@ class WorksManager {
 
       // Status filter
       if (this.currentFilters.statuses.length > 0) {
-        const workStatus = work.status || 'not-set';
+        // Normalize contentStatus: convert spaces to hyphens to match filter values
+        const workStatus = work.contentStatus ? work.contentStatus.replace(/\s+/g, '-').toLowerCase() : 'not-set';
         if (!this.currentFilters.statuses.includes(workStatus)) return false;
       }
 
@@ -637,9 +638,7 @@ class WorksManager {
     const statuses = [
       { value: 'complete', label: 'Complete' },
       { value: 'needs-review', label: 'Needs Review' },
-      { value: 'incomplete', label: 'Incomplete' },
-      { value: 'draft', label: 'Draft' },
-      { value: 'not-set', label: 'Not Set' }
+      { value: 'draft', label: 'Draft' }
     ];
 
     container.innerHTML = statuses.map(status => `
