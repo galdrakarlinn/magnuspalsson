@@ -5,7 +5,8 @@ class WorksManager {
     this.currentFilters = {
       decades: [],
       tags: [],
-      statuses: []
+      statuses: [],
+      mediaStatuses: []
     };
     this.tagCategories = null;
     this.exhibitionsData = null; // Will hold all exhibitions from exhibitions.json
@@ -34,6 +35,7 @@ class WorksManager {
     this.renderTagFilters();
     this.renderDecades();
     this.renderStatusFilters();
+    this.renderMediaStatusFilters();
     this.setupClearButton(); // Setup clear button AFTER filters are rendered
     this.checkForDirectWorkLink();
   }
@@ -369,6 +371,13 @@ class WorksManager {
         if (!this.currentFilters.statuses.includes(workStatus)) return false;
       }
 
+      // Media Status filter
+      if (this.currentFilters.mediaStatuses.length > 0) {
+        // Normalize mediaStatus: convert spaces to hyphens to match filter values
+        const workMediaStatus = work.mediaStatus ? work.mediaStatus.replace(/\s+/g, '-').toLowerCase() : 'not-set';
+        if (!this.currentFilters.mediaStatuses.includes(workMediaStatus)) return false;
+      }
+
       return true;
     });
 
@@ -661,6 +670,37 @@ class WorksManager {
     });
   }
 
+  renderMediaStatusFilters() {
+    const container = document.getElementById('media-status-tags');
+    if (!container) return;
+
+    // Define media status options
+    const mediaStatuses = [
+      { value: 'images-done', label: 'Images Done' },
+      { value: 'images-review', label: 'Images Review' },
+      { value: 'images-draft', label: 'Images Draft' }
+    ];
+
+    container.innerHTML = mediaStatuses.map(status => `
+      <label class="tag-checkbox" for="media-status-${status.value}">
+        <input type="checkbox" id="media-status-${status.value}" value="${status.value}" title="${status.label}" />
+        <span>${status.label}</span>
+      </label>
+    `).join('');
+
+    // Add event listeners to media status checkboxes
+    container.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+      checkbox.addEventListener('change', (e) => {
+        if (e.target.checked) {
+          this.currentFilters.mediaStatuses.push(e.target.value);
+        } else {
+          this.currentFilters.mediaStatuses = this.currentFilters.mediaStatuses.filter(s => s !== e.target.value);
+        }
+        this.filterWorks();
+      });
+    });
+  }
+
   setupClearButton() {
     const clearFilters = document.getElementById('clear-works-filters');
     
@@ -814,6 +854,7 @@ class WorksManager {
     this.currentFilters.tags = [];
     this.currentFilters.decades = [];
     this.currentFilters.statuses = [];
+    this.currentFilters.mediaStatuses = [];
 
     // Uncheck all checkboxes visually
     const allCheckboxes = document.querySelectorAll('.filter-sidebar input[type="checkbox"]');
