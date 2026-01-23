@@ -805,6 +805,11 @@ class WorksManager {
           <h2>${translatedWork.title}</h2>
           <p class="work-year">${translatedWork.year}</p>
           <p class="work-description">${translatedWork.description}</p>
+          ${work.source ? `
+            <div class="source-info">
+              <p class="source-attribution"><em>Source: <a href="${work.source.url}" target="_blank">${work.source.name}</a></em></p>
+            </div>
+          ` : ''}
           ${ownership ? `
             <div class="ownership-info">
               <h3>${i18n.t('collection')}</h3>

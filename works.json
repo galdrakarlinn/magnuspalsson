@@ -362,7 +362,7 @@
       "images": [
         {
           "url": "images/placeholder.jpg",
-          "caption": "Einsemd (Isolation) - documentation pending"
+          "caption": "Einsemd (Isolation)"
         }
       ],
       "tags": [
@@ -401,9 +401,13 @@
         "catalogNumber": "107748",
         "notes": "Sculpture, 2013. H: 120cm, W: 350cm"
       },
-      "searchText": "einsemd isolation loneliness 2013 sculpture plaster anti-society league concert muck reykjavík arts festival magnús pálsson",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "searchText": "einsemd einsemd (isolation) 2013 höggmynd tengd \"tónleikum andfélagsbandalagsins\" frá 1982. listamaðurinn stjórnaði tónleikaflutningi þar sem meðlimir stöðvuðust og stóðu kyrrir á tilteknu augnabliki. hann gerði síðan gifs af tómu rýminu - neikvæða rýminu í staðnum - og efnisgerði þannig tónlistina og andrúmsloftið. búið til fyrir listahátíð í reykjavík 2013, flutt af íslenska hljómsveitinni muck. sculpture work related to 'the anti-society league concert' from 1982. the artist orchestrated a band performance where members would stop and remain still at a specific moment. he then created a plaster cast of the empty space—the negative room in the venue—thereby materializing the music and atmosphere. created for reykjavík arts festival 2013, performed by icelandic band muck. sculpture 2013 performance negative space gifs höggmynd plaster sculpture {'title': {'en': 'reykjavík arts festival', 'is': 'reykjavík arts festival'}, 'venue': {'en': 'reykjavík arts festival', 'is': 'reykjavík arts festival'}, 'location': 'reykjavík, iceland', 'year': 2013}",
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft",
+      "source": {
+        "name": "Listasafn Reykjavíkur",
+        "url": "https://listasafnreykjavikur.is/safneign/verk/51C02718-66B9-494A-B466-EFE903CE9713"
+      }
     },
     {
       "id": "walking-on-water-2012",
@@ -1071,8 +1075,8 @@
       },
       "year": 1965,
       "description": {
-        "en": "Wallpaper work from 1965, presented at Ásmundarsalur.",
-        "is": ""
+        "en": "Magnús Pálsson (b. 1929) actively participated in the avant-garde of Icelandic theater and visual arts in the 1960s and 1970s, collaborating with Dieter Roth and later the SÚM group. Magnús has had a significant influence on contemporary Icelandic art, particularly through his teaching at the Icelandic College of Arts and Crafts, where he and Hildur Hákonardóttir initiated the establishment of the new art department. Magnús represented Iceland at the Venice Biennale in visual arts in 1980. In 1994, a retrospective exhibition of his works was held at Kjarvalsstaðir. The original version of the work \"Ferð\" (Journey) is owned by the Living Art Museum but was recreated for Magnús Pálsson's exhibition at Kjarvalsstaðir in 1994. The work consists of 63 individual ink drawings joined together. The drawings are printed repeatedly, one over the other, onto long paper strips, creating a kind of wallpaper. The work is not least about the journey that the process of making it entails and the outcome, as each time it is made, the result is different. It is possible to connect the working method with another work in this room called \"Kál\" (Cabbage), where drawings are similarly joined together and printed.",
+        "is": "Magnús Pálsson (f. 1929) tók virkan þátt í framúrstefnu íslenskrar leik- og myndlistar á 6. og 7. áratug 20. aldar og átti m.a. í farsælu samstarfi við Dieter Roth og síðar SÚM-hópinn. Magnús hefur haft rík áhrif á íslenska samtímalist, m.a. í gegnum kennslustörf sem hann sinnti um árabil, en hann átti, ásamt Hildi Hákonardóttur, frumkvæði að stofnun nýlistadeildar við Myndlista-og handíðaskóla Íslands. Magnús var fulltrúi Íslands á Feneyjatvíæringnum í myndlist 1980. Árið 1994 var sett upp yfirlitssýning á verkum hans á Kjarvalsstöðum. Frumgerð verksins Ferð er í eigu Nýlistasafnsins en var endurgert vegna sýningar Magnúsar Pálssonar að Kjarvalsstöðum 1994. Verkið er gert úr 63 stökum tússteikningum sem er skeytt saman. Teikningarnar eru prentaðar aftur og aftur og hver yfir aðra á langa pappírsörk svo úr verður til nokkurs konar veggfóður. Verkið snýst ekki síst um þá ferð sem vinnan við það felur í sér og útkomuna því að í hvert skipti sem það er gert er útkoman öðruvísi. Mögulegt er að tengja vinnuaðferð þess við annað verk í þessum sal sem kallast Kál þar sem teikningum er skeytt saman og þær prentaðar á svipaðan máta."
       },
       "images": [
         {
@@ -1118,15 +1122,19 @@
           "blandað efni"
         ]
       },
-      "searchText": "veggfóður ferð reise wallpaper 1965 ásmundarsalur magnús pálsson",
+      "searchText": "veggfóður ferð (reise / wallpaper) veggfóður ferð (reise / wallpaper) 1965 magnús pálsson (f. 1929) tók virkan þátt í framúrstefnu íslenskrar leik- og myndlistar á 6. og 7. áratug 20. aldar og átti m.a. í farsælu samstarfi við dieter roth og síðar súm-hópinn. magnús hefur haft rík áhrif á íslenska samtímalist, m.a. í gegnum kennslustörf sem hann sinnti um árabil, en hann átti, ásamt hildi hákonardóttur, frumkvæði að stofnun nýlistadeildar við myndlista-og handíðaskóla íslands. magnús var fulltrúi íslands á feneyjatvíæringnum í myndlist 1980. árið 1994 var sett upp yfirlitssýning á verkum hans á kjarvalsstöðum. frumgerð verksins ferð er í eigu nýlistasafnsins en var endurgert vegna sýningar magnúsar pálssonar að kjarvalsstöðum 1994. verkið er gert úr 63 stökum tússteikningum sem er skeytt saman. teikningarnar eru prentaðar aftur og aftur og hver yfir aðra á langa pappírsörk svo úr verður til nokkurs konar veggfóður. verkið snýst ekki síst um þá ferð sem vinnan við það felur í sér og útkomuna því að í hvert skipti sem það er gert er útkoman öðruvísi. mögulegt er að tengja vinnuaðferð þess við annað verk í þessum sal sem kallast kál þar sem teikningum er skeytt saman og þær prentaðar á svipaðan máta. magnús pálsson (b. 1929) actively participated in the avant-garde of icelandic theater and visual arts in the 1960s and 1970s, collaborating with dieter roth and later the súm group. magnús has had a significant influence on contemporary icelandic art, particularly through his teaching at the icelandic college of arts and crafts, where he and hildur hákonardóttir initiated the establishment of the new art department. magnús represented iceland at the venice biennale in visual arts in 1980. in 1994, a retrospective exhibition of his works was held at kjarvalsstaðir. the original version of the work \"ferð\" (journey) is owned by the living art museum but was recreated for magnús pálsson's exhibition at kjarvalsstaðir in 1994. the work consists of 63 individual ink drawings joined together. the drawings are printed repeatedly, one over the other, onto long paper strips, creating a kind of wallpaper. the work is not least about the journey that the process of making it entails and the outcome, as each time it is made, the result is different. it is possible to connect the working method with another work in this room called \"kál\" (cabbage), where drawings are similarly joined together and printed. wallpaper installation 1965 wallpaper blandað efni wallpaper mixed media something-from-nothing-the-visual-realm-of-magnús-2019",
       "ownership": {
         "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
         "url": "https://listasafnreykjavikur.is/safneign/listamadur/id/11525A97-BA7F-4B3C-B035-603961A0E971",
         "catalogNumber": "91550",
         "notes": "Installation - Ferð, 1965/94"
       },
-      "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft",
+      "source": {
+        "name": "Listasafn Reykjavíkur",
+        "url": "https://listasafnreykjavikur.is/safneign/verk/85EDE27E-4780-4440-BB52-6135F0F6DF7C"
+      }
     },
     {
       "id": "volundarhus-labyrinth-1980",
@@ -2751,8 +2759,8 @@
       },
       "year": 1977,
       "description": {
-        "en": "A comprehensive work by Magnús Pálsson from 1977. This extensive piece demonstrates his artistic development and exploration during this significant period of his career.",
-        "is": ""
+        "en": "In Memory of the Burning of Njáll is one of Magnús's works where he creates playful variations on the idea of monuments. The work consists of ten typewriters on pedestals, a rope hanging from each typewriter, and the license plate L-1010 standing on a pedestal in front of the typewriters. The letter L stands for Rangárvallasýsla county, and 1010 represents the year of the burning; the typewriters are equal in number to those who burned inside according to the saga. The rope refers to the fact that according to the saga, a rope was used to start the fire. In Memory of the Burning of Njáll is a good example of literary conceptual art, not only because the work deals with literary subject matter, but also because the structure of the work and its internal meaning connections are of a literary nature.",
+        "is": "Í minningu Njálsbrennu er eitt af verkum Magnúsar þar sem hann vinnur skopleg tilbrigði við hugmyndina um minnismerki. Verkið samanstendur af tíu ritvélum á stöplum, arfa sem hangir úr hverri ritvél og bílnúmeraplötunni L-1010 sem stendur á stöpli fyrir framan ritvélarnar. L-ið stendur fyrir Rangárvallasýslu og 1010 fyrir ártal brennunnar; ritvélarnar eru jafnmargar og þeir sem brunnu inni samkvæmt sögunni. Arfinn vísar til þess að í sögunni segir að notaður hafi verið arfi til að tendra eldinn. Í minningu Njálsbrennu er gott dæmi um bókmenntalega konseptlist, ekki aðeins vegna þess að verkið fjallar um bókmenntalegt efni, heldur einnig vegna þess að uppbygging verksins og innri merkingartengsl eru bókmenntalegs eðlis."
       },
       "images": [
         {
@@ -2837,15 +2845,19 @@
         "en": [],
         "is": []
       },
-      "searchText": "minning njálsbrennu 1977 1977 magnús pálsson",
+      "searchText": "minning njálsbrennu 1977 minning njálsbrennu 1977 1977 í minningu njálsbrennu er eitt af verkum magnúsar þar sem hann vinnur skopleg tilbrigði við hugmyndina um minnismerki. verkið samanstendur af tíu ritvélum á stöplum, arfa sem hangir úr hverri ritvél og bílnúmeraplötunni l-1010 sem stendur á stöpli fyrir framan ritvélarnar. l-ið stendur fyrir rangárvallasýslu og 1010 fyrir ártal brennunnar; ritvélarnar eru jafnmargar og þeir sem brunnu inni samkvæmt sögunni. arfinn vísar til þess að í sögunni segir að notaður hafi verið arfi til að tendra eldinn. í minningu njálsbrennu er gott dæmi um bókmenntalega konseptlist, ekki aðeins vegna þess að verkið fjallar um bókmenntalegt efni, heldur einnig vegna þess að uppbygging verksins og innri merkingartengsl eru bókmenntalegs eðlis. in memory of the burning of njáll is one of magnús's works where he creates playful variations on the idea of monuments. the work consists of ten typewriters on pedestals, a rope hanging from each typewriter, and the license plate l-1010 standing on a pedestal in front of the typewriters. the letter l stands for rangárvallasýsla county, and 1010 represents the year of the burning; the typewriters are equal in number to those who burned inside according to the saga. the rope refers to the fact that according to the saga, a rope was used to start the fire. in memory of the burning of njáll is a good example of literary conceptual art, not only because the work deals with literary subject matter, but also because the structure of the work and its internal meaning connections are of a literary nature. artwork 1977 something-from-nothing-the-visual-realm-of-magnús-2019",
       "ownership": {
         "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
         "url": "https://listasafnreykjavikur.is/safneign/listamadur/id/11525A97-BA7F-4B3C-B035-603961A0E971",
         "catalogNumber": "91075",
         "notes": "Installation - Í minningu Njálsbrennu, 1978, H: 260 cm"
       },
-      "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft",
+      "source": {
+        "name": "Listasafn Reykjavíkur",
+        "url": "https://listasafnreykjavikur.is/safneign/verk/A05BEFB0-5F8F-4141-BF68-37D5DEBA9C88"
+      }
     },
     {
       "id": "minning-thorarinn-nefjolfsson-i8-reyk-2007-2007",
@@ -3514,8 +3526,8 @@
       },
       "year": 1999,
       "description": {
-        "en": "A work by Magnús Pálsson from 1999. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career.",
-        "is": ""
+        "en": "The video is shot using \"green screen\" technology where the artist is seen sitting on a chair that appears small in relation to the person. The proportions are off; the artist sits at an angle and speaks into the void. The text discusses people, events, and interactions, but also the size of objects and surroundings, people's perception of size in their environment, and the standards applied in each case. Occasionally everything takes off; the image shakes and an earthquake jolts the person and the space.",
+        "is": "Myndbandið er tekið með „green screen“ tækni þar sem listamaðurinn sést sitjandi á stól er virðist smár miðað við manninn. Hlutföllin eru á skjön, listamaðurinn situr á hlið og talar út í tómið. Textinn fjallar um fólk, atburði og samskipti en einnig um stærð hluta og umhverfis, skynjun manna á stærð í umhverfi sínu og þau viðmið sem beitt er hverju sinni. Af og til fer allt á flug; myndin hristist og jarðskjálfti skekur manninn og rýmið."
       },
       "images": [
         {
@@ -3545,15 +3557,19 @@
         "en": [],
         "is": []
       },
-      "searchText": "kúplingsdiskur clutch disc 1999 1999 magnús pálsson",
+      "searchText": "kúplingsdiskur clutch disc 1999 kúplingsdiskur clutch disc 1999 1999 myndbandið er tekið með „green screen“ tækni þar sem listamaðurinn sést sitjandi á stól er virðist smár miðað við manninn. hlutföllin eru á skjön, listamaðurinn situr á hlið og talar út í tómið. textinn fjallar um fólk, atburði og samskipti en einnig um stærð hluta og umhverfis, skynjun manna á stærð í umhverfi sínu og þau viðmið sem beitt er hverju sinni. af og til fer allt á flug; myndin hristist og jarðskjálfti skekur manninn og rýmið. the video is shot using \"green screen\" technology where the artist is seen sitting on a chair that appears small in relation to the person. the proportions are off; the artist sits at an angle and speaks into the void. the text discusses people, events, and interactions, but also the size of objects and surroundings, people's perception of size in their environment, and the standards applied in each case. occasionally everything takes off; the image shakes and an earthquake jolts the person and the space. artwork 1999 something-from-nothing-the-visual-realm-of-magnús-2019",
       "ownership": {
         "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
         "url": "https://listasafnreykjavikur.is/safneign/listamadur/id/11525A97-BA7F-4B3C-B035-603961A0E971",
         "catalogNumber": "93882",
         "notes": "Multimedia work, 1999"
       },
-      "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft",
+      "source": {
+        "name": "Listasafn Reykjavíkur",
+        "url": "https://listasafnreykjavikur.is/safneign/verk/080B26D6-E135-4551-8379-B7460C06659C"
+      }
     },
     {
       "id": "legitimate-concrete-fart-viggo-a-1990-1990",
@@ -9018,8 +9034,8 @@
       },
       "year": "1986-1998",
       "description": {
-        "en": "A major multimedia work spanning over a decade (1986-1998), Eyetalk (Augntal) explores communication, perception, and the relationship between visual and verbal language. The work includes multiple video components, extensive text materials, and documentation spanning various iterations and developments. This comprehensive piece examines how we communicate through eyes and words, creating a dialogue between visual perception and spoken language.",
-        "is": ""
+        "en": "Magnús's trilogy, Talk Preceding Eye Talk, Eye Talk, and Eye Talk II, is structured in a similar manner each time, with the artist's voice in the foreground and he himself delivering the text in the video. There is always some characteristic that makes the narration strange and it seems to be plucked from thin air. In the first video, Magnús plays a man who picks his nose excessively with accompanying disruption in the narration. The second time, his face is not visible, only the neck, in front of footage from a sewage system. Finally, he positions himself tightly against a woman's breast and fully enjoys the woman's consolation during the narration. None of the works are edited or composed; they move slowly forward without progression or coherence.",
+        "is": "Þríleikur Magnúsar, Talk Preceding Eye Talk, Eye Talk og Eye Talk II, er uppbyggður með áþekkum hætti hverju sinni, rödd listamannsins er í fyrirrúmi og hann fer sjálfur með textann í mynd. Alltaf er til staðar einhver eiginleiki sem gerir frásögnina framandlega og hún virðist úr lausu lofti gripin. Í fyrsta myndskeiði er Magnús í hlutverki manns sem tekur óhóflega í nefið með tilheyrandi truflun í frásögninni. Öðru sinni sést andlit hans ekki, eingöngu hálsinn, fyrir framan upptöku úr skólpræsakerfi. Loks stillir hann sér upp þétt við kvenmannsbrjóst og nýtur fulltingis konunnar við frásögnina. Ekkert verkanna er klippt eða samsett, þau líða hægt áfram án framvindu eða samhengis."
       },
       "images": [
         {
@@ -9087,15 +9103,19 @@
           "multimedia installation"
         ]
       },
-      "searchText": "eyetalk augntal video multimedia communication perception language eyes speech visual verbal 1986 1990 1998 2017 discussion magnús pálsson",
+      "searchText": "eyetalk (augntal) eyetalk (augntal) 1986-1998 þríleikur magnúsar, talk preceding eye talk, eye talk og eye talk ii, er uppbyggður með áþekkum hætti hverju sinni, rödd listamannsins er í fyrirrúmi og hann fer sjálfur með textann í mynd. alltaf er til staðar einhver eiginleiki sem gerir frásögnina framandlega og hún virðist úr lausu lofti gripin. í fyrsta myndskeiði er magnús í hlutverki manns sem tekur óhóflega í nefið með tilheyrandi truflun í frásögninni. öðru sinni sést andlit hans ekki, eingöngu hálsinn, fyrir framan upptöku úr skólpræsakerfi. loks stillir hann sér upp þétt við kvenmannsbrjóst og nýtur fulltingis konunnar við frásögnina. ekkert verkanna er klippt eða samsett, þau líða hægt áfram án framvindu eða samhengis. magnús's trilogy, talk preceding eye talk, eye talk, and eye talk ii, is structured in a similar manner each time, with the artist's voice in the foreground and he himself delivering the text in the video. there is always some characteristic that makes the narration strange and it seems to be plucked from thin air. in the first video, magnús plays a man who picks his nose excessively with accompanying disruption in the narration. the second time, his face is not visible, only the neck, in front of footage from a sewage system. finally, he positions himself tightly against a woman's breast and fully enjoys the woman's consolation during the narration. none of the works are edited or composed; they move slowly forward without progression or coherence. video multimedia communication perception language eyes speech augntal multi-temporal 1980s 1990s myndband texti documentation multimedia installation video text documentation multimedia installation {'title': {'en': 'video installations', 'is': 'video installations'}, 'venue': {'en': 'various venues', 'is': 'various venues'}, 'location': 'iceland', 'year': '1986-1998'} {'title': {'en': 'eyetalk discussion', 'is': 'eyetalk discussion'}, 'venue': {'en': 'various venues', 'is': 'various venues'}, 'location': 'iceland', 'year': 2017} something-from-nothing-the-visual-realm-of-magnús-2019",
       "ownership": {
         "owner": "Listasafn Íslands (National Gallery of Iceland)",
         "url": "https://www.listasafn.is/list/safneign/li-7392/",
         "catalogNumber": "LÍ-7392",
         "notes": "Video work, 1993"
       },
-      "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft",
+      "source": {
+        "name": "Listasafn Reykjavíkur",
+        "url": "https://listasafnreykjavikur.is/safneign/verk/72C13C12-1B15-4926-86DD-AA0952B43AFD"
+      }
     },
     {
       "id": "seeds-of-aspidistra-2002",
@@ -10435,8 +10455,8 @@
       },
       "year": 1980,
       "description": {
-        "en": "A work by Magnús Pálsson from 1980. This piece demonstrates his artistic exploration and creative development during this period.",
-        "is": ""
+        "en": "\"North of Korpúlfsstaður at the mouth of Úlfarsá there is a drawing of a bird on a grass patch. In ten days, the bird transforms into a mouse, and in another ten days into a kangaroo.\" This is how Magnús Pálsson himself describes the work. Originally it was made in 1980, but he recreated it in 1994 for a retrospective exhibition held that year at Kjarvalsstaðir. Both times he sourced material from nearby ash heaps. Originally he had intended to arrange the garbage in a beautiful pattern on a hillside that could be seen from far away, but in the end it became this transformation process. Here Magnús creates something from nothing.",
+        "is": "„Norðan Korpúlfsstaða við ósa Úlfarsár er teikning af sólskríkju á grasbala. Á tíu dögum breytist sólskríkja í mús og á öðrum tíu dögum í kengúru.“ Svo kemst Magnús Pálsson sjálfur að orði um verkið. Upphaflega var það gert árið 1980 en hann endurgerði það 1994 vegna yfirlitssýningar sem var það ár á Kjarvalsstöðum. Í bæði skipti sótti hann efnivið í nærliggjandi öskuhauga. Upphaflega hafði hann ætlað sér að raða ruslinu upp í fallegt munstur utan í hlíð sem sæist langt að, en á endanum varð það að þessu umbreytingarferli. Magnús skapar hér eitthvað úr engu."
       },
       "images": [
         {
@@ -10505,15 +10525,19 @@
         "en": [],
         "is": []
       },
-      "searchText": "sólskrikja, mús, kengúra (bird, mouse, kangaroo) 1980 &1994 1980 magnús pálsson",
+      "searchText": "sólskrikja, mús, kengúra (bird, mouse, kangaroo) 1980 &1994 sólskrikja, mús, kengúra (bird, mouse, kangaroo) 1980 &1994 1980 „norðan korpúlfsstaða við ósa úlfarsár er teikning af sólskríkju á grasbala. á tíu dögum breytist sólskríkja í mús og á öðrum tíu dögum í kengúru.“ svo kemst magnús pálsson sjálfur að orði um verkið. upphaflega var það gert árið 1980 en hann endurgerði það 1994 vegna yfirlitssýningar sem var það ár á kjarvalsstöðum. í bæði skipti sótti hann efnivið í nærliggjandi öskuhauga. upphaflega hafði hann ætlað sér að raða ruslinu upp í fallegt munstur utan í hlíð sem sæist langt að, en á endanum varð það að þessu umbreytingarferli. magnús skapar hér eitthvað úr engu. \"north of korpúlfsstaður at the mouth of úlfarsá there is a drawing of a bird on a grass patch. in ten days, the bird transforms into a mouse, and in another ten days into a kangaroo.\" this is how magnús pálsson himself describes the work. originally it was made in 1980, but he recreated it in 1994 for a retrospective exhibition held that year at kjarvalsstaðir. both times he sourced material from nearby ash heaps. originally he had intended to arrange the garbage in a beautiful pattern on a hillside that could be seen from far away, but in the end it became this transformation process. here magnús creates something from nothing. artwork 1980",
       "ownership": {
         "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
         "url": "https://listasafnreykjavikur.is/safneign?q=Sólskríkja",
         "catalogNumber": "91551",
         "notes": "Photography, 1980-94, 30.5 × 43 cm"
       },
-      "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft",
+      "source": {
+        "name": "Listasafn Reykjavíkur",
+        "url": "https://listasafnreykjavikur.is/safneign/verk/FF516E6C-A0B4-4392-BFC1-31D51E286F0F"
+      }
     },
     {
       "id": "solur-skagarstrand-aug-2015",
