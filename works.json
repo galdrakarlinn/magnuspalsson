@@ -66,7 +66,8 @@
       },
       "searchText": "þiljur thiljur bethanien berlin 2002 installation magnús pálsson",
       "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-02-thumb.jpg",
-      "contentStatus": "needs review"
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft"
     },
     {
       "id": "thiljur-laeknagarður-1995",
@@ -147,7 +148,8 @@
           "is": "Varanleg innsetning, Líffærafræðistofnun, Læknagarður"
         }
       },
-      "contentStatus": "needs review"
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft"
     },
     {
       "id": "thraetubalkur-1990",
@@ -242,7 +244,8 @@
         ]
       },
       "searchText": "þrætubálkur thraetubalkur dispute pole 1990 sound sculpture iliad homer nýlistasafnið magnús pálsson",
-      "contentStatus": "needs review"
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft"
     },
     {
       "id": "thrigaldur-thursavaenn-2013",
@@ -342,7 +345,8 @@
         ]
       },
       "searchText": "þrígaldur thrigaldur þursavænn thursavaenn three spells giants waft 2013 video sound installation hafnarhús magnús pálsson",
-      "contentStatus": "needs review"
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft"
     },
     {
       "id": "einsemd-2013",
@@ -398,7 +402,8 @@
         "notes": "Sculpture, 2013. H: 120cm, W: 350cm"
       },
       "searchText": "einsemd isolation loneliness 2013 sculpture plaster anti-society league concert muck reykjavík arts festival magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "walking-on-water-2012",
@@ -482,7 +487,8 @@
       "ownership": {
         "owner": "Magnús Pálsson"
       },
-      "contentStatus": "needs review"
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft"
     },
     {
       "id": "watercolours-2016-2018",
@@ -562,7 +568,8 @@
         ]
       },
       "searchText": "watercolours 2016 2017 2018 painting magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "watercolours-early",
@@ -643,7 +650,8 @@
         ]
       },
       "searchText": "watercolours early 1977 painting landscape magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "wendy-walking-1984",
@@ -682,7 +690,8 @@
         ]
       },
       "searchText": "wendy walking 1984 performance magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "ulla-udda-sudurgata-7-1976",
@@ -760,7 +769,8 @@
         ]
       },
       "searchText": "ulla udda sudurgata 7 1976 student work installation magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "vaenting-expectation-1966",
@@ -820,7 +830,8 @@
         "owner": "The Living Art Museum (Nýlistasafnið)",
         "url": "https://sarpur.is/Adfang.aspx?AdfangID=1412866"
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "vakning-2015",
@@ -895,7 +906,8 @@
         ]
       },
       "searchText": "vakning 2015 installation clocks akureyri magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "vallanes-model-1960s",
@@ -962,7 +974,8 @@
         "url": "https://sarpur.is/Adfang.aspx?AdfangID=2595580",
         "notes": "Model of Vallanes farm, 1976. Plastic, 1.48 × 1.14 cm. One of three identical models - others in Canada and East Iceland Museum."
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "varla-hardly-1994",
@@ -1047,7 +1060,8 @@
         ]
       },
       "searchText": "varla hardly 1994 soaps audio installation magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "veggfodur-ferd-reise-1965",
@@ -1111,7 +1125,8 @@
         "catalogNumber": "91550",
         "notes": "Installation - Ferð, 1965/94"
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "volundarhus-labyrinth-1980",
@@ -1193,7 +1208,8 @@
         ]
       },
       "searchText": "völundarhús labyrinth 1980 vestmannaeyjar magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "taem-time-clock-now-1964",
@@ -1254,7 +1270,8 @@
         ]
       },
       "searchText": "taem time clock now 1964 conceptual sculpture magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "tango-1-2-1969",
@@ -1316,7 +1333,8 @@
         ]
       },
       "searchText": "tango 1969 dance movement sculpture magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "tarnung-camoflas-tros-1962",
@@ -1364,7 +1382,8 @@
         ]
       },
       "searchText": "tarnung camoflas tros dulamálning 1962 camouflage painting magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "hunting-of-the-snark-1998",
@@ -1402,7 +1421,8 @@
         ]
       },
       "searchText": "hunting of the snark 1998 nýló lewis carroll magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "the-offs-1994",
@@ -1487,7 +1507,8 @@
         "catalogNumber": "91900",
         "notes": "Book art - \"The Offs. Play in two acts\", 1993, 31.5 × 24 cm"
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "tilfaesla-rymis-1976",
@@ -1535,7 +1556,8 @@
         ]
       },
       "searchText": "tilfæsla rýmis 1976 space conceptual magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "typewriter-ritvel-2016",
@@ -1575,7 +1597,8 @@
         ]
       },
       "searchText": "typewriter ritvél 2016 performance sound sigló magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "tadskegglingar-2009",
@@ -1660,7 +1683,8 @@
         ]
       },
       "searchText": "tadskegglingar sequences 2009 performance collage hanging chairs magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "mutations-stokkbreytingar-dada-tate-hackney-empire-2005",
@@ -1706,7 +1730,8 @@
         ]
       },
       "searchText": "mutations stökkbreytingar dada tate hackney empire 2005 performance video london magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "rumbjarni-sudurgata-7-1976-1976",
@@ -1803,7 +1828,8 @@
         "is": []
       },
       "searchText": "rúmbjarni suðurgata 7 1976 1976 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "pendull-student-performance-121999",
@@ -1846,7 +1872,8 @@
         ]
       },
       "searchText": "pendúll student performance 1.2.1999 1999 magnús pálsson performance video documentation",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "pmal-texti-1993-1993",
@@ -1913,7 +1940,8 @@
         "is": []
       },
       "searchText": "p-mál texti 1993 1993 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "pappirsast-19656-1965",
@@ -1984,7 +2012,8 @@
         ]
       },
       "status": "ready_for_review",
-      "contentStatus": "needs review"
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft"
     },
     {
       "id": "portrait-of-dorothy-1966-1966",
@@ -2055,7 +2084,8 @@
         ]
       },
       "searchText": "portrait of dorothy 1966 1966 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "rainbow-clippings-startart-aug-reyk-berlin-sept-08",
@@ -2136,7 +2166,8 @@
         "is": []
       },
       "searchText": "rainbow clippings startart aug reyk berlin sept 08 Unknown magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "pegasus-student-work-enschede-aki-19823-1982",
@@ -2172,7 +2203,8 @@
         ]
       },
       "searchText": "pegasus student work enschede aki 1982-3 1982 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "polypoetry-festival-2006-2006",
@@ -2210,7 +2242,8 @@
         ]
       },
       "searchText": "polypoetry festival 2006 2006 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "retrospective-exhib-videos-1994-1994",
@@ -2246,7 +2279,8 @@
         ]
       },
       "searchText": "retrospective exhib. videos 1994 1994 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "mp-10",
@@ -2278,7 +2312,8 @@
         "is": []
       },
       "searchText": "mp 10 Unknown magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "kennaraskoli-islands-model-with-dr",
@@ -2309,7 +2344,8 @@
         ]
       },
       "searchText": "kennaraskóli íslands model with dr Unknown magnús pálsson documentation text",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "kal-5-negative-made-1966-printed-2018-1966",
@@ -2406,7 +2442,8 @@
         "is": []
       },
       "searchText": "kál 5 negative made 1966 printed 2018 1966 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "myrkur-darkness-solskin-photos-1977-1977",
@@ -2511,7 +2548,8 @@
           "gifs"
         ]
       },
-      "searchText": "myrkur sólskin darkness sunlight plaster sculpture conceptual positive negative space opposites 1977 magnús pálsson"
+      "searchText": "myrkur sólskin darkness sunlight plaster sculpture conceptual positive negative space opposites 1977 magnús pálsson",
+      "mediaStatus": "images draft"
     },
     {
       "id": "mumbling-eye-student-book-19834-1983",
@@ -2606,7 +2644,8 @@
         "is": []
       },
       "searchText": "mumbling eye student book 1983-4 1983 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "motun-lands-askja-2010-2010",
@@ -2701,7 +2740,8 @@
         "is": []
       },
       "searchText": "mótun lands askja 2010 2010 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "minning-njalsbrennu-1977-1977",
@@ -2804,7 +2844,8 @@
         "catalogNumber": "91075",
         "notes": "Installation - Í minningu Njálsbrennu, 1978, H: 260 cm"
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "minning-thorarinn-nefjolfsson-i8-reyk-2007-2007",
@@ -2915,7 +2956,8 @@
         "catalogNumber": "108204",
         "notes": "Sculpture, 2007"
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "kal-14-196366-1963",
@@ -3012,7 +3054,8 @@
         "is": []
       },
       "searchText": "kál 1-4 1963-66 1963 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "kross-2013-performance-2013",
@@ -3094,7 +3137,8 @@
         "is": []
       },
       "searchText": "kross 2013 performance 2013 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "landafraedi-maps-gibs-pieces-1972-2012-1972",
@@ -3170,7 +3214,8 @@
         "is": []
       },
       "searchText": "landafræði (maps & gibs pieces) 1972 & 2012 1972 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "manifesto-bergen-offside-exhibition-1996-1996",
@@ -3244,7 +3289,8 @@
         "is": []
       },
       "searchText": "manifesto bergen offside exhibition 1996 1996 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "minning-kaninunnar-barabbit-1979-1979",
@@ -3313,7 +3359,8 @@
         "is": []
       },
       "searchText": "minning kanínunnar, barabbit 1979 1979 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "kennsla-geggjadasta-listgreinin-teaching-the-craziest-branch-of-art-1984-1984",
@@ -3375,7 +3422,8 @@
         "is": []
       },
       "searchText": "kennsla - geggjaðasta listgreinin -  teaching, the craziest branch of art 1984 1984 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "kjotkassan-og-brasiliufraenkan-19934-1993",
@@ -3407,7 +3455,8 @@
         "is": []
       },
       "searchText": "kjötkássan og brasilíufrænkan 1993-4 1993 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "kuakyn-i-haettu-2015-2015",
@@ -3454,7 +3503,8 @@
         "is": []
       },
       "searchText": "kúakyn í hættu 2015 2015 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "kuplingsdiskur-clutch-disc-1999-1999",
@@ -3502,7 +3552,8 @@
         "catalogNumber": "93882",
         "notes": "Multimedia work, 1999"
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "legitimate-concrete-fart-viggo-a-1990-1990",
@@ -3548,7 +3599,8 @@
         "is": []
       },
       "searchText": "legitimate concrete fart viggo a 1990 1990 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "ludurhljomur-i-skokassa-1975-1975",
@@ -3616,7 +3668,8 @@
         ]
       },
       "searchText": "lúðurhljómur skókassa bugle shoe box sound plaster sculpture conceptual münchhausen frozen sound heat cold 1975 1976 magnús pálsson",
-      "contentStatus": "needs review"
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft"
     },
     {
       "id": "madame-president-1986-audio-to-be-digitalised-1986",
@@ -3657,7 +3710,8 @@
         "is": []
       },
       "searchText": "madame president 1986 audio to be digitalised 1986 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "masterplastercaster2013-2013",
@@ -3689,7 +3743,8 @@
         "is": []
       },
       "searchText": "master-plaster-caster-2013 2013 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "minning-bakkabraedra-ljoshirsla-og-1977-1977",
@@ -3730,7 +3785,8 @@
         "is": []
       },
       "searchText": "minning bakkabræðra ljóshirsla (og) 1977 1977 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "minning-irafellsmora-1977-1977",
@@ -3790,7 +3846,8 @@
         "is": []
       },
       "searchText": "minning irafellsmóra  1977 1977 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "minning-magnusar-jonssonar-1982-1982",
@@ -3831,7 +3888,8 @@
         "is": []
       },
       "searchText": "minning magnúsar jónssonar 1982 1982 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "mat-a-h8-skak-checkmate-1972-1972",
@@ -3879,7 +3937,8 @@
         "is": []
       },
       "searchText": "mát á h8  (skák, checkmate) 1972 1972 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "kulan_1962",
@@ -3941,7 +4000,8 @@
         ]
       },
       "searchText": "kúlan geometric sculpture early work 1962 abstract form spatial magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "bestu_stykkin",
@@ -4033,7 +4093,8 @@
         "url": "https://sarpur.is/Adfang.aspx?AdfangID=1396243",
         "catalogNumber": "N-277"
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "augustus_my_god",
@@ -4100,7 +4161,8 @@
         "en": [],
         "is": []
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "thyrlulending",
@@ -4206,7 +4268,8 @@
         "catalogNumber": "93817",
         "notes": "Also known as \"Sekúndurnar þar til Sikorskyþyrlan snertir\" (Seconds Before the Sikorsky Helicopter Touches), 1976"
       },
-      "contentStatus": "needs review"
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft"
     },
     {
       "id": "vidtol_um_daudann_2011",
@@ -4304,7 +4367,8 @@
         "url": "https://www.listasafn.is/list/safneign/li-8249/",
         "catalogNumber": "LÍ-8249"
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "draumur_hlynsins_um_fjall_1974",
@@ -4344,7 +4408,8 @@
         "en": [],
         "is": []
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "master_plaster_caster_2013",
@@ -4380,7 +4445,8 @@
         "en": [],
         "is": []
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "yxn_2002",
@@ -4449,7 +4515,8 @@
         ]
       },
       "searchText": "yxn sound video cows poetry nature boy country headphones hafnarhús sculptors union anniversary reykjavik selfoss ingólfsfjall steinþór birgisson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "100_years_war_mokka_1995",
@@ -4552,7 +4619,8 @@
         ]
       },
       "searchText": "100 ára stríðið 100 years war conflict time history society culture café mokka reykjavik conceptual installation mixed media 1990s magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "aevintyr_folktale_1997",
@@ -4663,7 +4731,8 @@
         ]
       },
       "searchText": "ævintýr ævintyr folktale storytelling folklore performance audio video NÝLO oxford listhátið seydisfjörður 1997 2011 2013 2016 recurring work magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "angist_fateka_reykingsmannsins_1975",
@@ -4728,7 +4797,8 @@
         ]
       },
       "searchText": "angist fátæka reykingsmannsins smokers nightmare smoking anguish social commentary 1975 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "anti_society_league_concert_1982",
@@ -4819,7 +4889,8 @@
         ]
       },
       "searchText": "anti society league concert norkjöping sweden performance casting 1982 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "asmundarsalur_exhibition_1968",
@@ -4889,7 +4960,8 @@
         ]
       },
       "searchText": "ásmundarsalur exhibition sculpture museum reykjavik 1968 early career magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "ast_i_sundlaug_1975",
@@ -4968,7 +5040,8 @@
         ]
       },
       "searchText": "ást í sundlaug love in a pool plaster cast negative space positive space emotion sculpture 3d scan 1975 magnús pálsson pappírsást vocal sculptures",
-      "contentStatus": "needs review"
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft"
     },
     {
       "id": "bacarolle_i_fis_dur_1981",
@@ -5031,7 +5104,8 @@
         ]
       },
       "searchText": "bacarolle í fís dúr music plaster casting students collaboration teaching 1981 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "bilatal_odurin_til_bilsins_2002",
@@ -5132,7 +5206,8 @@
         "catalogNumber": "100733",
         "notes": "Installation, 2002"
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "bjossi_a_mjolkurbilnum_1994",
@@ -5198,7 +5273,8 @@
         ]
       },
       "searchText": "bjössi á mjólkurbílnum milk truck kjarvalstaðir 1994 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "bok_um_bok_og_fleira_1980",
@@ -5271,7 +5347,8 @@
         ]
       },
       "searchText": "bók um bók og fleira book text definitions norwegian translation 1980 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "bref_til_djonna_1994",
@@ -5333,7 +5410,8 @@
         ]
       },
       "searchText": "bréf til djonna letter audio personal sound art spoken word intimacy communication 1994 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "bref_til_kristjans_wingdings_1990",
@@ -5406,7 +5484,8 @@
         ]
       },
       "searchText": "bréf til kristjáns wingdings typography letter small work 1990 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "bref_til_ragnars_2003",
@@ -5488,7 +5567,8 @@
         ]
       },
       "searchText": "bréf til ragnars letter ragnar audio personal 2003 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "brim_keflavik_2005",
@@ -5557,7 +5637,8 @@
         ]
       },
       "searchText": "brim keflavik opening event 2005 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "buxnaskalm_tota_sigga_1968",
@@ -5630,7 +5711,8 @@
         ]
       },
       "searchText": "buxnaskálm tóta sigga collaboration group work 1968 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "clothes_2000",
@@ -5713,7 +5795,8 @@
         ]
       },
       "searchText": "clothes fashion jackets modeling jackie 2000 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "contours_of_a_baby_1987",
@@ -5783,7 +5866,8 @@
         ]
       },
       "searchText": "contours of a baby tape digitalization 1987 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "dalalada_mist_1975",
@@ -5872,7 +5956,8 @@
           "gifs"
         ]
       },
-      "searchText": "dalalæða valley mist plaster sculpture conceptual positive negative space landscape atmospheric vatnsdalur venice biennale 1975 1980 magnús pálsson"
+      "searchText": "dalalæða valley mist plaster sculpture conceptual positive negative space landscape atmospheric vatnsdalur venice biennale 1975 1980 magnús pálsson",
+      "mediaStatus": "images draft"
     },
     {
       "id": "dog_book_1973",
@@ -5941,7 +6026,8 @@
         ]
       },
       "searchText": "dog book publication 1973 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "dulargervi_malnigarbakki_camouflage_1966",
@@ -6006,7 +6092,8 @@
         "catalogNumber": "LÍ-12155",
         "notes": "Sculpture/Low relief, \"Disguise\" - 57 × 27 × 20.5 cm"
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "davidssalmur_choir_piece",
@@ -6080,7 +6167,8 @@
         ]
       },
       "searchText": "daviðssálmur choir piece kross íris psalms religious music 1985 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "de_kommer_med_kista_1985",
@@ -6188,7 +6276,8 @@
         ]
       },
       "searchText": "de kommer med kista og henter meg performance oslo reykjavik coffin stage 1985 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "dreams_skinned_rabbit_berlin_2005",
@@ -6274,7 +6363,8 @@
         ]
       },
       "searchText": "dreams skinned rabbit bookie wookie berlin collaboration jan audio 2005 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "duld_blub_bum_mud_1976",
@@ -6348,7 +6438,8 @@
         ]
       },
       "searchText": "duld blub bum mud 6 pund plaster books wordplay experimental language sculpture 1976 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "echo_holland_student_work_1983",
@@ -6435,7 +6526,8 @@
         "owner": "The Living Art Museum (Nýlistasafnið)",
         "url": "https://sarpur.is/Adfang.aspx?AdfangID=1412112"
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "edda_text_works_ancestry_malmo_1978",
@@ -6519,7 +6611,8 @@
         ]
       },
       "searchText": "edda text works ancestry 11 artists malmö sweden 1978 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "engin_glypir_solina_1983",
@@ -6599,7 +6692,8 @@
         ]
       },
       "searchText": "enginn gleypir sólina engin glypir solina sound sculpture hljóðskúlptúr audio installation memory childhood icelandic humor gallery one-one skólavörðustígur snuff tobacco speakers multi-channel 1983 1993 magnús pálsson eiríkur þorláksson morgunblaðið",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "fjall_ceramic_pieces_1969_71",
@@ -6663,7 +6757,8 @@
         ]
       },
       "searchText": "fjall mountain ceramic pieces sculpture 1969 1970 1971 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "franklin_furnace_ny_1984",
@@ -6746,7 +6841,8 @@
         ]
       },
       "searchText": "franklin furnace new york publication performance bacarolle 1984 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "eddumyndir_mosfellsbaer_islandsbanki_1983",
@@ -6832,7 +6928,8 @@
         ]
       },
       "searchText": "eddumyndir edda mythology sketches hel himinbjörg mosfellsbær íslandsbanki 1983 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "erdanubodd_1962",
@@ -6918,7 +7015,8 @@
           "blönduð tækni"
         ]
       },
-      "searchText": "erðanúborð a table is it now early work 1962 magnús pálsson fluxus conceptual art sculpture mixed media humor ephemerality ásmundarsalur"
+      "searchText": "erðanúborð a table is it now early work 1962 magnús pálsson fluxus conceptual art sculpture mixed media humor ephemerality ásmundarsalur",
+      "mediaStatus": "images draft"
     },
     {
       "id": "ferdafuda_travel_exhibition_2003",
@@ -7003,7 +7101,8 @@
         ]
       },
       "searchText": "ferðafuða travel exhibition niels hafstein card house bridge 2003 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "foss_waterfall_2006",
@@ -7083,7 +7182,8 @@
         ]
       },
       "searchText": "foss waterfall nature photography 2006 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "freyskatla_1992",
@@ -7186,7 +7286,8 @@
         "url": "https://sarpur.is/Adfang.aspx?AdfangID=1452456",
         "notes": "Sound sculpture version - raddskúlptúr"
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "automobile_bok_1970_74",
@@ -7252,7 +7353,8 @@
       "ownership": {
         "owner": "Listasafn Íslands (National Gallery of Iceland)"
       },
-      "contentStatus": "needs review"
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft"
     },
     {
       "id": "flaedamal_beach_1976",
@@ -7354,7 +7456,8 @@
         ]
       },
       "searchText": "flæðarmál beach sea sky three parts plaster cast seamless block positive negative value mathematical reflection environmental casting landscape kjarvalstaðir retrospective listasafn reykjavíkur something from nothing eitthvað úr engu lund 1976 1994 2019 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "galleri_gangur_1982",
@@ -7496,7 +7599,8 @@
         ]
       },
       "searchText": "galleri gangur hani krummi hundur svin cockerel crow dog pig animals musical notation drawing bird horse mouse sound nature reykjavík 1982 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "gapassipi_1995",
@@ -7604,7 +7708,8 @@
         ]
       },
       "searchText": "gapassipi tjöpörnipinnipi installation performance audio sound poetry experimental language ráðhúsið city hall reykjavík floor spatial composition september 1995 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "g_ljod_2009",
@@ -7706,7 +7811,8 @@
         ]
       },
       "searchText": "g ljóð poetry publication experimental text visual poetry language book text art 2009 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "grad_og_bu_2002",
@@ -7760,7 +7866,8 @@
         ]
       },
       "searchText": "grað og bú audio sound poetry text master recording experimental audio hunger dwelling 2002 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "gibsborn_children_1971",
@@ -7873,7 +7980,8 @@
         "url": "https://www.listasafn.is/list/safneign/li-7278-278/"
       },
       "searchText": "gibsbörn children plaster sculpture life-size clothing moulds materiality childhood casting gallery fodor amsterdam lund international 1970 1971 magnús pálsson listasafn íslands national gallery iceland",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "ad_juda_ser_rangsaelis_2000",
@@ -7983,7 +8091,8 @@
         ]
       },
       "searchText": "að juða sér rangsælis video performance iðnó ragga speaking theater 2000 magnús pálsson placeholder needs review",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "hattar_1969_71",
@@ -8095,7 +8204,8 @@
         ]
       },
       "searchText": "hattar hats headwear identity social commentary conceptual series sculpture mixed media 1969 1970 1971 early career magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "hrognkelsaveifa_strandlegjan_1998",
@@ -8287,7 +8397,8 @@
         ]
       },
       "searchText": "hrognkelsaveifa strandlegjan beach sculpture installation ægissíða skerjafirði landscape intervention site-specific coastal environmental 1998 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "hundar_dogs_1970",
@@ -8442,7 +8553,8 @@
         ]
       },
       "searchText": "hundar hundljóð dogs animals sculpture collaboration óli gísla straw series 1970 magnús pálsson documentation agreement",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "hviskur_whisper_1975",
@@ -8548,7 +8660,8 @@
         ]
       },
       "searchText": "hvískur hviskur whisper plaster sculpture conceptual nefertiti alexander positive negative space 1975 magnús pálsson",
-      "contentStatus": "needs review"
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft"
     },
     {
       "id": "jon_summer_2008_2022",
@@ -8655,7 +8768,8 @@
         ]
       },
       "searchText": "jón summer nýp mjóaból haukardal place memory mapping seasonal documentation multi-temporal landscape 2008 2022 læknablaðið magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "jonsmessunott_bank_piece_1982",
@@ -8811,7 +8925,8 @@
         "notes": "Institutional artwork created within and owned by the bank"
       },
       "searchText": "jónsmessunótt bank piece institutional critique banking íslandsbanki corporate intervention midsummer 1982 magnús pálsson corporate collection",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "jorgen_bruun_hansen_2013",
@@ -8892,7 +9007,8 @@
         ]
       },
       "searchText": "jörgen bruun hansen collaboration living art museum baldvina pencil sketch video murari portraiture 2013 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "eyetalk_augntal_1986_1998",
@@ -8978,7 +9094,8 @@
         "catalogNumber": "LÍ-7392",
         "notes": "Video work, 1993"
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "seeds-of-aspidistra-2002",
@@ -9023,7 +9140,8 @@
         ]
       },
       "searchText": "seeds of aspidistra 2002 sound poetry audio art text performance experimental magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "silfur-egils-1985",
@@ -9076,7 +9194,8 @@
         "is": []
       },
       "searchText": "silfur egils 1985 1985 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "silver-chairs-in-tins-in-ms-office",
@@ -9142,7 +9261,8 @@
         "is": []
       },
       "searchText": "silver chairs - in tins in m's office Unknown magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "sjondeildarhringur-horizon-1975",
@@ -9225,7 +9345,8 @@
         "is": []
       },
       "searchText": "sjóndeildarhringur (horizon) 1975 1975 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "skyrsla-1968",
@@ -9280,7 +9401,8 @@
         "is": []
       },
       "searchText": "skýrsla 1968 1968 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "small-pieces-19989-frances-gyda",
@@ -9360,7 +9482,8 @@
         "is": []
       },
       "searchText": "small pieces 1998_9 frances gyða Unknown magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "small-sketches-with-veiga-and-palli",
@@ -9398,7 +9521,8 @@
         "is": []
       },
       "searchText": "small sketches with veiga and palli Unknown magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "sorg-2016",
@@ -9453,7 +9577,8 @@
         "is": []
       },
       "searchText": "sorg 2016 2016 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "sounds-of-norway-student-work-1985",
@@ -9534,7 +9659,8 @@
         "is": []
       },
       "searchText": "sounds of norway student work 1985 1985 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "spenna-suspense-1975",
@@ -9588,7 +9714,8 @@
       },
       "searchText": "spenna, suspense, sænskir sálmar, hymn bok 1977 1977 magnús pálsson",
       "contentStatus": "needs review",
-      "thumbnail": "images/spenna-suspense-1975/thumbs/spenna-suspense-01-thumb.jpg"
+      "thumbnail": "images/spenna-suspense-1975/thumbs/spenna-suspense-01-thumb.jpg",
+      "mediaStatus": "images draft"
     },
     {
       "id": "saenskir-salmar-hymn-1975",
@@ -9653,7 +9780,8 @@
         ]
       },
       "contentStatus": "needs review",
-      "thumbnail": "images/saenskir-salmar-hymn-1975/thumbs/saenskir-salmar-01-thumb.jpg"
+      "thumbnail": "images/saenskir-salmar-hymn-1975/thumbs/saenskir-salmar-01-thumb.jpg",
+      "mediaStatus": "images draft"
     },
     {
       "id": "spilaborg-card-house-nh-for-ferdafuda-2003",
@@ -9696,7 +9824,8 @@
         "owner": "The Living Art Museum (Nýlistasafnið)",
         "url": "https://sarpur.is/Adfang.aspx?AdfangID=1815440"
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "sprengd-hljodhimna-burst-eardrum-1991-2012",
@@ -9785,7 +9914,8 @@
         "is": []
       },
       "searchText": "sprengd hljóðhimna _ burst eardrum 1991 & 2012 1991 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "spud-bern-mp-rg-ob-1998",
@@ -9866,7 +9996,8 @@
         "en": [],
         "is": []
       },
-      "searchText": "spud  bern  mp rg ob 1998 1998 magnús pálsson"
+      "searchText": "spud  bern  mp rg ob 1998 1998 magnús pálsson",
+      "mediaStatus": "images draft"
     },
     {
       "id": "steinar-launch-20078",
@@ -9947,7 +10078,8 @@
         "is": []
       },
       "searchText": "steinar launch 2007-8 2007 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "steinthoka-1977",
@@ -10030,7 +10162,8 @@
         "is": []
       },
       "searchText": "steinþoka 1977 1977 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "stjani-meik-1994",
@@ -10111,7 +10244,8 @@
         "is": []
       },
       "searchText": "stjáni meik 1994 1994 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "struns-2002",
@@ -10192,7 +10326,8 @@
         "is": []
       },
       "searchText": "struns 2002 2002 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "staerdfraedi-maths-1976",
@@ -10289,7 +10424,8 @@
         "catalogNumber": "91549",
         "notes": "Sculpture, 1976, 950 × 65 cm"
       },
-      "contentStatus": "needs review"
+      "contentStatus": "needs review",
+      "mediaStatus": "images draft"
     },
     {
       "id": "solskrikja-mus-kengura-bird-mouse-kangaroo-1980-1994",
@@ -10376,7 +10512,8 @@
         "catalogNumber": "91551",
         "notes": "Photography, 1980-94, 30.5 × 43 cm"
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "solur-skagarstrand-aug-2015",
@@ -10457,7 +10594,8 @@
         "is": []
       },
       "searchText": "sólúr skagarstrand aug 2015 2015 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "solur-sundials-originals-1965ish-to-77",
@@ -10537,7 +10675,8 @@
         "is": []
       },
       "searchText": "sólúr sundials  originals 1965ish (to 77) Unknown magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "skyggnberdreyminnnaemur1969",
@@ -10622,7 +10761,8 @@
         "url": "https://sarpur.is/Adfang.aspx?AdfangID=1396261",
         "notes": "Part of \"Berdreyminn, Skyggn, Næmur\" series"
       },
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "stuna-2013",
@@ -10660,7 +10800,8 @@
         ]
       },
       "searchText": "stuna 2013 magnús pálsson",
-      "contentStatus": "draft"
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "spud-kling-og-bang-2012",
@@ -10701,7 +10842,8 @@
             "is": "Kling og Bang safn"
           }
         }
-      ]
+      ],
+      "mediaStatus": "images draft"
     }
   ],
   "exhibitions": [
