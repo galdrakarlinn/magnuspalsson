@@ -3383,8 +3383,8 @@
       "year": 1975,
       "dimensions": null,
       "description": {
-        "en": "A series of six sculptural works where plaster is placed over specific countries on maps, creating poetic geographic commentary. Each piece title evokes a cultural association with that country. The series includes: Sónninn í Jóskunni (Denmark), Hinn keltneski andi (Ireland/Scotland), Sorg kengúrunnar (Australia), Kaffiilmurinn í Braselíu (Brazil), Trúin í Afganistan (Afghanistan), and Von Lappanna (Lapland/Sami region).",
-        "is": "Sex skúlptúrverk þar sem gifs er sett yfir tiltekin lönd á kortum og skapar ljóðræna landfræðilega athugasemd. Titill hvers verks vekur upp menningarlega tengingu við það land. Flokkurinn inniheldur: Sónninn í Jóskunni (Danmörk), Hinn keltneski andi (Írland/Skotland), Sorg kengúrunnar (Ástralía), Kaffiilmurinn í Braselíu (Brasilía), Trúin í Afganistan (Afganistan) og Von Lappanna (Lapland/Sami svæðið)."
+        "en": "A series of sculptural works materializing invisible phenomena through plaster cast over maps. Each piece consists of a layer of gypsum laid over maps marking specific geographical areas, designed to show the atmosphere containing invisible entities and their properties - creating tangible expressions of intangible phenomena. The series represents Magnús Pálsson's fundamental artistic concern: making the invisible visible.\n\nThe series includes: Sónninn í Jóskunni (Denmark/Jutland), Hinn keltneski andi (Ireland/Wales), Sorg kengúrunnar (Australia), Kaffiilmurinn í Braselíu (Brazil), Trúin í Afganistan (Afghanistan), and Von Lappanna (Lapland/Sami region).",
+        "is": "Röð skúlptúrverka sem efnisgerðu ósýnilega fyrirbæri með gifsafsteypu yfir landakortum. Hvert verk samanstendur af gifsslagi yfir kortum sem merkja tiltekin landfræðileg svæði, hönnuð til að sýna andrúmsloftið sem inniheldur ósýnilegar eindir og eiginleika þeirra - og skapa áþreifanlegar tjáningar óáþreifanlegra fyrirbæra. Flokkurinn táknar grundvallaráhyggjur Magnúsar Pálssonar í list: að gera hið ósýnilega sýnilegt.\n\nFlokkurinn inniheldur: Sónninn í Jóskunni (Danmörk/Jótland), Hinn keltneski andi (Írland/Wales), Sorg kengúrunnar (Ástralía), Kaffiilmurinn í Braselíu (Brasilía), Trúin í Afganistan (Afganistan) og Von Lappanna (Lapland/Sama svæðið)."
       },
       "images": [
         {
@@ -3419,7 +3419,11 @@
       },
       "searchText": "landafræði geography series 1975 sónninn jóskunni keltneski andi sorg kengúrunnar kaffiilmurinn braselíu trúin afganistan von lappanna magnús pálsson",
       "contentStatus": "draft",
-      "relatedWorks": ["sonninn-i-joskunni-1975", "hinn-keltneski-andi-1975", "sorg-kengurunnar-1975", "kaffiilmurinn-i-braseliu-1975", "truin-i-afganistan-1975", "von-lappanna-1975"]
+      "relatedWorks": ["sonninn-i-joskunni-1975", "hinn-keltneski-andi-1975", "sorg-kengurunnar-1975", "kaffiilmurinn-i-braseliu-1975", "truin-i-afganistan-1975", "von-lappanna-1975"],
+      "source": {
+        "name": "Ólafur Gíslason, Hugrúnir",
+        "url": "https://hugrunir.com/tag/magnus-palsson/"
+      }
     },
     {
       "id": "sonninn-i-joskunni-1975",
