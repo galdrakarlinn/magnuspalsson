@@ -11,8 +11,16 @@ class GlobalSearch {
       medium: 'all',
       institution: 'all'
     };
-    
+
     this.init();
+  }
+
+  // Get localized title from bilingual title object or string
+  getLocalizedTitle(title) {
+    if (!title) return 'Untitled';
+    if (typeof title === 'string') return title;
+    const lang = localStorage.getItem('language') || 'en';
+    return title[lang] || title.en || title.is || 'Untitled';
   }
 
   init() {
@@ -353,7 +361,8 @@ class GlobalSearch {
       .filter(item => this.passesFilters(item))
       .map(item => {
         let score = 0;
-        const titleLower = item.title.toLowerCase();
+        const itemTitle = this.getLocalizedTitle(item.title);
+        const titleLower = itemTitle.toLowerCase();
         const contentLower = item.content.toLowerCase();
         const titleNormalized = this.normalizeIcelandic(titleLower);
         const contentNormalized = this.normalizeIcelandic(contentLower);
@@ -464,7 +473,7 @@ class GlobalSearch {
               <div class="search-result-badge search-badge-${result.type}">${this.getTypeBadge(result.type)}</div>
               ${result.year ? `<div class="search-result-year">${result.year}</div>` : ''}
             </div>
-            <div class="search-result-title" style="pointer-events: none;">${this.highlightQueryAdvanced(result.title, query)}</div>
+            <div class="search-result-title" style="pointer-events: none;">${this.highlightQueryAdvanced(this.getLocalizedTitle(result.title), query)}</div>
             <div class="search-result-snippet" style="pointer-events: none;">${this.highlightQueryAdvanced(result.snippet, query)}</div>
             <div class="search-result-meta" style="pointer-events: none;">
               <span class="search-result-page">${this.getPageLabel(result.type, result.page)}</span>

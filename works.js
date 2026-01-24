@@ -803,8 +803,19 @@ class WorksManager {
         </div>
         <div class="work-info">
           <h2>${translatedWork.title}</h2>
-          <p class="work-year">${translatedWork.year}</p>
+          ${work.alternativeTitles ? `
+            <p class="work-alt-titles">
+              ${Object.entries(work.alternativeTitles).map(([lang, title]) => {
+                const langNames = { de: 'German', en: 'English', is: 'Icelandic', fr: 'French' };
+                return `<em>${langNames[lang] || lang}: ${title}</em>`;
+              }).join(' · ')}
+            </p>
+          ` : ''}
+          <p class="work-year">${translatedWork.year}${work.dimensions ? ` · ${work.dimensions}` : ''}</p>
           <p class="work-description">${translatedWork.description}</p>
+          ${translatedWork.materials && translatedWork.materials.length > 0 ? `
+            <p class="work-materials"><strong>${i18n.t('materials')}:</strong> ${Array.isArray(translatedWork.materials) ? translatedWork.materials.join(', ') : translatedWork.materials}</p>
+          ` : ''}
           ${work.source ? `
             <div class="source-info">
               <p class="source-attribution"><em>Source: <a href="${work.source.url}" target="_blank">${work.source.name}</a></em></p>
