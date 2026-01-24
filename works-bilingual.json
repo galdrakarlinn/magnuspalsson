@@ -1023,8 +1023,8 @@
       "year": 1994,
       "dimensions": null,
       "description": {
-        "en": "Installation with soaps and audio tapes, exploring themes of cleansing and transformation.",
-        "is": ""
+        "en": "Solo exhibition at Nýlistasafnið (The Living Art Museum) in January 1994. The exhibition featured three major installation works - Atlantis, Djengis Khan, and Etán Langbrók - each exploring themes of mystery, concealment, and revelation. The show included soaps and audio tapes as integral elements, with sound compositions playing in each gallery space.",
+        "is": "Einkasýning á Nýlistasafninu í janúar 1994. Sýningin innihélt þrjú stór innsetningarverk - Atlantis, Djengis Khan og Etán Langbrók - sem hvert um sig kannaði þemu leyndardóms, huliðshjúps og afhjúpunar. Sýningin innihélt sápur og hljóðbönd sem mikilvæga þætti, með hljóðsamsetningum í hverjum sýningarsal."
       },
       "images": [
         {
@@ -1102,7 +1102,13 @@
           "blandað efni"
         ]
       },
-      "searchText": "varla hardly 1994 soaps audio installation nýlistasafnið magnús pálsson"
+      "searchText": "varla hardly 1994 soaps audio installation nýlistasafnið atlantis djengis khan etán langbrók magnús pálsson",
+      "contentStatus": "draft",
+      "relatedWorks": ["atlantis-1993", "djengis-khan-1993", "etan-langbrok-1993"],
+      "source": {
+        "name": "Morgunblaðið, 18. janúar 1994",
+        "url": "https://timarit.is/page/1799525#page/n9/mode/2up"
+      }
     },
     {
       "id": "atlantis-1993",
@@ -1149,7 +1155,8 @@
         "url": "https://timarit.is/page/1799525#page/n9/mode/2up"
       },
       "contentStatus": "draft",
-      "searchText": "atlantis 1993 land goðsagnanna legends goðsögur mystery nýlistasafnið varla magnús pálsson"
+      "searchText": "atlantis 1993 land goðsagnanna legends goðsögur mystery nýlistasafnið varla magnús pálsson",
+      "parentWork": "varla-hardly-1994"
     },
     {
       "id": "djengis-khan-1993",
@@ -1197,7 +1204,8 @@
       "source": {
         "name": "Morgunblaðið, 18. janúar 1994",
         "url": "https://timarit.is/page/1799525#page/n9/mode/2up"
-      }
+      },
+      "parentWork": "varla-hardly-1994"
     },
     {
       "id": "etan-langbrok-1993",
@@ -1234,7 +1242,8 @@
       "source": {
         "name": "Morgunblaðið, 18. janúar 1994",
         "url": "https://timarit.is/page/1799525#page/n9/mode/2up"
-      }
+      },
+      "parentWork": "varla-hardly-1994"
     },
     {
       "id": "veggfodur-ferd-reise-1965",
