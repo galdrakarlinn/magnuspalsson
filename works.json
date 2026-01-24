@@ -1092,8 +1092,8 @@
       "year": 1993,
       "dimensions": null,
       "description": {
-        "en": "Atlantis is the land of riddles - and there is much darkness and mystery, stories and silence. The imagination is given free rein to wander and those who wish to participate must bring their own contribution. The viewer becomes the interpreter who must decipher the work.\n\nExhibited at Nýlistasafnið (The Living Art Museum) in January 1994 as part of the 'Varla' exhibition.",
-        "is": "Atlantis er land gásagnanna - og þar er mikið myrkur og leyndardómur, sögur og þögn. Ímyndunaraflinu er gefið frjálst að reika og þeir sem vilja taka þátt verða að koma með sitt framlag. Áhorfandinn verður túlkurinn sem verður að ráða verkið.\n\nSýnt á Nýlistasafninu í janúar 1994 sem hluti af 'Varla' sýningunni."
+        "en": "Atlantis is the land of legends - and there is much darkness and mystery, stories and silence. The imagination is given free rein to wander and those who wish to participate must bring their own contribution. The viewer becomes the interpreter who must decipher the work.\n\nExhibited at Nýlistasafnið (The Living Art Museum) in January 1994 as part of the 'Varla' exhibition.",
+        "is": "Atlantis er land goðsagnanna - og þar er mikið myrkur og leyndardómur, sögur og þögn. Ímyndunaraflinu er gefið frjálst að reika og þeir sem vilja taka þátt verða að koma með sitt framlag. Áhorfandinn verður túlkurinn sem verður að ráða verkið.\n\nSýnt á Nýlistasafninu í janúar 1994 sem hluti af 'Varla' sýningunni."
       },
       "images": [
         {
@@ -1129,8 +1129,12 @@
         "en": ["mixed media"],
         "is": ["blandað efni"]
       },
-      "searchText": "atlantis 1993 land gásagnanna riddles mystery nýlistasafnið varla magnús pálsson",
-      "contentStatus": "ready for review",
+      "source": {
+        "name": "Morgunblaðið, 18. janúar 1994",
+        "url": "https://timarit.is/page/1799525#page/n9/mode/2up"
+      },
+      "searchText": "atlantis 1993 land goðsagnanna legends goðsögur mystery nýlistasafnið varla magnús pálsson",
+      "contentStatus": "draft",
       "mediaStatus": "images ok"
     },
     {
@@ -1180,8 +1184,12 @@
         "en": ["cord", "tape", "video", "mixed media"],
         "is": ["strengur", "spóla", "vídeó", "blandað efni"]
       },
+      "source": {
+        "name": "Morgunblaðið, 18. janúar 1994",
+        "url": "https://timarit.is/page/1799525#page/n9/mode/2up"
+      },
       "searchText": "djengis khan genghis khan 1993 wrapped bound cords video nýlistasafnið varla magnús pálsson",
-      "contentStatus": "ready for review",
+      "contentStatus": "draft",
       "mediaStatus": "images ok"
     },
     {
@@ -1219,6 +1227,10 @@
       "materials": {
         "en": ["mixed media"],
         "is": ["blandað efni"]
+      },
+      "source": {
+        "name": "Morgunblaðið, 18. janúar 1994",
+        "url": "https://timarit.is/page/1799525#page/n9/mode/2up"
       },
       "searchText": "etán langbrók 1993 nýlistasafnið varla magnús pálsson",
       "contentStatus": "draft",
