@@ -3221,93 +3221,19 @@
       }
     },
     {
-      "id": "kal-14-196366-1963",
+      "id": "kal-1-1963",
       "title": {
-        "en": "Cabbage 1-4",
-        "is": "Kál 1-4"
+        "en": "Cabbage 1",
+        "is": "Kál 1"
       },
-      "year": "1963-66",
+      "year": 1963,
       "dimensions": "91 x 101 cm",
       "description": {
-        "en": "A comprehensive work by Magnús Pálsson from 1963. This extensive piece demonstrates his artistic development and exploration during this significant period of his career.",
-        "is": ""
+        "en": "Part of the Kál (Cabbage) series. Watercolor and silkscreen on paper.",
+        "is": "Hluti af Kál verkaflokknum. Vatnslitur og silkiþrykk á pappír."
       },
-      "images": [
-        {
-          "url": "images/kal-14-196366-1963/medium/kal-01-medium.jpg",
-          "caption": {
-            "en": "Kál - view 1",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/kal-14-196366-1963/medium/kal-02-medium.jpg",
-          "caption": {
-            "en": "Kál - view 2",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/kal-14-196366-1963/medium/kal-03-medium.jpg",
-          "caption": {
-            "en": "Kál - view 3",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/kal-14-196366-1963/medium/kal-04-medium.jpg",
-          "caption": {
-            "en": "Kál - view 4",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/kal-14-196366-1963/medium/kal-05-medium.jpg",
-          "caption": {
-            "en": "Kál - view 5",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/kal-14-196366-1963/medium/kal-06-medium.jpg",
-          "caption": {
-            "en": "Kál - view 6",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/kal-14-196366-1963/medium/kal-07-medium.jpg",
-          "caption": {
-            "en": "Kál - view 7",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/kal-14-196366-1963/medium/kal-08-medium.jpg",
-          "caption": {
-            "en": "Kál - view 8",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/kal-14-196366-1963/medium/kal-09-medium.jpg",
-          "caption": {
-            "en": "Kál - view 9",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/kal-14-196366-1963/medium/kal-10-medium.jpg",
-          "caption": {
-            "en": "Kál - view 10",
-            "is": ""
-          }
-        }
-      ],
-      "tags": [
-        "artwork",
-        "1963"
-      ],
+      "images": [],
+      "tags": ["painting", "watercolor", "silkscreen", "1960s"],
       "exhibitions": [
         {
           "year": "2019",
@@ -3320,7 +3246,102 @@
         "en": ["watercolor", "silkscreen", "paper"],
         "is": ["vatnslitur", "silkiþrykk", "pappír"]
       },
-      "searchText": "kál cabbage 1-4 1963-66 watercolor silkscreen paper vatnslitur silkiþrykk pappír magnús pálsson",
+      "searchText": "kál 1 cabbage watercolor silkscreen 1963 magnús pálsson",
+      "contentStatus": "draft",
+      "mediaStatus": "needs identification",
+      "series": "kál"
+    },
+    {
+      "id": "kal-2-1964",
+      "title": {
+        "en": "Cabbage 2",
+        "is": "Kál 2"
+      },
+      "year": 1964,
+      "dimensions": "91 x 101 cm",
+      "description": {
+        "en": "Part of the Kál (Cabbage) series. Watercolor and silkscreen on paper.",
+        "is": "Hluti af Kál verkaflokknum. Vatnslitur og silkiþrykk á pappír."
+      },
+      "images": [],
+      "tags": ["painting", "watercolor", "silkscreen", "1960s"],
+      "exhibitions": [
+        {
+          "year": "2019",
+          "title": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
+          "venue": "Reykjavík Art Museum – Hafnarhús",
+          "location": "Reykjavík, Iceland"
+        }
+      ],
+      "materials": {
+        "en": ["watercolor", "silkscreen", "paper"],
+        "is": ["vatnslitur", "silkiþrykk", "pappír"]
+      },
+      "searchText": "kál 2 cabbage watercolor silkscreen 1964 magnús pálsson",
+      "contentStatus": "draft",
+      "mediaStatus": "needs identification",
+      "series": "kál"
+    },
+    {
+      "id": "kal-3-1965",
+      "title": {
+        "en": "Cabbage 3",
+        "is": "Kál 3"
+      },
+      "year": 1965,
+      "dimensions": "91 x 101 cm",
+      "description": {
+        "en": "Part of the Kál (Cabbage) series. Watercolor and silkscreen on paper.",
+        "is": "Hluti af Kál verkaflokknum. Vatnslitur og silkiþrykk á pappír."
+      },
+      "images": [],
+      "tags": ["painting", "watercolor", "silkscreen", "1960s"],
+      "exhibitions": [
+        {
+          "year": "2019",
+          "title": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
+          "venue": "Reykjavík Art Museum – Hafnarhús",
+          "location": "Reykjavík, Iceland"
+        }
+      ],
+      "materials": {
+        "en": ["watercolor", "silkscreen", "paper"],
+        "is": ["vatnslitur", "silkiþrykk", "pappír"]
+      },
+      "searchText": "kál 3 cabbage watercolor silkscreen 1965 magnús pálsson",
+      "contentStatus": "draft",
+      "mediaStatus": "needs identification",
+      "series": "kál"
+    },
+    {
+      "id": "kal-4-1966",
+      "title": {
+        "en": "Cabbage 4",
+        "is": "Kál 4"
+      },
+      "year": 1966,
+      "dimensions": "91 x 101 cm",
+      "description": {
+        "en": "Part of the Kál (Cabbage) series. Watercolor and silkscreen on paper.",
+        "is": "Hluti af Kál verkaflokknum. Vatnslitur og silkiþrykk á pappír."
+      },
+      "images": [],
+      "tags": ["painting", "watercolor", "silkscreen", "1960s"],
+      "exhibitions": [
+        {
+          "year": "2019",
+          "title": "SOMETHING from NOTHING – The Visual Realm of Magnús Pálsson",
+          "venue": "Reykjavík Art Museum – Hafnarhús",
+          "location": "Reykjavík, Iceland"
+        }
+      ],
+      "materials": {
+        "en": ["watercolor", "silkscreen", "paper"],
+        "is": ["vatnslitur", "silkiþrykk", "pappír"]
+      },
+      "searchText": "kál 4 cabbage watercolor silkscreen 1966 magnús pálsson",
+      "contentStatus": "draft",
+      "mediaStatus": "needs identification",
       "series": "kál"
     },
     {
@@ -3406,72 +3427,19 @@
       "searchText": "kross 2013 performance 2013 magnús pálsson"
     },
     {
-      "id": "landafraedi-maps-gibs-pieces-1972-2012-1972",
+      "id": "landafraedi-series-1975",
       "title": {
-        "en": "Landafræði",
-        "is": "Landafræði"
+        "en": "Landafræði (Geography) - Series",
+        "is": "Landafræði - Verkaflokkur"
       },
-      "year": 1972,
+      "year": 1975,
       "dimensions": null,
       "description": {
-        "en": "A work by Magnús Pálsson from 1972. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career.",
-        "is": ""
+        "en": "A series of six sculptural works where plaster is placed over specific countries on maps, creating poetic geographic commentary. Each piece title evokes a cultural association with that country. The series includes: Sónninn í Jóskunni (Denmark), Hinn keltneski andi (Ireland/Scotland), Sorg kengúrunnar (Australia), Kaffiilmurinn í Braselíu (Brazil), Trúin í Afganistan (Afghanistan), and Von Lappanna (Lapland/Sami region).",
+        "is": "Sex skúlptúrverk þar sem gifs er sett yfir tiltekin lönd á kortum og skapar ljóðræna landfræðilega athugasemd. Titill hvers verks vekur upp menningarlega tengingu við það land. Flokkurinn inniheldur: Sónninn í Jóskunni (Danmörk), Hinn keltneski andi (Írland/Skotland), Sorg kengúrunnar (Ástralía), Kaffiilmurinn í Braselíu (Brasilía), Trúin í Afganistan (Afganistan) og Von Lappanna (Lapland/Sami svæðið)."
       },
-      "images": [
-        {
-          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-01-medium.jpg",
-          "caption": {
-            "en": "Landafræði - view 1",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-02-medium.jpg",
-          "caption": {
-            "en": "Landafræði - view 2",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-03-medium.jpg",
-          "caption": {
-            "en": "Landafræði - view 3",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-04-medium.jpg",
-          "caption": {
-            "en": "Landafræði - view 4",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-05-medium.jpg",
-          "caption": {
-            "en": "Landafræði - view 5",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-06-medium.jpg",
-          "caption": {
-            "en": "Landafræði - view 6",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-07-medium.jpg",
-          "caption": {
-            "en": "Landafræði - view 7",
-            "is": ""
-          }
-        }
-      ],
-      "tags": [
-        "artwork",
-        "1972"
-      ],
+      "images": [],
+      "tags": ["sculpture", "plaster", "series", "1975"],
       "exhibitions": [
         {
           "year": "2019",
@@ -3481,10 +3449,156 @@
         }
       ],
       "materials": {
-        "en": [],
-        "is": []
+        "en": ["plaster", "mixed media"],
+        "is": ["gifs", "blandað efni"]
       },
-      "searchText": "landafræði (maps & gibs pieces) 1972 & 2012 1972 magnús pálsson"
+      "searchText": "landafræði geography series 1975 sónninn jóskunni keltneski andi sorg kengúrunnar kaffiilmurinn braselíu trúin afganistan von lappanna magnús pálsson",
+      "contentStatus": "draft",
+      "relatedWorks": ["sonninn-i-joskunni-1975", "hinn-keltneski-andi-1975", "sorg-kengurunnar-1975", "kaffiilmurinn-i-braseliu-1975", "truin-i-afganistan-1975", "von-lappanna-1975"]
+    },
+    {
+      "id": "sonninn-i-joskunni-1975",
+      "title": {
+        "en": "Sónninn í Jóskunni",
+        "is": "Sónninn í Jóskunni"
+      },
+      "year": 1975,
+      "dimensions": null,
+      "description": {
+        "en": "Part of the Landafræði (Geography) series. Plaster placed over Denmark on a map.",
+        "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Danmörku á korti."
+      },
+      "images": [],
+      "tags": ["sculpture", "plaster", "landafræði", "1975"],
+      "exhibitions": [],
+      "materials": {
+        "en": ["plaster"],
+        "is": ["gifs"]
+      },
+      "searchText": "sónninn jóskunni landafræði geography 1975 magnús pálsson",
+      "contentStatus": "draft",
+      "mediaStatus": "needs identification",
+      "series": "landafræði"
+    },
+    {
+      "id": "hinn-keltneski-andi-1975",
+      "title": {
+        "en": "Hinn keltneski andi (The Celtic Spirit)",
+        "is": "Hinn keltneski andi"
+      },
+      "year": 1975,
+      "dimensions": null,
+      "description": {
+        "en": "Part of the Landafræði (Geography) series. Plaster placed over Ireland/Scotland on a map, evoking Celtic culture.",
+        "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Írland/Skotland á korti, sem vísar til keltneskrar menningar."
+      },
+      "images": [],
+      "tags": ["sculpture", "plaster", "landafræði", "1975"],
+      "exhibitions": [],
+      "materials": {
+        "en": ["plaster"],
+        "is": ["gifs"]
+      },
+      "searchText": "hinn keltneski andi celtic spirit landafræði geography 1975 magnús pálsson",
+      "contentStatus": "draft",
+      "mediaStatus": "needs identification",
+      "series": "landafræði"
+    },
+    {
+      "id": "sorg-kengurunnar-1975",
+      "title": {
+        "en": "Sorg kengúrunnar (The Sorrow of the Kangaroo)",
+        "is": "Sorg kengúrunnar"
+      },
+      "year": 1975,
+      "dimensions": null,
+      "description": {
+        "en": "Part of the Landafræði (Geography) series. Plaster placed over Australia on a map.",
+        "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Ástralíu á korti."
+      },
+      "images": [],
+      "tags": ["sculpture", "plaster", "landafræði", "1975"],
+      "exhibitions": [],
+      "materials": {
+        "en": ["plaster"],
+        "is": ["gifs"]
+      },
+      "searchText": "sorg kengúrunnar sorrow kangaroo australia landafræði geography 1975 magnús pálsson",
+      "contentStatus": "draft",
+      "mediaStatus": "needs identification",
+      "series": "landafræði"
+    },
+    {
+      "id": "kaffiilmurinn-i-braseliu-1975",
+      "title": {
+        "en": "Kaffiilmurinn í Braselíu (The Scent of Coffee in Brazil)",
+        "is": "Kaffiilmurinn í Braselíu"
+      },
+      "year": 1975,
+      "dimensions": null,
+      "description": {
+        "en": "Part of the Landafræði (Geography) series. Plaster placed over Brazil on a map, evoking its coffee culture.",
+        "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Brasilíu á korti, sem vísar til kaffimenningu landsins."
+      },
+      "images": [],
+      "tags": ["sculpture", "plaster", "landafræði", "1975"],
+      "exhibitions": [],
+      "materials": {
+        "en": ["plaster"],
+        "is": ["gifs"]
+      },
+      "searchText": "kaffiilmurinn braselíu coffee brazil landafræði geography 1975 magnús pálsson",
+      "contentStatus": "draft",
+      "mediaStatus": "needs identification",
+      "series": "landafræði"
+    },
+    {
+      "id": "truin-i-afganistan-1975",
+      "title": {
+        "en": "Trúin í Afganistan (Faith in Afghanistan)",
+        "is": "Trúin í Afganistan"
+      },
+      "year": 1975,
+      "dimensions": null,
+      "description": {
+        "en": "Part of the Landafræði (Geography) series. Plaster placed over Afghanistan on a map.",
+        "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Afganistan á korti."
+      },
+      "images": [],
+      "tags": ["sculpture", "plaster", "landafræði", "1975"],
+      "exhibitions": [],
+      "materials": {
+        "en": ["plaster"],
+        "is": ["gifs"]
+      },
+      "searchText": "trúin afganistan faith afghanistan landafræði geography 1975 magnús pálsson",
+      "contentStatus": "draft",
+      "mediaStatus": "needs identification",
+      "series": "landafræði"
+    },
+    {
+      "id": "von-lappanna-1975",
+      "title": {
+        "en": "Von Lappanna (The Hope of the Sami)",
+        "is": "Von Lappanna"
+      },
+      "year": 1975,
+      "dimensions": null,
+      "description": {
+        "en": "Part of the Landafræði (Geography) series. Plaster placed over Lapland/Sami region on a map.",
+        "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Lapland/Sama svæðið á korti."
+      },
+      "images": [],
+      "tags": ["sculpture", "plaster", "landafræði", "1975"],
+      "exhibitions": [],
+      "materials": {
+        "en": ["plaster"],
+        "is": ["gifs"]
+      },
+      "searchText": "von lappanna hope sami lapland landafræði geography 1975 magnús pálsson",
+      "contentStatus": "draft",
+      "mediaStatus": "needs identification",
+      "series": "landafræði"
     },
     {
       "id": "manifesto-bergen-offside-exhibition-1996-1996",
