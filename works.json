@@ -1079,9 +1079,150 @@
           "blandað efni"
         ]
       },
-      "searchText": "varla hardly 1994 soaps audio installation magnús pálsson",
+      "searchText": "varla hardly 1994 soaps audio installation nýlistasafnið magnús pálsson",
       "contentStatus": "draft",
       "mediaStatus": "images draft"
+    },
+    {
+      "id": "atlantis-1993",
+      "title": {
+        "en": "Atlantis",
+        "is": "Atlantis"
+      },
+      "year": 1993,
+      "dimensions": null,
+      "description": {
+        "en": "Atlantis is the land of riddles - and there is much darkness and mystery, stories and silence. The imagination is given free rein to wander and those who wish to participate must bring their own contribution. The viewer becomes the interpreter who must decipher the work.\n\nExhibited at Nýlistasafnið (The Living Art Museum) in January 1994 as part of the 'Varla' exhibition.",
+        "is": "Atlantis er land gásagnanna - og þar er mikið myrkur og leyndardómur, sögur og þögn. Ímyndunaraflinu er gefið frjálst að reika og þeir sem vilja taka þátt verða að koma með sitt framlag. Áhorfandinn verður túlkurinn sem verður að ráða verkið.\n\nSýnt á Nýlistasafninu í janúar 1994 sem hluti af 'Varla' sýningunni."
+      },
+      "images": [
+        {
+          "url": "images/varla-hardly-1994/medium/varla-hardly-1994-04-medium.jpg",
+          "caption": {
+            "en": "Atlantis installation",
+            "is": "Atlantis uppsetning"
+          },
+          "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-04-thumb.jpg"
+        }
+      ],
+      "tags": [
+        "installation",
+        "sculpture",
+        "1990s",
+        "nýlistasafnið"
+      ],
+      "exhibitions": [
+        {
+          "title": {
+            "en": "Varla (Hardly)",
+            "is": "Varla"
+          },
+          "venue": {
+            "en": "Nýlistasafnið (The Living Art Museum)",
+            "is": "Nýlistasafnið"
+          },
+          "location": "Reykjavík",
+          "year": 1994
+        }
+      ],
+      "materials": {
+        "en": ["mixed media"],
+        "is": ["blandað efni"]
+      },
+      "searchText": "atlantis 1993 land gásagnanna riddles mystery nýlistasafnið varla magnús pálsson",
+      "contentStatus": "ready for review",
+      "mediaStatus": "images ok"
+    },
+    {
+      "id": "djengis-khan-1993",
+      "title": {
+        "en": "Genghis Khan",
+        "is": "Djengis Khan"
+      },
+      "year": 1993,
+      "dimensions": null,
+      "description": {
+        "en": "A bound and wrapped sculptural work featuring cords and tape. The work includes a video element showing wrapped/bound objects, exploring themes of concealment and revelation.\n\nExhibited at Nýlistasafnið (The Living Art Museum) in January 1994 as part of the 'Varla' exhibition.",
+        "is": "Bundið og vafið skúlptúrverk með strengjum og spólum. Verkið inniheldur vídeóþátt sem sýnir vafða/bundna hluti, og kannar þemu um huliðshjúp og afhjúpun.\n\nSýnt á Nýlistasafninu í janúar 1994 sem hluti af 'Varla' sýningunni."
+      },
+      "images": [
+        {
+          "url": "images/varla-hardly-1994/medium/varla-hardly-1994-05-medium.jpg",
+          "caption": {
+            "en": "Djengis Khan installation with wrapped objects",
+            "is": "Djengis Khan uppsetning með vöfðum hlutum"
+          },
+          "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-05-thumb.jpg"
+        }
+      ],
+      "tags": [
+        "installation",
+        "sculpture",
+        "video",
+        "1990s",
+        "nýlistasafnið"
+      ],
+      "exhibitions": [
+        {
+          "title": {
+            "en": "Varla (Hardly)",
+            "is": "Varla"
+          },
+          "venue": {
+            "en": "Nýlistasafnið (The Living Art Museum)",
+            "is": "Nýlistasafnið"
+          },
+          "location": "Reykjavík",
+          "year": 1994
+        }
+      ],
+      "materials": {
+        "en": ["cord", "tape", "video", "mixed media"],
+        "is": ["strengur", "spóla", "vídeó", "blandað efni"]
+      },
+      "searchText": "djengis khan genghis khan 1993 wrapped bound cords video nýlistasafnið varla magnús pálsson",
+      "contentStatus": "ready for review",
+      "mediaStatus": "images ok"
+    },
+    {
+      "id": "etan-langbrok-1993",
+      "title": {
+        "en": "Etán Langbrók",
+        "is": "Etán Langbrók"
+      },
+      "year": 1993,
+      "dimensions": null,
+      "description": {
+        "en": "Part of the 'Varla' exhibition at Nýlistasafnið (The Living Art Museum) in January 1994. The work explores themes characteristic of Magnús Pálsson's conceptual approach.",
+        "is": "Hluti af 'Varla' sýningunni á Nýlistasafninu í janúar 1994. Verkið kannar þemu sem einkenna hugmyndalega nálgun Magnúsar Pálssonar."
+      },
+      "images": [],
+      "tags": [
+        "installation",
+        "1990s",
+        "nýlistasafnið"
+      ],
+      "exhibitions": [
+        {
+          "title": {
+            "en": "Varla (Hardly)",
+            "is": "Varla"
+          },
+          "venue": {
+            "en": "Nýlistasafnið (The Living Art Museum)",
+            "is": "Nýlistasafnið"
+          },
+          "location": "Reykjavík",
+          "year": 1994
+        }
+      ],
+      "materials": {
+        "en": ["mixed media"],
+        "is": ["blandað efni"]
+      },
+      "searchText": "etán langbrók 1993 nýlistasafnið varla magnús pálsson",
+      "contentStatus": "draft",
+      "mediaStatus": "needs images"
     },
     {
       "id": "veggfodur-ferd-reise-1965",
