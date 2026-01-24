@@ -816,6 +816,16 @@ class WorksManager {
           ${translatedWork.materials && translatedWork.materials.length > 0 ? `
             <p class="work-materials"><strong>${i18n.t('materials')}:</strong> ${Array.isArray(translatedWork.materials) ? translatedWork.materials.join(', ') : translatedWork.materials}</p>
           ` : ''}
+          ${work.collaboration ? `
+            <div class="collaboration-info">
+              <p class="work-collaboration"><strong>${this.getCurrentLanguage() === 'is' ? 'Samstarf' : 'Collaboration'}:</strong>
+                ${work.collaboration.type === 'student' ? (this.getCurrentLanguage() === 'is' ? 'Nemendaverk' : 'Student work') : work.collaboration.type}
+                ${work.collaboration.institution ? ` · ${work.collaboration.institution}` : ''}
+                ${work.collaboration.location ? `, ${work.collaboration.location}` : ''}
+                ${work.collaboration.producer ? ` · ${this.getCurrentLanguage() === 'is' ? 'Framleiðandi' : 'Producer'}: ${work.collaboration.producer}` : ''}
+              </p>
+            </div>
+          ` : ''}
           ${work.source ? `
             <div class="source-info">
               <p class="source-attribution"><em>Source: <a href="${work.source.url}" target="_blank">${work.source.name}</a></em></p>
