@@ -3438,7 +3438,24 @@
         "en": "A series of six sculptural works where plaster is placed over specific countries on maps, creating poetic geographic commentary. Each piece title evokes a cultural association with that country. The series includes: Sónninn í Jóskunni (Denmark), Hinn keltneski andi (Ireland/Scotland), Sorg kengúrunnar (Australia), Kaffiilmurinn í Braselíu (Brazil), Trúin í Afganistan (Afghanistan), and Von Lappanna (Lapland/Sami region).",
         "is": "Sex skúlptúrverk þar sem gifs er sett yfir tiltekin lönd á kortum og skapar ljóðræna landfræðilega athugasemd. Titill hvers verks vekur upp menningarlega tengingu við það land. Flokkurinn inniheldur: Sónninn í Jóskunni (Danmörk), Hinn keltneski andi (Írland/Skotland), Sorg kengúrunnar (Ástralía), Kaffiilmurinn í Braselíu (Brasilía), Trúin í Afganistan (Afganistan) og Von Lappanna (Lapland/Sami svæðið)."
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-02-medium.jpg",
+          "caption": {"en": "Landafræði series - group view", "is": "Landafræði verkaflokkur - heildarmynd"}
+        },
+        {
+          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-03-medium.jpg",
+          "caption": {"en": "Landafræði series - group view", "is": "Landafræði verkaflokkur - heildarmynd"}
+        },
+        {
+          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-06-medium.jpg",
+          "caption": {"en": "Landafræði series - group view", "is": "Landafræði verkaflokkur - heildarmynd"}
+        },
+        {
+          "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-07-medium.jpg",
+          "caption": {"en": "Landafræði series - group view", "is": "Landafræði verkaflokkur - heildarmynd"}
+        }
+      ],
       "tags": ["sculpture", "plaster", "series", "1975"],
       "exhibitions": [
         {
@@ -3468,7 +3485,12 @@
         "en": "Part of the Landafræði (Geography) series. Plaster placed over Denmark on a map.",
         "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Danmörku á korti."
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/sonninn-i-joskunni-1975/medium/landafraedi-01-medium.jpg",
+          "caption": {"en": "Sónninn í Jóskunni - plaster over Denmark", "is": "Sónninn í Jóskunni - gifs yfir Danmörku"}
+        }
+      ],
       "tags": ["sculpture", "plaster", "landafræði", "1975"],
       "exhibitions": [],
       "materials": {
@@ -3477,7 +3499,7 @@
       },
       "searchText": "sónninn jóskunni landafræði geography 1975 magnús pálsson",
       "contentStatus": "draft",
-      "mediaStatus": "needs identification",
+      "mediaStatus": "images ok",
       "series": "landafræði"
     },
     {
@@ -3516,7 +3538,12 @@
         "en": "Part of the Landafræði (Geography) series. Plaster placed over Australia on a map.",
         "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Ástralíu á korti."
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/sorg-kengurunnar-1975/medium/landafraedi-04-medium.jpg",
+          "caption": {"en": "Sorg kengúrunnar - plaster over Australia", "is": "Sorg kengúrunnar - gifs yfir Ástralíu"}
+        }
+      ],
       "tags": ["sculpture", "plaster", "landafræði", "1975"],
       "exhibitions": [],
       "materials": {
@@ -3525,7 +3552,7 @@
       },
       "searchText": "sorg kengúrunnar sorrow kangaroo australia landafræði geography 1975 magnús pálsson",
       "contentStatus": "draft",
-      "mediaStatus": "needs identification",
+      "mediaStatus": "images ok",
       "series": "landafræði"
     },
     {
@@ -3588,7 +3615,12 @@
         "en": "Part of the Landafræði (Geography) series. Plaster placed over Lapland/Sami region on a map.",
         "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Lapland/Sama svæðið á korti."
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/von-lappanna-1975/medium/landafraedi-05-medium.jpg",
+          "caption": {"en": "Von Lappanna - plaster over Lapland", "is": "Von Lappanna - gifs yfir Lapland"}
+        }
+      ],
       "tags": ["sculpture", "plaster", "landafræði", "1975"],
       "exhibitions": [],
       "materials": {
@@ -3597,7 +3629,7 @@
       },
       "searchText": "von lappanna hope sami lapland landafræði geography 1975 magnús pálsson",
       "contentStatus": "draft",
-      "mediaStatus": "needs identification",
+      "mediaStatus": "images ok",
       "series": "landafræði"
     },
     {
