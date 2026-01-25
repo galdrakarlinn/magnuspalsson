@@ -623,14 +623,18 @@
       "id": "strunz-2002",
       "year": "2002",
       "title": {
-        "en": "Strunz",
-        "is": "Strunz"
+        "en": "Memorial Exhibition for Ásta Guðrún Eyvindardóttir",
+        "is": "Minningarsýning um Ástu Guðrúnu Eyvindardóttur"
       },
       "venue": {
-        "en": "Kópavogur Art Museum",
-        "is": "Kópavogur Art Museum"
+        "en": "Gerðarsafn - Kópavogur Art Museum",
+        "is": "Gerðarsafn - Listasafn Kópavogs"
       },
-      "location": "Kópavogur, Iceland"
+      "location": "Kópavogur, Iceland",
+      "notes": {
+        "en": "Magnús Pálsson exhibited the work Struns at this memorial exhibition",
+        "is": "Magnús Pálsson sýndi verkið Struns á þessari minningarsýningu"
+      }
     },
     {
       "id": "seeds-of-aspidistra-2001",

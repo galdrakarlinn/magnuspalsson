@@ -274,8 +274,8 @@
         {
           "url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-02-medium.jpg",
           "caption": {
-            "en": "Installation at Gerðarsafn Kópavogs, April-May 2002",
-            "is": "Innsetning í Gerðarsafni Kópavogs, apríl-maí 2002"
+            "en": "Þrígaldur þursavænn - used on invitation card for Ásta Guðrún Eyvindardóttir memorial exhibition at Gerðarsafn 2002",
+            "is": "Þrígaldur þursavænn - notað á boðskorti fyrir minningarsýningu Ástu Guðrúnar Eyvindardóttur í Gerðarsafni 2002"
           },
           "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-02-thumb.jpg"
         },
@@ -10834,18 +10834,26 @@
             "en": "Struns 2002 - view 8",
             "is": ""
           }
+        },
+        {
+          "url": "images/struns-2002/medium/struns-gerdarsafn-bodskort-medium.jpg",
+          "caption": {
+            "en": "Invitation card for Ásta Guðrún Eyvindardóttir memorial exhibition at Gerðarsafn 2002 (shows Þrígaldur þursavænn)",
+            "is": "Boðskort fyrir minningarsýningu Ástu Guðrúnar Eyvindardóttur í Gerðarsafni 2002 (sýnir Þrígaldur þursavænn)"
+          },
+          "thumbnail": "images/struns-2002/thumbs/struns-gerdarsafn-bodskort-thumb.jpg"
         }
       ],
       "tags": [
         "artwork",
         "2002"
       ],
-      "exhibitions": [],
+      "exhibitions": ["strunz-2002"],
       "materials": {
         "en": [],
         "is": []
       },
-      "searchText": "struns 2002 2002 magnús pálsson",
+      "searchText": "struns 2002 gerðarsafn ásta guðrún eyvindardóttir minningarsýning magnús pálsson",
       "contentStatus": "draft",
       "mediaStatus": "images draft"
     },
