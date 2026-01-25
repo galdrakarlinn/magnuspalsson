@@ -68,7 +68,7 @@
       "searchText": "þiljur thiljur bethanien berlin 2002 installation magnús pálsson",
       "thumbnail": "images/thiljur-bethanien-berlin-2002/thumbs/thiljur-bethanien-berlin-2002-02-thumb.jpg",
       "contentStatus": "needs review",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images review"
     },
     {
       "id": "thiljur-laeknagarður-1995",
@@ -151,7 +151,7 @@
         }
       },
       "contentStatus": "needs review",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images review"
     },
     {
       "id": "thraetubalkur-1990",
@@ -248,15 +248,15 @@
       },
       "searchText": "þrætubálkur thraetubalkur dispute pole 1990 sound sculpture iliad homer nýlistasafnið magnús pálsson",
       "contentStatus": "needs review",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images review"
     },
     {
-      "id": "thrigaldur-thursavaenn-2013",
+      "id": "thrigaldur-thursavaenn-2000",
       "title": {
         "en": "Three Spells (Þrígaldur þursavænn)",
         "is": "Þrígaldur (Þursavænn)"
       },
-      "year": 2013,
+      "year": 2000,
       "dimensions": null,
       "description": {
         "en": "\"Þrígaldur (Þursavænn)\" (Three Spells / Giant's Waft) is a complex installation by Magnús Pálsson that deals with the imperfection of video recording and listening. The artist deliberately divides the space and transforms it through sound.\n\nThe work is related to the artist's use of video footage and elements from spaces he has utilized or has been put in charge of. It is described as a dramaturgical performance set up in Hafnarhús: ordinary floor sculptures and a rescue boat in the hall are performances that open the space to the outside sphere, through doors. This circulation acts as a technical supplement – deus ex machina.\n\nMagnús utilizes a video perspective that shows a person, another reality, that disrupts the familiar approach and rushes into the whole picture with an unexpected experience. He shifts the videos so they replace computer language, or the internet, urging us to listen to sounds in plaster walls. The artist points out that nothing is fully perfect, as video recordings are inherently imperfect.",
@@ -274,8 +274,8 @@
         {
           "url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-02-medium.jpg",
           "caption": {
-            "en": "Exhibition catalog front page",
-            "is": "Forsíða sýningarskrár"
+            "en": "Installation at Gerðarsafn Kópavogs, April-May 2002",
+            "is": "Innsetning í Gerðarsafni Kópavogs, apríl-maí 2002"
           },
           "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-02-thumb.jpg"
         },
@@ -290,26 +290,10 @@
         {
           "url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-04-medium.jpg",
           "caption": {
-            "en": "Þrígaldur þursavænn view 4",
-            "is": ""
+            "en": "Installation view at Hafnarhús with vehicles visible through open doors",
+            "is": "Innsetning í Hafnarhúsi með ökutæki sýnileg í opnum hurðum"
           },
           "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-04-thumb.jpg"
-        },
-        {
-          "url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-05-medium.jpg",
-          "caption": {
-            "en": "Þrígaldur þursavænn view 5",
-            "is": ""
-          },
-          "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-05-thumb.jpg"
-        },
-        {
-          "url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-06-medium.jpg",
-          "caption": {
-            "en": "Þrígaldur þursavænn view 6",
-            "is": ""
-          },
-          "thumbnail": "images/thrigaldur-thursavaenn-2013/thumbs/thrigaldur-thursavaenn-2013-06-thumb.jpg"
         },
         {
           "url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-07-medium.jpg",
@@ -335,7 +319,7 @@
         "space",
         "imperfection"
       ],
-      "exhibitions": [],
+      "exhibitions": ["the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"],
       "materials": {
         "en": [
           "video",
@@ -348,7 +332,7 @@
           "blandað efni"
         ]
       },
-      "searchText": "þrígaldur thrigaldur þursavænn thursavaenn three spells giants waft 2013 video sound installation hafnarhús magnús pálsson",
+      "searchText": "þrígaldur thrigaldur þursavænn thursavaenn three spells giants waft 2000 video sound installation hafnarhús magnús pálsson",
       "contentStatus": "needs review",
       "mediaStatus": "images draft"
     },
@@ -376,20 +360,7 @@
         "performance",
         "negative space"
       ],
-      "exhibitions": [
-        {
-          "title": {
-            "en": "Reykjavík Arts Festival",
-            "is": "Reykjavík Arts Festival"
-          },
-          "venue": {
-            "en": "Reykjavík Arts Festival",
-            "is": "Reykjavík Arts Festival"
-          },
-          "location": "Reykjavík, Iceland",
-          "year": 2013
-        }
-      ],
+      "exhibitions": ["the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"],
       "materials": {
         "en": [
           "plaster",
@@ -3365,7 +3336,7 @@
         "artwork",
         "2013"
       ],
-      "exhibitions": [],
+      "exhibitions": ["the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"],
       "materials": {
         "en": [],
         "is": []
@@ -5088,18 +5059,7 @@
           "location": "Oxford",
           "year": 2011
         },
-        {
-          "title": {
-            "en": "Listhátið Arts Festival",
-            "is": "Listhátið Arts Festival"
-          },
-          "venue": {
-            "en": "Listhátið",
-            "is": "Listhátið"
-          },
-          "location": "Reykjavik",
-          "year": 2013
-        },
+        "the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013",
         {
           "title": {
             "en": "Ævintýr Exhibition",
@@ -10463,7 +10423,7 @@
         "artwork",
         "1991"
       ],
-      "exhibitions": [],
+      "exhibitions": ["the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"],
       "materials": {
         "en": [],
         "is": []
@@ -11360,7 +11320,7 @@
         "artwork",
         "2013"
       ],
-      "exhibitions": [],
+      "exhibitions": ["the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"],
       "materials": {
         "en": [
           "video"
@@ -11415,6 +11375,50 @@
         }
       ],
       "mediaStatus": "images draft"
+    },
+    {
+      "id": "litill-tritill-karlsson-og-fuglarnir-1985",
+      "title": {
+        "en": "Little, Treetle, Karlsson and the Birds",
+        "is": "Lítill, Trítill, Karlsson og fuglarnir"
+      },
+      "year": 1985,
+      "dimensions": null,
+      "description": {
+        "en": "Public installation based on a Hungarian fairy tale, depicted in 50 ceramic sculptures and texts on inside and outside walls of Snælandsskóli in Kópavogur. The work was created in 1985 and restored/completed in 2015.",
+        "is": "Útilistaverk byggt á ungversku ævintýri, sýnt í 50 leirskúlptúrum og textum á innri og ytri veggjum Snælandsskóla í Kópavogi. Verkið var gert árið 1985 og endurgert/lokið við árið 2015."
+      },
+      "images": [],
+      "tags": [
+        "public art",
+        "ceramic",
+        "sculpture",
+        "school",
+        "fairy tale"
+      ],
+      "exhibitions": [],
+      "materials": {
+        "en": [
+          "ceramic",
+          "text"
+        ],
+        "is": [
+          "leir",
+          "texti"
+        ]
+      },
+      "location": {
+        "en": "Snælandsskóli, Kópavogur",
+        "is": "Snælandsskóli, Kópavogi"
+      },
+      "ownership": {
+        "owner": "Gerðarsafn - Kópavogur Art Museum",
+        "url": "https://gerdarsafn.kopavogur.is/artwork/sagan-um-karlsson-litil-tritil-og-fuglana/",
+        "notes": "Located at Snælandsskóli, Kópavogur"
+      },
+      "searchText": "lítill trítill litill tritill karlsson fuglarnir birds hungarian fairy tale ceramic sculpture snælandsskóli kópavogur public art 1985 2015 magnús pálsson",
+      "contentStatus": "draft",
+      "mediaStatus": "needs images"
     }
   ],
   "exhibitions": [
