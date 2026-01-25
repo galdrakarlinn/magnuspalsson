@@ -10775,64 +10775,50 @@
       "year": 2002,
       "dimensions": null,
       "description": {
-        "en": "A work by Magnús Pálsson from 2002. This piece demonstrates his artistic exploration and creative development during this period.",
-        "is": ""
+        "en": "Installation at Gerðarsafn, Kópavogur Art Museum, as part of the memorial exhibition for Ásta Guðrún Eyvindardóttir. The title 'Struns' refers to people's movement in the city, back and forth, day in and day out.\n\nThe work features bicycles positioned upside down on their saddles with wheels in the air, surrounded by three video projections: planes taking off near an airport, a man distributing leaflets in London with people walking past, and cars on a freeway. Large metal thumb sculptures ('Thumbs up') are scattered throughout the space.\n\nA shipping container attached to the gallery space contains more bicycles (standing normally) and headphones where visitors can listen to the artist performing theatrical text. The installation explores themes of mobility, big city life, and the hustle and bustle of modern existence.",
+        "is": "Innsetning í Gerðarsafni, listasafni Kópavogs, sem hluti af minningarsýningu um Ástu Guðrúnu Eyvindardóttur. Titillinn 'Struns' vísar til strunz fólks í borginni, fram og aftur, daginn út og inn.\n\nVerkið samanstendur af reiðhjólum sem öll sitja á hnakknum með hjólin upp á loft, umkringd þremur myndbandsverkum: flugvélum að fara á loft við flugvöll, manni að dreifa bréfum í London með fólk að ganga framhjá, og bílum á hraðbraut. Stórar þumalskúlptúrar úr málmi ('Thumbs up') eru dreifðir um salinn.\n\nGámur utan við sýningarrýmið inniheldur fleiri reiðhjól (standandi á dekkjunum) og heyrnartól þar sem gestir geta hlustað á listamanninn flytja leikrænan texta. Innsetningin fjallar um hreyfanleika, stórborgaráíf og ys og þys nútímans."
       },
       "images": [
         {
           "url": "images/struns-2002/medium/struns-01-medium.jpg",
           "caption": {
-            "en": "Struns 2002 - view 1",
-            "is": ""
+            "en": "Installation view: upside-down bicycles, video projection, and thumb sculptures",
+            "is": "Yfirlitsmynd: reiðhjól á hvolf, myndbandsvörpun og þumalskúlptúrar"
           }
         },
         {
           "url": "images/struns-2002/medium/struns-02-medium.jpg",
           "caption": {
-            "en": "Struns 2002 - view 2",
-            "is": ""
+            "en": "Installation view with video projection showing London street scene",
+            "is": "Innsetningin með myndbandsvörpun sem sýnir götumynd úr London"
           }
         },
         {
           "url": "images/struns-2002/medium/struns-03-medium.jpg",
           "caption": {
-            "en": "Struns 2002 - view 3",
-            "is": ""
+            "en": "Shipping container entrance attached to the gallery",
+            "is": "Inngangur að gámi tengdum sýningarsal"
           }
         },
         {
           "url": "images/struns-2002/medium/struns-04-medium.jpg",
           "caption": {
-            "en": "Struns 2002 - view 4",
-            "is": ""
+            "en": "Inside the shipping container with bicycles and thumb sculptures",
+            "is": "Inni í gámnum með reiðhjólum og þumalskúlptúrum"
           }
         },
         {
           "url": "images/struns-2002/medium/struns-05-medium.jpg",
           "caption": {
-            "en": "Struns 2002 - view 5",
-            "is": ""
+            "en": "Alternative view of the installation with video projection",
+            "is": "Innsetningin frá öðru sjónarhorni með myndbandsvörpun"
           }
         },
         {
           "url": "images/struns-2002/medium/struns-06-medium.jpg",
           "caption": {
-            "en": "Struns 2002 - view 6",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/struns-2002/medium/struns-07-medium.jpg",
-          "caption": {
-            "en": "Struns 2002 - view 7",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/struns-2002/medium/struns-08-medium.jpg",
-          "caption": {
-            "en": "Struns 2002 - view 8",
-            "is": ""
+            "en": "Struns 2002 - toe sculpture detail",
+            "is": "Struns 2002 - nánar á táskúlptúr"
           }
         },
         {
@@ -10850,12 +10836,12 @@
       ],
       "exhibitions": ["strunz-2002"],
       "materials": {
-        "en": [],
-        "is": []
+        "en": ["installation", "video", "bicycles", "metal sculpture", "shipping container", "audio"],
+        "is": ["innsetning", "myndband", "reiðhjól", "málmskúlptúr", "gámur", "hljóð"]
       },
-      "searchText": "struns 2002 gerðarsafn ásta guðrún eyvindardóttir minningarsýning magnús pálsson",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "searchText": "struns 2002 gerðarsafn ásta guðrún eyvindardóttir minningarsýning reiðhjól bicycles video thumbs þumalskúlptúr gámur container magnús pálsson",
+      "contentStatus": "needs review",
+      "mediaStatus": "images review"
     },
     {
       "id": "staerdfraedi-maths-1976",
