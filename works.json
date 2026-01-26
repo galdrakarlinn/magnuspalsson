@@ -1,6 +1,33 @@
 {
   "works": [
     {
+      "id": "sunnudagur-hausaveidmannanna-1967",
+      "title": {
+        "en": "Sunday of the Headhunters",
+        "is": "Sunnudagur hausaveiðimannanna"
+      },
+      "year": 1967,
+      "dimensions": null,
+      "description": {
+        "en": "[NEEDS DESCRIPTION] Work exhibited at Ásmundarsalur.",
+        "is": "[ÞARF LÝSINGU] Verk sýnt í Ásmundarsali."
+      },
+      "images": [],
+      "tags": [
+        "1960s",
+        "ásmundarsalur"
+      ],
+      "exhibitions": [
+        "bestu-stykkin-1967"
+      ],
+      "materials": {
+        "en": [],
+        "is": []
+      },
+      "contentStatus": "draft",
+      "mediaStatus": "needs images"
+    },
+    {
       "id": "thiljur-bethanien-berlin-2002",
       "title": {
         "en": "Cladding Bethanien Berlin",
@@ -319,7 +346,9 @@
         "space",
         "imperfection"
       ],
-      "exhibitions": ["the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"],
+      "exhibitions": [
+        "the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"
+      ],
       "materials": {
         "en": [
           "video",
@@ -343,24 +372,52 @@
         "is": "Einsemd"
       },
       "year": 2013,
-      "dimensions": null,
+      "dimensions": "350 × 120 cm",
       "description": {
         "en": "Sculpture work related to 'The Anti-Society League Concert' from 1982. The artist orchestrated a band performance where members would stop and remain still at a specific moment. He then created a plaster cast of the empty space—the negative room in the venue—thereby materializing the music and atmosphere. Created for Reykjavík Arts Festival 2013, performed by Icelandic band MUCK.",
         "is": "Höggmynd tengd \"Tónleikum Andfélagsbandalagsins\" frá 1982. Listamaðurinn stjórnaði tónleikaflutningi þar sem meðlimir stöðvuðust og stóðu kyrrir á tilteknu augnabliki. Hann gerði síðan gifs af tómu rýminu - neikvæða rýminu í staðnum - og efnisgerði þannig tónlistina og andrúmsloftið. Búið til fyrir Listahátíð í Reykjavík 2013, flutt af íslenska hljómsveitinni MUCK."
       },
       "images": [
         {
-          "url": "images/placeholder.jpg",
-          "caption": "Einsemd (Isolation)"
+          "url": "images/einsemd-2013/medium/einsemd-01-medium.jpg",
+          "caption": {
+            "en": "Einsemd installation at Reykjavík Arts Festival 2013 - plaster casts of the negative space around MUCK band members during performance, with video projections",
+            "is": "Einsemd innsetning á Listahátíð í Reykjavík 2013 - gifsafsteypor af neikvæða rýminu í kringum meðlimi MUCK hljómsveitarinnar á meðan á flutningi stóð, með myndbandsvarpa"
+          }
+        },
+        {
+          "url": "images/einsemd-2013/medium/einsemd-02-medium.jpg",
+          "caption": {
+            "en": "Plaster cast of the negative space during a concert performance (from The Anti-Society League Concert, Norrköping 1982 - the precursor to Einsemd)",
+            "is": "Gifsafsteypa af neikvæða rýminu á meðan á tónleikum stóð (frá Tónleikum Andfélagsbandalagsins, Norrköping 1982 - forverki Einsemd)"
+          }
+        },
+        {
+          "url": "images/einsemd-2013/medium/einsemd-03-medium.jpg",
+          "caption": {
+            "en": "Cast of musician and music - materializing the empty space between performer and sound (Norrköping 1982)",
+            "is": "Afsteypa af tónlistarmanni og tónlist - að efnisgera tóma rýmið milli flytjanda og hljóðs (Norrköping 1982)"
+          }
+        },
+        {
+          "url": "images/einsemd-2013/medium/einsemd-04-medium.jpg",
+          "caption": {
+            "en": "Magnús Pálsson casting a player during The Anti-Society League Concert (Norrköping 1982)",
+            "is": "Magnús Pálsson að steypa tónlistarmann á Tónleikum Andfélagsbandalagsins (Norrköping 1982)"
+          }
         }
       ],
       "tags": [
         "sculpture",
         "2013",
         "performance",
-        "negative space"
+        "negative space",
+        "plaster cast",
+        "MUCK"
       ],
-      "exhibitions": ["the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"],
+      "exhibitions": [
+        "the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"
+      ],
       "materials": {
         "en": [
           "plaster",
@@ -377,13 +434,18 @@
         "catalogNumber": "107748",
         "notes": "Sculpture, 2013. H: 120cm, W: 350cm"
       },
-      "searchText": "einsemd einsemd (isolation) 2013 höggmynd tengd \"tónleikum andfélagsbandalagsins\" frá 1982. listamaðurinn stjórnaði tónleikaflutningi þar sem meðlimir stöðvuðust og stóðu kyrrir á tilteknu augnabliki. hann gerði síðan gifs af tómu rýminu - neikvæða rýminu í staðnum - og efnisgerði þannig tónlistina og andrúmsloftið. búið til fyrir listahátíð í reykjavík 2013, flutt af íslenska hljómsveitinni muck. sculpture work related to 'the anti-society league concert' from 1982. the artist orchestrated a band performance where members would stop and remain still at a specific moment. he then created a plaster cast of the empty space—the negative room in the venue—thereby materializing the music and atmosphere. created for reykjavík arts festival 2013, performed by icelandic band muck. sculpture 2013 performance negative space gifs höggmynd plaster sculpture {'title': {'en': 'reykjavík arts festival', 'is': 'reykjavík arts festival'}, 'venue': {'en': 'reykjavík arts festival', 'is': 'reykjavík arts festival'}, 'location': 'reykjavík, iceland', 'year': 2013}",
+      "searchText": "einsemd einsemd (isolation) 2013 höggmynd tengd \"tónleikum andfélagsbandalagsins\" frá 1982. listamaðurinn stjórnaði tónleikaflutningi þar sem meðlimir stöðvuðust og stóðu kyrrir á tilteknu augnabliki. hann gerði síðan gifs af tómu rýminu - neikvæða rýminu í staðnum - og efnisgerði þannig tónlistina og andrúmsloftið. búið til fyrir listahátíð í reykjavík 2013, flutt af íslenska hljómsveitinni muck. sculpture work related to 'the anti-society league concert' from 1982. the artist orchestrated a band performance where members would stop and remain still at a specific moment. he then created a plaster cast of the empty space—the negative room in the venue—thereby materializing the music and atmosphere. created for reykjavík arts festival 2013, performed by icelandic band muck. sculpture 2013 performance negative space plaster cast muck gifs höggmynd plaster sculpture the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013",
       "contentStatus": "needs review",
-      "mediaStatus": "images draft",
+      "mediaStatus": "images review",
       "source": {
         "name": "Listasafn Reykjavíkur",
-        "url": "https://listasafnreykjavikur.is/safneign/verk/51C02718-66B9-494A-B466-EFE903CE9713"
-      }
+        "url": "https://listasafnreykjavikur.is/safneign/verk/51C02718-66B9-494A-B466-EFE903CE9713",
+        "notes": {
+          "en": "Main image from Listasafn Reykjavíkur collection. Additional images from the 1982 precursor 'The Anti-Society League Concert' in Norrköping showing the original concept.",
+          "is": "Aðalmynd úr safni Listasafns Reykjavíkur. Viðbótarmyndir frá 1982 forverki 'Tónleikar Andfélagsbandalagsins' í Norrköping sem sýna upprunalegu hugmyndina."
+        }
+      },
+      "series": "anti-society-league"
     },
     {
       "id": "walking-on-water-2012",
@@ -764,7 +826,7 @@
         "is": "Vænting"
       },
       "year": 1966,
-      "dimensions": "60.7 × 51 cm",
+      "dimensions": "Unit 1: 60.7 × 51 cm; Unit 2 (artist proof): 60.7 × 43.8 cm",
       "description": {
         "en": "The work consists of two units. Paper strips with printed images—dark lines on light paper. Images of butterflies on confectionery molds and heaps of knife pairs. The molds are both light and dark with butterflies on some. The images, approximately 50cm in height, were created using an old photographic machine that produced images on photosensitive paper.",
         "is": "Verkið samanstendur af tveimur einingum. Pappírsræmur með prentaðum myndum — dökkar línur á ljósum pappír. Myndir af fiðrildum á sælgætismótum og hrúgum af hnífapörum. Mótin eru bæði ljós og dökk með fiðrildum á sumum. Myndirnar, um 50 cm á hæð, voru búnar til með gamalli ljósmyndavél sem framleiddi myndir á ljósnæman pappír."
@@ -815,8 +877,13 @@
       },
       "searchText": "vænting expectation 1966 wall piece nýló butterflies fiðrildi paper pappír magnús pálsson",
       "ownership": {
-        "institution": "Nýlistasafnið",
-        "acquisitionNumber": "N-1820"
+        "owner": "Nýlistasafnið (The Living Art Museum)",
+        "url": "https://sarpur.is/is/collection/item/1412866/",
+        "catalogNumber": "N-1820",
+        "notes": {
+          "en": "2 pieces owned by Nýlistasafnið: one from 1969, one artist proof",
+          "is": "2 verk í eigu Nýlistasafnsins: eitt frá 1969, eitt listamannaeintak"
+        }
       },
       "contentStatus": "ready for review",
       "mediaStatus": "images draft"
@@ -1053,7 +1120,11 @@
       "searchText": "varla hardly 1994 soaps audio installation nýlistasafnið atlantis djengis khan etán langbrók magnús pálsson",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
-      "relatedWorks": ["atlantis-1993", "djengis-khan-1993", "etan-langbrok-1993"],
+      "relatedWorks": [
+        "atlantis-1993",
+        "djengis-khan-1993",
+        "etan-langbrok-1993"
+      ],
       "source": {
         "name": "Morgunblaðið, 18. janúar 1994",
         "url": "https://timarit.is/page/1799525#page/n9/mode/2up"
@@ -1102,8 +1173,12 @@
         }
       ],
       "materials": {
-        "en": ["mixed media"],
-        "is": ["blandað efni"]
+        "en": [
+          "mixed media"
+        ],
+        "is": [
+          "blandað efni"
+        ]
       },
       "source": {
         "name": "Morgunblaðið, 18. janúar 1994",
@@ -1158,8 +1233,18 @@
         }
       ],
       "materials": {
-        "en": ["cord", "tape", "video", "mixed media"],
-        "is": ["strengur", "spóla", "vídeó", "blandað efni"]
+        "en": [
+          "cord",
+          "tape",
+          "video",
+          "mixed media"
+        ],
+        "is": [
+          "strengur",
+          "spóla",
+          "vídeó",
+          "blandað efni"
+        ]
       },
       "source": {
         "name": "Morgunblaðið, 18. janúar 1994",
@@ -1203,8 +1288,12 @@
         }
       ],
       "materials": {
-        "en": ["mixed media"],
-        "is": ["blandað efni"]
+        "en": [
+          "mixed media"
+        ],
+        "is": [
+          "blandað efni"
+        ]
       },
       "source": {
         "name": "Morgunblaðið, 18. janúar 1994",
@@ -1222,7 +1311,7 @@
         "is": "Veggfóður Ferð (Reise / Wallpaper)"
       },
       "year": 1965,
-      "dimensions": null,
+      "dimensions": "60 cm height (variable length)",
       "description": {
         "en": "Magnús Pálsson (b. 1929) actively participated in the avant-garde of Icelandic theater and visual arts in the 1960s and 1970s, collaborating with Dieter Roth and later the SÚM group. Magnús has had a significant influence on contemporary Icelandic art, particularly through his teaching at the Icelandic College of Arts and Crafts, where he and Hildur Hákonardóttir initiated the establishment of the new art department. Magnús represented Iceland at the Venice Biennale in visual arts in 1980. In 1994, a retrospective exhibition of his works was held at Kjarvalsstaðir. The original version of the work \"Ferð\" (Journey) is owned by the Living Art Museum but was recreated for Magnús Pálsson's exhibition at Kjarvalsstaðir in 1994. The work consists of 63 individual ink drawings joined together. The drawings are printed repeatedly, one over the other, onto long paper strips, creating a kind of wallpaper. The work is not least about the journey that the process of making it entails and the outcome, as each time it is made, the result is different. It is possible to connect the working method with another work in this room called \"Kál\" (Cabbage), where drawings are similarly joined together and printed.",
         "is": "Magnús Pálsson (f. 1929) tók virkan þátt í framúrstefnu íslenskrar leik- og myndlistar á 6. og 7. áratug 20. aldar og átti m.a. í farsælu samstarfi við Dieter Roth og síðar SÚM-hópinn. Magnús hefur haft rík áhrif á íslenska samtímalist, m.a. í gegnum kennslustörf sem hann sinnti um árabil, en hann átti, ásamt Hildi Hákonardóttur, frumkvæði að stofnun nýlistadeildar við Myndlista-og handíðaskóla Íslands. Magnús var fulltrúi Íslands á Feneyjatvíæringnum í myndlist 1980. Árið 1994 var sett upp yfirlitssýning á verkum hans á Kjarvalsstöðum. Frumgerð verksins Ferð er í eigu Nýlistasafnsins en var endurgert vegna sýningar Magnúsar Pálssonar að Kjarvalsstöðum 1994. Verkið er gert úr 63 stökum tússteikningum sem er skeytt saman. Teikningarnar eru prentaðar aftur og aftur og hver yfir aðra á langa pappírsörk svo úr verður til nokkurs konar veggfóður. Verkið snýst ekki síst um þá ferð sem vinnan við það felur í sér og útkomuna því að í hvert skipti sem það er gert er útkoman öðruvísi. Mögulegt er að tengja vinnuaðferð þess við annað verk í þessum sal sem kallast Kál þar sem teikningum er skeytt saman og þær prentaðar á svipaðan máta."
@@ -1263,21 +1352,33 @@
       ],
       "materials": {
         "en": [
-          "wallpaper",
-          "mixed media"
+          "ink drawings on paper",
+          "63 individual drawings joined and printed"
         ],
         "is": [
-          "wallpaper",
-          "blandað efni"
+          "tússteikningar á pappír",
+          "63 stakar teikningar samskeytt og prentaðar"
         ]
       },
       "searchText": "veggfóður ferð (reise / wallpaper) veggfóður ferð (reise / wallpaper) 1965 magnús pálsson (f. 1929) tók virkan þátt í framúrstefnu íslenskrar leik- og myndlistar á 6. og 7. áratug 20. aldar og átti m.a. í farsælu samstarfi við dieter roth og síðar súm-hópinn. magnús hefur haft rík áhrif á íslenska samtímalist, m.a. í gegnum kennslustörf sem hann sinnti um árabil, en hann átti, ásamt hildi hákonardóttur, frumkvæði að stofnun nýlistadeildar við myndlista-og handíðaskóla íslands. magnús var fulltrúi íslands á feneyjatvíæringnum í myndlist 1980. árið 1994 var sett upp yfirlitssýning á verkum hans á kjarvalsstöðum. frumgerð verksins ferð er í eigu nýlistasafnsins en var endurgert vegna sýningar magnúsar pálssonar að kjarvalsstöðum 1994. verkið er gert úr 63 stökum tússteikningum sem er skeytt saman. teikningarnar eru prentaðar aftur og aftur og hver yfir aðra á langa pappírsörk svo úr verður til nokkurs konar veggfóður. verkið snýst ekki síst um þá ferð sem vinnan við það felur í sér og útkomuna því að í hvert skipti sem það er gert er útkoman öðruvísi. mögulegt er að tengja vinnuaðferð þess við annað verk í þessum sal sem kallast kál þar sem teikningum er skeytt saman og þær prentaðar á svipaðan máta. magnús pálsson (b. 1929) actively participated in the avant-garde of icelandic theater and visual arts in the 1960s and 1970s, collaborating with dieter roth and later the súm group. magnús has had a significant influence on contemporary icelandic art, particularly through his teaching at the icelandic college of arts and crafts, where he and hildur hákonardóttir initiated the establishment of the new art department. magnús represented iceland at the venice biennale in visual arts in 1980. in 1994, a retrospective exhibition of his works was held at kjarvalsstaðir. the original version of the work \"ferð\" (journey) is owned by the living art museum but was recreated for magnús pálsson's exhibition at kjarvalsstaðir in 1994. the work consists of 63 individual ink drawings joined together. the drawings are printed repeatedly, one over the other, onto long paper strips, creating a kind of wallpaper. the work is not least about the journey that the process of making it entails and the outcome, as each time it is made, the result is different. it is possible to connect the working method with another work in this room called \"kál\" (cabbage), where drawings are similarly joined together and printed. wallpaper installation 1965 wallpaper blandað efni wallpaper mixed media something-from-nothing-the-visual-realm-of-magnús-2019",
-      "ownership": {
-        "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
-        "url": "https://listasafnreykjavikur.is/safneign/listamadur/id/11525A97-BA7F-4B3C-B035-603961A0E971",
-        "catalogNumber": "91550",
-        "notes": "Installation - Ferð, 1965/94"
-      },
+      "ownership": [
+        {
+          "owner": "Nýlistasafnið (The Living Art Museum)",
+          "notes": {
+            "en": "Original version from 1965",
+            "is": "Frumgerð frá 1965"
+          }
+        },
+        {
+          "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
+          "url": "https://listasafnreykjavikur.is/safneign/verk/85EDE27E-4780-4440-BB52-6135F0F6DF7C",
+          "catalogNumber": "91550",
+          "notes": {
+            "en": "Recreated version from 1994 for Kjarvalsstaðir retrospective",
+            "is": "Endurgerð útgáfa frá 1994 fyrir yfirlitssýningu á Kjarvalsstöðum"
+          }
+        }
+      ],
       "contentStatus": "needs review",
       "mediaStatus": "images draft",
       "source": {
@@ -2537,8 +2638,8 @@
       "year": 1966,
       "dimensions": null,
       "description": {
-        "en": "A comprehensive work by Magnús Pálsson from 1966. This extensive piece demonstrates his artistic development and exploration during this significant period of his career.",
-        "is": ""
+        "en": "Part of the Kál (Cabbage) series. The negative for this work was made in 1966 but remained unprinted for over 50 years. It was first printed in 2018 specifically for the retrospective exhibition 'Something from Nothing: The Visual Realm of Magnús Pálsson' at Listasafn Reykjavíkur in 2019.",
+        "is": "Hluti af Kál verkaflokknum. Negatífan fyrir þetta verk var gerð árið 1966 en var óprentuð í yfir 50 ár. Hún var fyrst prentuð árið 2018 sérstaklega fyrir yfirlitssýninguna 'Eitthvað úr engu: Myndheimur Magnúsar Pálssonar' í Listasafni Reykjavíkur árið 2019."
       },
       "images": [
         {
@@ -3170,13 +3271,26 @@
         "is": "Hluti af Kál verkaflokknum. Vatnslitur og silkiþrykk á pappír."
       },
       "images": [],
-      "tags": ["painting", "watercolor", "silkscreen", "1960s"],
+      "tags": [
+        "painting",
+        "watercolor",
+        "silkscreen",
+        "1960s"
+      ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
-        "en": ["watercolor", "silkscreen", "paper"],
-        "is": ["vatnslitur", "silkiþrykk", "pappír"]
+        "en": [
+          "watercolor",
+          "silkscreen",
+          "paper"
+        ],
+        "is": [
+          "vatnslitur",
+          "silkiþrykk",
+          "pappír"
+        ]
       },
       "searchText": "kál 1 cabbage watercolor silkscreen 1963 magnús pálsson",
       "contentStatus": "draft",
@@ -3196,13 +3310,26 @@
         "is": "Hluti af Kál verkaflokknum. Vatnslitur og silkiþrykk á pappír."
       },
       "images": [],
-      "tags": ["painting", "watercolor", "silkscreen", "1960s"],
+      "tags": [
+        "painting",
+        "watercolor",
+        "silkscreen",
+        "1960s"
+      ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
-        "en": ["watercolor", "silkscreen", "paper"],
-        "is": ["vatnslitur", "silkiþrykk", "pappír"]
+        "en": [
+          "watercolor",
+          "silkscreen",
+          "paper"
+        ],
+        "is": [
+          "vatnslitur",
+          "silkiþrykk",
+          "pappír"
+        ]
       },
       "searchText": "kál 2 cabbage watercolor silkscreen 1964 magnús pálsson",
       "contentStatus": "draft",
@@ -3222,13 +3349,26 @@
         "is": "Hluti af Kál verkaflokknum. Vatnslitur og silkiþrykk á pappír."
       },
       "images": [],
-      "tags": ["painting", "watercolor", "silkscreen", "1960s"],
+      "tags": [
+        "painting",
+        "watercolor",
+        "silkscreen",
+        "1960s"
+      ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
-        "en": ["watercolor", "silkscreen", "paper"],
-        "is": ["vatnslitur", "silkiþrykk", "pappír"]
+        "en": [
+          "watercolor",
+          "silkscreen",
+          "paper"
+        ],
+        "is": [
+          "vatnslitur",
+          "silkiþrykk",
+          "pappír"
+        ]
       },
       "searchText": "kál 3 cabbage watercolor silkscreen 1965 magnús pálsson",
       "contentStatus": "draft",
@@ -3248,13 +3388,26 @@
         "is": "Hluti af Kál verkaflokknum. Vatnslitur og silkiþrykk á pappír."
       },
       "images": [],
-      "tags": ["painting", "watercolor", "silkscreen", "1960s"],
+      "tags": [
+        "painting",
+        "watercolor",
+        "silkscreen",
+        "1960s"
+      ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
-        "en": ["watercolor", "silkscreen", "paper"],
-        "is": ["vatnslitur", "silkiþrykk", "pappír"]
+        "en": [
+          "watercolor",
+          "silkscreen",
+          "paper"
+        ],
+        "is": [
+          "vatnslitur",
+          "silkiþrykk",
+          "pappír"
+        ]
       },
       "searchText": "kál 4 cabbage watercolor silkscreen 1966 magnús pálsson",
       "contentStatus": "draft",
@@ -3336,7 +3489,9 @@
         "artwork",
         "2013"
       ],
-      "exhibitions": ["the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"],
+      "exhibitions": [
+        "the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"
+      ],
       "materials": {
         "en": [],
         "is": []
@@ -3360,19 +3515,31 @@
       "images": [
         {
           "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-02-medium.jpg",
-          "caption": {"en": "Landafræði series - group view", "is": "Landafræði verkaflokkur - heildarmynd"}
+          "caption": {
+            "en": "Landafræði series - group view",
+            "is": "Landafræði verkaflokkur - heildarmynd"
+          }
         },
         {
           "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-03-medium.jpg",
-          "caption": {"en": "Landafræði series - group view", "is": "Landafræði verkaflokkur - heildarmynd"}
+          "caption": {
+            "en": "Landafræði series - group view",
+            "is": "Landafræði verkaflokkur - heildarmynd"
+          }
         },
         {
           "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-06-medium.jpg",
-          "caption": {"en": "Landafræði series - group view", "is": "Landafræði verkaflokkur - heildarmynd"}
+          "caption": {
+            "en": "Landafræði series - group view",
+            "is": "Landafræði verkaflokkur - heildarmynd"
+          }
         },
         {
           "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-07-medium.jpg",
-          "caption": {"en": "Landafræði series - group view", "is": "Landafræði verkaflokkur - heildarmynd"}
+          "caption": {
+            "en": "Landafræði series - group view",
+            "is": "Landafræði verkaflokkur - heildarmynd"
+          }
         }
       ],
       "tags": [
@@ -3385,12 +3552,25 @@
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
-        "en": ["plaster", "mixed media"],
-        "is": ["gifs", "blandað efni"]
+        "en": [
+          "plaster",
+          "mixed media"
+        ],
+        "is": [
+          "gifs",
+          "blandað efni"
+        ]
       },
       "searchText": "landafræði geography series 1975 sónninn jóskunni keltneski andi sorg kengúrunnar kaffiilmurinn braselíu trúin afganistan von lappanna magnús pálsson",
       "contentStatus": "draft",
-      "relatedWorks": ["sonninn-i-joskunni-1975", "hinn-keltneski-andi-1975", "sorg-kengurunnar-1975", "kaffiilmurinn-i-braseliu-1975", "truin-i-afganistan-1975", "von-lappanna-1975"],
+      "relatedWorks": [
+        "sonninn-i-joskunni-1975",
+        "hinn-keltneski-andi-1975",
+        "sorg-kengurunnar-1975",
+        "kaffiilmurinn-i-braseliu-1975",
+        "truin-i-afganistan-1975",
+        "von-lappanna-1975"
+      ],
       "source": {
         "name": "Ólafur Gíslason, Hugrúnir",
         "url": "https://hugrunir.com/tag/magnus-palsson/"
@@ -3411,14 +3591,26 @@
       "images": [
         {
           "url": "images/sonninn-i-joskunni-1975/medium/landafraedi-01-medium.jpg",
-          "caption": {"en": "Sónninn í Jóskunni - plaster over Denmark", "is": "Sónninn í Jóskunni - gifs yfir Danmörku"}
+          "caption": {
+            "en": "Sónninn í Jóskunni - plaster over Denmark",
+            "is": "Sónninn í Jóskunni - gifs yfir Danmörku"
+          }
         }
       ],
-      "tags": ["sculpture", "plaster", "landafræði", "1975"],
+      "tags": [
+        "sculpture",
+        "plaster",
+        "landafræði",
+        "1975"
+      ],
       "exhibitions": [],
       "materials": {
-        "en": ["plaster"],
-        "is": ["gifs"]
+        "en": [
+          "plaster"
+        ],
+        "is": [
+          "gifs"
+        ]
       },
       "searchText": "sónninn jóskunni landafræði geography 1975 magnús pálsson",
       "contentStatus": "draft",
@@ -3438,11 +3630,20 @@
         "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Írland/Skotland á korti, sem vísar til keltneskrar menningar."
       },
       "images": [],
-      "tags": ["sculpture", "plaster", "landafræði", "1975"],
+      "tags": [
+        "sculpture",
+        "plaster",
+        "landafræði",
+        "1975"
+      ],
       "exhibitions": [],
       "materials": {
-        "en": ["plaster"],
-        "is": ["gifs"]
+        "en": [
+          "plaster"
+        ],
+        "is": [
+          "gifs"
+        ]
       },
       "searchText": "hinn keltneski andi celtic spirit landafræði geography 1975 magnús pálsson",
       "contentStatus": "draft",
@@ -3464,14 +3665,26 @@
       "images": [
         {
           "url": "images/sorg-kengurunnar-1975/medium/landafraedi-04-medium.jpg",
-          "caption": {"en": "Sorg kengúrunnar - plaster over Australia", "is": "Sorg kengúrunnar - gifs yfir Ástralíu"}
+          "caption": {
+            "en": "Sorg kengúrunnar - plaster over Australia",
+            "is": "Sorg kengúrunnar - gifs yfir Ástralíu"
+          }
         }
       ],
-      "tags": ["sculpture", "plaster", "landafræði", "1975"],
+      "tags": [
+        "sculpture",
+        "plaster",
+        "landafræði",
+        "1975"
+      ],
       "exhibitions": [],
       "materials": {
-        "en": ["plaster"],
-        "is": ["gifs"]
+        "en": [
+          "plaster"
+        ],
+        "is": [
+          "gifs"
+        ]
       },
       "searchText": "sorg kengúrunnar sorrow kangaroo australia landafræði geography 1975 magnús pálsson",
       "contentStatus": "draft",
@@ -3491,11 +3704,20 @@
         "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Brasilíu á korti, sem vísar til kaffimenningu landsins."
       },
       "images": [],
-      "tags": ["sculpture", "plaster", "landafræði", "1975"],
+      "tags": [
+        "sculpture",
+        "plaster",
+        "landafræði",
+        "1975"
+      ],
       "exhibitions": [],
       "materials": {
-        "en": ["plaster"],
-        "is": ["gifs"]
+        "en": [
+          "plaster"
+        ],
+        "is": [
+          "gifs"
+        ]
       },
       "searchText": "kaffiilmurinn braselíu coffee brazil landafræði geography 1975 magnús pálsson",
       "contentStatus": "draft",
@@ -3515,11 +3737,20 @@
         "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Afganistan á korti."
       },
       "images": [],
-      "tags": ["sculpture", "plaster", "landafræði", "1975"],
+      "tags": [
+        "sculpture",
+        "plaster",
+        "landafræði",
+        "1975"
+      ],
       "exhibitions": [],
       "materials": {
-        "en": ["plaster"],
-        "is": ["gifs"]
+        "en": [
+          "plaster"
+        ],
+        "is": [
+          "gifs"
+        ]
       },
       "searchText": "trúin afganistan faith afghanistan landafræði geography 1975 magnús pálsson",
       "contentStatus": "draft",
@@ -3541,14 +3772,26 @@
       "images": [
         {
           "url": "images/von-lappanna-1975/medium/landafraedi-05-medium.jpg",
-          "caption": {"en": "Von Lappanna - plaster over Lapland", "is": "Von Lappanna - gifs yfir Lapland"}
+          "caption": {
+            "en": "Von Lappanna - plaster over Lapland",
+            "is": "Von Lappanna - gifs yfir Lapland"
+          }
         }
       ],
-      "tags": ["sculpture", "plaster", "landafræði", "1975"],
+      "tags": [
+        "sculpture",
+        "plaster",
+        "landafræði",
+        "1975"
+      ],
       "exhibitions": [],
       "materials": {
-        "en": ["plaster"],
-        "is": ["gifs"]
+        "en": [
+          "plaster"
+        ],
+        "is": [
+          "gifs"
+        ]
       },
       "searchText": "von lappanna hope sami lapland landafræði geography 1975 magnús pálsson",
       "contentStatus": "draft",
@@ -3886,10 +4129,16 @@
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
-        "en": ["video", "sound"],
-        "is": ["myndband", "hljóð"]
+        "en": [
+          "video",
+          "sound"
+        ],
+        "is": [
+          "myndband",
+          "hljóð"
+        ]
       },
-      "searchText": "kúplingsdiskur clutch disc 1999 myndbandið er tekið með „green screen“ tækni þar sem listamaðurinn sést sitjandi á stól er virðist smár miðað við manninn. hlutföllin eru á skjön, listamaðurinn situr á hlið og talar út í tómið. textinn fjallar um fólk, atburði og samskipti en einnig um stærð hluta og umhverfis, skynjun manna á stærð í umhverfi sínu og þau viðmið sem beitt er hverju sinni. af og til fer allt á flug; myndin hristist og jarðskjálfti skekur manninn og rýmið. the video is shot using \"green screen\" technology where the artist is seen sitting on a chair that appears small in relation to the person. the proportions are off; the artist sits at an angle and speaks into the void. the text discusses people, events, and interactions, but also the size of objects and surroundings, people's perception of size in their environment, and the standards applied in each case. occasionally everything takes off; the image shakes and an earthquake jolts the person and the space. artwork 1999 something-from-nothing-the-visual-realm-of-magnús-2019",
+      "searchText": "kúplingsdiskur clutch disc 1999 myndbandið er tekið með „green screen“ tækni þar sem listamaðurinn sést sitjandi á stól er virðist smár miðað við manninn. hlutföllin eru á skjön, listamaðurinn situr á hlið og talar út í tómið. textinn fjallar um fólk, atburði og samskipti en einnig um stærð hluta og umhverfis, skynjun manna á stærð í umhverfi sínu og þau viðmið sem beitt er hverju sinni. af og til fer allt á flug; myndin hristist og jarðskjálfti skekur manninn og rýmið. the video is shot using \"green screen\" technology where the artist is seen sitting on a chair that appears small in relation to the person. the proportions are off; the artist sits at an angle and speaks into the void. the text discusses people, events, and interactions, but also the size of objects and surroundings, people's perception of size in their environment, and the standards applied in each case. occasionally everything takes off; the image shakes and an earthquake jolts the person and the space. artwork 1999 myndband hljóð video sound something-from-nothing-the-visual-realm-of-magnús-2019",
       "ownership": {
         "owner": "Listasafn Reykjavíkur (Reykjavík Art Museum)",
         "url": "https://listasafnreykjavikur.is/safneign/listamadur/id/11525A97-BA7F-4B3C-B035-603961A0E971",
@@ -4138,8 +4387,14 @@
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
-        "en": ["wood", "paint"],
-        "is": ["tré", "málning"]
+        "en": [
+          "wood",
+          "paint"
+        ],
+        "is": [
+          "tré",
+          "málning"
+        ]
       },
       "searchText": "minning bakkabræðra ljóshirsla light-compartment bakki brothers 1977 magnús pálsson readymade kommóða chest drawers",
       "contentStatus": "ready for review",
@@ -4371,7 +4626,7 @@
         "is": "Bestu stykkin"
       },
       "year": 1965,
-      "dimensions": null,
+      "dimensions": "Unit 1: 111 × 80 × 55 cm; Unit 2: 145 × 66 × 33 cm; Unit 3: 103 × 54 × 30 cm",
       "description": {
         "en": "Three surviving sculptures from a larger anti-art series of cloth figures called Frúöld, created in 1965 and exhibited at Magnús Pálsson's debut solo exhibition at Ásmundarsalur in 1967. Made by stuffing old cloths with paper, stiffening with glue and paint until hard, then removing the paper so the cloth figures could stand like empty skins. Created in the artist's Hvarf garage studio during 1965-1967, a converted rural space that was documented in October 1967 before being destroyed by fire. The ironic titles (allegedly suggested by Dieter Roth) were inversely related to their visual appeal - the most miserable-looking was called 'The best piece,' with titles descending in flattery as the works became more visually interesting. The Frúöld were not well received; the public called them ugly and idiotic, questioning Pálsson's sanity. In response, he gathered the remaining pieces, piled them under the stairway to SÚM exhibition space on Vatnsstígur, poured concrete over them, and let them decompose. Only three survive in the Living Art Museum collection. The work exemplifies Pálsson's anti-art philosophy - childishly simple in concept, executed without traditional artistry, and deliberately unaesthetic, challenging Icelandic art's boundaries alongside contemporaneous provocations like the rye bread pile on Skólavörðuholt and SÚM's infamous hay bale. (Source: Kjarvalstaðir catalogue, 1994)",
         "is": "Three surviving sculptures from a larger anti-art series of cloth figures called Frúöld, created in 1965 and exhibited at Magnús Pálsson's debut solo exhibition at Ásmundarsalur in 1967. Made by stuffing old cloths with paper, stiffening with glue and paint until hard, then removing the paper so the cloth figures could stand like empty skins. Created in the artist's Hvarf garage studio during 1965-1967, a converted rural space that was documented in október 1967 before being destroyed by fire. The ironic titles (allegedly suggested by Dieter Roth) were inversely related to their visual appeal - the most miserable-looking was called 'The best piece,' with titles descending in flattery as the works became more visually interesting. The Frúöld were not well received; the public called them ugly and idiotic, questioning Pálsson's sanity. In response, he gathered the remaining pieces, piled them under the stairway to SÚM exhibition space on Vatnsstígur, poured concrete over them, and let them decompose. Only three survive in the Living Art Museum collection. The work exemplifies Pálsson's anti-art philosophy - childishly simple in concept, executed without traditional artistry, and deliberately unaesthetic, challenging Icelandic art's boundaries alongside contemporaneous provocations like the rye bread pile on Skólavörðuholt and SÚM's infamous hay bale. (Source: Kjarvalstaðir catalogue, 1994)"
@@ -4437,22 +4692,22 @@
       ],
       "materials": {
         "en": [
-          "cloth",
+          "wire framework",
+          "plaster",
           "paper",
-          "glue",
-          "paint"
+          "clothing"
         ],
         "is": [
-          "cloth",
+          "vírgrind",
+          "gifs",
           "pappír",
-          "glue",
-          "paint"
+          "fatnaður"
         ]
       },
       "searchText": "bestu stykkin best pieces cloth figures frúöld anti-art ásmundarsalur 1967 debut exhibition dieter roth controversial ugly idiotic magnús pálsson hvarf garage studio",
       "ownership": {
         "owner": "The Living Art Museum (Nýlistasafnið)",
-        "url": "https://sarpur.is/Adfang.aspx?AdfangID=1396243",
+        "url": "https://sarpur.is/is/collection/item/1396243/",
         "catalogNumber": "N-277"
       },
       "contentStatus": "draft",
@@ -5251,7 +5506,8 @@
       },
       "searchText": "anti society league concert norkjöping sweden performance casting 1982 magnús pálsson placeholder needs review",
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "series": "anti-society-league"
     },
     {
       "id": "asmundarsalur_exhibition_1968",
@@ -6111,8 +6367,12 @@
       ],
       "exhibitions": [],
       "materials": {
-        "en": ["sculpture"],
-        "is": ["skúlptúr"]
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
       },
       "searchText": "kjóll dress sculpture clothing 1968 2023 magnús pálsson listasafn íslands",
       "ownership": {
@@ -7348,7 +7608,7 @@
     },
     {
       "id": "erdanubodd_1962",
-      "contentStatus": "needs review",
+      "contentStatus": "ready for review",
       "title": {
         "en": "What a table",
         "is": "Erðanú borð"
@@ -7432,7 +7692,6 @@
         ]
       },
       "searchText": "erðanú borð what a table early work 1962 magnús pálsson fluxus conceptual art sculpture mixed media humor ephemerality ásmundarsalur",
-      "contentStatus": "ready for review",
       "mediaStatus": "images draft"
     },
     {
@@ -8308,8 +8567,9 @@
       "year": 1971,
       "dimensions": "11 stykki, mismunandi stærðir (t.d. 54.5 × 43 × 31 cm til 23 × 32 × 96 cm)",
       "ownership": {
-        "institution": "Listasafn Íslands",
-        "acquisitionNumber": "LÍ-7278"
+        "owner": "Listasafn Íslands (National Gallery of Iceland)",
+        "catalogNumber": "LI-7278-278",
+        "url": "https://www.listasafn.is/list/safneign/li-7278-278/"
       },
       "description": {
         "en": "Life-size plaster sculptures of children, related to the 'Plaster children' series from the catalog (1970). The works were made by pouring plaster into children's clothing, using the clothes as moulds which were destroyed in the process, leaving only the stiffened forms. Pálsson emphasized their unesthetic, awkward presence — weight, smell, and the memory of use were part of the work. Some figures were given names such as 'Intelligent child' and 'Deceitful child'. The work has been exhibited internationally, including at Gallery Fodor in Amsterdam, and represents a significant exploration of childhood, materiality, and the transformation of everyday objects into sculptural form.",
@@ -8408,11 +8668,6 @@
           "casting",
           "höggmynd"
         ]
-      },
-      "ownership": {
-        "owner": "Listasafn Íslands (National Gallery of Iceland)",
-        "catalogNumber": "LI-7278-278",
-        "url": "https://www.listasafn.is/list/safneign/li-7278-278/"
       },
       "searchText": "gifsbörn plaster children sculpture life-size clothing moulds materiality childhood casting gallery fodor amsterdam lund international 1970 1971 magnús pálsson listasafn íslands national gallery iceland",
       "contentStatus": "ready for review",
@@ -9031,8 +9286,14 @@
       ],
       "exhibitions": [],
       "materials": {
-        "en": ["plaster", "plastic"],
-        "is": ["gifs", "plast"]
+        "en": [
+          "plaster",
+          "plastic"
+        ],
+        "is": [
+          "gifs",
+          "plast"
+        ]
       },
       "searchText": "hundur dog sculpture plaster plastic gifs plast 1971 magnús pálsson safnasafnið",
       "ownership": {
@@ -10423,7 +10684,9 @@
         "artwork",
         "1991"
       ],
-      "exhibitions": ["the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"],
+      "exhibitions": [
+        "the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"
+      ],
       "materials": {
         "en": [],
         "is": []
@@ -10834,10 +11097,26 @@
         "artwork",
         "2002"
       ],
-      "exhibitions": ["strunz-2002"],
+      "exhibitions": [
+        "strunz-2002"
+      ],
       "materials": {
-        "en": ["installation", "video", "bicycles", "metal sculpture", "shipping container", "audio"],
-        "is": ["innsetning", "myndband", "reiðhjól", "málmskúlptúr", "gámur", "hljóð"]
+        "en": [
+          "installation",
+          "video",
+          "bicycles",
+          "metal sculpture",
+          "shipping container",
+          "audio"
+        ],
+        "is": [
+          "innsetning",
+          "myndband",
+          "reiðhjól",
+          "málmskúlptúr",
+          "gámur",
+          "hljóð"
+        ]
       },
       "searchText": "struns 2002 gerðarsafn ásta guðrún eyvindardóttir minningarsýning reiðhjól bicycles video thumbs þumalskúlptúr gámur container magnús pálsson",
       "contentStatus": "needs review",
@@ -11314,7 +11593,9 @@
         "artwork",
         "2013"
       ],
-      "exhibitions": ["the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"],
+      "exhibitions": [
+        "the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"
+      ],
       "materials": {
         "en": [
           "video"
