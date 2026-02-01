@@ -128,12 +128,13 @@ def create_work_search_entry(work, exhibitions_data):
     elif not snippet and work.get('tags'):
         snippet = ', '.join(work.get('tags', [])[:5])
 
-    # Use English title, fallback to Icelandic
-    title = title_en if title_en else title_is if title_is else 'Untitled'
-
+    # Store both titles for bilingual display
     return {
         "type": "work",
-        "title": title,
+        "title": {
+            "en": title_en if title_en else title_is if title_is else 'Untitled',
+            "is": title_is if title_is else title_en if title_en else 'Untitled'
+        },
         "snippet": snippet,
         "content": content,
         "url": f"works.html?work={work.get('id', '')}",

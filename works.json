@@ -707,36 +707,41 @@
       "year": 1984,
       "dimensions": null,
       "description": {
-        "en": "Performance or documentation work from 1984.",
-        "is": ""
+        "en": "Contribution to the collaborative artist book 'Treffen im Gebirge – Isländische Besucher in Basel I und II' (Meeting in the Mountains – Icelandic Visitors in Basel I and II), published by Seedorn Verlag, Zürich, 1984, in a limited edition of 300 copies. The book was published on the occasion of the exhibition 'Isländische Besucher in Basel' at Galerie Filiale, Basel. Ten artists contributed, using various printing techniques and papers: Ingólfur Arnarsson, S.E. Kristmundsson, D. Guðbjörnsson, Silvia Bächli, Dieter Schwarz, Tumi Magnússon, Árni Ingólfsson, Magnús Pálsson, Eggert Pétursson, and Helgi Þorgils Friðjónsson.",
+        "is": "Framlag í samstarfslistabók 'Treffen im Gebirge – Isländische Besucher in Basel I und II' (Fundur í fjöllunum – Íslenskir gestir í Basel I og II), gefin út af Seedorn Verlag, Zürich, 1984, í 300 eintökum. Bókin var gefin út í tilefni sýningarinnar 'Isländische Besucher in Basel' í Galerie Filiale, Basel. Tíu listamenn lögðu sitt af mörkum með ýmsum prenttækni og pappírsgerðum: Ingólfur Arnarsson, S.E. Kristmundsson, D. Guðbjörnsson, Silvia Bächli, Dieter Schwarz, Tumi Magnússon, Árni Ingólfsson, Magnús Pálsson, Eggert Pétursson og Helgi Þorgils Friðjónsson."
       },
       "images": [
         {
           "url": "images/wendy-walking-1984/medium/wendy-walking-1984-01-medium.jpg",
           "caption": {
-            "en": "Wendy Walking",
-            "is": ""
+            "en": "Book listing for 'Treffen im Gebirge – Isländische Besucher in Basel I und II'",
+            "is": "Bókaskráning fyrir 'Treffen im Gebirge – Isländische Besucher in Basel I und II'"
           },
           "thumbnail": "images/wendy-walking-1984/thumbs/wendy-walking-1984-01-thumb.jpg"
         }
       ],
       "tags": [
-        "performance",
+        "book work",
+        "artist book",
+        "collaboration",
         "1984"
       ],
       "exhibitions": [
+        "islandische-besucher-in-basel-1984",
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
-          "mixed media"
+          "print on paper",
+          "various printing techniques"
         ],
         "is": [
-          "blandað efni"
+          "prent á pappír",
+          "ýmsar prenttæknir"
         ]
       },
-      "searchText": "wendy walking 1984 performance magnús pálsson",
-      "contentStatus": "draft",
+      "searchText": "wendy walking treffen im gebirge isländische besucher basel artist book listabók seedorn verlag 1984 galerie filiale magnús pálsson",
+      "contentStatus": "ready for review",
       "mediaStatus": "images draft"
     },
     {
@@ -1385,6 +1390,47 @@
         "name": "Listasafn Reykjavíkur",
         "url": "https://listasafnreykjavikur.is/safneign/verk/85EDE27E-4780-4440-BB52-6135F0F6DF7C"
       }
+    },
+    {
+      "id": "ferd-frumgerd-1966",
+      "title": {
+        "en": "Ferð – Preliminary Drawings (Journey – Wallpaper, Original Drawing)",
+        "is": "Ferð – veggfóður, frumteikning"
+      },
+      "year": 1966,
+      "dimensions": "ca. 6.5–68 × 6.5–62 cm",
+      "description": {
+        "en": "The original preliminary drawings for the wallpaper work 'Ferð' (Journey). The composition contains diverse imagery — human figures, objects, and abstract forms in both realistic and fantastical styles. The same motifs are frequently repeated in various sizes. Drawn with marker pen on thin rigid plastic, with a matte finish on one side and a smooth glossy surface on the other.",
+        "is": "Frumteikningar fyrir veggfóðursverkið 'Ferð'. Samsetningin inniheldur fjölbreytt myndefni — mannsmyndir, hluti og abstrakt form í bæði raunsæjum og fantasískum stíl. Sömu myndefnin gjarnan endurtekin í mörgum stærðum. Teiknað með tusspenna á þunnt stíft plast, annar flöturinn er grófur en hinn sléttur og gljáandi."
+      },
+      "images": [
+        {
+          "url": "images/ferd-frumgerd-1966/medium/ferd-frumgerd-01-medium.jpg",
+          "caption": {
+            "en": "Marker pen drawing on thin rigid plastic",
+            "is": "Tussteikning á þunnt stíft plast"
+          },
+          "thumbnail": "images/ferd-frumgerd-1966/thumbs/ferd-frumgerd-01-thumb.jpg"
+        }
+      ],
+      "tags": [
+        "drawing",
+        "1966"
+      ],
+      "exhibitions": [],
+      "materials": {
+        "en": ["marker pen on thin rigid plastic"],
+        "is": ["tusspenna á þunnt stíft plast"]
+      },
+      "ownership": {
+        "owner": "Nýlistasafnið (The Living Art Museum)",
+        "url": "https://sarpur.is/is/collection/item/599420/",
+        "catalogNumber": "N-1317"
+      },
+      "relatedWorks": ["veggfodur-ferd-reise-1965"],
+      "searchText": "ferð frumgerð frumteikning veggfóður journey wallpaper preliminary drawing original 1966 magnús pálsson marker tusspenna plast",
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
     },
     {
       "id": "volundarhus-labyrinth-1980",
@@ -3579,14 +3625,14 @@
     {
       "id": "sonninn-i-joskunni-1975",
       "title": {
-        "en": "Sónninn í Jóskunni",
+        "en": "Sónninn í Jóskunni (The Sound of Jutlandish)",
         "is": "Sónninn í Jóskunni"
       },
       "year": 1975,
       "dimensions": null,
       "description": {
-        "en": "Part of the Landafræði (Geography) series. Plaster placed over Denmark on a map.",
-        "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Danmörku á korti."
+        "en": "Part of the Landafræði (Geography) series. Plaster cast placed over the Jutland peninsula on an atlas page of Denmark and the Faroe Islands. Signed Magnús Pálsson 74.",
+        "is": "Hluti af Landafræði verkaflokknum. Gifsafsteypa sett yfir Jótlandsskaga á atlassíðu af Danmörku og Færeyjum. Signað Magnús Pálsson 74."
       },
       "images": [
         {
@@ -3595,26 +3641,31 @@
             "en": "Sónninn í Jóskunni - plaster over Denmark",
             "is": "Sónninn í Jóskunni - gifs yfir Danmörku"
           }
+        },
+        {
+          "url": "images/sonninn-i-joskunni-1975/medium/sonninn-i-joskunni-02-medium.jpg",
+          "caption": {
+            "en": "Plaster cast over the Jutland peninsula on atlas page of Denmark",
+            "is": "Gifsafsteypa yfir Jótlandsskaga á atlassíðu af Danmörku"
+          },
+          "thumbnail": "images/sonninn-i-joskunni-1975/thumbs/sonninn-i-joskunni-02-thumb.jpg"
         }
       ],
       "tags": [
         "sculpture",
         "plaster",
         "landafræði",
+        "positive/negative",
         "1975"
       ],
       "exhibitions": [],
       "materials": {
-        "en": [
-          "plaster"
-        ],
-        "is": [
-          "gifs"
-        ]
+        "en": ["plaster on atlas page"],
+        "is": ["gifs á atlassíðu"]
       },
-      "searchText": "sónninn jóskunni landafræði geography 1975 magnús pálsson",
-      "contentStatus": "draft",
-      "mediaStatus": "images ok",
+      "searchText": "sónninn jóskunni sound jutlandish landafræði geography denmark danmörk 1975 magnús pálsson",
+      "contentStatus": "ready for review",
+      "mediaStatus": "images review",
       "series": "landafræði"
     },
     {
@@ -3694,67 +3745,79 @@
     {
       "id": "kaffiilmurinn-i-braseliu-1975",
       "title": {
-        "en": "Kaffiilmurinn í Braselíu (The Scent of Coffee in Brazil)",
+        "en": "Kaffiilmurinn í Braselíu (The Aroma of Coffee in Brazil)",
         "is": "Kaffiilmurinn í Braselíu"
       },
       "year": 1975,
       "dimensions": null,
       "description": {
-        "en": "Part of the Landafræði (Geography) series. Plaster placed over Brazil on a map, evoking its coffee culture.",
-        "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Brasilíu á korti, sem vísar til kaffimenningu landsins."
+        "en": "Part of the Landafræði (Geography) series. Plaster cast placed over Brazil on an atlas page of South America. Signed Magnús Pálsson 74.",
+        "is": "Hluti af Landafræði verkaflokknum. Gifsafsteypa sett yfir Brasilíu á atlassíðu af Suður-Ameríku. Signað Magnús Pálsson 74."
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/kaffiilmurinn-i-braseliu-1975/medium/kaffiilmurinn-01-medium.jpg",
+          "caption": {
+            "en": "Plaster cast over Brazil on atlas page of South America",
+            "is": "Gifsafsteypa yfir Brasilíu á atlassíðu af Suður-Ameríku"
+          },
+          "thumbnail": "images/kaffiilmurinn-i-braseliu-1975/thumbs/kaffiilmurinn-01-thumb.jpg"
+        }
+      ],
       "tags": [
         "sculpture",
         "plaster",
         "landafræði",
+        "positive/negative",
         "1975"
       ],
       "exhibitions": [],
       "materials": {
-        "en": [
-          "plaster"
-        ],
-        "is": [
-          "gifs"
-        ]
+        "en": ["plaster on atlas page"],
+        "is": ["gifs á atlassíðu"]
       },
-      "searchText": "kaffiilmurinn braselíu coffee brazil landafræði geography 1975 magnús pálsson",
-      "contentStatus": "draft",
-      "mediaStatus": "needs identification",
+      "searchText": "kaffiilmurinn braselíu aroma coffee brazil landafræði geography 1975 magnús pálsson",
+      "contentStatus": "ready for review",
+      "mediaStatus": "images review",
       "series": "landafræði"
     },
     {
       "id": "truin-i-afganistan-1975",
       "title": {
-        "en": "Trúin í Afganistan (Faith in Afghanistan)",
+        "en": "Trúin í Afganistan (Religion in Afghanistan)",
         "is": "Trúin í Afganistan"
       },
       "year": 1975,
       "dimensions": null,
       "description": {
-        "en": "Part of the Landafræði (Geography) series. Plaster placed over Afghanistan on a map.",
-        "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Afganistan á korti."
+        "en": "Part of the Landafræði (Geography) series. Plaster cast placed over Afghanistan on an atlas page of South Asia. Signed Magnús Pálsson 74.",
+        "is": "Hluti af Landafræði verkaflokknum. Gifsafsteypa sett yfir Afganistan á atlassíðu af Suður-Asíu. Signað Magnús Pálsson 74."
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/truin-i-afganistan-1975/medium/truin-i-afganistan-01-medium.jpg",
+          "caption": {
+            "en": "Plaster cast over Afghanistan on atlas page of South Asia",
+            "is": "Gifsafsteypa yfir Afganistan á atlassíðu af Suður-Asíu"
+          },
+          "thumbnail": "images/truin-i-afganistan-1975/thumbs/truin-i-afganistan-01-thumb.jpg"
+        }
+      ],
       "tags": [
         "sculpture",
         "plaster",
         "landafræði",
+        "positive/negative",
         "1975"
       ],
       "exhibitions": [],
       "materials": {
-        "en": [
-          "plaster"
-        ],
-        "is": [
-          "gifs"
-        ]
+        "en": ["plaster on atlas page"],
+        "is": ["gifs á atlassíðu"]
       },
-      "searchText": "trúin afganistan faith afghanistan landafræði geography 1975 magnús pálsson",
-      "contentStatus": "draft",
-      "mediaStatus": "needs identification",
+      "searchText": "trúin afganistan religion faith afghanistan landafræði geography 1975 magnús pálsson",
+      "contentStatus": "ready for review",
+      "mediaStatus": "images review",
       "series": "landafræði"
     },
     {
@@ -4153,6 +4216,47 @@
       }
     },
     {
+      "id": "nott-i-london-2000",
+      "title": {
+        "en": "Night in London – As If a Continuation of Clutch Disc",
+        "is": "Nótt í London – svo sem eins og í framhaldi af Kúplingsdiski"
+      },
+      "year": 2000,
+      "dimensions": "7 × 11 cm (cassette)",
+      "description": {
+        "en": "Sound work on digital audio tape (DAT), conceived as a continuation of the video work 'Kúplingsdiskur' (Clutch Disc, 1999). The work consists of 1 original DAT cassette and 2 cassette copies, with the same recording on both sides.",
+        "is": "Hljóðverk á stafrænu hljóðbandi (DAT), hugsað sem framhald af myndbandverkinu 'Kúplingsdiskur' (1999). Verkið samanstendur af 1 frumgerð á DAT-kassettu og 2 afritum á kasettum, sama á báðum hliðum."
+      },
+      "images": [
+        {
+          "url": "images/nott-i-london-2000/medium/nott-i-london-01-medium.jpg",
+          "caption": {
+            "en": "Two cassette copies and original DAT master tape",
+            "is": "Tvö kassettuafrit og DAT-frumband"
+          },
+          "thumbnail": "images/nott-i-london-2000/thumbs/nott-i-london-01-thumb.jpg"
+        }
+      ],
+      "tags": [
+        "sound",
+        "2000"
+      ],
+      "exhibitions": [],
+      "materials": {
+        "en": ["digital audio tape (DAT)", "cassette tapes"],
+        "is": ["stafrænt hljóðband (DAT)", "kassettur"]
+      },
+      "ownership": {
+        "owner": "Nýlistasafnið (The Living Art Museum)",
+        "url": "https://sarpur.is/is/collection/item/599418/",
+        "catalogNumber": "N-1812"
+      },
+      "relatedWorks": ["kuplingsdiskur-clutch-disc-1999-1999"],
+      "searchText": "nótt í london night in london kúplingsdiskur clutch disc framhald continuation 2000 magnús pálsson hljóðverk sound dat kassetta cassette",
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
+    },
+    {
       "id": "legitimate-concrete-fart-viggo-a-1990-1990",
       "title": {
         "en": "Legitimate concrete Fart Viggo A 1990",
@@ -4314,40 +4418,6 @@
       "mediaStatus": "images draft"
     },
     {
-      "id": "masterplastercaster2013-2013",
-      "title": {
-        "en": "master-plaster-caster-2013",
-        "is": "master-plaster-caster-2013"
-      },
-      "year": 2013,
-      "dimensions": null,
-      "description": {
-        "en": "A work by Magnús Pálsson from 2013. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career.",
-        "is": ""
-      },
-      "images": [
-        {
-          "url": "images/masterplastercaster2013-2013/medium/masterplastercaster2013-01-medium.jpg",
-          "caption": {
-            "en": "master-plaster-caster-2013 - view 1",
-            "is": ""
-          }
-        }
-      ],
-      "tags": [
-        "artwork",
-        "2013"
-      ],
-      "exhibitions": [],
-      "materials": {
-        "en": [],
-        "is": []
-      },
-      "searchText": "master-plaster-caster-2013 2013 magnús pálsson",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft"
-    },
-    {
       "id": "minning-bakkabraedra-ljoshirsla-og-1977-1977",
       "title": {
         "en": "In Memory of the Bakki Brothers (Light-Compartment)",
@@ -4465,44 +4535,50 @@
     {
       "id": "minning-magnusar-jonssonar-1982-1982",
       "title": {
-        "en": "Minning Magnúsar Jónssonar 1982",
-        "is": "Minning Magnúsar Jónssonar 1982"
+        "en": "In Memory of My Friend Who Ate a House in Akureyri and Played Blues on His Washboard",
+        "is": "Í minningu vinar míns sem át hús á Akureyri og spilaði blús á sköflung sinn"
       },
       "year": 1982,
-      "dimensions": null,
+      "dimensions": "Dimensions depend on installation",
       "description": {
-        "en": "A work by Magnús Pálsson from 1982. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career.",
-        "is": ""
+        "en": "Installation memorializing filmmaker Magnús Jónsson, who studied in Moscow, lived in Chicago, and died young. The title references Jónsson's metaphorical expression about 'eating' a house he co-purchased in Akureyri. Jónsson also played blues on a washboard using his hands. The installation combines household appliances and glassware — including a toaster, vacuum cleaner, hair dryer, drill, glasses, flower vases, and a carafe — configured to produce sound and noise through electronic connections.",
+        "is": "Innsetning til minningar um kvikmyndagerðarmanninn Magnús Jónsson, sem lærði í Moskvu, bjó í Chicago og lést ungur. Titillinn vísar til orðatiltækis Magnúsar um að hann hafi 'étið' hús sem hann keypti í Akureyri. Magnús spilaði einnig blús á sköflung sinn. Innsetningin sameinar heimilistæki og glerhluti — þar á meðal brauðrist, ryksugu, hárþurrku, bor, gleraugu, blómavasa og kröfu — sem tengd eru rafrænt til að mynda hljóð og hávaða."
       },
       "images": [
         {
           "url": "images/minning-magnusar-jonssonar-1982-1982/medium/minning-01-medium.jpg",
           "caption": {
-            "en": "Minning - view 1",
-            "is": ""
+            "en": "Installation view",
+            "is": "Uppsetning"
           }
         },
         {
           "url": "images/minning-magnusar-jonssonar-1982-1982/medium/minning-02-medium.jpg",
           "caption": {
-            "en": "Minning - view 2",
-            "is": ""
+            "en": "Installation view",
+            "is": "Uppsetning"
           }
         }
       ],
       "tags": [
-        "artwork",
+        "installation",
+        "sound",
         "1982"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
-        "en": [],
-        "is": []
+        "en": ["inorganic materials", "glass", "household appliances", "electronic devices"],
+        "is": ["ólífræn efni", "gler", "heimilistæki", "rafeindatæki"]
       },
-      "searchText": "minning magnúsar jónssonar 1982 1982 magnús pálsson",
-      "contentStatus": "draft",
+      "ownership": {
+        "owner": "Nýlistasafnið (The Living Art Museum)",
+        "url": "https://sarpur.is/is/collection/item/1396412/",
+        "catalogNumber": "N-549"
+      },
+      "searchText": "minning magnúsar jónssonar í minningu vinar míns sem át hús á akureyri og spilaði blús á sköflung sinn in memory friend ate house akureyri played blues washboard 1982 magnús pálsson installation innsetning",
+      "contentStatus": "needs review",
       "mediaStatus": "images draft"
     },
     {
@@ -5033,44 +5109,6 @@
       "mediaStatus": "images draft"
     },
     {
-      "id": "master_plaster_caster_2013",
-      "title": {
-        "en": "Master Plaster Caster",
-        "is": "Master Plaster Caster"
-      },
-      "year": 2013,
-      "dimensions": null,
-      "description": {
-        "en": "An installation work exploring themes of casting, reproduction, and material transformation. Created as part of Pálsson's ongoing investigation into the relationship between original and copy, presence and absence.",
-        "is": ""
-      },
-      "images": [
-        {
-          "url": "images/master-plaster-caster-2013/medium/master-plaster-caster-installation-medium.jpg",
-          "caption": {
-            "en": "Master Plaster Caster Installation",
-            "is": ""
-          }
-        }
-      ],
-      "tags": [
-        "installation",
-        "sculpture",
-        "plaster",
-        "casting",
-        "reproduction",
-        "2010s"
-      ],
-      "searchText": "master plaster caster installation sculpture casting reproduction material transformation 2013",
-      "exhibitions": [],
-      "materials": {
-        "en": [],
-        "is": []
-      },
-      "contentStatus": "draft",
-      "mediaStatus": "images draft"
-    },
-    {
       "id": "yxn_2002",
       "title": {
         "en": "YXN",
@@ -5351,69 +5389,76 @@
     {
       "id": "angist_fateka_reykingsmannsins_1975",
       "title": {
-        "en": "Angist fátæka reykingsmannsins (Smokers Nightmare)",
-        "is": "Angist fátæka reykingsmannsins (Smokers Nightmare)"
+        "en": "The Poor Smoker's Anguish",
+        "is": "Angist fátæka reykingsmannsins"
       },
       "year": 1975,
       "dimensions": null,
       "description": {
-        "en": "PLACEHOLDER: Work exploring themes related to smoking and anguish from 1975. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials.",
-        "is": ""
+        "en": "The work consists of 20 casts of the void that forms inside a cigarette pack each time a cigarette is smoked from the pack. The anguish that grips the smoker is objectified and grows as the pack empties.",
+        "is": "Verkið samanstendur af 20 afsteypum af tómarúminu sem verður til í sígarettupakka í hvert skipti sem reykt er sígaretta úr pakkanum. Angistin sem grípur reykingamanninn er hlutgerð og vex eftir því sem pakkinn tæmist."
       },
       "images": [
         {
+          "url": "images/angist-fateka-reykingsmannsins-1975/medium/angist-fateka-reykingsmannsins-1975-04-medium.jpg",
+          "caption": {
+            "en": "All 20 casts displayed on a shelf — the void grows as the pack empties",
+            "is": "Allar 20 afsteypurnar á hillu — tómarúmið stækkar eftir því sem pakkinn tæmist"
+          },
+          "thumbnail": "images/angist-fateka-reykingsmannsins-1975/thumbs/angist-fateka-reykingsmannsins-1975-04-thumb.jpg"
+        },
+        {
+          "url": "images/angist-fateka-reykingsmannsins-1975/medium/angist-fateka-reykingsmannsins-1975-05-medium.jpg",
+          "caption": {
+            "en": "Side view showing the progression from flat to upright",
+            "is": "Hliðarsjón sem sýnir framvindu frá flötu til uppréttrar stöðu"
+          },
+          "thumbnail": "images/angist-fateka-reykingsmannsins-1975/thumbs/angist-fateka-reykingsmannsins-1975-05-thumb.jpg"
+        },
+        {
           "url": "images/angist-fateka-reykingsmannsins-1975/medium/angist-fateka-reykingsmannsins-1975-01-medium.jpg",
           "caption": {
-            "en": "Angist fátæka reykingsmannsins - Image 1 [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1975",
-          "copyright": "© Estate of Magnús Pálsson"
+            "en": "Detail — casts showing the negative space of cigarettes removed from pack",
+            "is": "Nánar — afsteypurnar sýna neikvæða rýmið þar sem sígaretturnar hafa verið teknar úr pakkanum"
+          }
         },
         {
           "url": "images/angist-fateka-reykingsmannsins-1975/medium/angist-fateka-reykingsmannsins-1975-02-medium.jpg",
           "caption": {
-            "en": "Angist fátæka reykingsmannsins - Image 2 [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1975",
-          "copyright": "© Estate of Magnús Pálsson"
+            "en": "Detail — the ridged surfaces from individual cigarette impressions",
+            "is": "Nánar — rifið yfirborð frá einstökum sígarettuförum"
+          }
         },
         {
           "url": "images/angist-fateka-reykingsmannsins-1975/medium/angist-fateka-reykingsmannsins-1975-03-medium.jpg",
           "caption": {
-            "en": "Angist fátæka reykingsmannsins - Image 3 [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1975",
-          "copyright": "© Estate of Magnús Pálsson"
+            "en": "Detail — transition from full casts (upright) to nearly empty (flat)",
+            "is": "Nánar — umbreytingin frá fullum afsteypum (uppréttum) til næstum tómum (flötum)"
+          }
         }
       ],
       "tags": [
-        "smoking",
-        "anguish",
-        "social commentary",
-        "1970s",
-        "PLACEHOLDER - needs review"
+        "sculpture",
+        "casting",
+        "negative space",
+        "positive/negative",
+        "1975"
       ],
       "exhibitions": [
-        "exhibition-1975",
+        "retrospective-exhibition-1994",
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
-        "en": [
-          "PLACEHOLDER - materials [NEEDS REVIEW]"
-        ],
-        "is": [
-          "PLACEHOLDER - materials [NEEDS REVIEW]"
-        ]
+        "en": ["plaster casts"],
+        "is": ["gifsafsteypur"]
       },
-      "searchText": "angist fátæka reykingsmannsins smokers nightmare smoking anguish social commentary 1975 magnús pálsson placeholder needs review",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "keywords": {
+        "en": ["positive space", "negative space", "casting", "void"],
+        "is": ["jákvætt rými", "neikvætt rými", "afsteypa", "tómarúm"]
+      },
+      "searchText": "angist fátæka reykingsmannsins poor smokers anguish sculpture casting negative space positive neikvætt rými jákvætt rými tómarúm void cigarette sígaretta 1975 magnús pálsson kjarvalsstaðir 1994",
+      "contentStatus": "ready for review",
+      "mediaStatus": "images review"
     },
     {
       "id": "anti_society_league_concert_1982",
@@ -9102,7 +9147,7 @@
       "year": 1971,
       "dimensions": "10-50 cm hver hundur",
       "description": {
-        "en": "A major sculptural series created in collaboration with Óli Gísla in 1970. This extensive work includes multiple dog sculptures with straw elements, documented through photographs and agreements. The series explores themes of companionship, domestication, and the relationship between humans and animals through sculptural forms.",
+        "en": "This extensive work includes multiple dog sculptures with straw elements, documented through photographs. In the artist's own words: 'There are 16 dogs, usually shown in one line on a long table. In the book both front and hind views are given of each dog. I consider this to be a kinetic poem where each part gets its full meaning only in relationship to the whole, and in fact the smallest and most miserable objects have no meaning whatsoever except in this context, which at the time presented me with a nice problem of something as opposed to nothing.'",
         "is": ""
       },
       "images": [
@@ -9301,6 +9346,56 @@
         "catalogNumber": "S-180",
         "url": "https://sarpur.is/is/collection/item/1815434/"
       },
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
+    },
+    {
+      "id": "hundaljod-1970",
+      "title": {
+        "en": "Hundaljóð (Dog Poem)",
+        "is": "Hundaljóð"
+      },
+      "year": 1970,
+      "dimensions": "Dog 1: 44 × 33 × 19 cm, Dog 2: 30 × 33 × 19 cm",
+      "description": {
+        "en": "Two plaster dog sculptures. The first is relatively intact except for its face, where old brown paper appears to be breaking through the surface. It is notably heavy and shows clear evidence of mould casting with visible contact marks. The second piece represents only the lower portion of a similar plaster dog, approximately 15 cm tall, with aged brown paper emerging from the plaster.",
+        "is": "Tvær gipshundaskúlptúrar. Sú fyrri er tiltölulega heil nema andlitið, þar sem gamall brúnn pappír virðist brjótast gegnum yfirborðið. Hún er þung og sýnir greinilega ummerki um mótssteypu. Seinni myndin sýnir aðeins neðri hluta svipaðs gipshunds, um 15 cm á hæð, með gömlum brúnum pappír sem kemur fram úr gifsinu."
+      },
+      "images": [
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-01-medium.jpg",
+          "caption": {
+            "en": "Both dog sculptures — Dog 1 (left) relatively intact, Dog 2 (right) lower portion with paper",
+            "is": "Báðir hundarnir — Hundur 1 (vinstri) tiltölulega heill, Hundur 2 (hægri) neðri hluti með pappír"
+          },
+          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-01-thumb.jpg"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-02-medium.jpg",
+          "caption": {
+            "en": "Dog 2 — lower portion with aged brown paper emerging from plaster",
+            "is": "Hundur 2 — neðri hluti með gömlum brúnum pappír úr gifsi"
+          },
+          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-02-thumb.jpg"
+        }
+      ],
+      "tags": [
+        "sculpture",
+        "dogs",
+        "1970"
+      ],
+      "exhibitions": [],
+      "materials": {
+        "en": ["plaster", "brown paper", "stone-type inorganic material"],
+        "is": ["gifs", "brúnn pappír", "ólífrænt steinefni"]
+      },
+      "ownership": {
+        "owner": "Nýlistasafnið (The Living Art Museum)",
+        "url": "https://sarpur.is/is/collection/item/588380/",
+        "catalogNumber": "N-597"
+      },
+      "relatedWorks": ["hundar_dogs_1970", "hundur_dog_1971"],
+      "searchText": "hundaljóð dog poem hundar hundur sculpture plaster gifs pappír paper 1970 magnús pálsson nýlistasafnið",
       "contentStatus": "draft",
       "mediaStatus": "images draft"
     },
