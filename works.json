@@ -474,6 +474,46 @@
           "photographer": "Spessi",
           "year": "2020",
           "copyright": "© Spessi"
+        },
+        {
+          "url": "images/einsemd-2013/medium/einsemd-lr-10-medium.jpg",
+          "caption": {
+            "en": "Einsemd at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Einsemd á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/einsemd-2013/thumbs/einsemd-lr-10-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
+        },
+        {
+          "url": "images/einsemd-2013/medium/einsemd-lr-11-medium.jpg",
+          "caption": {
+            "en": "Einsemd at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Einsemd á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/einsemd-2013/thumbs/einsemd-lr-11-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
+        },
+        {
+          "url": "images/einsemd-2013/medium/einsemd-lr-12-medium.jpg",
+          "caption": {
+            "en": "Einsemd at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Einsemd á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/einsemd-2013/thumbs/einsemd-lr-12-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
+        },
+        {
+          "url": "images/einsemd-2013/medium/einsemd-lr-13-medium.jpg",
+          "caption": {
+            "en": "Einsemd at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Einsemd á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/einsemd-2013/thumbs/einsemd-lr-13-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
         }
       ],
       "tags": [
@@ -1390,6 +1430,16 @@
           "photographer": "Spessi",
           "year": "2020",
           "copyright": "© Spessi"
+        },
+        {
+          "url": "images/varla-hardly-1994/medium/varla-lr-17-medium.jpg",
+          "caption": {
+            "en": "Soap poem tables — 'etám' and 'leangbnok' at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Sápuljóðaborð — 'etám' og 'leangbnok' á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/varla-hardly-1994/thumbs/varla-lr-17-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
         }
       ],
       "tags": [
@@ -1620,6 +1670,16 @@
           "photographer": "Spessi",
           "year": "2020",
           "copyright": "© Spessi"
+        },
+        {
+          "url": "images/varla-hardly-1994/medium/varla-lr-17-medium.jpg",
+          "caption": {
+            "en": "Soap poem tables — 'etám' and 'leangbnok' at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Sápuljóðaborð — 'etám' og 'leangbnok' á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/varla-hardly-1994/thumbs/varla-lr-17-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
         }
       ],
       "tags": [
@@ -1713,6 +1773,16 @@
           "photographer": "Spessi",
           "year": "2020",
           "copyright": "© Spessi"
+        },
+        {
+          "url": "images/veggfodur-ferd-reise-1965/medium/veggfodur-ferd-lr-05-medium.jpg",
+          "caption": {
+            "en": "Veggfóður Ferð at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Veggfóður Ferð á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/veggfodur-ferd-reise-1965/thumbs/veggfodur-ferd-lr-05-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
         }
       ],
       "tags": [
@@ -1855,6 +1925,17 @@
             "is": ""
           },
           "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-labyrinth-1980-06-thumb.jpg"
+        },
+        {
+          "url": "images/volundarhus-labyrinth-1980/medium/volundarhus-lhi-07-medium.jpg",
+          "caption": {
+            "en": "Völundarhús, Steinþór Birgisson 2017",
+            "is": "Völundarhús, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/volundarhus-labyrinth-1980/thumbs/volundarhus-lhi-07-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
         }
       ],
       "tags": [
@@ -3078,6 +3159,26 @@
           "photographer": "Spessi",
           "year": "2020",
           "copyright": "© Spessi"
+        },
+        {
+          "url": "images/segdu_ekki_nei_segdu_kannski/medium/segdu-lr-04-medium.jpg",
+          "caption": {
+            "en": "Segðu ekki nei, segðu kannski at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Segðu ekki nei, segðu kannski á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/segdu_ekki_nei_segdu_kannski/thumbs/segdu-lr-04-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
+        },
+        {
+          "url": "images/segdu_ekki_nei_segdu_kannski/medium/segdu-lr-05-medium.jpg",
+          "caption": {
+            "en": "Segðu ekki nei, segðu kannski at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Segðu ekki nei, segðu kannski á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/segdu_ekki_nei_segdu_kannski/thumbs/segdu-lr-05-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
         }
       ],
       "tags": [],
@@ -3887,6 +3988,16 @@
           "photographer": "Spessi",
           "year": "2020",
           "copyright": "© Spessi"
+        },
+        {
+          "url": "images/minning-njalsbrennu-1977-1977/medium/minning-lr-15-medium.jpg",
+          "caption": {
+            "en": "Minning Njálsbrennu installation at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Minning Njálsbrennu uppsetning á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/minning-njalsbrennu-1977-1977/thumbs/minning-lr-15-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
         }
       ],
       "tags": [
@@ -4113,6 +4224,26 @@
           "photographer": "Spessi",
           "year": "2020",
           "copyright": "© Spessi"
+        },
+        {
+          "url": "images/minning-thorarinn-nefjolfsson-i8-reyk-2007-2007/medium/minning-thorarinn-lr-20-medium.jpg",
+          "caption": {
+            "en": "Minning Þórarinns Nefjólfssonar at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Minning Þórarinns Nefjólfssonar á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/minning-thorarinn-nefjolfsson-i8-reyk-2007-2007/thumbs/minning-thorarinn-lr-20-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
+        },
+        {
+          "url": "images/minning-thorarinn-nefjolfsson-i8-reyk-2007-2007/medium/minning-thorarinn-lr-21-medium.jpg",
+          "caption": {
+            "en": "Minning Þórarinns Nefjólfssonar, detail, at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Minning Þórarinns Nefjólfssonar, nánar, á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/minning-thorarinn-nefjolfsson-i8-reyk-2007-2007/thumbs/minning-thorarinn-lr-21-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
         }
       ],
       "tags": [
@@ -5677,6 +5808,36 @@
             "en": "Kúplingsdiskur - view 1",
             "is": ""
           }
+        },
+        {
+          "url": "images/kuplingsdiskur-clutch-disc-1999-1999/medium/kuplingsdiskur-lr-02-medium.jpg",
+          "caption": {
+            "en": "Kúplingsdiskur at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Kúplingsdiskur á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/kuplingsdiskur-clutch-disc-1999-1999/thumbs/kuplingsdiskur-lr-02-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
+        },
+        {
+          "url": "images/kuplingsdiskur-clutch-disc-1999-1999/medium/kuplingsdiskur-lr-03-medium.jpg",
+          "caption": {
+            "en": "Kúplingsdiskur at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Kúplingsdiskur á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/kuplingsdiskur-clutch-disc-1999-1999/thumbs/kuplingsdiskur-lr-03-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
+        },
+        {
+          "url": "images/kuplingsdiskur-clutch-disc-1999-1999/medium/kuplingsdiskur-lr-04-medium.jpg",
+          "caption": {
+            "en": "Kúplingsdiskur, detail, at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Kúplingsdiskur, nánar, á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/kuplingsdiskur-clutch-disc-1999-1999/thumbs/kuplingsdiskur-lr-04-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
         }
       ],
       "tags": [
@@ -5865,6 +6026,17 @@
             "en": "Lúðurhljómur - view 5",
             "is": ""
           }
+        },
+        {
+          "url": "images/ludurhljomur-i-skokassa-1975-1975/medium/ludurhljomur-lhi-06-medium.jpg",
+          "caption": {
+            "en": "Lúðurhljómur í skókassa, Steinþór Birgisson 2017",
+            "is": "Lúðurhljómur í skókassa, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/ludurhljomur-i-skokassa-1975-1975/thumbs/ludurhljomur-lhi-06-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
         }
       ],
       "tags": [
@@ -6177,6 +6349,72 @@
             "en": "Installation view",
             "is": "Uppsetning"
           }
+        },
+        {
+          "url": "images/minning-magnusar-jonssonar-1982-1982/medium/minning-magnusar-lhi-03-medium.jpg",
+          "caption": {
+            "en": "Minning Magnúsar Jónssonar, Steinþór Birgisson 2017",
+            "is": "Minning Magnúsar Jónssonar, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/minning-magnusar-jonssonar-1982-1982/thumbs/minning-magnusar-lhi-03-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/minning-magnusar-jonssonar-1982-1982/medium/minning-magnusar-lhi-04-medium.jpg",
+          "caption": {
+            "en": "Minning Magnúsar Jónssonar, Steinþór Birgisson 2017",
+            "is": "Minning Magnúsar Jónssonar, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/minning-magnusar-jonssonar-1982-1982/thumbs/minning-magnusar-lhi-04-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/minning-magnusar-jonssonar-1982-1982/medium/minning-magnusar-lhi-05-medium.jpg",
+          "caption": {
+            "en": "Minning Magnúsar Jónssonar, Steinþór Birgisson 2017",
+            "is": "Minning Magnúsar Jónssonar, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/minning-magnusar-jonssonar-1982-1982/thumbs/minning-magnusar-lhi-05-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/minning-magnusar-jonssonar-1982-1982/medium/minning-magnusar-lhi-06-medium.jpg",
+          "caption": {
+            "en": "Minning Magnúsar Jónssonar, Steinþór Birgisson 2017",
+            "is": "Minning Magnúsar Jónssonar, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/minning-magnusar-jonssonar-1982-1982/thumbs/minning-magnusar-lhi-06-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/minning-magnusar-jonssonar-1982-1982/medium/minning-magnusar-lhi-07-medium.jpg",
+          "caption": {
+            "en": "Minning Magnúsar Jónssonar, Steinþór Birgisson 2017",
+            "is": "Minning Magnúsar Jónssonar, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/minning-magnusar-jonssonar-1982-1982/thumbs/minning-magnusar-lhi-07-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/minning-magnusar-jonssonar-1982-1982/medium/minning-magnusar-lhi-08-medium.jpg",
+          "caption": {
+            "en": "Minning Magnúsar Jónssonar, Steinþór Birgisson 2017",
+            "is": "Minning Magnúsar Jónssonar, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/minning-magnusar-jonssonar-1982-1982/thumbs/minning-magnusar-lhi-08-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
         }
       ],
       "tags": [
@@ -6655,6 +6893,26 @@
             "en": "Thyrlulending Mp02 Web",
             "is": ""
           }
+        },
+        {
+          "url": "images/thyrlulending/medium/thyrlulending-lr-09-medium.jpg",
+          "caption": {
+            "en": "Þyrlulending at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Þyrlulending á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/thyrlulending/thumbs/thyrlulending-lr-09-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
+        },
+        {
+          "url": "images/thyrlulending/medium/thyrlulending-lr-10-medium.jpg",
+          "caption": {
+            "en": "Þyrlulending at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Þyrlulending á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/thyrlulending/thumbs/thyrlulending-lr-10-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
         }
       ],
       "tags": [
@@ -6895,6 +7153,16 @@
           "photographer": "Steinþór Birgisson",
           "year": "2002",
           "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/yxn-2002/medium/yxn-lr-02-medium.jpg",
+          "caption": {
+            "en": "YXN at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "YXN á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/yxn-2002/thumbs/yxn-lr-02-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
         }
       ],
       "audio": [
@@ -7199,6 +7467,16 @@
             "en": "Detail — transition from full casts (upright) to nearly empty (flat)",
             "is": "Nánar — umbreytingin frá fullum afsteypum (uppréttum) til næstum tómum (flötum)"
           }
+        },
+        {
+          "url": "images/angist_fateka_reykingsmannsins_1975/medium/angist-lr-01-medium.jpg",
+          "caption": {
+            "en": "Angist fátæka reykingsmannsins at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Angist fátæka reykingsmannsins á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/angist_fateka_reykingsmannsins_1975/thumbs/angist-lr-01-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
         }
       ],
       "tags": [
@@ -7465,6 +7743,16 @@
           "photographer": "Spessi",
           "year": "2020",
           "copyright": "© Spessi"
+        },
+        {
+          "url": "images/ast-i-sundlaug-1975/medium/ast-sundlaug-lr-05-medium.jpg",
+          "caption": {
+            "en": "Ást í sundlaug at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Ást í sundlaug á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/ast-i-sundlaug-1975/thumbs/ast-sundlaug-lr-05-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
         }
       ],
       "model3d": {
@@ -9222,6 +9510,16 @@
           "photographer": "Unknown",
           "year": "2005",
           "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/dreams-skinned-rabbit-berlin-2005/medium/dreams-skinned-rabbit-lr-04-medium.jpg",
+          "caption": {
+            "en": "Fláða kanínan og aðrir draumar at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Fláða kanínan og aðrir draumar á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/dreams-skinned-rabbit-berlin-2005/thumbs/dreams-skinned-rabbit-lr-04-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
         }
       ],
       "tags": [
@@ -9591,6 +9889,17 @@
           "photographer": "Unknown",
           "year": "2017",
           "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/engin-glypir-solina-1983/medium/enginn-gleypir-lhi-04-medium.jpg",
+          "caption": {
+            "en": "Enginn gleypir sólina, Steinþór Birgisson 2017",
+            "is": "Enginn gleypir sólina, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/engin-glypir-solina-1983/thumbs/enginn-gleypir-lhi-04-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
         }
       ],
       "tags": [
@@ -9663,6 +9972,28 @@
           "photographer": "Spessi",
           "year": "2020",
           "copyright": "© Spessi"
+        },
+        {
+          "url": "images/fjall-ceramic-pieces-1969-71/medium/fjall-lhi-03-medium.jpg",
+          "caption": {
+            "en": "Fjall, Steinþór Birgisson 2017",
+            "is": "Fjall, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/fjall-ceramic-pieces-1969-71/thumbs/fjall-lhi-03-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/fjall-ceramic-pieces-1969-71/medium/fjall-lhi-04-medium.jpg",
+          "caption": {
+            "en": "Fjall (rubber / gúmmí), Steinþór Birgisson 2017",
+            "is": "Fjall (úr gúmmí), Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/fjall-ceramic-pieces-1969-71/thumbs/fjall-lhi-04-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
         }
       ],
       "tags": [
@@ -10325,6 +10656,36 @@
           "photographer": "Unknown",
           "year": "1970-74",
           "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/automobile-bok-1970-74/medium/automobile-lr-03-medium.jpg",
+          "caption": {
+            "en": "Automobile series at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Bílabók seríu á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/automobile-bok-1970-74/thumbs/automobile-lr-03-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
+        },
+        {
+          "url": "images/automobile-bok-1970-74/medium/automobile-lr-04-medium.jpg",
+          "caption": {
+            "en": "Automobile series at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Bílabók seríu á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/automobile-bok-1970-74/thumbs/automobile-lr-04-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
+        },
+        {
+          "url": "images/automobile-bok-1970-74/medium/automobile-lr-05-medium.jpg",
+          "caption": {
+            "en": "Automobile series at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Bílabók seríu á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/automobile-bok-1970-74/thumbs/automobile-lr-05-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
         }
       ],
       "tags": [
@@ -10674,6 +11035,83 @@
           "photographer": "Spessi",
           "year": "2020",
           "copyright": "© Spessi"
+        },
+        {
+          "url": "images/flaedamal-beach-1976/medium/flaedamal-lhi-05-medium.jpg",
+          "caption": {
+            "en": "Flæðarmál, Steinþór Birgisson 2017",
+            "is": "Flæðarmál, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/flaedamal-beach-1976/thumbs/flaedamal-lhi-05-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/flaedamal-beach-1976/medium/flaedamal-lhi-06-medium.jpg",
+          "caption": {
+            "en": "Flæðarmál, Steinþór Birgisson 2017",
+            "is": "Flæðarmál, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/flaedamal-beach-1976/thumbs/flaedamal-lhi-06-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/flaedamal-beach-1976/medium/flaedamal-lhi-07-medium.jpg",
+          "caption": {
+            "en": "Flæðarmál, Steinþór Birgisson 2017",
+            "is": "Flæðarmál, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/flaedamal-beach-1976/thumbs/flaedamal-lhi-07-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/flaedamal-beach-1976/medium/flaedamal-lhi-08-medium.jpg",
+          "caption": {
+            "en": "Flæðarmál, Steinþór Birgisson 2017",
+            "is": "Flæðarmál, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/flaedamal-beach-1976/thumbs/flaedamal-lhi-08-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/flaedamal-beach-1976/medium/flaedamal-lhi-09-medium.jpg",
+          "caption": {
+            "en": "Flæðarmál, Steinþór Birgisson 2017",
+            "is": "Flæðarmál, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/flaedamal-beach-1976/thumbs/flaedamal-lhi-09-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/flaedamal-beach-1976/medium/flaedamal-lhi-10-medium.jpg",
+          "caption": {
+            "en": "Flæðarmál, Steinþór Birgisson 2017",
+            "is": "Flæðarmál, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/flaedamal-beach-1976/thumbs/flaedamal-lhi-10-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/flaedamal-beach-1976/medium/flaedamal-lhi-11-medium.jpg",
+          "caption": {
+            "en": "Flæðarmál, Steinþór Birgisson 2017",
+            "is": "Flæðarmál, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/flaedamal-beach-1976/thumbs/flaedamal-lhi-11-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
         }
       ],
       "tags": [
@@ -11223,6 +11661,204 @@
           "photographer": "Unknown",
           "year": "1970",
           "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-44-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-44-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-45-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-45-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-46-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-46-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-47-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-47-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-48-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-48-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-49-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-49-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-50-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-50-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-51-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-51-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-52-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-52-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-53-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-53-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-54-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-54-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-55-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-55-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-56-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-56-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-57-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-57-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-58-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-58-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-59-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-59-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-60-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-60-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/gibsborn-children-1971/medium/gibsborn-lhi-61-medium.jpg",
+          "caption": {
+            "en": "Gifsbörn, Steinþór Birgisson 2017",
+            "is": "Gifsbörn, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/gibsborn-children-1971/thumbs/gibsborn-lhi-61-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
         }
       ],
       "tags": [
@@ -11451,6 +12087,17 @@
           "photographer": "Spessi",
           "year": "2020",
           "copyright": "© Spessi"
+        },
+        {
+          "url": "images/hattar-1969-71/medium/hattar-lhi-08-medium.jpg",
+          "caption": {
+            "en": "Hattar, Steinþór Birgisson 2017",
+            "is": "Hattar, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/hattar-1969-71/thumbs/hattar-lhi-08-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
         }
       ],
       "tags": [
@@ -12241,6 +12888,36 @@
           "photographer": "Spessi",
           "year": "2020",
           "copyright": "© Spessi"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-lr-24-medium.jpg",
+          "caption": {
+            "en": "Hundaljóð at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Hundaljóð á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-lr-24-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-lr-25-medium.jpg",
+          "caption": {
+            "en": "Hundaljóð at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Hundaljóð á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-lr-25-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-lr-26-medium.jpg",
+          "caption": {
+            "en": "Hundaljóð, detail, at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Hundaljóð, nánar, á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-lr-26-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
         }
       ],
       "tags": [
@@ -13208,6 +13885,17 @@
             "en": "Silver chairs - in tins in M's office - view 6",
             "is": ""
           }
+        },
+        {
+          "url": "images/silver-chairs-in-tins-in-ms-office/medium/silver-chairs-lhi-07-medium.jpg",
+          "caption": {
+            "en": "Silfur stólar, Steinþór Birgisson 2017",
+            "is": "Silfur stólar, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/silver-chairs-in-tins-in-ms-office/thumbs/silver-chairs-lhi-07-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
         }
       ],
       "tags": [
@@ -13254,6 +13942,28 @@
           "photographer": "Spessi",
           "year": "2020",
           "copyright": "© Spessi"
+        },
+        {
+          "url": "images/sjalfsmynd_1975/medium/sjalfsmynd-lhi-02-medium.jpg",
+          "caption": {
+            "en": "Sjálfsmynd, Steinþór Birgisson 2017",
+            "is": "Sjálfsmynd, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/sjalfsmynd_1975/thumbs/sjalfsmynd-lhi-02-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/sjalfsmynd_1975/medium/sjalfsmynd-lhi-03-medium.jpg",
+          "caption": {
+            "en": "Sjálfsmynd, Steinþór Birgisson 2017",
+            "is": "Sjálfsmynd, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/sjalfsmynd_1975/thumbs/sjalfsmynd-lhi-03-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
         }
       ],
       "tags": [
@@ -13360,6 +14070,28 @@
           "photographer": "Spessi",
           "year": "2020",
           "copyright": "© Spessi"
+        },
+        {
+          "url": "images/sjondeildarhringur-horizon-1975/medium/sjondeildarhringur-lhi-10-medium.jpg",
+          "caption": {
+            "en": "Sjóndeildarhringur, Steinþór Birgisson 2017",
+            "is": "Sjóndeildarhringur, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/sjondeildarhringur-horizon-1975/thumbs/sjondeildarhringur-lhi-10-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/sjondeildarhringur-horizon-1975/medium/sjondeildarhringur-lhi-11-medium.jpg",
+          "caption": {
+            "en": "Sjóndeildarhringur, Steinþór Birgisson 2017",
+            "is": "Sjóndeildarhringur, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/sjondeildarhringur-horizon-1975/thumbs/sjondeildarhringur-lhi-11-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
         }
       ],
       "tags": [
@@ -13604,6 +14336,28 @@
           "photographer": "Spessi",
           "year": "2020",
           "copyright": "© Spessi"
+        },
+        {
+          "url": "images/small-sketches-with-veiga-and-palli/medium/litlar-myndir-lhi-04-medium.jpg",
+          "caption": {
+            "en": "Litlar myndir, Steinþór Birgisson 2017",
+            "is": "Litlar myndir, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/small-sketches-with-veiga-and-palli/thumbs/litlar-myndir-lhi-04-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
+        },
+        {
+          "url": "images/small-sketches-with-veiga-and-palli/medium/litlar-myndir-lhi-05-medium.jpg",
+          "caption": {
+            "en": "Litlar myndir, Steinþór Birgisson 2017",
+            "is": "Litlar myndir, Steinþór Birgisson 2017"
+          },
+          "thumbnail": "images/small-sketches-with-veiga-and-palli/thumbs/litlar-myndir-lhi-05-thumb.jpg",
+          "year": "2017",
+          "copyright": "© Listasafn Reykjavíkur",
+          "photographer": "Steinþór Birgisson"
         }
       ],
       "tags": [
@@ -15092,6 +15846,16 @@
           "photographer": "Spessi",
           "year": "2020",
           "copyright": "© Spessi"
+        },
+        {
+          "url": "images/solur-sundials-originals-1965ish-to-77/medium/solur-lr-15-medium.jpg",
+          "caption": {
+            "en": "Sólúr at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Sólúr á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/solur-sundials-originals-1965ish-to-77/thumbs/solur-lr-15-thumb.jpg",
+          "year": "2019",
+          "copyright": "© Listasafn Reykjavíkur"
         }
       ],
       "tags": [
