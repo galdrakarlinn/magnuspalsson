@@ -10287,89 +10287,6 @@
       }
     },
     {
-      "id": "ferdafuda_travel_exhibition_2003",
-      "title": {
-        "en": "Ferðafurða (Travel exhibition)",
-        "is": "Ferðafurða (Travel exhibition)"
-      },
-      "year": 2003,
-      "dimensions": null,
-      "description": {
-        "en": "PLACEHOLDER: Travel exhibition from 2003 with Niels Hafstein (NH) featuring Card House and Bridge themes. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
-        "is": ""
-      },
-      "images": [
-        {
-          "url": "images/ferdafuda-travel-exhibition-2003/medium/ferdafuda-travel-exhibition-2003-01-medium.jpg",
-          "caption": {
-            "en": "Bridge - Travel exhibition component [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "2003",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/ferdafuda-travel-exhibition-2003/medium/ferdafuda-travel-exhibition-2003-02-medium.jpg",
-          "caption": {
-            "en": "Card House Spilaborg - Exhibition element [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "2003",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/ferdafuda-travel-exhibition-2003/medium/ferdafuda-travel-exhibition-2003-03-medium.jpg",
-          "caption": {
-            "en": "Letter MP to Niels Hafstein - Correspondence [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "2003",
-          "copyright": "© Estate of Magnús Pálsson"
-        }
-      ],
-      "tags": [
-        "travel exhibition",
-        "ferðafuða",
-        "niels hafstein",
-        "card house",
-        "bridge",
-        "2000s",
-        "PLACEHOLDER - needs review"
-      ],
-      "exhibitions": [
-        {
-          "title": {
-            "en": "Ferðafuða - Travel Exhibition",
-            "is": "Ferðafuða - Travel Exhibition"
-          },
-          "venue": {
-            "en": "PLACEHOLDER - Venue [NEEDS RESEARCH]",
-            "is": "PLACEHOLDER - Venue [NEEDS RESEARCH]"
-          },
-          "location": "PLACEHOLDER - City [NEEDS RESEARCH]",
-          "year": 2003
-        }
-      ],
-      "materials": {
-        "en": [
-          "installation",
-          "card house",
-          "bridge"
-        ],
-        "is": [
-          "innsetning",
-          "card house",
-          "bridge"
-        ]
-      },
-      "searchText": "ferðafuða travel exhibition niels hafstein card house bridge 2003 magnús pálsson placeholder needs review",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft"
-    },
-    {
       "id": "foss_waterfall_2006",
       "title": {
         "en": "Waterfall",
@@ -14663,6 +14580,16 @@
             "en": "Spilaborg Card house NH for Ferðafuða 2003 - view 2",
             "is": ""
           }
+        },
+        {
+          "url": "images/ferdafuda-travel-exhibition-2003/medium/ferdafuda-travel-exhibition-2003-02-medium.jpg",
+          "caption": {
+            "en": "Card House Spilaborg - Exhibition element [NEEDS REVIEW]",
+            "is": ""
+          },
+          "photographer": "Unknown",
+          "year": "2003",
+          "copyright": "© Estate of Magnús Pálsson"
         }
       ],
       "tags": [
@@ -14702,7 +14629,18 @@
         "en": "",
         "is": ""
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/ferdafuda-travel-exhibition-2003/medium/ferdafuda-travel-exhibition-2003-01-medium.jpg",
+          "caption": {
+            "en": "Bridge - Travel exhibition component [NEEDS REVIEW]",
+            "is": ""
+          },
+          "photographer": "Unknown",
+          "year": "2003",
+          "copyright": "© Estate of Magnús Pálsson"
+        }
+      ],
       "tags": [
         "2000s",
         "ferðafuða"
