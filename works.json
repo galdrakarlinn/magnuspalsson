@@ -400,27 +400,6 @@
           }
         },
         {
-          "url": "images/einsemd-2013/medium/einsemd-02-medium.jpg",
-          "caption": {
-            "en": "Plaster cast of the negative space during a concert performance (from The Anti-Society League Concert, Norrköping 1982 - the precursor to Einsemd)",
-            "is": "Gifsafsteypa af neikvæða rýminu á meðan á tónleikum stóð (frá Tónleikum Andfélagsbandalagsins, Norrköping 1982 - forverki Einsemd)"
-          }
-        },
-        {
-          "url": "images/einsemd-2013/medium/einsemd-03-medium.jpg",
-          "caption": {
-            "en": "Cast of musician and music - materializing the empty space between performer and sound (Norrköping 1982)",
-            "is": "Afsteypa af tónlistarmanni og tónlist - að efnisgera tóma rýmið milli flytjanda og hljóðs (Norrköping 1982)"
-          }
-        },
-        {
-          "url": "images/einsemd-2013/medium/einsemd-04-medium.jpg",
-          "caption": {
-            "en": "Magnús Pálsson casting a player during The Anti-Society League Concert (Norrköping 1982)",
-            "is": "Magnús Pálsson að steypa tónlistarmann á Tónleikum Andfélagsbandalagsins (Norrköping 1982)"
-          }
-        },
-        {
           "url": "images/einsemd-2013/medium/einsemd-2013-spessi-05-medium.jpg",
           "caption": {
             "en": "Retrospective exhibition, 2020",
@@ -3344,7 +3323,7 @@
       "dimensions": "59,5 x 49,5 cm",
       "description": {
         "en": "Part of the Kál (Cabbage) series. The negative for this work was made in 1966 but remained unprinted for over 50 years. It was first printed in 2018 specifically for the retrospective exhibition 'Something from Nothing: The Visual Realm of Magnús Pálsson' at Listasafn Reykjavíkur in 2019.",
-        "is": "Hluti af Kál verkaflokknum. Negatífan fyrir þetta verk var gerð árið 1966 en var óprentuð í yfir 50 ár. Hún var fyrst prentuð árið 2018 sérstaklega fyrir yfirlitssýninguna 'Eitthvað úr engu: Myndheimur Magnúsar Pálssonar' í Listasafni Reykjavíkur árið 2019."
+        "is": "Hluti af Kál seríunni. Negatífan fyrir þetta verk var gerð árið 1966 en var óprentuð í yfir 50 ár. Hún var fyrst prentuð árið 2018 sérstaklega fyrir yfirlitssýninguna 'Eitthvað úr engu: Myndheimur Magnúsar Pálssonar' í Listasafni Reykjavíkur árið 2019."
       },
       "images": [
         {
@@ -4270,20 +4249,20 @@
       "id": "kal_series_1963_66",
       "title": {
         "en": "Cabbage (Kál) series",
-        "is": "Kál verkaflokkurinn"
+        "is": "Kál sería"
       },
       "year": "1963-66",
       "dimensions": "91 x 101 cm (each / hvert)",
       "description": {
         "en": "Series of large-scale silkscreen prints with hand-applied watercolour, produced in London 1963–66. The series consists of four main works (Kál I–IV) plus a fifth negative version and an untitled variant (at Gerður). Each print exists in multiple copies, individually hand-coloured, giving each copy a unique character. The prints were made using silk screens at Kelpra Studio in London with master printer Chris Prater.",
-        "is": "Verkaflokkur stórra silkiprentverka með handmáluðum vatnslitum, unnin í London 1963–66. Flokkurinn samanstendur af fjórum aðalverkum (Kál I–IV) auk fimmtu neikvæðrar útgáfu og ónefndrar afbrigðis (hjá Gerði). Hvert prent er til í mörgum eintökum, hvert um sig handlitað, sem gefur hverju eintaki sérstöðu. Prentin voru gerð með silkiþrykkjum hjá Kelpra Studio í London með meistara prentara Chris Prater."
+        "is": "Sería stórra silkiprentverka með handmáluðum vatnslitum, unnin í London 1963–66. Serían samanstendur af fjórum aðalverkum (Kál I–IV) auk fimmtu neikvæðrar útgáfu og ónefndrar afbrigðis (hjá Gerði). Hvert prent er til í mörgum eintökum, hvert um sig handlitað, sem gefur hverju eintaki sérstöðu. Prentin voru gerð með silkiþrykkjum hjá Kelpra Studio í London með meistara prentara Chris Prater."
       },
       "images": [
         {
           "url": "images/kal-1-1963/medium/kal-1-1963-spessi-01-medium.jpg",
           "caption": {
             "en": "The Kál series at the retrospective exhibition, 2020",
-            "is": "Kál verkaflokkurinn á yfirlitssýningunni, 2020"
+            "is": "Kál serían á yfirlitssýningunni, 2020"
           },
           "thumbnail": "images/kal-1-1963/thumbs/kal-1-1963-spessi-01-thumb.jpg",
           "photographer": "Spessi",
@@ -4337,7 +4316,7 @@
           "vatnslitur á pappír"
         ]
       },
-      "searchText": "kál cabbage series verkaflokkur silkscreen silkiþrykk watercolor vatnslitur london kelpra studio chris prater 1963 1966",
+      "searchText": "kál cabbage series sería silkscreen silkiþrykk watercolor vatnslitur london kelpra studio chris prater 1963 1966",
       "contentStatus": "complete",
       "mediaStatus": "images complete",
       "series": "kál",
@@ -4358,7 +4337,7 @@
       "dimensions": "91 x 101 cm",
       "description": {
         "en": "Part of the Kál (Cabbage) series. Watercolor and silkscreen on paper.",
-        "is": "Hluti af Kál verkaflokknum. Vatnslitur og silkiþrykk á pappír."
+        "is": "Hluti af Kál seríunni. Vatnslitur og silkiþrykk á pappír."
       },
       "images": [
         {
@@ -4514,7 +4493,7 @@
       "dimensions": "91 x 101 cm",
       "description": {
         "en": "Part of the Kál (Cabbage) series. Watercolor and silkscreen on paper.",
-        "is": "Hluti af Kál verkaflokknum. Vatnslitur og silkiþrykk á pappír."
+        "is": "Hluti af Kál seríunni. Vatnslitur og silkiþrykk á pappír."
       },
       "images": [
         {
@@ -4646,7 +4625,7 @@
       "dimensions": "91 x 101 cm",
       "description": {
         "en": "Part of the Kál (Cabbage) series. Watercolor and silkscreen on paper.",
-        "is": "Hluti af Kál verkaflokknum. Vatnslitur og silkiþrykk á pappír."
+        "is": "Hluti af Kál seríunni. Vatnslitur og silkiþrykk á pappír."
       },
       "images": [
         {
@@ -4818,7 +4797,7 @@
       "dimensions": "91 x 101 cm",
       "description": {
         "en": "Part of the Kál (Cabbage) series. Watercolor and silkscreen on paper.",
-        "is": "Hluti af Kál verkaflokknum. Vatnslitur og silkiþrykk á pappír."
+        "is": "Hluti af Kál seríunni. Vatnslitur og silkiþrykk á pappír."
       },
       "images": [
         {
@@ -4985,41 +4964,41 @@
       "id": "landafraedi-series-1975",
       "title": {
         "en": "Geography - Series",
-        "is": "Landafræði - Verkaflokkur"
+        "is": "Landafræði sería"
       },
       "year": 1975,
       "dimensions": null,
       "description": {
         "en": "A series of sculptural works materializing invisible phenomena through plaster cast over maps. Each piece consists of a layer of gypsum laid over maps marking specific geographical areas, designed to show the atmosphere containing invisible entities and their properties - creating tangible expressions of intangible phenomena. The series represents Magnús Pálsson's fundamental artistic concern: making the invisible visible.\n\nThe series includes: Sónninn í Jóskunni (Denmark/Jutland), Hinn keltneski andi (Ireland/Wales), Sorg kengúrunnar (Australia), Kaffiilmurinn í Braselíu (Brazil), Trúin í Afganistan (Afghanistan), and Von Lappanna (Lapland/Sami region).",
-        "is": "Röð skúlptúrverka sem efnisgerðu ósýnilega fyrirbæri með gifsafsteypu yfir landakortum. Hvert verk samanstendur af gifsslagi yfir kortum sem merkja tiltekin landfræðileg svæði, hönnuð til að sýna andrúmsloftið sem inniheldur ósýnilegar eindir og eiginleika þeirra - og skapa áþreifanlegar tjáningar óáþreifanlegra fyrirbæra. Flokkurinn táknar grundvallaráhyggjur Magnúsar Pálssonar í list: að gera hið ósýnilega sýnilegt.\n\nFlokkurinn inniheldur: Sónninn í Jóskunni (Danmörk/Jótland), Hinn keltneski andi (Írland/Wales), Sorg kengúrunnar (Ástralía), Kaffiilmurinn í Braselíu (Brasilía), Trúin í Afganistan (Afganistan) og Von Lappanna (Lapland/Sama svæðið)."
+        "is": "Röð skúlptúrverka sem efnisgerðu ósýnilega fyrirbæri með gifsafsteypu yfir landakortum. Hvert verk samanstendur af gifsslagi yfir kortum sem merkja tiltekin landfræðileg svæði, hönnuð til að sýna andrúmsloftið sem inniheldur ósýnilegar eindir og eiginleika þeirra - og skapa áþreifanlegar tjáningar óáþreifanlegra fyrirbæra. Seríuna táknar grundvallaráhyggjur Magnúsar Pálssonar í list: að gera hið ósýnilega sýnilegt.\n\nSeríuna inniheldur: Sónninn í Jóskunni (Danmörk/Jótland), Hinn keltneski andi (Írland/Wales), Sorg kengúrunnar (Ástralía), Kaffiilmurinn í Braselíu (Brasilía), Trúin í Afganistan (Afganistan) og Von Lappanna (Lapland/Sama svæðið)."
       },
       "images": [
         {
           "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-02-medium.jpg",
           "caption": {
             "en": "Landafræði series - group view",
-            "is": "Landafræði verkaflokkur - heildarmynd"
+            "is": "Landafræði sería - heildarmynd"
           }
         },
         {
           "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-03-medium.jpg",
           "caption": {
             "en": "Landafræði series - group view",
-            "is": "Landafræði verkaflokkur - heildarmynd"
+            "is": "Landafræði sería - heildarmynd"
           }
         },
         {
           "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-06-medium.jpg",
           "caption": {
             "en": "Landafræði series - group view",
-            "is": "Landafræði verkaflokkur - heildarmynd"
+            "is": "Landafræði sería - heildarmynd"
           }
         },
         {
           "url": "images/landafraedi-maps-gibs-pieces-1972-2012-1972/medium/landafraedi-07-medium.jpg",
           "caption": {
             "en": "Landafræði series - group view",
-            "is": "Landafræði verkaflokkur - heildarmynd"
+            "is": "Landafræði sería - heildarmynd"
           }
         }
       ],
@@ -5072,7 +5051,7 @@
       "dimensions": "38 x 29 cm",
       "description": {
         "en": "Part of the Landafræði (Geography) series. Plaster cast placed over the Jutland peninsula on an atlas page of Denmark and the Faroe Islands. Signed Magnús Pálsson 74.",
-        "is": "Hluti af Landafræði verkaflokknum. Gifsafsteypa sett yfir Jótlandsskaga á atlassíðu af Danmörku og Færeyjum. Signað Magnús Pálsson 74."
+        "is": "Hluti af Landafræði seríunni. Gifsafsteypa sett yfir Jótlandsskaga á atlassíðu af Danmörku og Færeyjum. Signað Magnús Pálsson 74."
       },
       "images": [
         {
@@ -5129,7 +5108,7 @@
       "dimensions": "38 x 29 cm",
       "description": {
         "en": "Part of the Landafræði (Geography) series. Plaster placed over Ireland/Scotland on a map, evoking Celtic culture.",
-        "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Írland/Skotland á korti, sem vísar til keltneskrar menningar."
+        "is": "Hluti af Landafræði seríunni. Gifs sett yfir Írland/Skotland á korti, sem vísar til keltneskrar menningar."
       },
       "images": [],
       "tags": [
@@ -5169,7 +5148,7 @@
       "dimensions": "38 x 29 cm",
       "description": {
         "en": "Part of the Landafræði (Geography) series. Plaster placed over Australia on a map.",
-        "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Ástralíu á korti."
+        "is": "Hluti af Landafræði seríunni. Gifs sett yfir Ástralíu á korti."
       },
       "images": [
         {
@@ -5217,7 +5196,7 @@
       "dimensions": "38 x 29 cm",
       "description": {
         "en": "Part of the Landafræði (Geography) series. Plaster cast placed over Brazil on an atlas page of South America. Signed Magnús Pálsson 74.",
-        "is": "Hluti af Landafræði verkaflokknum. Gifsafsteypa sett yfir Brasilíu á atlassíðu af Suður-Ameríku. Signað Magnús Pálsson 74."
+        "is": "Hluti af Landafræði seríunni. Gifsafsteypa sett yfir Brasilíu á atlassíðu af Suður-Ameríku. Signað Magnús Pálsson 74."
       },
       "images": [
         {
@@ -5267,7 +5246,7 @@
       "dimensions": "38 x 29 cm",
       "description": {
         "en": "Part of the Landafræði (Geography) series. Plaster cast placed over Afghanistan on an atlas page of South Asia. Signed Magnús Pálsson 74.",
-        "is": "Hluti af Landafræði verkaflokknum. Gifsafsteypa sett yfir Afganistan á atlassíðu af Suður-Asíu. Signað Magnús Pálsson 74."
+        "is": "Hluti af Landafræði seríunni. Gifsafsteypa sett yfir Afganistan á atlassíðu af Suður-Asíu. Signað Magnús Pálsson 74."
       },
       "images": [
         {
@@ -5317,7 +5296,7 @@
       "dimensions": "38 x 29 cm",
       "description": {
         "en": "Part of the Landafræði (Geography) series. Plaster placed over Lapland/Sami region on a map.",
-        "is": "Hluti af Landafræði verkaflokknum. Gifs sett yfir Lapland/Sama svæðið á korti."
+        "is": "Hluti af Landafræði seríunni. Gifs sett yfir Lapland/Sama svæðið á korti."
       },
       "images": [
         {
