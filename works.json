@@ -6558,37 +6558,44 @@
       "year": 1962,
       "dimensions": null,
       "description": {
-        "en": "An early sculptural work from 1962 demonstrating Magnús Pálsson's exploration of geometric forms and spatial relationships. This piece represents his early artistic development and interest in abstraction during his formative years as an artist. The work shows his experimentation with materials and form that would later develop into his more conceptual practice.",
-        "is": ""
+        "en": "Kúlan was a furniture shop on the corner of Skólavörðustígur and Bergsstaðastræti in Reykjavík. Founded by Magnús, Manfreð Vilhjálmsson, Dieter Roth and Magnús Jóhannsson, who was more involved in the financing.\n\nThey produced cheap, rough, simple and standardised furniture designed for mass production. Unlacquered timber, angle iron produced for factory floors, water pipes and fittings. Designers: Dieter, MP and Manfreð Vilhjálmsson. Deep and shallow chairs, dining tables, coffee tables, sofas, cabinets, shelving systems.\n\nChildren's furniture, standardised, lacquered in strong colours. Boxes that also served as seats, shelves, children's beds, bunks for children etc.\n\nAshtrays designed by Dieter, Jón Gunnar Árnason and others. Twelve drinking glasses made from cut beer bottles.\n\nAvant-garde art.\n\nThis production was a precursor to what is now done by companies such as IKEA, Habitat and others.\n\nPhotographs by Andrés Kolbeinsson.",
+        "is": "Kúlan var húsgagnabúð á horninu á Skólavörðustíg og Bergsstaðastræti í Reykjavík. Stofnuð af Magnúsi, Manfreð Vilhjálmssyni, Dieter Roth og Magnúsi Jóhannssyni sem sá meira um fjármögnun.\n\nFramleiddu ódýr, gróf, einföld og stöðluð húsgögn hugsuð fyrir fjöldaframleiðslu. Ólakkað timbur, vinkiljárn framleidd fyrir verksmiðjulagera, vatnsrör og fittings. Hönnuðir Dieter, MP og Manfreð Vilhjálmsson. Stólar djúpir og grunnir, matborð, sófaborð, sófar, skápur, hillusystem.\n\nBarnahúsgögn, stöðluð, gljálökkuð í sterkum litum. Kassar sem jafnframt voru sæti, hillur, barnarúm, kojur fyrir börn osfrv.\n\nÖskubakkar hannaðir af Dieter, Jóni Gunnari Árnasyni ofl. Tólf drykkjarglös gerð úr afskornum bjórflöskum.\n\nFramúrstefnuleg myndlist.\n\nÞessi framleiðsla var fyrirveri þess sem nú er gert af fyrirtækjum eins og IKEA, Habitat ofl.\n\nLjósmyndir Andrés Kolbeinsson."
       },
       "images": [
         {
-          "url": "images/kulan-1962/medium/kulan-01-medium.jpg",
+          "url": "images/kulan-1962/medium/kulan-04-medium.jpg",
           "caption": {
-            "en": "Kúlan - main view",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/kulan-1962/medium/kulan-02-medium.jpg",
-          "caption": {
-            "en": "Kúlan - detail view",
-            "is": ""
-          }
+            "en": "Children's furniture at Kúlan",
+            "is": "Barnahúsgögn í Kúlunni"
+          },
+          "thumbnail": "images/kulan-1962/thumbs/kulan-04-thumb.jpg",
+          "photographer": "Andrés Kolbeinsson",
+          "copyright": "© Estate of Magnús Pálsson"
         },
         {
           "url": "images/kulan-1962/medium/kulan-03-medium.jpg",
           "caption": {
-            "en": "Kúlan - installation context",
-            "is": ""
-          }
+            "en": "Children's furniture at Kúlan, contact sheet",
+            "is": "Barnahúsgögn í Kúlunni, prentsniðmynd"
+          },
+          "photographer": "Andrés Kolbeinsson",
+          "copyright": "© Estate of Magnús Pálsson"
         },
         {
-          "url": "images/kulan-1962/medium/kulan-04-medium.jpg",
+          "url": "images/kulan-1962/medium/kulan-01-medium.jpg",
           "caption": {
-            "en": "Kúlan - with people for scale",
-            "is": ""
-          }
+            "en": "Handwritten notes by Magnús Pálsson about Kúlan, page 1",
+            "is": "Handskrifaðar glósur Magnúsar Pálssonar um Kúluna, bls. 1"
+          },
+          "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/kulan-1962/medium/kulan-02-medium.jpg",
+          "caption": {
+            "en": "Handwritten notes by Magnús Pálsson about Kúlan, page 2",
+            "is": "Handskrifaðar glósur Magnúsar Pálssonar um Kúluna, bls. 2"
+          },
+          "copyright": "© Estate of Magnús Pálsson"
         }
       ],
       "tags": [
@@ -12452,196 +12459,7 @@
           "photographer": "Unknown",
           "year": "1970",
           "copyright": "© Estate of Magnús Pálsson"
-        }
-      ],
-      "tags": [
-        "sculpture",
-        "animals",
-        "dogs",
-        "collaboration",
-        "series",
-        "straw",
-        "1970s",
-        "óli gísla"
-      ],
-      "exhibitions": [
-        {
-          "title": {
-            "en": "Hundljóð Series",
-            "is": "Hundljóð Series"
-          },
-          "venue": {
-            "en": "Various exhibitions",
-            "is": "Various exhibitions"
-          },
-          "location": "Reykjavik",
-          "year": 1970
         },
-        "something-from-nothing-the-visual-realm-of-magnús-2019"
-      ],
-      "materials": {
-        "en": [
-          "plaster",
-          "straw"
-        ],
-        "is": [
-          "gifs",
-          "strá"
-        ]
-      },
-      "searchText": "hundar hundljóð dogs in 16 pieces animals sculpture straw porcelain gypsum 1971 magnús pálsson listasafn íslands",
-      "ownership": {
-        "owner": "The National Museum of Iceland",
-        "owner_is": "Listasafn Íslands",
-        "owner_en": "The National Museum of Iceland",
-        "url": "https://sarpur.is/is/collection/item/1626911/",
-        "catalogNumber": "LÍ-7239"
-      },
-      "series": "hundar",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft"
-    },
-    {
-      "id": "hundur_dog_1971",
-      "title": {
-        "en": "Dog  with plastic",
-        "is": "Hundur með plasti"
-      },
-      "year": 1971,
-      "dimensions": "42 x 31 x 21 cm",
-      "description": {
-        "en": "A sculpture of a dog from 1971, related to but separate from the Hundljóð series.",
-        "is": ""
-      },
-      "images": [
-        {
-          "url": "images/Hundur/medium/hundur-01-medium.jpg",
-          "caption": {
-            "en": "Hundur (Dog) - sculpture",
-            "is": "Hundur - skúlptúr"
-          },
-          "thumbnail": "images/Hundur/thumbs/hundur-01-thumb.jpg"
-        }
-      ],
-      "tags": [
-        "sculpture",
-        "dog",
-        "1971"
-      ],
-      "exhibitions": [],
-      "materials": {
-        "en": [
-          "plaster",
-          "plastic"
-        ],
-        "is": [
-          "gifs",
-          "plast"
-        ]
-      },
-      "searchText": "hundur dog sculpture plaster plastic gifs plast 1971 magnús pálsson safnasafnið",
-      "ownership": {
-        "owner": "Icelandic Folk and Outsider Art Museum",
-        "owner_is": "Safnasafnið",
-        "owner_en": "Icelandic Folk and Outsider Art Museum",
-        "url": "https://sarpur.is/is/collection/item/1815434/",
-        "catalogNumber": "S-180"
-      },
-      "series": "hundar",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft"
-    },
-    {
-      "id": "hundur_pappir_1971",
-      "title": {
-        "en": "Dogs with paper",
-        "is": "Hundur með pappír"
-      },
-      "year": 1971,
-      "dimensions": "42 x 31 x 21 cm",
-      "description": {
-        "en": "",
-        "is": ""
-      },
-      "images": [],
-      "tags": [
-        "sculpture",
-        "dog",
-        "1971"
-      ],
-      "exhibitions": [],
-      "materials": {
-        "en": [
-          "plaster",
-          "paper"
-        ],
-        "is": [
-          "gifs",
-          "pappír"
-        ]
-      },
-      "searchText": "hundur með pappír dogs with paper plaster 1971 magnús pálsson nýlistasafnið",
-      "ownership": {
-        "owner": "The Living Art Museum",
-        "owner_is": "Nýlistasafnið",
-        "owner_en": "The Living Art Museum"
-      },
-      "series": "hundar",
-      "contentStatus": "draft",
-      "mediaStatus": "needs images"
-    },
-    {
-      "id": "hundur_adrir_1971",
-      "title": {
-        "en": "Dogs other",
-        "is": "Hundur aðrir"
-      },
-      "year": 1971,
-      "dimensions": "42 x 31 x 21 cm",
-      "description": {
-        "en": "",
-        "is": ""
-      },
-      "images": [],
-      "tags": [
-        "sculpture",
-        "dog",
-        "1971"
-      ],
-      "exhibitions": [],
-      "materials": {
-        "en": [
-          "plaster",
-          "various materials"
-        ],
-        "is": [
-          "gifs",
-          "ýmis efni"
-        ]
-      },
-      "searchText": "hundur aðrir dogs other plaster various 1971 magnús pálsson",
-      "ownership": {
-        "owner": "owned by the artist and NYLÓ",
-        "owner_is": "í eigu höfundar, einkaeign",
-        "owner_en": "owned by the artist and NYLÓ"
-      },
-      "series": "hundar",
-      "contentStatus": "draft",
-      "mediaStatus": "needs images"
-    },
-    {
-      "id": "hundaljod-1970",
-      "title": {
-        "en": "Hundaljóð (Dog Poem)",
-        "is": "Hundaljóð"
-      },
-      "year": 1970,
-      "dimensions": "Dog 1: 44 × 33 × 19 cm, Dog 2: 30 × 33 × 19 cm",
-      "description": {
-        "en": "Two plaster dog sculptures. The first is relatively intact except for its face, where old brown paper appears to be breaking through the surface. It is notably heavy and shows clear evidence of mould casting with visible contact marks. The second piece represents only the lower portion of a similar plaster dog, approximately 15 cm tall, with aged brown paper emerging from the plaster.",
-        "is": "Tvær gipshundaskúlptúrar. Sú fyrri er tiltölulega heil nema andlitið, þar sem gamall brúnn pappír virðist brjótast gegnum yfirborðið. Hún er þung og sýnir greinilega ummerki um mótssteypu. Seinni myndin sýnir aðeins neðri hluta svipaðs gipshunds, um 15 cm á hæð, með gömlum brúnum pappír sem kemur fram úr gifsinu."
-      },
-      "images": [
         {
           "url": "images/hundaljod-1970/medium/hundaljod-01-medium.jpg",
           "caption": {
@@ -12922,35 +12740,178 @@
       ],
       "tags": [
         "sculpture",
+        "animals",
         "dogs",
-        "1970"
+        "collaboration",
+        "series",
+        "straw",
+        "1970s",
+        "óli gísla"
+      ],
+      "exhibitions": [
+        {
+          "title": {
+            "en": "Hundljóð Series",
+            "is": "Hundljóð Series"
+          },
+          "venue": {
+            "en": "Various exhibitions",
+            "is": "Various exhibitions"
+          },
+          "location": "Reykjavik",
+          "year": 1970
+        },
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
+      ],
+      "materials": {
+        "en": [
+          "plaster",
+          "straw"
+        ],
+        "is": [
+          "gifs",
+          "strá"
+        ]
+      },
+      "searchText": "hundar hundljóð dogs in 16 pieces animals sculpture straw porcelain gypsum 1971 magnús pálsson listasafn íslands",
+      "ownership": {
+        "owner": "The National Museum of Iceland",
+        "owner_is": "Listasafn Íslands",
+        "owner_en": "The National Museum of Iceland",
+        "url": "https://sarpur.is/is/collection/item/1626911/",
+        "catalogNumber": "LÍ-7239"
+      },
+      "series": "hundar",
+      "contentStatus": "draft",
+      "mediaStatus": "images draft"
+    },
+    {
+      "id": "hundur_dog_1971",
+      "title": {
+        "en": "Dog  with plastic",
+        "is": "Hundur með plasti"
+      },
+      "year": 1971,
+      "dimensions": "42 x 31 x 21 cm",
+      "description": {
+        "en": "A sculpture of a dog from 1971, related to but separate from the Hundljóð series.",
+        "is": ""
+      },
+      "images": [
+        {
+          "url": "images/Hundur/medium/hundur-01-medium.jpg",
+          "caption": {
+            "en": "Hundur (Dog) - sculpture",
+            "is": "Hundur - skúlptúr"
+          },
+          "thumbnail": "images/Hundur/thumbs/hundur-01-thumb.jpg"
+        }
+      ],
+      "tags": [
+        "sculpture",
+        "dog",
+        "1971"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
           "plaster",
-          "brown paper",
-          "stone-type inorganic material"
+          "plastic"
         ],
         "is": [
           "gifs",
-          "brúnn pappír",
-          "ólífrænt steinefni"
+          "plast"
         ]
       },
+      "searchText": "hundur dog sculpture plaster plastic gifs plast 1971 magnús pálsson safnasafnið",
       "ownership": {
-        "owner": "Nýlistasafnið (The Living Art Museum)",
-        "url": "https://sarpur.is/is/collection/item/588380/",
-        "catalogNumber": "N-597"
+        "owner": "Icelandic Folk and Outsider Art Museum",
+        "owner_is": "Safnasafnið",
+        "owner_en": "Icelandic Folk and Outsider Art Museum",
+        "url": "https://sarpur.is/is/collection/item/1815434/",
+        "catalogNumber": "S-180"
       },
-      "relatedWorks": [
-        "hundar_dogs_1970",
-        "hundur_dog_1971"
-      ],
-      "searchText": "hundaljóð dog poem hundar hundur sculpture plaster gifs pappír paper 1970 magnús pálsson nýlistasafnið",
       "series": "hundar",
       "contentStatus": "draft",
       "mediaStatus": "images draft"
+    },
+    {
+      "id": "hundur_pappir_1971",
+      "title": {
+        "en": "Dogs with paper",
+        "is": "Hundur með pappír"
+      },
+      "year": 1971,
+      "dimensions": "42 x 31 x 21 cm",
+      "description": {
+        "en": "",
+        "is": ""
+      },
+      "images": [],
+      "tags": [
+        "sculpture",
+        "dog",
+        "1971"
+      ],
+      "exhibitions": [],
+      "materials": {
+        "en": [
+          "plaster",
+          "paper"
+        ],
+        "is": [
+          "gifs",
+          "pappír"
+        ]
+      },
+      "searchText": "hundur með pappír dogs with paper plaster 1971 magnús pálsson nýlistasafnið",
+      "ownership": {
+        "owner": "The Living Art Museum",
+        "owner_is": "Nýlistasafnið",
+        "owner_en": "The Living Art Museum"
+      },
+      "series": "hundar",
+      "contentStatus": "draft",
+      "mediaStatus": "needs images"
+    },
+    {
+      "id": "hundur_adrir_1971",
+      "title": {
+        "en": "Dogs other",
+        "is": "Hundur aðrir"
+      },
+      "year": 1971,
+      "dimensions": "42 x 31 x 21 cm",
+      "description": {
+        "en": "",
+        "is": ""
+      },
+      "images": [],
+      "tags": [
+        "sculpture",
+        "dog",
+        "1971"
+      ],
+      "exhibitions": [],
+      "materials": {
+        "en": [
+          "plaster",
+          "various materials"
+        ],
+        "is": [
+          "gifs",
+          "ýmis efni"
+        ]
+      },
+      "searchText": "hundur aðrir dogs other plaster various 1971 magnús pálsson",
+      "ownership": {
+        "owner": "owned by the artist and NYLÓ",
+        "owner_is": "í eigu höfundar, einkaeign",
+        "owner_en": "owned by the artist and NYLÓ"
+      },
+      "series": "hundar",
+      "contentStatus": "draft",
+      "mediaStatus": "needs images"
     },
     {
       "id": "hviskur_whisper_1_1975",
