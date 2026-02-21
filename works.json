@@ -2525,14 +2525,6 @@
             "is": ""
           },
           "thumbnail": "images/tadskegglingar-2009/thumbs/tadskegglingar-05-thumb.jpg"
-        },
-        {
-          "url": "images/tadskegglingar-2009/medium/tadskegglingar-06-medium.jpg",
-          "caption": {
-            "en": "Wall-mounted collage with newspaper elements",
-            "is": ""
-          },
-          "thumbnail": "images/tadskegglingar-2009/thumbs/tadskegglingar-06-thumb.jpg"
         }
       ],
       "tags": [
@@ -2577,7 +2569,16 @@
         "en": "",
         "is": ""
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/tadskegglingar-2009/medium/tadskegglingar-06-medium.jpg",
+          "caption": {
+            "en": "Taðskegglingar, framed work",
+            "is": "Taðskegglingar, innrammað verk"
+          },
+          "thumbnail": "images/tadskegglingar-2009/thumbs/tadskegglingar-06-thumb.jpg"
+        }
+      ],
       "tags": [
         "print",
         "2010s"
@@ -2987,6 +2988,13 @@
       },
       "images": [
         {
+          "url": "images/rainbow-clippings-startart-aug-reyk-berlin-sept-08/medium/rainbow-03-medium.jpg",
+          "caption": {
+            "en": "Rainbow - view 3",
+            "is": ""
+          }
+        },
+        {
           "url": "images/rainbow-clippings-startart-aug-reyk-berlin-sept-08/medium/rainbow-01-medium.jpg",
           "caption": {
             "en": "Rainbow - view 1",
@@ -3001,31 +3009,10 @@
           }
         },
         {
-          "url": "images/rainbow-clippings-startart-aug-reyk-berlin-sept-08/medium/rainbow-03-medium.jpg",
-          "caption": {
-            "en": "Rainbow - view 3",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/rainbow-clippings-startart-aug-reyk-berlin-sept-08/medium/rainbow-04-medium.jpg",
-          "caption": {
-            "en": "Rainbow - view 4",
-            "is": ""
-          }
-        },
-        {
           "url": "images/rainbow-clippings-startart-aug-reyk-berlin-sept-08/medium/rainbow-05-medium.jpg",
           "caption": {
-            "en": "Rainbow - view 5",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/rainbow-clippings-startart-aug-reyk-berlin-sept-08/medium/rainbow-06-medium.jpg",
-          "caption": {
-            "en": "Rainbow - view 6",
-            "is": ""
+            "en": "Magnús Pálsson at the opening",
+            "is": "Magnús Pálsson á opnun"
           }
         },
         {
