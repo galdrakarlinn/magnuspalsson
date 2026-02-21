@@ -1501,6 +1501,23 @@
       "location": "Reykjavík, Iceland \n            (choral sound poetry, International Polipoetry Festival)"
     },
     {
+      "id": "polypoetry-festival-2006",
+      "year": "2006",
+      "title": {
+        "en": "International Polipoetry Festival",
+        "is": "Fjölljóða hátíð"
+      },
+      "venue": {
+        "en": "Iðnó",
+        "is": "Iðnó"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "Choral sound poetry performance",
+        "is": "Kórraddljóð"
+      }
+    },
+    {
       "id": "a-selection-of-20th-century-works-2005",
       "year": "2005",
       "title": {

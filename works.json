@@ -939,28 +939,12 @@
       },
       "images": [
         {
-          "url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-01-medium.jpg",
-          "caption": {
-            "en": "Ulla installation view",
-            "is": ""
-          },
-          "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-01-thumb.jpg"
-        },
-        {
           "url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-02-medium.jpg",
           "caption": {
             "en": "Detail view 1",
             "is": ""
           },
           "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-02-thumb.jpg"
-        },
-        {
-          "url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-03-medium.jpg",
-          "caption": {
-            "en": "Detail view 2",
-            "is": ""
-          },
-          "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-03-thumb.jpg"
         },
         {
           "url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-04-medium.jpg",
@@ -971,14 +955,6 @@
           "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-04-thumb.jpg"
         },
         {
-          "url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-05-medium.jpg",
-          "caption": {
-            "en": "Detail view 4",
-            "is": ""
-          },
-          "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-05-thumb.jpg"
-        },
-        {
           "url": "images/ulla-udda-sudurgata-7-1976/medium/ulla-udda-sudurgata-7-1976-06-medium.jpg",
           "caption": {
             "en": "Detail view 5",
@@ -987,6 +963,7 @@
           "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-06-thumb.jpg"
         }
       ],
+      "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-02-thumb.jpg",
       "tags": [
         "installation",
         "student work",
@@ -1599,7 +1576,52 @@
         "en": "Part of the 'Varla' exhibition at Nýlistasafnið (The Living Art Museum) in January 1994. The work explores themes characteristic of Magnús Pálsson's conceptual approach.",
         "is": "Hluti af 'Varla' sýningunni á Nýlistasafninu í janúar 1994. Verkið kannar þemu sem einkenna hugmyndalega nálgun Magnúsar Pálssonar."
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/varla-hardly-1994/medium/varla-hardly-1994-07-medium.jpg",
+          "caption": {
+            "en": "Soap poem tables — 'etám' and 'leangbnok' at retrospective, Listasafn Reykjavíkur 2020",
+            "is": "Sápuljóðaborð — 'etám' og 'leangbnok' á yfirlitssýningu, Listasafn Reykjavíkur 2020"
+          },
+          "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-07-thumb.jpg",
+          "photographer": "Spessi",
+          "year": "2020",
+          "copyright": "© Spessi"
+        },
+        {
+          "url": "images/varla-hardly-1994/medium/varla-hardly-1994-08-medium.jpg",
+          "caption": {
+            "en": "Soap poem table — 'leangbnok' spelled in coloured soaps",
+            "is": "Sápuljóðaborð — 'leangbnok' stafað með lituðum sápum"
+          },
+          "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-08-thumb.jpg",
+          "photographer": "Spessi",
+          "year": "2020",
+          "copyright": "© Spessi"
+        },
+        {
+          "url": "images/varla-hardly-1994/medium/varla-hardly-1994-spessi-10-medium.jpg",
+          "caption": {
+            "en": "Retrospective exhibition, 2020",
+            "is": "Yfirlitssýning, 2020"
+          },
+          "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-spessi-10-thumb.jpg",
+          "photographer": "Spessi",
+          "year": "2020",
+          "copyright": "© Spessi"
+        },
+        {
+          "url": "images/varla-hardly-1994/medium/varla-hardly-1994-spessi-11-medium.jpg",
+          "caption": {
+            "en": "Retrospective exhibition, 2020",
+            "is": "Yfirlitssýning, 2020"
+          },
+          "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-spessi-11-thumb.jpg",
+          "photographer": "Spessi",
+          "year": "2020",
+          "copyright": "© Spessi"
+        }
+      ],
       "tags": [
         "installation",
         "1990s",
@@ -1621,10 +1643,12 @@
       ],
       "materials": {
         "en": [
-          "mixed media"
+          "coloured soaps",
+          "table"
         ],
         "is": [
-          "blandað efni"
+          "litaðar sápur",
+          "borð"
         ]
       },
       "source": {
@@ -1633,13 +1657,14 @@
       },
       "searchText": "etán langbrók 1993 nýlistasafnið varla magnús pálsson",
       "contentStatus": "draft",
-      "mediaStatus": "needs images",
+      "mediaStatus": "images complete",
       "parentWork": "varla-hardly-1994",
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-07-thumb.jpg"
     },
     {
       "id": "veggfodur-ferd-reise-1965",
@@ -2707,88 +2732,6 @@
       }
     },
     {
-      "id": "pmal-texti-1993-1993",
-      "title": {
-        "en": "The ode to the gander",
-        "is": "Gapassipi"
-      },
-      "year": 1993,
-      "dimensions": null,
-      "description": {
-        "en": "A work by Magnús Pálsson from 1993. This piece demonstrates his artistic exploration and creative development during this period.",
-        "is": ""
-      },
-      "images": [
-        {
-          "url": "images/pmal-texti-1993-1993/medium/pmal-01-medium.jpg",
-          "caption": {
-            "en": "P-mál - view 1",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/pmal-texti-1993-1993/medium/pmal-02-medium.jpg",
-          "caption": {
-            "en": "P-mál - view 2",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/pmal-texti-1993-1993/medium/pmal-03-medium.jpg",
-          "caption": {
-            "en": "P-mál - view 3",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/pmal-texti-1993-1993/medium/pmal-04-medium.jpg",
-          "caption": {
-            "en": "P-mál - view 4",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/pmal-texti-1993-1993/medium/pmal-05-medium.jpg",
-          "caption": {
-            "en": "P-mál - view 5",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/pmal-texti-1993-1993/medium/pmal-06-medium.jpg",
-          "caption": {
-            "en": "P-mál - view 6",
-            "is": ""
-          }
-        }
-      ],
-      "tags": [
-        "artwork",
-        "1993"
-      ],
-      "exhibitions": [],
-      "materials": {
-        "en": [
-          "sound",
-          "glass",
-          "mixed media"
-        ],
-        "is": [
-          "hljóð",
-          "gler",
-          "blandað efni"
-        ]
-      },
-      "searchText": "p-mál texti 1993 1993 magnús pálsson",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft",
-      "ownership": {
-        "owner": "owned by the artist",
-        "owner_is": "í eigu höfundar",
-        "owner_en": "owned by the artist"
-      }
-    },
-    {
       "id": "pappirsast-19656-1965",
       "title": {
         "en": "Paper love",
@@ -3230,84 +3173,6 @@
       }
     },
     {
-      "id": "polypoetry-festival-2006-2006",
-      "title": {
-        "en": "Polypoetry festival 2006",
-        "is": "Polypoetry festival 2006"
-      },
-      "year": 2006,
-      "dimensions": null,
-      "description": {
-        "en": "A work by Magnús Pálsson from 2006. This piece demonstrates his artistic exploration and creative practice during this period.",
-        "is": ""
-      },
-      "images": [
-        {
-          "url": "images/polypoetry-festival-2006-2006/medium/polypoetry-01-medium.jpg",
-          "caption": {
-            "en": "Polypoetry - view 1",
-            "is": ""
-          }
-        }
-      ],
-      "tags": [
-        "artwork",
-        "2006"
-      ],
-      "exhibitions": [],
-      "materials": {
-        "en": [
-          "audio",
-          "documentation"
-        ],
-        "is": [
-          "hljóð",
-          "documentation"
-        ]
-      },
-      "searchText": "polypoetry festival 2006 2006 magnús pálsson",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft"
-    },
-    {
-      "id": "retrospective-exhib-videos-1994-1994",
-      "title": {
-        "en": "Retrospective exhib. videos 1994",
-        "is": "Retrospective exhib. videos 1994"
-      },
-      "year": 1994,
-      "dimensions": null,
-      "description": {
-        "en": "A work by Magnús Pálsson from 1994. This piece demonstrates his artistic exploration and creative practice during this period.",
-        "is": ""
-      },
-      "images": [
-        {
-          "url": "images/retrospective-exhib-videos-1994-1994/medium/retrospective-01-medium.jpg",
-          "caption": {
-            "en": "Retrospective - view 1",
-            "is": ""
-          }
-        }
-      ],
-      "tags": [
-        "artwork",
-        "1994"
-      ],
-      "exhibitions": [],
-      "materials": {
-        "en": [
-          "video"
-        ],
-        "is": [
-          "myndband"
-        ]
-      },
-      "searchText": "retrospective exhib. videos 1994 1994 magnús pálsson",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft"
-    },
-    {
       "id": "mp-10",
       "title": {
         "en": "MP 10",
@@ -3504,7 +3369,32 @@
         "en": "",
         "is": ""
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/an-titils-gerdur/medium/an-titils-gerdur-01-medium.jpg",
+          "caption": {
+            "en": "detail view",
+            "is": "nánari mynd"
+          },
+          "thumbnail": "images/an-titils-gerdur/thumbs/an-titils-gerdur-01-thumb.jpg"
+        },
+        {
+          "url": "images/an-titils-gerdur/medium/an-titils-gerdur-02-medium.jpg",
+          "caption": {
+            "en": "at Gerður's home",
+            "is": "heima hjá Gerði"
+          },
+          "thumbnail": "images/an-titils-gerdur/thumbs/an-titils-gerdur-02-thumb.jpg"
+        },
+        {
+          "url": "images/an-titils-gerdur/medium/an-titils-gerdur-03-medium.jpg",
+          "caption": {
+            "en": "at Gerður's home (close-up)",
+            "is": "heima hjá Gerði (nánari)"
+          },
+          "thumbnail": "images/an-titils-gerdur/thumbs/an-titils-gerdur-03-thumb.jpg"
+        }
+      ],
       "tags": [
         "print",
         "1960s"
@@ -3526,7 +3416,8 @@
       },
       "series": "kál",
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "images complete",
+      "thumbnail": "images/an-titils-gerdur/thumbs/an-titils-gerdur-01-thumb.jpg"
     },
     {
       "id": "myrkur-darkness-solskin-photos-1977-1977",
@@ -4258,6 +4149,88 @@
       "mediaStatus": "images draft"
     },
     {
+      "id": "kal_series_1963_66",
+      "title": {
+        "en": "Cabbage (Kál) series",
+        "is": "Kál verkaflokkurinn"
+      },
+      "year": "1963-66",
+      "dimensions": "91 x 101 cm (each / hvert)",
+      "description": {
+        "en": "Series of large-scale silkscreen prints with hand-applied watercolour, produced in London 1963–66. The series consists of four main works (Kál I–IV) plus a fifth negative version and an untitled variant (at Gerður). Each print exists in multiple copies, individually hand-coloured, giving each copy a unique character. The prints were made using silk screens at Kelpra Studio in London with master printer Chris Prater.",
+        "is": "Verkaflokkur stórra silkiprentverka með handmáluðum vatnslitum, unnin í London 1963–66. Flokkurinn samanstendur af fjórum aðalverkum (Kál I–IV) auk fimmtu neikvæðrar útgáfu og ónefndrar afbrigðis (hjá Gerði). Hvert prent er til í mörgum eintökum, hvert um sig handlitað, sem gefur hverju eintaki sérstöðu. Prentin voru gerð með silkiþrykkjum hjá Kelpra Studio í London með meistara prentara Chris Prater."
+      },
+      "images": [
+        {
+          "url": "images/kal-1-1963/medium/kal-1-1963-spessi-01-medium.jpg",
+          "caption": {
+            "en": "The Kál series at the retrospective exhibition, 2020",
+            "is": "Kál verkaflokkurinn á yfirlitssýningunni, 2020"
+          },
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-1963-spessi-01-thumb.jpg",
+          "photographer": "Spessi",
+          "year": "2020",
+          "copyright": "© Spessi"
+        },
+        {
+          "url": "images/kal-1-1963/medium/kal-1-photo-15-medium.jpg",
+          "caption": {
+            "en": "three Kál works at Pétur Arason",
+            "is": "þrjú Kál verk hjá Pétri Arasyni"
+          },
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-15-thumb.jpg"
+        },
+        {
+          "url": "images/kal-1-1963/medium/kal-1-photo-16-medium.jpg",
+          "caption": {
+            "en": "at Listháskóli Íslands, January 2017",
+            "is": "í Listaháskóla Íslands, janúar 2017"
+          },
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-16-thumb.jpg"
+        },
+        {
+          "url": "images/kal-1-1963/medium/kal-1-photo-17-medium.jpg",
+          "caption": {
+            "en": "at Listháskóli Íslands, January 2017",
+            "is": "í Listaháskóla Íslands, janúar 2017"
+          },
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-17-thumb.jpg"
+        }
+      ],
+      "tags": [
+        "silkscreen",
+        "watercolor",
+        "print",
+        "series",
+        "London",
+        "Kelpra Studio",
+        "1960s"
+      ],
+      "exhibitions": [
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
+      ],
+      "materials": {
+        "en": [
+          "silkscreen print",
+          "watercolor on paper"
+        ],
+        "is": [
+          "silkiþrykk",
+          "vatnslitur á pappír"
+        ]
+      },
+      "searchText": "kál cabbage series verkaflokkur silkscreen silkiþrykk watercolor vatnslitur london kelpra studio chris prater 1963 1966",
+      "contentStatus": "complete",
+      "mediaStatus": "images complete",
+      "series": "kál",
+      "ownership": {
+        "owner": "various owners",
+        "owner_is": "ýmsir eigendur",
+        "owner_en": "various owners"
+      },
+      "thumbnail": "images/kal-1-1963/thumbs/kal-1-1963-spessi-01-thumb.jpg"
+    },
+    {
       "id": "kal-1-1963",
       "title": {
         "en": "Cabbage 1",
@@ -4271,15 +4244,116 @@
       },
       "images": [
         {
-          "url": "images/kal-1-1963/medium/kal-1-1963-spessi-01-medium.jpg",
+          "url": "images/kal-1-1963/medium/kal-1-photo-01-medium.jpg",
           "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
+            "en": "eigið þrykk",
+            "is": "eigið þrykk"
           },
-          "thumbnail": "images/kal-1-1963/thumbs/kal-1-1963-spessi-01-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020",
-          "copyright": "© Spessi"
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-01-thumb.jpg"
+        },
+        {
+          "url": "images/kal-1-1963/medium/kal-1-photo-02-medium.jpg",
+          "caption": {
+            "en": "signature detail / undirskrift",
+            "is": "undirskrift"
+          },
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-02-thumb.jpg"
+        },
+        {
+          "url": "images/kal-1-1963/medium/kal-1-photo-03-medium.jpg",
+          "caption": {
+            "en": "coloured copy, Árni Geir Magnússon",
+            "is": "lituð útgáfa, Árni Geir Magnússon"
+          },
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-03-thumb.jpg"
+        },
+        {
+          "url": "images/kal-1-1963/medium/kal-1-photo-04-medium.jpg",
+          "caption": {
+            "en": "uncoloured copy, Gutti",
+            "is": "unlituð útgáfa, Gutti"
+          },
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-04-thumb.jpg"
+        },
+        {
+          "url": "images/kal-1-1963/medium/kal-1-photo-05-medium.jpg",
+          "caption": {
+            "en": "copy owned by GG",
+            "is": "eintök í eigu GG"
+          },
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-05-thumb.jpg"
+        },
+        {
+          "url": "images/kal-1-1963/medium/kal-1-photo-06-medium.jpg",
+          "caption": {
+            "en": "copy owned by Árni Heiðar Karlsson",
+            "is": "eintök í eigu Árni Heiðar Karlsson"
+          },
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-06-thumb.jpg"
+        },
+        {
+          "url": "images/kal-1-1963/medium/kal-1-photo-07-medium.jpg",
+          "caption": {
+            "en": "at Háskóli Íslands, 2019",
+            "is": "í Háskóla Íslands, 2019"
+          },
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-07-thumb.jpg"
+        },
+        {
+          "url": "images/kal-1-1963/medium/kal-1-photo-08-medium.jpg",
+          "caption": {
+            "en": "copy owned by LÍ",
+            "is": "eintök í eigu LÍ"
+          },
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-08-thumb.jpg"
+        },
+        {
+          "url": "images/kal-1-1963/medium/kal-1-photo-09-medium.jpg",
+          "caption": {
+            "en": "copy owned by Tóta Sigga",
+            "is": "eintök í eigu Tóta Sigga"
+          },
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-09-thumb.jpg"
+        },
+        {
+          "url": "images/kal-1-1963/medium/kal-1-photo-10-medium.jpg",
+          "caption": {
+            "en": "copy owned by Steinþór Pálsson",
+            "is": "eintök í eigu Steinþór Pálsson"
+          },
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-10-thumb.jpg"
+        },
+        {
+          "url": "images/kal-1-1963/medium/kal-1-photo-11-medium.jpg",
+          "caption": {
+            "en": "copy owned by Steinþór Pálsson",
+            "is": "eintök í eigu Steinþór Pálsson"
+          },
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-11-thumb.jpg"
+        },
+        {
+          "url": "images/kal-1-1963/medium/kal-1-photo-12-medium.jpg",
+          "caption": {
+            "en": "copy owned by Páll Ásgeirsson, in USA",
+            "is": "eintök í eigu Páll Ásgeirsson, í Bandaríkjunum"
+          },
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-12-thumb.jpg"
+        },
+        {
+          "url": "images/kal-1-1963/medium/kal-1-photo-13-medium.jpg",
+          "caption": {
+            "en": "copy owned by Páll Ásgeirsson, in USA",
+            "is": "eintök í eigu Páll Ásgeirsson, í Bandaríkjunum"
+          },
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-13-thumb.jpg"
+        },
+        {
+          "url": "images/kal-1-1963/medium/kal-1-photo-14-medium.jpg",
+          "caption": {
+            "en": "copy owned by Páll Ásgeirsson, in USA",
+            "is": "eintök í eigu Páll Ásgeirsson, í Bandaríkjunum"
+          },
+          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-14-thumb.jpg"
         }
       ],
       "tags": [
@@ -4309,7 +4383,8 @@
         "owner": "various owners and the artist",
         "owner_is": "ýmsir, í eigu höfundar",
         "owner_en": "various owners and the artist"
-      }
+      },
+      "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-01-thumb.jpg"
     },
     {
       "id": "kal-2-1964",
@@ -4323,7 +4398,96 @@
         "en": "Part of the Kál (Cabbage) series. Watercolor and silkscreen on paper.",
         "is": "Hluti af Kál verkaflokknum. Vatnslitur og silkiþrykk á pappír."
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/kal-2-1964/medium/kal-2-photo-01-medium.jpg",
+          "caption": {
+            "en": "eigið þrykk",
+            "is": "eigið þrykk"
+          },
+          "thumbnail": "images/kal-2-1964/thumbs/kal-2-photo-01-thumb.jpg"
+        },
+        {
+          "url": "images/kal-2-1964/medium/kal-2-photo-02-medium.jpg",
+          "caption": {
+            "en": "signature detail / undirskrift",
+            "is": "undirskrift"
+          },
+          "thumbnail": "images/kal-2-1964/thumbs/kal-2-photo-02-thumb.jpg"
+        },
+        {
+          "url": "images/kal-2-1964/medium/kal-2-photo-03-medium.jpg",
+          "caption": {
+            "en": "copy owned by Gunngunn",
+            "is": "eintök í eigu Gunngunn"
+          },
+          "thumbnail": "images/kal-2-1964/thumbs/kal-2-photo-03-thumb.jpg"
+        },
+        {
+          "url": "images/kal-2-1964/medium/kal-2-photo-04-medium.jpg",
+          "caption": {
+            "en": "copy owned by Inga Sigga",
+            "is": "eintök í eigu Inga Sigga"
+          },
+          "thumbnail": "images/kal-2-1964/thumbs/kal-2-photo-04-thumb.jpg"
+        },
+        {
+          "url": "images/kal-2-1964/medium/kal-2-photo-05-medium.jpg",
+          "caption": {
+            "en": "copy owned by Magnús Karlsson",
+            "is": "eintök í eigu Magnús Karlsson"
+          },
+          "thumbnail": "images/kal-2-1964/thumbs/kal-2-photo-05-thumb.jpg"
+        },
+        {
+          "url": "images/kal-2-1964/medium/kal-2-photo-06-medium.jpg",
+          "caption": {
+            "en": "copy at Safnasafnið, NH",
+            "is": "eintök á Safnasafninu, NH"
+          },
+          "thumbnail": "images/kal-2-1964/thumbs/kal-2-photo-06-thumb.jpg"
+        },
+        {
+          "url": "images/kal-2-1964/medium/kal-2-photo-07-medium.jpg",
+          "caption": {
+            "en": "copy owned by Niels H",
+            "is": "eintök í eigu Niels H"
+          },
+          "thumbnail": "images/kal-2-1964/thumbs/kal-2-photo-07-thumb.jpg"
+        },
+        {
+          "url": "images/kal-2-1964/medium/kal-2-photo-08-medium.jpg",
+          "caption": {
+            "en": "copy owned by Pétur Arason",
+            "is": "eintök í eigu Pétur Arason"
+          },
+          "thumbnail": "images/kal-2-1964/thumbs/kal-2-photo-08-thumb.jpg"
+        },
+        {
+          "url": "images/kal-2-1964/medium/kal-2-photo-09-medium.jpg",
+          "caption": {
+            "en": "copy owned by Sverrir Kristinsson",
+            "is": "eintök í eigu Sverrir Kristinsson"
+          },
+          "thumbnail": "images/kal-2-1964/thumbs/kal-2-photo-09-thumb.jpg"
+        },
+        {
+          "url": "images/kal-2-1964/medium/kal-2-photo-10-medium.jpg",
+          "caption": {
+            "en": "copy owned by Veiga",
+            "is": "eintök í eigu Veiga"
+          },
+          "thumbnail": "images/kal-2-1964/thumbs/kal-2-photo-10-thumb.jpg"
+        },
+        {
+          "url": "images/kal-2-1964/medium/kal-2-photo-11-medium.jpg",
+          "caption": {
+            "en": "copy owned by Veiga (detail)",
+            "is": "eintök í eigu Veiga (smáatriði)"
+          },
+          "thumbnail": "images/kal-2-1964/thumbs/kal-2-photo-11-thumb.jpg"
+        }
+      ],
       "tags": [
         "painting",
         "watercolor",
@@ -4351,7 +4515,8 @@
         "owner": "various owners and the artist",
         "owner_is": "ýmsir, í eigu höfundar",
         "owner_en": "various owners and the artist"
-      }
+      },
+      "thumbnail": "images/kal-2-1964/thumbs/kal-2-photo-01-thumb.jpg"
     },
     {
       "id": "kal-3-1965",
@@ -4365,7 +4530,136 @@
         "en": "Part of the Kál (Cabbage) series. Watercolor and silkscreen on paper.",
         "is": "Hluti af Kál verkaflokknum. Vatnslitur og silkiþrykk á pappír."
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/kal-3-1965/medium/kal-3-photo-01-medium.jpg",
+          "caption": {
+            "en": "copy owned by VF",
+            "is": "eintök í eigu VF"
+          },
+          "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-01-thumb.jpg"
+        },
+        {
+          "url": "images/kal-3-1965/medium/kal-3-photo-02-medium.jpg",
+          "caption": {
+            "en": "signature detail, VF",
+            "is": "undirskrift, VF"
+          },
+          "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-02-thumb.jpg"
+        },
+        {
+          "url": "images/kal-3-1965/medium/kal-3-photo-03-medium.jpg",
+          "caption": {
+            "en": "copy owned by ASG",
+            "is": "eintök í eigu ASG"
+          },
+          "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-03-thumb.jpg"
+        },
+        {
+          "url": "images/kal-3-1965/medium/kal-3-photo-04-medium.jpg",
+          "caption": {
+            "en": "copy owned by DP",
+            "is": "eintök í eigu DP"
+          },
+          "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-04-thumb.jpg"
+        },
+        {
+          "url": "images/kal-3-1965/medium/kal-3-photo-05-medium.jpg",
+          "caption": {
+            "en": "copy owned by DP (detail)",
+            "is": "eintök í eigu DP (smáatriði)"
+          },
+          "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-05-thumb.jpg"
+        },
+        {
+          "url": "images/kal-3-1965/medium/kal-3-photo-06-medium.jpg",
+          "caption": {
+            "en": "copy owned by Gerður",
+            "is": "eintök í eigu Gerður"
+          },
+          "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-06-thumb.jpg"
+        },
+        {
+          "url": "images/kal-3-1965/medium/kal-3-photo-07-medium.jpg",
+          "caption": {
+            "en": "copy owned by GG",
+            "is": "eintök í eigu GG"
+          },
+          "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-07-thumb.jpg"
+        },
+        {
+          "url": "images/kal-3-1965/medium/kal-3-photo-08-medium.jpg",
+          "caption": {
+            "en": "copy owned by LÍ",
+            "is": "eintök í eigu LÍ"
+          },
+          "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-08-thumb.jpg"
+        },
+        {
+          "url": "images/kal-3-1965/medium/kal-3-photo-09-medium.jpg",
+          "caption": {
+            "en": "copy owned by Pétur Arason",
+            "is": "eintök í eigu Pétur Arason"
+          },
+          "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-09-thumb.jpg"
+        },
+        {
+          "url": "images/kal-3-1965/medium/kal-3-photo-10-medium.jpg",
+          "caption": {
+            "en": "copy owned by Ragga & Frikki",
+            "is": "eintök í eigu Ragga & Frikki"
+          },
+          "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-10-thumb.jpg"
+        },
+        {
+          "url": "images/kal-3-1965/medium/kal-3-photo-11-medium.jpg",
+          "caption": {
+            "en": "copy owned by Ragga & Frikki",
+            "is": "eintök í eigu Ragga & Frikki"
+          },
+          "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-11-thumb.jpg"
+        },
+        {
+          "url": "images/kal-3-1965/medium/kal-3-photo-12-medium.jpg",
+          "caption": {
+            "en": "copy owned by Ragga & Frikki",
+            "is": "eintök í eigu Ragga & Frikki"
+          },
+          "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-12-thumb.jpg"
+        },
+        {
+          "url": "images/kal-3-1965/medium/kal-3-photo-13-medium.jpg",
+          "caption": {
+            "en": "copy owned by Ragga & Frikki",
+            "is": "eintök í eigu Ragga & Frikki"
+          },
+          "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-13-thumb.jpg"
+        },
+        {
+          "url": "images/kal-3-1965/medium/kal-3-photo-14-medium.jpg",
+          "caption": {
+            "en": "copy owned by Ragga & Frikki",
+            "is": "eintök í eigu Ragga & Frikki"
+          },
+          "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-14-thumb.jpg"
+        },
+        {
+          "url": "images/kal-3-1965/medium/kal-3-photo-15-medium.jpg",
+          "caption": {
+            "en": "with Vera G",
+            "is": "með Veru G"
+          },
+          "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-15-thumb.jpg"
+        },
+        {
+          "url": "images/kal-3-1965/medium/kal-3-photo-16-medium.jpg",
+          "caption": {
+            "en": "with Vera G",
+            "is": "með Veru G"
+          },
+          "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-16-thumb.jpg"
+        }
+      ],
       "tags": [
         "painting",
         "watercolor",
@@ -4393,7 +4687,8 @@
         "owner": "various owners and the artist",
         "owner_is": "ýmsir, í eigu höfundar",
         "owner_en": "various owners and the artist"
-      }
+      },
+      "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-01-thumb.jpg"
     },
     {
       "id": "kal-4-1966",
@@ -4407,7 +4702,40 @@
         "en": "Part of the Kál (Cabbage) series. Watercolor and silkscreen on paper.",
         "is": "Hluti af Kál verkaflokknum. Vatnslitur og silkiþrykk á pappír."
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/kal-4-1966/medium/kal-4-photo-01-medium.jpg",
+          "caption": {
+            "en": "eigið þrykk",
+            "is": "eigið þrykk"
+          },
+          "thumbnail": "images/kal-4-1966/thumbs/kal-4-photo-01-thumb.jpg"
+        },
+        {
+          "url": "images/kal-4-1966/medium/kal-4-photo-02-medium.jpg",
+          "caption": {
+            "en": "copy owned by GG",
+            "is": "eintök í eigu GG"
+          },
+          "thumbnail": "images/kal-4-1966/thumbs/kal-4-photo-02-thumb.jpg"
+        },
+        {
+          "url": "images/kal-4-1966/medium/kal-4-photo-03-medium.jpg",
+          "caption": {
+            "en": "copy owned by Katrín G",
+            "is": "eintök í eigu Katrín G"
+          },
+          "thumbnail": "images/kal-4-1966/thumbs/kal-4-photo-03-thumb.jpg"
+        },
+        {
+          "url": "images/kal-4-1966/medium/kal-4-photo-04-medium.jpg",
+          "caption": {
+            "en": "signature detail, Katrín G",
+            "is": "undirskrift, Katrín G"
+          },
+          "thumbnail": "images/kal-4-1966/thumbs/kal-4-photo-04-thumb.jpg"
+        }
+      ],
       "tags": [
         "painting",
         "watercolor",
@@ -4435,7 +4763,8 @@
         "owner": "various owners and the artist",
         "owner_is": "ýmsir, í eigu höfundar",
         "owner_en": "various owners and the artist"
-      }
+      },
+      "thumbnail": "images/kal-4-1966/thumbs/kal-4-photo-01-thumb.jpg"
     },
     {
       "id": "kross-2013-performance-2013",
@@ -4917,78 +5246,134 @@
       "year": 1996,
       "dimensions": null,
       "description": {
-        "en": "A work by Magnús Pálsson from 1996. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career.",
-        "is": ""
+        "en": "MAPANIPIFEPESTOPO is MANIFESTO in P-language (P-mal), the Icelandic language game where each vowel is replaced by the vowel + p + the vowel (a becomes apa, i becomes ipi, etc.).\n\nCreated for the OFFSIDE exhibition at Kunstquartier Bethanien in Bergen, Norway in 1996, the installation consisted of approximately 200 hard-boiled eggs stuck on thin nails protruding from the walls, three portable cassette decks playing the P-language text, and photocopied A4 sheets. The text itself is a manifesto on Nordic identity, asking: What is the common Nordic? It describes love for mountains, forests, streams, glaciers, rough terrain, and the hardy self-sufficient spirit. The manifesto ends with the ironic note: \"But do not lose any sleep over the Nordic identity.\"\n\nMagnus Palsson wrote to the exhibition organiser Per Gunnar Tverbakk: \"The title of my work will be MAPANIPIFEPESTOPO which is MANIFESTO in P-language. I like to work with this language and have often done so in the past.\"",
+        "is": "MAPANIPIFEPESTOPO er MANIFESTO a P-mali, islenskum tungumalaleik thar sem serhljodi er skipt ut fyrir serhljodann + p + serhljodann (a verdur apa, i verdur ipi o.s.frv.).\n\nVerkid var skapad fyrir OFFSIDE syninguna i Bergen i Noregi arid 1996. Innsetningin samanstod af um tveimur hundrud sodudum eggjum sem voru stungid a tunna negla ut ur veggjum, thremur snidhrislu-spilurum med P-mals textanum og ljosritudum A4 blodsum. Sjalfur textinn er manifesto um norraenan sjalfskilning og spyr: Hva er det fellesnordiske? Hann lysir astarudu vid fjoll, skoga, laeki, jokla, hrutt landslag og throskan sjalfsbjargar manninn. Manifestoid endar med kaldhaedinni: \"But do not loose any sleep over the nordic identity.\"\n\nMagnus Palsson skrifadi skipuleggjandanum Per Gunnar Tverbakk: \"The title of my work will be MAPANIPIFEPESTOPO which is MANIFESTO in P-language. I like to work with this language and have often done so in the past.\""
       },
       "images": [
         {
+          "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-pgt-02-medium.jpg",
+          "caption": {
+            "en": "Installation view with eggs spelling text and cassette players on floor, OFFSIDE Bergen 1996",
+            "is": "Innsetning med eggjum sem mynda texta og snildum a golfi, OFFSIDE Bergen 1996"
+          },
+          "thumbnail": "images/manifesto-bergen-offside-exhibition-1996-1996/thumbs/manifesto-pgt-02-thumb.jpg",
+          "photographer": "Per Gunnar Tverbakk"
+        },
+        {
+          "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-pgt-03-medium.jpg",
+          "caption": {
+            "en": "Detail: P-language text on A4 sheets with eggs on nails, letters on eggs",
+            "is": "Nanatriedi: P-mals texti a A4 blodum med eggjum a neglum, bokstafir a eggjum"
+          },
+          "thumbnail": "images/manifesto-bergen-offside-exhibition-1996-1996/thumbs/manifesto-pgt-03-thumb.jpg",
+          "photographer": "Per Gunnar Tverbakk"
+        },
+        {
+          "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-pgt-04-medium.jpg",
+          "caption": {
+            "en": "Installation view: eggs forming letters with photocopied sheets",
+            "is": "Innsetning: egg mynda bokstafi med ljosritudum blodum"
+          },
+          "thumbnail": "images/manifesto-bergen-offside-exhibition-1996-1996/thumbs/manifesto-pgt-04-thumb.jpg",
+          "photographer": "Per Gunnar Tverbakk"
+        },
+        {
+          "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-pgt-05-medium.jpg",
+          "caption": {
+            "en": "Detail: eggs with letters on nails, P-language text sheets",
+            "is": "Nanatriedi: egg med bokstofum a neglum, P-mals textablaed"
+          },
+          "thumbnail": "images/manifesto-bergen-offside-exhibition-1996-1996/thumbs/manifesto-pgt-05-thumb.jpg",
+          "photographer": "Per Gunnar Tverbakk"
+        },
+        {
+          "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-pgt-01-medium.jpg",
+          "caption": {
+            "en": "Slide of installation, OFFSIDE Bergen 1996",
+            "is": "Skyggnumynd af innsetningu, OFFSIDE Bergen 1996"
+          },
+          "thumbnail": "images/manifesto-bergen-offside-exhibition-1996-1996/thumbs/manifesto-pgt-01-thumb.jpg",
+          "photographer": "Per Gunnar Tverbakk"
+        },
+        {
           "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-01-medium.jpg",
           "caption": {
-            "en": "Manifesto - view 1",
-            "is": ""
+            "en": "P-language text of the manifesto",
+            "is": "P-mals texti manifestosins"
           }
         },
         {
           "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-02-medium.jpg",
           "caption": {
-            "en": "Manifesto - view 2",
-            "is": ""
+            "en": "Letter to Per Gunnar Tverbakk with installation requirements, 17.5.96",
+            "is": "Bref til Per Gunnar Tverbakk med upplysingum um uppsetningu, 17.5.96"
           }
         },
         {
           "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-03-medium.jpg",
           "caption": {
-            "en": "Manifesto - view 3",
-            "is": ""
+            "en": "Installation sketch",
+            "is": "Uppsetningarskissa"
           }
         },
         {
           "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-04-medium.jpg",
           "caption": {
-            "en": "Manifesto - view 4",
-            "is": ""
+            "en": "Cassette tape: Mapanipifepestopo '96",
+            "is": "Snallda: Mapanipifepestopo '96"
           }
         },
         {
           "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-05-medium.jpg",
           "caption": {
-            "en": "Manifesto - view 5",
-            "is": ""
+            "en": "Letter explaining the P-language title, 12.5.96",
+            "is": "Bref thar sem P-mals titillinn er utskyrdur, 12.5.96"
           }
         },
         {
           "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-06-medium.jpg",
           "caption": {
-            "en": "Manifesto - view 6",
-            "is": ""
+            "en": "The manifesto text on Nordic identity (Norwegian)",
+            "is": "Manifesto-textinn um norraenan sjalfskilning (norska)"
           }
         },
         {
           "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-07-medium.jpg",
           "caption": {
-            "en": "Manifesto - view 7",
-            "is": ""
+            "en": "Installation sketch with eggs and P-language wall text",
+            "is": "Uppsetningarskissa med eggjum og P-mals veggtexta"
           }
         }
       ],
+      "thumbnail": "images/manifesto-bergen-offside-exhibition-1996-1996/thumbs/manifesto-pgt-02-thumb.jpg",
       "tags": [
-        "artwork",
-        "1996"
+        "installation",
+        "text",
+        "voice",
+        "language",
+        "P-language",
+        "sound",
+        "Nordic identity",
+        "1990s"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "text",
-          "paper",
-          "balls"
+          "hard-boiled eggs",
+          "nails",
+          "cassette tapes",
+          "photocopied text",
+          "installation"
         ],
         "is": [
-          "texti",
-          "pappír",
-          "kúlur"
+          "sodin egg",
+          "neglar",
+          "hljodsnildur",
+          "ljosritadur texti",
+          "innsetning"
         ]
       },
-      "searchText": "manifesto bergen offside exhibition 1996 1996 magnús pálsson",
+      "searchText": "manifesto mapanipifepestopo p-mal p-language bergen offside 1996 nordic identity eggs installation voice text magnus palsson",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -7673,74 +8058,218 @@
       "year": 2005,
       "dimensions": null,
       "description": {
-        "en": "PLACEHOLDER: Work from 2005 in Keflavik featuring opening events and documentation. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this Keflavik work.",
-        "is": ""
+        "en": "Multimedia installation at Suðsuðvestur gallery in Keflavík, 22 January – 13 February 2005. The exhibition featured video projections of surf by Steinþór Birgisson, poetry readings by Eyvindur Erlendsson, Hafliði Magnússon, Karl Guðmundsson, and Kristbjörg Kjeld, and a cement mixer (steypuhrærivél) that ran continuously during the exhibition with its accompanying sounds. Suðsuðvestur was an independent exhibition space in Keflavík run by Inga Þórey Jóhannsdóttir and Thelma Björk Jóhannsdóttir.",
+        "is": "Margmiðlunarinnsetning í Suðsuðvestur í Keflavík, 22. janúar – 13. febrúar 2005. Sýningin innihélt myndvarpa af brimi eftir Steinþór Birgisson, ljóðalestur eftir Eyvind Erlendsson, Hafliða Magnússon, Karl Guðmundsson og Kristbjörgu Kjeld, og steypuhrærivél sem var í stöðugum gangi á sýningunni með tilheyrandi hljóðum. Suðsuðvestur var sjálfstæður sýningarstaður í Keflavík á vegum Ingu Þóreyjar Jóhannsdóttur og Thelmu Bjarkar Jóhannsdóttur."
       },
       "images": [
         {
-          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-01-medium.jpg",
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-15-medium.jpg",
           "caption": {
-            "en": "Brim - Page 1 documentation [NEEDS REVIEW]",
-            "is": ""
+            "en": "Installation view with video projections",
+            "is": "Innsetning med myndvarpsskjam"
           },
-          "photographer": "Unknown",
-          "year": "2005",
-          "copyright": "© Estate of Magnús Pálsson"
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-15-thumb.jpg"
         },
         {
-          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-02-medium.jpg",
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-16-medium.jpg",
           "caption": {
-            "en": "Brim - Opening event [NEEDS REVIEW]",
-            "is": ""
+            "en": "Installation view with surf projection and reading",
+            "is": "Innsetning med brimvarpsskja og lestri"
           },
-          "photographer": "Unknown",
-          "year": "2005",
-          "copyright": "© Estate of Magnús Pálsson"
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-16-thumb.jpg"
         },
         {
-          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-03-medium.jpg",
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-17-medium.jpg",
           "caption": {
-            "en": "Brim - Event documentation [NEEDS REVIEW]",
-            "is": ""
+            "en": "Installation view",
+            "is": "Innsetning"
           },
-          "photographer": "Unknown",
-          "year": "2005",
-          "copyright": "© Estate of Magnús Pálsson"
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-17-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-04-medium.jpg",
+          "caption": {
+            "en": "Rest area for the fat and illegal (Hvildarsvædi feitra og ologulegra)",
+            "is": "Hvildarsvædi feitra og ologulegra"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-04-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-21-medium.jpg",
+          "caption": {
+            "en": "Opening event",
+            "is": "Opnun"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-21-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-05-medium.jpg",
+          "caption": {
+            "en": "Installation detail",
+            "is": "Nanatriedi"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-05-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-06-medium.jpg",
+          "caption": {
+            "en": "Installation detail",
+            "is": "Nanatriedi"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-06-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-07-medium.jpg",
+          "caption": {
+            "en": "Video projection of surf",
+            "is": "Myndvarp af brimi"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-07-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-08-medium.jpg",
+          "caption": {
+            "en": "Cement mixer (steypuhrærivél) running continuously during the exhibition",
+            "is": "Steypuhrærivél í gangi á sýningunni"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-08-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-09-medium.jpg",
+          "caption": {
+            "en": "Installation detail",
+            "is": "Nanatriedi"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-09-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-10-medium.jpg",
+          "caption": {
+            "en": "Installation view",
+            "is": "Innsetning"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-10-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-11-medium.jpg",
+          "caption": {
+            "en": "Installation detail",
+            "is": "Nanatriedi"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-11-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-12-medium.jpg",
+          "caption": {
+            "en": "Installation view with projections",
+            "is": "Innsetning med myndvorpum"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-12-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-13-medium.jpg",
+          "caption": {
+            "en": "Installation view",
+            "is": "Innsetning"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-13-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-14-medium.jpg",
+          "caption": {
+            "en": "Installation detail",
+            "is": "Nanatriedi"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-14-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-18-medium.jpg",
+          "caption": {
+            "en": "Installation detail",
+            "is": "Nanatriedi"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-18-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-19-medium.jpg",
+          "caption": {
+            "en": "Installation view",
+            "is": "Innsetning"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-19-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-20-medium.jpg",
+          "caption": {
+            "en": "Installation detail",
+            "is": "Nanatriedi"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-20-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-01-medium.jpg",
+          "caption": {
+            "en": "Exhibition documentation page 1",
+            "is": "Syningarskjal bls. 1"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-01-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-02-medium.jpg",
+          "caption": {
+            "en": "Exhibition documentation pages 2-3",
+            "is": "Syningarskjal bls. 2-3"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-02-thumb.jpg"
+        },
+        {
+          "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-03-medium.jpg",
+          "caption": {
+            "en": "Exhibition documentation page 4",
+            "is": "Syningarskjal bls. 4"
+          },
+          "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-03-thumb.jpg"
         }
       ],
       "tags": [
-        "brim",
+        "installation",
+        "video",
+        "sound",
+        "poetry",
+        "multimedia",
+        "cement mixer",
+        "surf",
         "keflavik",
-        "opening",
-        "event",
-        "2000s",
-        "PLACEHOLDER - needs review"
+        "2000s"
       ],
       "exhibitions": [
         "brim-surf-2005"
       ],
       "materials": {
         "en": [
-          "performance",
-          "video",
-          "household objects",
+          "video projection",
+          "sound",
+          "cement mixer",
+          "poetry reading",
           "mixed media"
         ],
         "is": [
-          "gjörningur",
-          "vídeó",
-          "heimilistæki",
+          "myndvarp",
+          "hljóð",
+          "steypuhrærivél",
+          "ljóðalestur",
           "blandað efni"
         ]
       },
-      "searchText": "brim keflavik opening event 2005 magnús pálsson placeholder needs review",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft",
+      "searchText": "brim surf suðsuðvestur keflavík 2005 installation video sound poetry cement mixer steypuhrærivél steinþór birgisson eyvindur erlendsson hafliði magnússon karl guðmundsson kristbjörg kjeld myndvarp ljóðalestur blandað efni",
+      "contentStatus": "complete",
+      "mediaStatus": "images complete",
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-08-thumb.jpg"
     },
     {
       "id": "buxnaskalm_tota_sigga_1968",
