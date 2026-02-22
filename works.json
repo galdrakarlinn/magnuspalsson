@@ -7245,32 +7245,20 @@
       },
       "images": [
         {
+          "url": "images/aevintyr-folktale-1997/medium/aevintyr-listhatid-07-medium.jpg",
+          "caption": {
+            "en": "Reykjavík Arts Festival, 2013. Photo: Greipur Gíslason",
+            "is": "Listahátíð í Reykjavík, 2013. Ljósmynd: Greipur Gíslason"
+          },
+          "thumbnail": "images/aevintyr-folktale-1997/thumbs/aevintyr-listhatid-07-thumb.jpg"
+        },
+        {
           "url": "images/aevintyr-folktale-1997/aevintyr-1997-preview.mp4",
           "caption": {
             "en": "Ævintýr/Folktale - video documentation, Nýlistasafnið 1997 (1 minute preview)",
             "is": "Ævintýr - myndbandsupptaka, Nýlistasafnið 1997 (1 mínútu sýnishorn)"
           },
           "thumbnail": "images/aevintyr-folktale-1997/thumbs/aevintyr-video-thumb.jpg"
-        },
-        {
-          "url": "images/aevintyr-folktale-1997/medium/aevintyr-folktale-1997-01-medium.jpg",
-          "caption": {
-            "en": "Ævintyr (Folktale) - Image 1 [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1997",
-          "copyright": "© Estate of Magnús Pálsson"
-        },
-        {
-          "url": "images/aevintyr-folktale-1997/medium/aevintyr-folktale-1997-02-medium.jpg",
-          "caption": {
-            "en": "Ævintyr (Folktale) - Image 2 [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1997",
-          "copyright": "© Estate of Magnús Pálsson"
         },
         {
           "url": "images/aevintyr-folktale-1997/medium/aevintyr-03-medium.jpg",
@@ -7287,22 +7275,6 @@
             "is": "Gjörningur með hljóðfæraleikurum á Nýlistasafninu, 1997"
           },
           "thumbnail": "images/aevintyr-folktale-1997/thumbs/aevintyr-04-thumb.jpg"
-        },
-        {
-          "url": "images/aevintyr-folktale-1997/medium/aevintyr-05-medium.jpg",
-          "caption": {
-            "en": "Exhibition catalog listing, Nýlistasafnið 1997",
-            "is": "Sýningaskráning, Nýlistasafnið 1997"
-          },
-          "thumbnail": "images/aevintyr-folktale-1997/thumbs/aevintyr-05-thumb.jpg"
-        },
-        {
-          "url": "images/aevintyr-folktale-1997/medium/aevintyr-listhatid-07-medium.jpg",
-          "caption": {
-            "en": "Reykjavík Arts Festival, 2013. Photo: Greipur Gíslason",
-            "is": "Listahátíð í Reykjavík, 2013. Ljósmynd: Greipur Gíslason"
-          },
-          "thumbnail": "images/aevintyr-folktale-1997/thumbs/aevintyr-listhatid-07-thumb.jpg"
         },
         {
           "url": "images/aevintyr-folktale-1997/medium/aevintyr-listhatid-08-medium.jpg",
