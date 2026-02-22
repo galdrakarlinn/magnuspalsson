@@ -781,7 +781,7 @@ class WorksManager {
               <p class="image-caption">${media.caption}</p>
               ${media.photographer || media.copyright ? `
                 <p class="photo-credit">
-                  ${media.photographer ? `Photo: ${media.photographer}${media.year ? `, ${media.year}` : ''}` : ''}
+                  ${media.photographer ? `Photo: ${media.photographer}` : ''}
                   ${media.photographer && media.copyright ? '<br>' : ''}
                   ${media.copyright ? `${media.copyright}` : ''}
                 </p>
