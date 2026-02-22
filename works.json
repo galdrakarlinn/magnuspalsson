@@ -1835,7 +1835,8 @@
       "ownership": {
         "owner": "Nýlistasafnið (The Living Art Museum)",
         "url": "https://sarpur.is/is/collection/item/599420/",
-        "catalogNumber": "N-1317"
+        "catalogNumber": "N-1317",
+        "owner_is": "Nýlistasafnið"
       },
       "relatedWorks": [
         "veggfodur-ferd-reise-1965"
@@ -5879,7 +5880,8 @@
       "ownership": {
         "owner": "Nýlistasafnið (The Living Art Museum)",
         "url": "https://sarpur.is/is/collection/item/599418/",
-        "catalogNumber": "N-1812"
+        "catalogNumber": "N-1812",
+        "owner_is": "Nýlistasafnið"
       },
       "relatedWorks": [
         "kuplingsdiskur-clutch-disc-1999-1999"
@@ -13357,7 +13359,8 @@
       },
       "ownership": {
         "owner": "Íslandsbanki",
-        "notes": "Institutional artwork created within and owned by the bank"
+        "notes": "Institutional artwork created within and owned by the bank",
+        "owner_is": "Íslandsbanki"
       },
       "searchText": "jónsmessunótt bank piece institutional critique banking íslandsbanki corporate intervention midsummer 1982 magnús pálsson corporate collection",
       "contentStatus": "draft",
@@ -16014,7 +16017,8 @@
       "ownership": {
         "owner": "Snælandsskóli, Kópavogur",
         "url": "https://gerdarsafn.kopavogur.is/artwork/sagan-um-karlsson-litil-tritil-og-fuglana/",
-        "notes": "Located at Snælandsskóli, Kópavogur"
+        "notes": "Located at Snælandsskóli, Kópavogur",
+        "owner_is": "Snælandsskóli, Kópavogur"
       },
       "searchText": "lítill trítill litill tritill karlsson fuglarnir birds hungarian fairy tale ceramic sculpture snælandsskóli kópavogur public art 1985 2015 magnús pálsson",
       "contentStatus": "draft",

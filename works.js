@@ -732,7 +732,12 @@ class WorksManager {
     const translatedWork = this.getTranslatedWork(work);
 
     // Use ownership from work.json if available, otherwise fall back to legacy map
-    const ownership = translatedWork.ownership || this.getOwnershipInfo(workId);
+    const ownershipRaw = translatedWork.ownership || this.getOwnershipInfo(workId);
+    // Resolve localized owner name
+    const ownership = ownershipRaw ? {
+      ...ownershipRaw,
+      owner: (this.getCurrentLanguage() === 'is' && ownershipRaw.owner_is) ? ownershipRaw.owner_is : (ownershipRaw.owner_en || ownershipRaw.owner)
+    } : null;
     const modalBody = document.getElementById('modal-body');
     
     // Reset modal scroll position to top
