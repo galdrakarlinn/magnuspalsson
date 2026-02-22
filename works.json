@@ -9370,10 +9370,10 @@
         "is": "Fláða kanínan og aðrir draumar"
       },
       "year": 2005,
-      "dimensions": null,
+      "dimensions": "20.5 x 14.5 cm",
       "description": {
-        "en": "PLACEHOLDER: Berlin work from 2005 involving Dreams, Skinned Rabbit, and Bookie Wookie elements. Features collaborations and audio components. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this Berlin project.",
-        "is": ""
+        "en": "A book of dreams told to Magnús Pálsson by 25 people. Soft cover with dust jacket, 52 pages. Contains a CD with a recording of almost 41 minutes of the dreams read aloud and mixed with different bits of dreamy music. Sound processing by Steinþór Birgisson and Rod Summers. Cover image for CD and book by Rod Summers. Edition of 250, published by Boekie Woekie, Amsterdam 2005.",
+        "is": "Bók um drauma sem 25 manns sögðu Magnúsi Pálssyni. Mjúk kápa með umslagi, 52 blaðsíður. Með bókinni fylgir geisladiskur með nærri 41 mínútna upptöku þar sem draumarnir eru lesnir upp og blandaðir saman við ýmsa draumkennda tónlist. Hljóðvinnsla: Steinþór Birgisson og Rod Summers. Forsíðumynd á geisladisk og bók eftir Rod Summers. Upplag 250, gefin út af Boekie Woekie, Amsterdam 2005."
       },
       "images": [
         {
@@ -9401,29 +9401,15 @@
         }
       ],
       "tags": [
-        "dreams",
-        "skinned rabbit",
-        "bookie wookie",
-        "berlin",
-        "collaboration",
-        "jan",
+        "book",
+        "artist book",
+        "CD",
         "audio",
-        "2000s",
-        "PLACEHOLDER - needs review"
+        "dreams",
+        "Boekie Woekie",
+        "Amsterdam"
       ],
       "exhibitions": [
-        {
-          "title": {
-            "en": "Dreams Skinned Rabbit Bookie Wookie",
-            "is": "Dreams Skinned Rabbit Bookie Wookie"
-          },
-          "venue": {
-            "en": "PLACEHOLDER - Berlin Venue [NEEDS RESEARCH]",
-            "is": "PLACEHOLDER - Berlin Venue [NEEDS RESEARCH]"
-          },
-          "location": "Berlin",
-          "year": 2005
-        },
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
