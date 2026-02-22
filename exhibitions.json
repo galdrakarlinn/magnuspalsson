@@ -1972,6 +1972,23 @@
       "location": "Norway"
     },
     {
+      "id": "borealis-ii-position-north-1985",
+      "year": "1985",
+      "title": {
+        "en": "Borealis II: Position North",
+        "is": "Borealis II: Position North"
+      },
+      "venue": {
+        "en": "Henie Onstad Kunstsenter",
+        "is": "Henie Onstad Kunstsenter"
+      },
+      "location": "Høvikodden, Norway",
+      "notes": {
+        "en": "June 23 – September 15, 1985. Outdoor sculpture exhibition in the landscape at Henie Onstad Art Center, curated by Per Hovdenakk and Maaretta Jaukkuri. Twenty invited artists — ten from Nordic countries and ten from elsewhere. Magnús Pálsson exhibited the sound environment 'The Moraga Legend' with 10 loudspeakers mounted on trees. The exhibition was characterized by a free approach to different stylistic and historical elements, reflecting postmodern sensibilities. Catalogue published by Nordic Arts Centre, Helsinki (ISBN 9519575634).",
+        "is": "23. júní – 15. september 1985. Útisýning á höggmyndum og umhverfislistverkum á Henie Onstad Kunstsenter, undir stjórn Per Hovdenakk og Maaretta Jaukkuri. Tuttugu listamenn boðnir — tíu frá Norðurlöndum og tíu aðrir. Magnús Pálsson sýndi hljóðumhverfið 'The Moraga Legend' með 10 hátalerum festum á tré. Sýningin einkennist af frjálsri nálgun á mismunandi stíl- og sögulega þætti. Sýningarskrá gefin út af Nordic Arts Centre, Helsinki (ISBN 9519575634)."
+      }
+    },
+    {
       "id": "iceland-the-art-revealed-1984",
       "year": "1984",
       "title": {
