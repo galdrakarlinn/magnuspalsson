@@ -6694,6 +6694,15 @@
       },
       "images": [
         {
+          "url": "images/thyrlulending/medium/thyrlulending-lr-09-medium.jpg",
+          "caption": {
+            "en": "Þyrlulending at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Þyrlulending á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/thyrlulending/thumbs/thyrlulending-lr-09-thumb.jpg",
+          "photographer": "Pétur Thomsen"
+        },
+        {
           "url": "images/thyrlulending/medium/thyrlulending-documentation-medium.jpg",
           "caption": {
             "en": "Thyrlulending Documentation",
@@ -6748,16 +6757,6 @@
             "en": "Thyrlulending Mp02 Web",
             "is": ""
           }
-        },
-        {
-          "url": "images/thyrlulending/medium/thyrlulending-lr-09-medium.jpg",
-          "caption": {
-            "en": "Þyrlulending at retrospective, Listasafn Reykjavíkur 2019",
-            "is": "Þyrlulending á yfirlitssýningu, Listasafn Reykjavíkur 2019"
-          },
-          "thumbnail": "images/thyrlulending/thumbs/thyrlulending-lr-09-thumb.jpg",
-          "year": "2019",
-          "photographer": "Pétur Thomsen"
         },
         {
           "url": "images/thyrlulending/medium/thyrlulending-lr-10-medium.jpg",
