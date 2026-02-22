@@ -3241,40 +3241,6 @@
       }
     },
     {
-      "id": "mp-10",
-      "title": {
-        "en": "MP 10",
-        "is": "MP 10"
-      },
-      "year": "Unknown",
-      "dimensions": null,
-      "description": {
-        "en": "A work by Magnús Pálsson from Unknown. This piece represents his artistic exploration during this period.",
-        "is": ""
-      },
-      "images": [
-        {
-          "url": "images/mp-10/medium/mp-10-01-medium.jpg",
-          "caption": {
-            "en": "MP - main view",
-            "is": ""
-          }
-        }
-      ],
-      "tags": [
-        "artwork",
-        "undated"
-      ],
-      "exhibitions": [],
-      "materials": {
-        "en": [],
-        "is": []
-      },
-      "searchText": "mp 10 Unknown magnús pálsson",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft"
-    },
-    {
       "id": "kennaraskoli-islands-model-with-dr",
       "title": {
         "en": "Model of the Teacher´s school, Reykjavík",
