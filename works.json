@@ -9377,41 +9377,27 @@
       },
       "images": [
         {
-          "url": "images/dreams-skinned-rabbit-berlin-2005/medium/dreams-skinned-rabbit-berlin-2005-01-medium.jpg",
-          "caption": {
-            "en": "Magnus and Jan - Collaboration documentation [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "2005"
-        },
-        {
-          "url": "images/dreams-skinned-rabbit-berlin-2005/medium/dreams-skinned-rabbit-berlin-2005-02-medium.jpg",
-          "caption": {
-            "en": "From Boekie Woekie - Project documentation [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "2005"
-        },
-        {
-          "url": "images/dreams-skinned-rabbit-berlin-2005/medium/dreams-skinned-rabbit-berlin-2005-03-medium.jpg",
-          "caption": {
-            "en": "MJHK collaboration image [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "2005"
-        },
-        {
           "url": "images/dreams-skinned-rabbit-berlin-2005/medium/dreams-skinned-rabbit-lr-04-medium.jpg",
           "caption": {
             "en": "Fláða kanínan og aðrir draumar at retrospective, Listasafn Reykjavíkur 2019",
             "is": "Fláða kanínan og aðrir draumar á yfirlitssýningu, Listasafn Reykjavíkur 2019"
           },
           "thumbnail": "images/dreams-skinned-rabbit-berlin-2005/thumbs/dreams-skinned-rabbit-lr-04-thumb.jpg",
-          "year": "2019",
           "photographer": "Pétur Thomsen"
+        },
+        {
+          "url": "images/dreams-skinned-rabbit-berlin-2005/medium/dreams-skinned-rabbit-berlin-2005-01-medium.jpg",
+          "caption": {
+            "en": "Magnús and Jan Voss at Boekie Woekie, Amsterdam 2005",
+            "is": "Magnús og Jan Voss í Boekie Woekie, Amsterdam 2005"
+          }
+        },
+        {
+          "url": "images/dreams-skinned-rabbit-berlin-2005/medium/dreams-skinned-rabbit-berlin-2005-02-medium.jpg",
+          "caption": {
+            "en": "From Boekie Woekie - Project documentation [NEEDS REVIEW]",
+            "is": ""
+          }
         }
       ],
       "tags": [
