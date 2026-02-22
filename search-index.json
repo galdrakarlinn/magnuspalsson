@@ -2611,6 +2611,21 @@
       "page": "works"
     },
     {
+      "type": "work",
+      "title": {
+        "en": "Thick day about night / Thick night about day",
+        "is": "Þykkan dag um nótt / Þykka nótt um dag"
+      },
+      "snippet": {
+        "en": "A diptych of two small paintings in one frame. The left image shows a nighttime view through a window with a landscape glimpsed through the panes. ...",
+        "is": "Tvímynd – tvær litlar myndir í einum ramma. Vinstra megin er næturmynd séð í gegnum glugga þar sem landslag glampar á bak við rúðurnar. Hægra megin..."
+      },
+      "content": "Thick day about night / Thick night about day Þykkan dag um nótt / Þykka nótt um dag A diptych of two small paintings in one frame. The left image shows a nighttime view through a window with a landscape glimpsed through the panes. The right image shows a bright daytime landscape at Hellnar with a dark window superimposed. The work plays on the inversion of day and night, light and darkness. The view is believed to be of Hellnar on the Snæfellsnes peninsula. Tvímynd – tvær litlar myndir í einum ramma. Vinstra megin er næturmynd séð í gegnum glugga þar sem landslag glampar á bak við rúðurnar. Hægra megin er björt dagsmynd af landslagi á Hellnum með dökkum glugga yfir. Verkið leikur sér að umsnúningi dags og nætur, ljóss og myrkurs. Útsýnið er talið vera af Hellnum á Snæfellsnesi. before 1985 painting diptych watercolour oil landscape Hellnar Snæfellsnes watercolour oil paint vatnslitir olíumálning Þykkan dag um nótt / Þykka nótt um dag Þykkan dag um nótt / Þykka nótt um dag",
+      "url": "works.html?work=thykkan_dag_thykka_nott",
+      "year": "before 1985",
+      "page": "works"
+    },
+    {
       "id": "exhibition_yxn_sculptors_union",
       "title": "30th Anniversary of the Sculptors Union",
       "type": "group-exhibition",
