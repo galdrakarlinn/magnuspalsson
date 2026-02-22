@@ -432,14 +432,14 @@ class WorksManager {
                  </video>
                  <div class="video-indicator">▶</div>` :
               isAudio && displayMedia !== firstMedia ?
-                `<img src="${this.getThumbPath(displayMedia.thumbnail || displayMedia.url)}" alt="${translatedWork.title}" loading="lazy" />
+                `<img src="${displayMedia.url}" alt="${translatedWork.title}" loading="lazy" />
                  <div class="audio-indicator">♪</div>` :
               isAudio ?
                 `<div class="audio-placeholder">
                    <div class="audio-icon">♪</div>
                    <div class="audio-title">${translatedWork.title}</div>
                  </div>` :
-                `<img src="${this.getThumbPath(firstMedia.thumbnail || firstMedia.url)}" alt="${translatedWork.title}" loading="lazy" />`
+                `<img src="${firstMedia.url}" alt="${translatedWork.title}" loading="lazy" />`
             ) : '<div class="no-image">No media available</div>'}
             <div class="work-overlay">
               <h3>${translatedWork.title}</h3>
