@@ -15,12 +15,22 @@ class GlobalSearch {
     this.init();
   }
 
+  // Get current language from localStorage
+  getCurrentLang() {
+    return localStorage.getItem('language') || 'en';
+  }
+
+  // Get localized value from bilingual object or string
+  getLocalizedValue(field, fallback) {
+    if (!field) return fallback || '';
+    if (typeof field === 'string') return field;
+    const lang = this.getCurrentLang();
+    return field[lang] || field.en || field.is || fallback || '';
+  }
+
   // Get localized title from bilingual title object or string
   getLocalizedTitle(title) {
-    if (!title) return 'Untitled';
-    if (typeof title === 'string') return title;
-    const lang = localStorage.getItem('language') || 'en';
-    return title[lang] || title.en || title.is || 'Untitled';
+    return this.getLocalizedValue(title, 'Untitled');
   }
 
   init() {
@@ -356,63 +366,73 @@ class GlobalSearch {
     const queryLower = query.toLowerCase();
     const queryNormalized = this.normalizeIcelandic(queryLower);
     const queryWords = queryLower.split(' ').filter(word => word.length > 2);
-    
+
     const results = this.searchIndex
       .filter(item => this.passesFilters(item))
       .map(item => {
         let score = 0;
-        const itemTitle = this.getLocalizedTitle(item.title);
-        const titleLower = itemTitle.toLowerCase();
+
+        // Get BOTH language titles for searching (bilingual search)
+        const titleEn = (typeof item.title === 'object' ? (item.title.en || '') : (item.title || '')).toLowerCase();
+        const titleIs = (typeof item.title === 'object' ? (item.title.is || '') : '').toLowerCase();
+        const titleEnNorm = this.normalizeIcelandic(titleEn);
+        const titleIsNorm = this.normalizeIcelandic(titleIs);
+
         const contentLower = item.content.toLowerCase();
-        const titleNormalized = this.normalizeIcelandic(titleLower);
         const contentNormalized = this.normalizeIcelandic(contentLower);
-        
-        // Exact title match gets highest score
-        if (titleLower === queryLower || titleNormalized === queryNormalized) {
+
+        // Exact title match gets highest score - check BOTH languages
+        if (titleEn === queryLower || titleIs === queryLower ||
+            titleEnNorm === queryNormalized || titleIsNorm === queryNormalized) {
           score += 1000;
-        } else if (titleLower.includes(queryLower) || titleNormalized.includes(queryNormalized)) {
+        } else if (titleEn.includes(queryLower) || titleIs.includes(queryLower) ||
+                   titleEnNorm.includes(queryNormalized) || titleIsNorm.includes(queryNormalized)) {
           score += 500;
         }
-        
-        // Fuzzy title matching for typos
-        const titleSimilarity = this.calculateSimilarity(titleNormalized, queryNormalized);
-        if (titleSimilarity > 0.7 && titleSimilarity < 1) {
-          score += Math.floor(titleSimilarity * 300); // Up to 300 points for good fuzzy matches
+
+        // Fuzzy title matching for typos - check both languages, use best score
+        const titleEnSimilarity = this.calculateSimilarity(titleEnNorm, queryNormalized);
+        const titleIsSimilarity = this.calculateSimilarity(titleIsNorm, queryNormalized);
+        const bestTitleSimilarity = Math.max(titleEnSimilarity, titleIsSimilarity);
+        if (bestTitleSimilarity > 0.7 && bestTitleSimilarity < 1) {
+          score += Math.floor(bestTitleSimilarity * 300);
         }
-        
+
         // Exact content phrase match
         if (contentLower.includes(queryLower) || contentNormalized.includes(queryNormalized)) {
           score += 200;
         }
-        
+
         // Significant word matches in title (avoid common words)
-        const significantWords = queryWords.filter(word => 
+        const significantWords = queryWords.filter(word =>
           !['the', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'have', 'it', 'my', 'i'].includes(word)
         );
-        
+
         significantWords.forEach(word => {
           if (word.length > 3) { // Only meaningful words
             const wordNormalized = this.normalizeIcelandic(word);
-            
-            // Regular matches
-            if (titleLower.includes(word) || titleNormalized.includes(wordNormalized)) {
+
+            // Regular matches - check both language titles
+            if (titleEn.includes(word) || titleIs.includes(word) ||
+                titleEnNorm.includes(wordNormalized) || titleIsNorm.includes(wordNormalized)) {
               score += 50;
             }
             if (contentLower.includes(word) || contentNormalized.includes(wordNormalized)) {
               score += 20;
             }
-            
-            // Fuzzy word matching
-            const titleWords = titleNormalized.split(' ');
+
+            // Fuzzy word matching against both language titles
+            const allTitleWords = (titleEnNorm + ' ' + titleIsNorm).split(' ');
             const contentWords = contentNormalized.split(' ');
-            
-            titleWords.forEach(titleWord => {
+
+            allTitleWords.forEach(titleWord => {
+              if (!titleWord) return;
               const similarity = this.calculateSimilarity(titleWord, wordNormalized);
               if (similarity > 0.75 && similarity < 1) {
                 score += Math.floor(similarity * 30);
               }
             });
-            
+
             contentWords.forEach(contentWord => {
               const similarity = this.calculateSimilarity(contentWord, wordNormalized);
               if (similarity > 0.75 && similarity < 1) {
@@ -421,12 +441,12 @@ class GlobalSearch {
             });
           }
         });
-        
+
         // Year matches
         if (query.match(/^\d{4}$/) && item.year.toString() === query) {
           score += 100;
         }
-        
+
         return { ...item, score };
       })
       .filter(item => item.score > 0)
@@ -446,25 +466,30 @@ class GlobalSearch {
     this.lastDisplayedQuery = query;
     this.lastDisplayedResults = results.length;
 
+    const isIcelandic = this.getCurrentLang() === 'is';
+
     if (results.length === 0) {
       this.hideFilters(); // Hide filters when no results
       this.searchResults.innerHTML = `
         <div class="search-no-results">
-          <div class="search-result-title">No results found for "${query}"</div>
-          <div class="search-result-snippet">Try searching for:</div>
+          <div class="search-result-title">${isIcelandic ? `Ekkert fannst fyrir "${query}"` : `No results found for "${query}"`}</div>
+          <div class="search-result-snippet">${isIcelandic ? 'Prófaðu að leita að:' : 'Try searching for:'}</div>
           <div class="search-suggestions">
-            <span class="suggestion-item">work titles</span>
-            <span class="suggestion-item">artist techniques</span>
-            <span class="suggestion-item">years (1960-2020)</span>
-            <span class="suggestion-item">exhibition names</span>
+            <span class="suggestion-item">${isIcelandic ? 'nöfn verka' : 'work titles'}</span>
+            <span class="suggestion-item">${isIcelandic ? 'tækni listamanns' : 'artist techniques'}</span>
+            <span class="suggestion-item">${isIcelandic ? 'ár (1960-2020)' : 'years (1960-2020)'}</span>
+            <span class="suggestion-item">${isIcelandic ? 'sýningarnöfn' : 'exhibition names'}</span>
           </div>
         </div>
       `;
     } else {
       const activeFilters = this.getActiveFiltersText();
+      const resultsText = isIcelandic
+        ? `${results.length} ${results.length === 1 ? 'niðurstaða' : 'niðurstöður'} fyrir "${query}"`
+        : `${results.length} result${results.length === 1 ? '' : 's'} for "${query}"`;
       this.searchResults.innerHTML = `
         <div class="search-results-header">
-          <span>${results.length} result${results.length === 1 ? '' : 's'} for "${query}"${activeFilters ? ` (${activeFilters})` : ''}</span>
+          <span>${resultsText}${activeFilters ? ` (${activeFilters})` : ''}</span>
           <button class="search-close-btn" onclick="window.globalSearchInstance.clearSearch(); event.stopPropagation();">×</button>
         </div>
         ${results.map(result => `
@@ -474,10 +499,10 @@ class GlobalSearch {
               ${result.year ? `<div class="search-result-year">${result.year}</div>` : ''}
             </div>
             <div class="search-result-title" style="pointer-events: none;">${this.highlightQueryAdvanced(this.getLocalizedTitle(result.title), query)}</div>
-            <div class="search-result-snippet" style="pointer-events: none;">${this.highlightQueryAdvanced(result.snippet, query)}</div>
+            <div class="search-result-snippet" style="pointer-events: none;">${this.highlightQueryAdvanced(this.getLocalizedValue(result.snippet, ''), query)}</div>
             <div class="search-result-meta" style="pointer-events: none;">
               <span class="search-result-page">${this.getPageLabel(result.type, result.page)}</span>
-              ${result.score ? `<span class="search-result-relevance">Relevance: ${Math.round(result.score/10)}/100</span>` : ''}
+              ${result.score ? `<span class="search-result-relevance">${isIcelandic ? 'Samsvörun' : 'Relevance'}: ${Math.round(result.score/10)}/100</span>` : ''}
             </div>
           </a>
         `).join('')}
@@ -500,7 +525,18 @@ class GlobalSearch {
   }
 
   getTypeBadge(type) {
-    const badges = {
+    const isIcelandic = this.getCurrentLang() === 'is';
+    const badges = isIcelandic ? {
+      'work': '🎨 Verk',
+      'group-exhibition': '🏛️ Samsýning',
+      'solo-exhibition': '🎭 Einkasýning',
+      'review': '📝 Umfjöllun',
+      'publication': '📚 Útgáfa',
+      'biography': '👤 Æviágrip',
+      'theater': '🎭 Leikhús',
+      'collections': '🗃️ Safn',
+      'collection-work': '🏛️ Safn'
+    } : {
       'work': '🎨 Work',
       'group-exhibition': '🏛️ Group Show',
       'solo-exhibition': '🎭 Solo Show',
@@ -511,14 +547,25 @@ class GlobalSearch {
       'collections': '🗃️ Collection',
       'collection-work': '🏛️ Museum'
     };
-    
-    return badges[type] || '📄 Page';
+
+    return badges[type] || (isIcelandic ? '📄 Síða' : '📄 Page');
   }
 
   getPageLabel(type, page) {
-    const labels = {
+    const isIcelandic = this.getCurrentLang() === 'is';
+    const labels = isIcelandic ? {
+      'work': 'Verk',
+      'group-exhibition': 'Samsýningar',
+      'solo-exhibition': 'Einkasýningar',
+      'review': 'Umfjöllun',
+      'publication': 'Útgáfur',
+      'biography': 'Æviágrip',
+      'theater': 'Leikhús',
+      'collections': 'Söfn',
+      'collection-work': 'Safneign'
+    } : {
       'work': 'Works',
-      'group-exhibition': 'Group Exhibitions', 
+      'group-exhibition': 'Group Exhibitions',
       'solo-exhibition': 'Solo Exhibitions',
       'review': 'Reviews',
       'publication': 'Publications',
@@ -527,7 +574,7 @@ class GlobalSearch {
       'collections': 'Collections',
       'collection-work': 'Museum Collection'
     };
-    
+
     return labels[type] || page.charAt(0).toUpperCase() + page.slice(1);
   }
 

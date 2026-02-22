@@ -121,21 +121,29 @@ def create_work_search_entry(work, exhibitions_data):
 
     content = ' '.join(filter(None, content_parts))
 
-    # Create snippet from description (prefer English)
-    snippet = desc_en if desc_en else desc_is
-    if len(snippet) > 150:
-        snippet = snippet[:147] + '...'
-    elif not snippet and work.get('tags'):
-        snippet = ', '.join(work.get('tags', [])[:5])
+    # Create bilingual snippets
+    snippet_en = desc_en if desc_en else desc_is
+    snippet_is = desc_is if desc_is else desc_en
+    if len(snippet_en) > 150:
+        snippet_en = snippet_en[:147] + '...'
+    elif not snippet_en and work.get('tags'):
+        snippet_en = ', '.join(work.get('tags', [])[:5])
+    if len(snippet_is) > 150:
+        snippet_is = snippet_is[:147] + '...'
+    elif not snippet_is and work.get('tags'):
+        snippet_is = ', '.join(work.get('tags', [])[:5])
 
-    # Store both titles for bilingual display
+    # Store both titles and snippets for bilingual display
     return {
         "type": "work",
         "title": {
             "en": title_en if title_en else title_is if title_is else 'Untitled',
             "is": title_is if title_is else title_en if title_en else 'Untitled'
         },
-        "snippet": snippet,
+        "snippet": {
+            "en": snippet_en,
+            "is": snippet_is
+        },
         "content": content,
         "url": f"works.html?work={work.get('id', '')}",
         "year": work.get('year', ''),
