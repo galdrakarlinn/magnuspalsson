@@ -7245,6 +7245,14 @@
       },
       "images": [
         {
+          "url": "images/aevintyr-folktale-1997/aevintyr-1997-preview.mp4",
+          "caption": {
+            "en": "Ævintýr/Folktale - video documentation, Nýlistasafnið 1997 (1 minute preview)",
+            "is": "Ævintýr - myndbandsupptaka, Nýlistasafnið 1997 (1 mínútu sýnishorn)"
+          },
+          "thumbnail": "images/aevintyr-folktale-1997/thumbs/aevintyr-video-thumb.jpg"
+        },
+        {
           "url": "images/aevintyr-folktale-1997/medium/aevintyr-folktale-1997-01-medium.jpg",
           "caption": {
             "en": "Ævintyr (Folktale) - Image 1 [NEEDS REVIEW]",
