@@ -15758,6 +15758,146 @@
         "owner_is": "Einkaeign",
         "owner_en": "Private collection"
       }
+    },
+    {
+      "id": "the-moraga-legend",
+      "title": {
+        "en": "The Moraga Legend",
+        "is": "The Moraga Legend"
+      },
+      "year": 1985,
+      "medium": {
+        "en": "Sound environment, 10 loudspeakers mounted on trees",
+        "is": "Hljóðumhverfi, 10 hátalerar festir á tré"
+      },
+      "description": {
+        "en": "A sound environment installed in a wooded area at Henie-Onstad Kunstsenter, Høvikodden, Norway. Ten loudspeakers were mounted on trees, each broadcasting different audio elements simultaneously. The work consisted of three main performed pieces: \"Augustus, my God, I have it!\" — a science fiction scene performed by seven voices (Charles Levin, Melissa van Hoek, Torild Nøst, Helgi Friðjónsson, Magnús Pálsson, Rod Summers, Tom Winter); \"The Offs\" — a play performed by four voices (Michael Fraser, Frances Cowan, Kathryn Mearns, Jón Árnason); and \"Dave & Per\" — a dialogue performed by Bodil Halvarson and Magnús Pálsson. Two additional speakers broadcast broken texts assembled from advertisements, newspaper headlines, and technical manuals, while two far-away speakers played flute and a girl's voice with echoed sentences. Sigurveig Magnúsdóttir contributed chanting, mouthorgan, and accordion. The idea, as Magnús described it, was to bring international kitsch into a romantic Nordic environment.",
+        "is": "Hljóðumhverfi sett upp í skógarrjóðri á Henie-Onstad Kunstsenter, Høvikodden í Noregi. Tíu hátalerar voru festir á tré og útvörpuðu mismunandi hljóðefni samtímis. Verkið samanstóð af þremur aðalfluttum verkum: \"Augustus, my God, I have it!\" — vísindaskáldskaparsenur flutt af sjö röddum (Charles Levin, Melissa van Hoek, Torild Nøst, Helgi Friðjónsson, Magnús Pálsson, Rod Summers, Tom Winter); \"The Offs\" — leikrit flutt af fjórum röddum (Michael Fraser, Frances Cowan, Kathryn Mearns, Jón Árnason); og \"Dave & Per\" — samræður fluttar af Bodil Halvarson og Magnúsi Pálssyni. Tveir hátalerar til viðbótar útvörpuðu brotum úr auglýsingum, fréttafyrirsögnum og tæknihandbókum, á meðan tveir hátalerar í fjarlægð spiluðu flautu og rödd stúlku með endurómuðum setningum. Sigurveig Magnúsdóttir lagði til söng, munnhörpu og harmoniku. Hugmyndin, eins og Magnús lýsti henni, var að færa alþjóðlegt kitsch inn í rómantískt norrænt umhverfi."
+      },
+      "category": "sound",
+      "tags": [
+        "sound",
+        "installation",
+        "environment",
+        "performance",
+        "sculpture"
+      ],
+      "location": {
+        "en": "Henie-Onstad Kunstsenter, Høvikodden, Norway",
+        "is": "Henie-Onstad Kunstsenter, Høvikodden, Noregur"
+      },
+      "collaborators": [
+        "Charles Levin",
+        "Melissa van Hoek",
+        "Torild Nøst",
+        "Helgi Friðjónsson",
+        "Rod Summers",
+        "Tom Winter",
+        "Michael Fraser",
+        "Frances Cowan",
+        "Kathryn Mearns",
+        "Jón Árnason",
+        "Bodil Halvarson",
+        "Sigurveig Magnúsdóttir"
+      ],
+      "credit": "Magnús Pálsson Archive, Listasafn Reykjavíkur",
+      "images": [
+        {
+          "url": "images/the-moraga-legend-1985/medium/moraga-11-medium.jpg",
+          "thumb": "images/the-moraga-legend-1985/thumbs/moraga-11-thumb.jpg",
+          "caption": {
+            "en": "Visual storyboard for Act 1 with comic strip cutouts",
+            "is": "Sjónrænt handrit fyrir 1. þátt með myndasögubrotum"
+          }
+        },
+        {
+          "url": "images/the-moraga-legend-1985/moraga-legend-excerpt.mp3",
+          "caption": {
+            "en": "Excerpt from The Moraga Legend sound environment (0:30–1:30)",
+            "is": "Útdráttur úr hljóðumhverfi The Moraga Legend (0:30–1:30)"
+          }
+        },
+        {
+          "url": "images/the-moraga-legend-1985/medium/moraga-05-medium.jpg",
+          "thumb": "images/the-moraga-legend-1985/thumbs/moraga-05-thumb.jpg",
+          "caption": {
+            "en": "Cast list — The Voices",
+            "is": "Flytjendaskrá — Raddirnar"
+          }
+        },
+        {
+          "url": "images/the-moraga-legend-1985/medium/moraga-08-medium.jpg",
+          "thumb": "images/the-moraga-legend-1985/thumbs/moraga-08-thumb.jpg",
+          "caption": {
+            "en": "Timing and mixing score for all speakers",
+            "is": "Tímasetning og hljóðblöndun fyrir alla hátalera"
+          }
+        },
+        {
+          "url": "images/the-moraga-legend-1985/medium/moraga-01-medium.jpg",
+          "thumb": "images/the-moraga-legend-1985/thumbs/moraga-01-thumb.jpg",
+          "caption": {
+            "en": "Letter from Magnús to Nina Denney describing the sound environment",
+            "is": "Bréf frá Magnúsi til Ninu Denney þar sem hann lýsir hljóðumhverfinu"
+          }
+        },
+        {
+          "url": "images/the-moraga-legend-1985/medium/moraga-02-medium.jpg",
+          "thumb": "images/the-moraga-legend-1985/thumbs/moraga-02-thumb.jpg",
+          "caption": {
+            "en": "Letter from Nina Denney with research questions about the installation",
+            "is": "Bréf frá Ninu Denney með rannsóknarspurningum um verkið"
+          }
+        },
+        {
+          "url": "images/the-moraga-legend-1985/medium/moraga-03-medium.jpg",
+          "thumb": "images/the-moraga-legend-1985/thumbs/moraga-03-thumb.jpg",
+          "caption": {
+            "en": "Script with comic strip cutouts — dialogue directions for Dave and Per",
+            "is": "Handrit með myndasögubrotum — samræðuleiðbeiningar fyrir Dave og Per"
+          }
+        },
+        {
+          "url": "images/the-moraga-legend-1985/medium/moraga-04-medium.jpg",
+          "thumb": "images/the-moraga-legend-1985/thumbs/moraga-04-thumb.jpg",
+          "caption": {
+            "en": "Script for Sensual Female Voice (Frances) — Speaker D",
+            "is": "Handrit fyrir Sensual Female Voice (Frances) — Hátalari D"
+          }
+        },
+        {
+          "url": "images/the-moraga-legend-1985/medium/moraga-06-medium.jpg",
+          "thumb": "images/the-moraga-legend-1985/thumbs/moraga-06-thumb.jpg",
+          "caption": {
+            "en": "Tape 3 timing notes",
+            "is": "Tímasetningar spólu 3"
+          }
+        },
+        {
+          "url": "images/the-moraga-legend-1985/medium/moraga-07-medium.jpg",
+          "thumb": "images/the-moraga-legend-1985/thumbs/moraga-07-thumb.jpg",
+          "caption": {
+            "en": "Act One script — The Offs play with timing annotations",
+            "is": "Handrit 1. þáttar — The Offs leikritið með tímasetningum"
+          }
+        },
+        {
+          "url": "images/the-moraga-legend-1985/medium/moraga-09-medium.jpg",
+          "thumb": "images/the-moraga-legend-1985/thumbs/moraga-09-thumb.jpg",
+          "caption": {
+            "en": "Speaker layout diagram for Speakers 2 & 3",
+            "is": "Hátalaraskipulag fyrir hátalera 2 og 3"
+          }
+        },
+        {
+          "url": "images/the-moraga-legend-1985/medium/moraga-10-medium.jpg",
+          "thumb": "images/the-moraga-legend-1985/thumbs/moraga-10-thumb.jpg",
+          "caption": {
+            "en": "Speaker layout for Speakers 6 & 7 with role assignments",
+            "is": "Hátalaraskipulag fyrir hátalera 6 og 7 með hlutverkaskiptingu"
+          }
+        }
+      ]
     }
   ],
   "exhibitions": [

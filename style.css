@@ -1137,11 +1137,16 @@ body {
 }
 
 .work-images img,
-.work-images video,
-.work-images audio {
+.work-images video {
   width: 100%;
   margin-bottom: 1rem;
   border-radius: 4px;
+}
+
+.work-images audio {
+  display: block;
+  width: 100%;
+  margin-bottom: 1rem;
 }
 
 .pdf-download {

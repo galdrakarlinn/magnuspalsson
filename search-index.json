@@ -2626,6 +2626,21 @@
       "page": "works"
     },
     {
+      "type": "work",
+      "title": {
+        "en": "The Moraga Legend",
+        "is": "The Moraga Legend"
+      },
+      "snippet": {
+        "en": "A sound environment installed in a wooded area at Henie-Onstad Kunstsenter, Høvikodden, Norway. Ten loudspeakers were mounted on trees, each broadc...",
+        "is": "Hljóðumhverfi sett upp í skógarrjóðri á Henie-Onstad Kunstsenter, Høvikodden í Noregi. Tíu hátalerar voru festir á tré og útvörpuðu mismunandi hljó..."
+      },
+      "content": "The Moraga Legend The Moraga Legend A sound environment installed in a wooded area at Henie-Onstad Kunstsenter, Høvikodden, Norway. Ten loudspeakers were mounted on trees, each broadcasting different audio elements simultaneously. The work consisted of three main performed pieces: \"Augustus, my God, I have it!\" — a science fiction scene performed by seven voices (Charles Levin, Melissa van Hoek, Torild Nøst, Helgi Friðjónsson, Magnús Pálsson, Rod Summers, Tom Winter); \"The Offs\" — a play performed by four voices (Michael Fraser, Frances Cowan, Kathryn Mearns, Jón Árnason); and \"Dave & Per\" — a dialogue performed by Bodil Halvarson and Magnús Pálsson. Two additional speakers broadcast broken texts assembled from advertisements, newspaper headlines, and technical manuals, while two far-away speakers played flute and a girl's voice with echoed sentences. Sigurveig Magnúsdóttir contributed chanting, mouthorgan, and accordion. The idea, as Magnús described it, was to bring international kitsch into a romantic Nordic environment. Hljóðumhverfi sett upp í skógarrjóðri á Henie-Onstad Kunstsenter, Høvikodden í Noregi. Tíu hátalerar voru festir á tré og útvörpuðu mismunandi hljóðefni samtímis. Verkið samanstóð af þremur aðalfluttum verkum: \"Augustus, my God, I have it!\" — vísindaskáldskaparsenur flutt af sjö röddum (Charles Levin, Melissa van Hoek, Torild Nøst, Helgi Friðjónsson, Magnús Pálsson, Rod Summers, Tom Winter); \"The Offs\" — leikrit flutt af fjórum röddum (Michael Fraser, Frances Cowan, Kathryn Mearns, Jón Árnason); og \"Dave & Per\" — samræður fluttar af Bodil Halvarson og Magnúsi Pálssyni. Tveir hátalerar til viðbótar útvörpuðu brotum úr auglýsingum, fréttafyrirsögnum og tæknihandbókum, á meðan tveir hátalerar í fjarlægð spiluðu flautu og rödd stúlku með endurómuðum setningum. Sigurveig Magnúsdóttir lagði til söng, munnhörpu og harmoniku. Hugmyndin, eins og Magnús lýsti henni, var að færa alþjóðlegt kitsch inn í rómantískt norrænt umhverfi. 1985 sound installation environment performance sculpture Visual storyboard for Act 1 with comic strip cutouts Sjónrænt handrit fyrir 1. þátt með myndasögubrotum Excerpt from The Moraga Legend sound environment (0:30–1:30) Útdráttur úr hljóðumhverfi The Moraga Legend (0:30–1:30) Cast list — The Voices Flytjendaskrá — Raddirnar Timing and mixing score for all speakers Tímasetning og hljóðblöndun fyrir alla hátalera Letter from Magnús to Nina Denney describing the sound environment Bréf frá Magnúsi til Ninu Denney þar sem hann lýsir hljóðumhverfinu Letter from Nina Denney with research questions about the installation Bréf frá Ninu Denney með rannsóknarspurningum um verkið Script with comic strip cutouts — dialogue directions for Dave and Per Handrit með myndasögubrotum — samræðuleiðbeiningar fyrir Dave og Per Script for Sensual Female Voice (Frances) — Speaker D Handrit fyrir Sensual Female Voice (Frances) — Hátalari D Tape 3 timing notes Tímasetningar spólu 3 Act One script — The Offs play with timing annotations Handrit 1. þáttar — The Offs leikritið með tímasetningum Speaker layout diagram for Speakers 2 & 3 Hátalaraskipulag fyrir hátalera 2 og 3 Speaker layout for Speakers 6 & 7 with role assignments Hátalaraskipulag fyrir hátalera 6 og 7 með hlutverkaskiptingu",
+      "url": "works.html?work=the-moraga-legend",
+      "year": 1985,
+      "page": "works"
+    },
+    {
       "id": "exhibition_yxn_sculptors_union",
       "title": "30th Anniversary of the Sculptors Union",
       "type": "group-exhibition",
