@@ -15787,18 +15787,66 @@
         "is": "Henie-Onstad Kunstsenter, Høvikodden, Noregur"
       },
       "collaborators": [
-        "Charles Levin",
-        "Melissa van Hoek",
-        "Torild Nøst",
-        "Helgi Friðjónsson",
-        "Rod Summers",
-        "Tom Winter",
-        "Michael Fraser",
-        "Frances Cowan",
-        "Kathryn Mearns",
-        "Jón Árnason",
-        "Bodil Halvarson",
-        "Sigurveig Magnúsdóttir"
+        {
+          "name": "Charles Levin",
+          "role": "Voice",
+          "description": "Augustus, my God, I have it!"
+        },
+        {
+          "name": "Melissa van Hoek",
+          "role": "Voice",
+          "description": "Augustus, my God, I have it!"
+        },
+        {
+          "name": "Torild Nøst",
+          "role": "Voice",
+          "description": "Augustus, my God, I have it!"
+        },
+        {
+          "name": "Helgi Friðjónsson",
+          "role": "Voice",
+          "description": "Augustus, my God, I have it!"
+        },
+        {
+          "name": "Rod Summers",
+          "role": "Voice",
+          "description": "Augustus, my God, I have it!"
+        },
+        {
+          "name": "Tom Winter",
+          "role": "Voice",
+          "description": "Augustus, my God, I have it!"
+        },
+        {
+          "name": "Michael Fraser",
+          "role": "Voice",
+          "description": "The Offs"
+        },
+        {
+          "name": "Frances Cowan",
+          "role": "Voice",
+          "description": "The Offs"
+        },
+        {
+          "name": "Kathryn Mearns",
+          "role": "Voice",
+          "description": "The Offs"
+        },
+        {
+          "name": "Jón Árnason",
+          "role": "Voice",
+          "description": "The Offs"
+        },
+        {
+          "name": "Bodil Halvarson",
+          "role": "Voice",
+          "description": "Dave & Per"
+        },
+        {
+          "name": "Sigurveig Magnúsdóttir",
+          "role": "Musician",
+          "description": "Chanting, mouthorgan, accordion"
+        }
       ],
       "credit": "Magnús Pálsson Archive, Listasafn Reykjavíkur",
       "images": [
