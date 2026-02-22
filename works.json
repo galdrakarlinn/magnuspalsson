@@ -10344,8 +10344,8 @@
       "year": 2006,
       "dimensions": null,
       "description": {
-        "en": "PLACEHOLDER: Waterfall-themed work from 2006 with extensive photographic documentation. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
-        "is": ""
+        "en": "Performers: Atli Geir Halldórsson, Iðunn Pálsdóttir, Tómas Sturluson, Þórunn Dís Halldórsdóttir.",
+        "is": "Leikarar: Atli Geir Halldórsson, Iðunn Pálsdóttir, Tómas Sturluson, Þórunn Dís Halldórsdóttir."
       },
       "images": [
         {
@@ -10406,7 +10406,13 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "performers": [
+        "Atli Geir Halldórsson",
+        "Iðunn Pálsdóttir",
+        "Tómas Sturluson",
+        "Þórunn Dís Halldórsdóttir"
+      ]
     },
     {
       "id": "faeding_birth_2006",
