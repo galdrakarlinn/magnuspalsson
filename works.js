@@ -838,7 +838,6 @@ class WorksManager {
           ` : ''}
           ${ownership ? `
             <div class="ownership-info">
-              <h3>${i18n.t('collection')}</h3>
               <p><strong>${i18n.t('ownedBy')}</strong> ${ownership.url ? `<a href="${ownership.url}" target="_blank">${ownership.owner}</a>` : ownership.owner}</p>
               ${ownership.catalogNumber ? `<p class="catalog-number">${i18n.t('catalog')}: ${ownership.catalogNumber}</p>` : ''}
               ${ownership.notes ? `<p class="ownership-notes">${ownership.notes}</p>` : ''}
