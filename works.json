@@ -6000,58 +6000,6 @@
       }
     },
     {
-      "id": "madame-president-1986-audio-to-be-digitalised-1986",
-      "title": {
-        "en": "Madame President",
-        "is": "Frú Forseti"
-      },
-      "year": 1986,
-      "dimensions": null,
-      "description": {
-        "en": "A work by Magnús Pálsson from 1986. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career.",
-        "is": ""
-      },
-      "images": [
-        {
-          "url": "images/madame-president-1986-audio-to-be-digitalised-1986/medium/madame-01-medium.jpg",
-          "caption": {
-            "en": "Madame - view 1",
-            "is": ""
-          }
-        },
-        {
-          "url": "images/madame-president-1986-audio-to-be-digitalised-1986/medium/madame-02-medium.jpg",
-          "caption": {
-            "en": "Madame - view 2",
-            "is": ""
-          }
-        }
-      ],
-      "tags": [
-        "artwork",
-        "1986"
-      ],
-      "exhibitions": [
-        "something-from-nothing-the-visual-realm-of-magnús-2019"
-      ],
-      "materials": {
-        "en": [
-          "sound"
-        ],
-        "is": [
-          "hljóð"
-        ]
-      },
-      "searchText": "madame president 1986 audio to be digitalised 1986 magnús pálsson",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft",
-      "ownership": {
-        "owner": "owned by the artist",
-        "owner_is": "í eigu höfundar",
-        "owner_en": "owned by the artist"
-      }
-    },
-    {
       "id": "mob_shop_dummy_1986",
       "title": {
         "en": "Mob shop dummy",
@@ -8980,6 +8928,20 @@
             "is": "Hong Kong Press 1987 fylgibréf"
           },
           "thumbnail": "images/contours-of-a-baby-1987/thumbs/contours-06-thumb.jpg"
+        },
+        {
+          "url": "images/madame-president-1986-audio-to-be-digitalised-1986/medium/madame-01-medium.jpg",
+          "caption": {
+            "en": "Hong Kong Press nr. 7 packaging",
+            "is": "Hong Kong Press nr. 7 umbúðir"
+          }
+        },
+        {
+          "url": "images/madame-president-1986-audio-to-be-digitalised-1986/medium/madame-02-medium.jpg",
+          "caption": {
+            "en": "Artist statement in Swedish (Hong Kong Press 1987)",
+            "is": "Yfirlýsing listamanns á sænsku (Hong Kong Press 1987)"
+          }
         }
       ],
       "tags": [
