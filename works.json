@@ -6060,10 +6060,35 @@
       "year": 1986,
       "dimensions": "21 x 15 cm",
       "description": {
-        "en": "",
-        "is": ""
+        "en": "Artist book edited by Magnús Pálsson, with contributions from Robert Filliou, Philip Corner, Ingólfur Arnarsson, Douwe Jan Bakker, Rhea Gaisner and others. Drawings by Steingrímur E. Kristmundsson. Published as Hong Kong Press nr. 2, Reykjavík 1986. 128 pages. Text in English, Danish and Swedish.",
+        "is": "Listabók í ritstjórn Magnúsar Pálssonar, með framlögum frá Robert Filliou, Philip Corner, Ingólfi Arnarssyni, Douwe Jan Bakker, Rheu Gaisner og fleiri. Teikningar eftir Steingrím E. Kristmundsson. Gefin út sem Hong Kong Press nr. 2, Reykjavík 1986. 128 blaðsíður. Texti á ensku, dönsku og sænsku."
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/mob-shop-dummy-1986/medium/mob-shop-01-medium.jpg",
+          "caption": {
+            "en": "Front cover",
+            "is": "Forsíða"
+          },
+          "thumbnail": "images/mob-shop-dummy-1986/thumbs/mob-shop-01-thumb.jpg"
+        },
+        {
+          "url": "images/mob-shop-dummy-1986/medium/mob-shop-02-medium.jpg",
+          "caption": {
+            "en": "Pages 54-55, Halldór Ásgeirsson: Five Days in the Mountains",
+            "is": "Bls. 54-55, Halldór Ásgeirsson: Five Days in the Mountains"
+          },
+          "thumbnail": "images/mob-shop-dummy-1986/thumbs/mob-shop-02-thumb.jpg"
+        },
+        {
+          "url": "images/mob-shop-dummy-1986/medium/mob-shop-03-medium.jpg",
+          "caption": {
+            "en": "Pages 80-81, Sólveig Aðalsteinsdóttir and Claes Tellvid",
+            "is": "Bls. 80-81, Sólveig Aðalsteinsdóttir og Claes Tellvid"
+          },
+          "thumbnail": "images/mob-shop-dummy-1986/thumbs/mob-shop-03-thumb.jpg"
+        }
+      ],
       "tags": [
         "book",
         "1980s"
@@ -6071,10 +6096,10 @@
       "exhibitions": [],
       "materials": {
         "en": [
-          "book"
+          "artist book"
         ],
         "is": [
-          "bók"
+          "listabók"
         ]
       },
       "searchText": "mob shop dummy book 1986 magnús pálsson",
