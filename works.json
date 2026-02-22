@@ -8919,14 +8919,14 @@
     {
       "id": "contours_of_a_baby_1987",
       "title": {
-        "en": "Contours of a baby",
-        "is": "Contours of a baby"
+        "en": "Madame President, Contours of a Baby",
+        "is": "Madame President, Contours of a Baby"
       },
       "year": 1987,
       "dimensions": null,
       "description": {
-        "en": "PLACEHOLDER: Work from 1987 with tape to be digitalized. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this baby-related work.",
-        "is": ""
+        "en": "Madame President, Contours of a Baby. Two audio cassettes for four loudspeakers. Madame President was first performed at Henie-Onstad Kunstsenter in Oslo 1986 with the artist's own participation, a video monitor and four loudspeakers. Contours of a Baby was performed at Kunstcentret Brandts Klædefabrik in Odense 1987 with four loudspeakers. Recorded at Studio VEC Maastricht and Studio Stef Kópavogur. Published as Hong Kong Press nr. 7.",
+        "is": "Madame President, Contours of a Baby. Tvær hljóðsnældur fyrir fjóra hátalara. Madame President var fyrst flutt á Henie-Onstad Kunstsenter í Ósló 1986 með þátttöku listamannsins sjálfs, sjónvarpsskjá og fjórum háttölurum. Contours of a Baby var flutt á Kunstcentret Brandts Klædefabrik í Odense 1987 með fjórum háttölurum. Hljóðritað í Studio VEC Maastricht og Studio Stef Kópavogi. Gefið út sem Hong Kong Press nr. 7."
       },
       "images": [
         {
@@ -8948,6 +8948,38 @@
           "photographer": "Unknown",
           "year": "1987",
           "copyright": "© Estate of Magnús Pálsson"
+        },
+        {
+          "url": "images/contours-of-a-baby-1987/medium/contours-03-medium.jpg",
+          "caption": {
+            "en": "The two audio cassettes",
+            "is": "Hljóðsnældurnar tvær"
+          },
+          "thumbnail": "images/contours-of-a-baby-1987/thumbs/contours-03-thumb.jpg"
+        },
+        {
+          "url": "images/contours-of-a-baby-1987/medium/contours-04-medium.jpg",
+          "caption": {
+            "en": "The cassette tapes",
+            "is": "Segulböndin"
+          },
+          "thumbnail": "images/contours-of-a-baby-1987/thumbs/contours-04-thumb.jpg"
+        },
+        {
+          "url": "images/contours-of-a-baby-1987/medium/contours-05-medium.jpg",
+          "caption": {
+            "en": "Cassette inlays with credits",
+            "is": "Innlegg snældna með þátttakendalista"
+          },
+          "thumbnail": "images/contours-of-a-baby-1987/thumbs/contours-05-thumb.jpg"
+        },
+        {
+          "url": "images/contours-of-a-baby-1987/medium/contours-06-medium.jpg",
+          "caption": {
+            "en": "Hong Kong Press 1987 insert",
+            "is": "Hong Kong Press 1987 fylgibréf"
+          },
+          "thumbnail": "images/contours-of-a-baby-1987/thumbs/contours-06-thumb.jpg"
         }
       ],
       "tags": [
@@ -8974,10 +9006,12 @@
       ],
       "materials": {
         "en": [
-          "video"
+          "2 audio cassettes",
+          "4 loudspeakers"
         ],
         "is": [
-          "vídeó"
+          "2 hljóðsnældur",
+          "4 hátalara"
         ]
       },
       "searchText": "contours of a baby tape digitalization 1987 magnús pálsson placeholder needs review",
