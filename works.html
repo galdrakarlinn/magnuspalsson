@@ -14,122 +14,39 @@
   <!-- Navigation placeholder -->
   <div id="nav-placeholder"></div>
 
-  <div class="works-layout">
-    <!-- Filter Sidebar -->
-    <aside class="filter-sidebar" role="complementary" aria-label="Filter works">
-      <div class="sidebar-header">
-        <h2>Browse Works</h2>
-        <button type="button" id="clear-works-filters" class="clear-btn" aria-label="Clear all filters">Clear All</button>
-      </div>
-      
-      <div class="filter-categories">
-        <div class="filter-category" data-category="medium">
-          <div class="category-header">
-            <h3>Medium & Format</h3>
-            <div class="category-controls">
-              <button class="pin-btn" title="Keep open" aria-label="Pin Medium & Format section open">📌</button>
-              <button class="expand-btn" aria-label="Expand Medium & Format section" aria-expanded="false">▼</button>
-            </div>
-          </div>
-          <div class="category-content collapsed" id="medium-content" role="region" aria-labelledby="medium-header">
-            <div class="tag-group" id="medium-tags"></div>
-          </div>
-        </div>
-        
-        <div class="filter-category" data-category="concepts">
-          <div class="category-header">
-            <h3>Concepts & Themes</h3>
-            <div class="category-controls">
-              <button class="pin-btn" title="Keep open" aria-label="Pin Concepts & Themes section open">📌</button>
-              <button class="expand-btn" aria-label="Expand Concepts & Themes section" aria-expanded="false">▼</button>
-            </div>
-          </div>
-          <div class="category-content collapsed" role="region" aria-labelledby="concepts-header">
-            <div class="tag-group" id="concept-tags"></div>
-          </div>
-        </div>
+  <main class="works-page">
+    <header class="works-header">
+      <h1>Works</h1>
+      <div class="works-count" id="works-count">Loading works...</div>
+    </header>
 
-        <div class="filter-category" data-category="historical">
-          <div class="category-header">
-            <h3>Historical Context</h3>
-            <div class="category-controls">
-              <button class="pin-btn" title="Keep open" aria-label="Pin Historical Context section open">📌</button>
-              <button class="expand-btn" aria-label="Expand Historical Context section" aria-expanded="false">▼</button>
-            </div>
-          </div>
-          <div class="category-content collapsed" role="region" aria-labelledby="historical-header">
-            <div class="tag-group" id="historical-tags"></div>
-          </div>
-        </div>
-
-        <div class="filter-category" data-category="decades">
-          <div class="category-header">
-            <h3>Decades</h3>
-            <div class="category-controls">
-              <button class="pin-btn" title="Keep open" aria-label="Pin Decades section open">📌</button>
-              <button class="expand-btn" aria-label="Expand Decades section" aria-expanded="false">▼</button>
-            </div>
-          </div>
-          <div class="category-content collapsed" role="region" aria-labelledby="decades-header">
-            <div class="decade-group" id="decade-tags"></div>
-          </div>
-        </div>
-
-        <div class="filter-category" data-category="status">
-          <div class="category-header">
-            <h3>Content Status</h3>
-            <div class="category-controls">
-              <button class="pin-btn" title="Keep open" aria-label="Pin Content Status section open">📌</button>
-              <button class="expand-btn" aria-label="Expand Content Status section" aria-expanded="false">▼</button>
-            </div>
-          </div>
-          <div class="category-content collapsed" role="region" aria-labelledby="status-header">
-            <div class="tag-group" id="status-tags"></div>
-          </div>
-        </div>
-
-        <div class="filter-category" data-category="media-status">
-          <div class="category-header">
-            <h3>Media Status</h3>
-            <div class="category-controls">
-              <button class="pin-btn" title="Keep open" aria-label="Pin Media Status section open">📌</button>
-              <button class="expand-btn" aria-label="Expand Media Status section" aria-expanded="false">▼</button>
-            </div>
-          </div>
-          <div class="category-content collapsed" role="region" aria-labelledby="media-status-header">
-            <div class="tag-group" id="media-status-tags"></div>
-          </div>
-        </div>
-      </div>
-    </aside>
-
-    <!-- Main Content -->
-    <main class="works-main">
-      <header class="works-header">
-        <h1>Works</h1>
-        <div class="under-construction">
-            This page is under construction
-        </div>
-        <div class="works-count" id="works-count">Loading works...</div>
-      </header>
-      
-      <!-- Works Grid -->
-      <div class="works-grid" id="works-grid">
-        <!-- Works will be populated here by JavaScript -->
-      </div>
-    </main>
-  </div>
-
-    <!-- Work Modal -->
-    <div class="modal" id="work-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" aria-hidden="true">
-      <div class="modal-content">
-        <button class="close" aria-label="Close work details">&times;</button>
-        <div class="modal-body" id="modal-body">
-          <!-- Work details will be populated here -->
-        </div>
+    <!-- Filter Panel (hidden by default, opened from navbar toggle) -->
+    <div class="filter-panel" id="filter-panel" aria-hidden="true">
+      <button class="filter-close-btn" id="filter-close-btn" aria-label="Close filter panel">&times;</button>
+      <div class="filter-section" id="filter-categories"></div>
+      <div class="filter-section" id="filter-mediums"></div>
+      <div class="filter-section" id="filter-tags"></div>
+      <div class="filter-section" id="filter-decades"></div>
+      <div class="filter-panel-footer">
+        <a href="#" class="filter-clear" id="filter-clear">Clear</a>
       </div>
     </div>
+
+    <!-- Works Grid -->
+    <div class="works-grid" id="works-grid">
+      <!-- Works will be populated here by JavaScript -->
+    </div>
   </main>
+
+  <!-- Work Modal -->
+  <div class="modal" id="work-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" aria-hidden="true">
+    <div class="modal-content">
+      <button class="close" aria-label="Close work details">&times;</button>
+      <div class="modal-body" id="modal-body">
+        <!-- Work details will be populated here -->
+      </div>
+    </div>
+  </div>
 
   <!-- Footer placeholder -->
   <div id="footer-placeholder"></div>
@@ -142,4 +59,3 @@
   <script src="works.js"></script>
 </body>
 </html>
-<!-- Trigger GitHub Pages deployment: Wed, Oct  1, 2025  7:53:39 PM -->

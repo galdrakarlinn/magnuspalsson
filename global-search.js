@@ -99,9 +99,13 @@ class GlobalSearch {
       return;
     }
 
+    // Clear buttons
+    this.clearBtnMobile = document.getElementById('search-clear-mobile');
+    this.clearBtnDesktop = document.getElementById('search-clear-desktop');
+
     // Set up event listeners for both inputs
-    this.setupSearchInput(this.searchInputMobile, this.searchResultsMobile);
-    this.setupSearchInput(this.searchInputDesktop, this.searchResultsDesktop);
+    this.setupSearchInput(this.searchInputMobile, this.searchResultsMobile, this.clearBtnMobile);
+    this.setupSearchInput(this.searchInputDesktop, this.searchResultsDesktop, this.clearBtnDesktop);
 
     // Handle search result navigation - use mousedown to catch it earlier
     document.addEventListener('mousedown', (e) => {
@@ -162,19 +166,42 @@ class GlobalSearch {
     return mobileValue || desktopValue || '';
   }
 
-  setupSearchInput(searchInput, searchResults) {
+  setupSearchInput(searchInput, searchResults, clearBtn) {
     if (!searchInput || !searchResults) return;
+
+    // Show/hide clear button based on input content
+    const updateClearBtn = () => {
+      if (clearBtn) {
+        clearBtn.classList.toggle('visible', searchInput.value.length > 0);
+      }
+    };
+
+    // Clear button click handler
+    if (clearBtn) {
+      clearBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        this.clearSearch();
+        updateClearBtn();
+        if (this.clearBtnMobile) this.clearBtnMobile.classList.remove('visible');
+        if (this.clearBtnDesktop) this.clearBtnDesktop.classList.remove('visible');
+      });
+    }
 
     // Create a debounced search function to improve iOS performance
     let searchTimeout;
     const debouncedSearch = (query) => {
       clearTimeout(searchTimeout);
       searchTimeout = setTimeout(() => {
+        updateClearBtn();
+
         // Sync with other search input
         if (searchInput === this.searchInputMobile && this.searchInputDesktop) {
           this.searchInputDesktop.value = query;
+          if (this.clearBtnDesktop) this.clearBtnDesktop.classList.toggle('visible', query.length > 0);
         } else if (searchInput === this.searchInputDesktop && this.searchInputMobile) {
           this.searchInputMobile.value = query;
+          if (this.clearBtnMobile) this.clearBtnMobile.classList.toggle('visible', query.length > 0);
         }
 
         // Set active search results container
@@ -627,10 +654,18 @@ class GlobalSearch {
     if (this.searchInputMobile) this.searchInputMobile.value = '';
     if (this.searchInputDesktop) this.searchInputDesktop.value = '';
 
+    // Hide clear buttons
+    if (this.clearBtnMobile) this.clearBtnMobile.classList.remove('visible');
+    if (this.clearBtnDesktop) this.clearBtnDesktop.classList.remove('visible');
+
     // Clear results
     this.currentResults = [];
     this.hideResults();
     this.hideFilters();
+
+    // Close mobile search panel
+    const mobileSearch = document.getElementById('mobile-search');
+    if (mobileSearch) mobileSearch.classList.remove('search-open');
 
     // Clear session storage
     sessionStorage.removeItem('globalSearchState');
@@ -765,6 +800,12 @@ class GlobalSearch {
           if (this.searchInputDesktop) this.searchInputDesktop.value = state.query;
           this.currentFilters = state.filters;
           this.currentResults = state.results;
+
+          // Show clear buttons if there's a query
+          if (state.query.length > 0) {
+            if (this.clearBtnMobile) this.clearBtnMobile.classList.add('visible');
+            if (this.clearBtnDesktop) this.clearBtnDesktop.classList.add('visible');
+          }
 
           if (state.query.length >= 2) {
             this.displayResults(state.results, state.query);
