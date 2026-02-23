@@ -1483,7 +1483,7 @@
     },
     "mat-a-h8-skak-checkmate-1972-1972": {
       "title": "Mát á H8",
-      "description": "A work by Magnús Pálsson from 1972. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career.",
+      "description": "The title 'Mát á H8' is a palindrome — read backwards it becomes '8H á táM' — and simultaneously a chess term: checkmate on square H8. The sculpture depicts toes, and in Icelandic 'tá' means 'toe', so '8H á tám' reads as '8H on toes'.",
       "materials": [],
       "exhibitions": [],
       "images": [
@@ -4025,6 +4025,7 @@
     "viewCollectionsPage": "View full collections page",
     "home.quote": "The artist saw how absurd it was that a person made of marble was perceived as a sculpture but a person made of flesh and blood was not. And he maintained: I am a sculpture. When I move I am a mobile sculpture and when I make a sound I am a sound sculpture. A person aware of being a sculpture immediately moves in another dimension. They stand in front of a mirror and scrutinize their looks and find themselves at a sculpture exhibition which easily becomes a concert. When movements and sounds become more complex they become performance, theatre.",
     "home.quote2": "\"Yes, space as the negative of people and things. Yes, that was it. Or vice versa. I thought it had something to say about positive and negative truth. Which means that if one proposition is true, then the opposite proposition is equally true, isn't it? I was putting it in this form, transposing it into material and picture, maybe not to prove any philosophical theories, but I thought it illustrated the thought. (...) Yes, because no thing exists without its opposite also existing.\"",
-    "home.quote2source": "(From an interview in Black on White, 1978)"
+    "home.quote2source": "(From an interview in Black on White, 1978)",
+    "home.quote3": "Sound sculpture is an umbrella term. Voice sculpture is a type of sound sculpture where voices are the medium. A sound sculpture can also use instruments, or simply the sound of a cement mixer or an airplane. A sound clearing is also a sound sculpture, but then you are actually inside the sound — the sound comes from loudspeakers that surround you."
   }
 }
