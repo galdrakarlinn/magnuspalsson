@@ -2217,8 +2217,8 @@
       "year": 1994,
       "dimensions": "32 x 24 cm",
       "description": {
-        "en": "A work from 1994 exploring themes of absence and negation.",
-        "is": ""
+        "en": "A play in two acts, originally created as a sound work and performed by four voices (Michael Fraser, Frances Cowan, Kathryn Mearns, Jón Árnason) for the sound sculpture The Moraga Legend (1985) at Henie-Onstad Kunstsenter in Norway. Later published as a book in 1993/1994.",
+        "is": "Leikrit í tveimur þáttum, upphaflega skapað sem hljóðverk og flutt af fjórum röddum (Michael Fraser, Frances Cowan, Kathryn Mearns, Jón Árnason) fyrir hljóðskúlptúrinn The Moraga Legend (1985) á Henie-Onstad Kunstsenter í Noregi. Síðar gefið út sem bók 1993/1994."
       },
       "images": [
         {
@@ -2272,7 +2272,11 @@
       ],
       "tags": [
         "installation",
-        "1994"
+        "1994",
+        "sound sculpture",
+        "book",
+        "performance",
+        "1980s"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -2301,7 +2305,15 @@
         "notes": "Book art - \"The Offs. Play in two acts\", 1993, 31.5 × 24 cm"
       },
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": "Sound sculpture, book, play",
+        "is": "Hljóðskúlptúr, bók, leikrit"
+      },
+      "relatedWorks": [
+        "the-moraga-legend",
+        "augustus_my_god"
+      ]
     },
     {
       "id": "tilfaesla-rymis-1976",
@@ -6607,7 +6619,7 @@
       "year": 1984,
       "dimensions": "50.5 x 20.9 cm",
       "description": {
-        "en": "A groundbreaking sound poetry work that crosses boundaries between audio art, book, and performance. Created as both a recorded piece and live performance, exploring themes of discovery, revelation, and the power of language.",
+        "en": "A groundbreaking sound poetry work that crosses boundaries between audio art, book, and performance. Created as both a recorded piece and live performance, exploring themes of discovery, revelation, and the power of language. Later incorporated as a central element in the sound sculpture The Moraga Legend (1985).",
         "is": ""
       },
       "images": [
@@ -6653,8 +6665,8 @@
         "book",
         "performance",
         "language",
-        "revelation",
-        "1980s"
+        "1980s",
+        "sound sculpture"
       ],
       "searchText": "augustus my god have it sound poetry audio art book performance language revelation nordic sound art festival reykjavik",
       "exhibitions": [
@@ -6678,7 +6690,15 @@
         "owner": "owned by the artist,  book with NÝLÓ",
         "owner_is": "í eigu höfundar, bók hjá NÝLÓ",
         "owner_en": "owned by the artist,  book with NÝLÓ"
-      }
+      },
+      "medium": {
+        "en": "Sound sculpture, book, performance",
+        "is": "Hljóðskúlptúr, bók, gjörningur"
+      },
+      "relatedWorks": [
+        "the-moraga-legend",
+        "the-offs-1994"
+      ]
     },
     {
       "id": "thyrlulending",
@@ -15767,20 +15787,20 @@
       },
       "year": 1985,
       "medium": {
-        "en": "Sound environment, 10 loudspeakers mounted on trees",
-        "is": "Hljóðumhverfi, 10 hátalerar festir á tré"
+        "en": "Sound sculpture, 10 loudspeakers mounted on trees",
+        "is": "Hljóðskúlptúr, 10 hátalerar festir á tré"
       },
       "description": {
-        "en": "A sound environment installed in a wooded area at Henie-Onstad Kunstsenter, Høvikodden, Norway. Ten loudspeakers were mounted on trees, each broadcasting different audio elements simultaneously. The work consisted of three main performed pieces: \"Augustus, my God, I have it!\" — a science fiction scene performed by seven voices (Charles Levin, Melissa van Hoek, Torild Nøst, Helgi Friðjónsson, Magnús Pálsson, Rod Summers, Tom Winter); \"The Offs\" — a play performed by four voices (Michael Fraser, Frances Cowan, Kathryn Mearns, Jón Árnason); and \"Dave & Per\" — a dialogue performed by Bodil Halvarson and Magnús Pálsson. Two additional speakers broadcast broken texts assembled from advertisements, newspaper headlines, and technical manuals, while two far-away speakers played flute and a girl's voice with echoed sentences. Sigurveig Magnúsdóttir contributed chanting, mouthorgan, and accordion. The idea, as Magnús described it, was to bring international kitsch into a romantic Nordic environment.",
-        "is": "Hljóðumhverfi sett upp í skógarrjóðri á Henie-Onstad Kunstsenter, Høvikodden í Noregi. Tíu hátalerar voru festir á tré og útvörpuðu mismunandi hljóðefni samtímis. Verkið samanstóð af þremur aðalfluttum verkum: \"Augustus, my God, I have it!\" — vísindaskáldskaparsenur flutt af sjö röddum (Charles Levin, Melissa van Hoek, Torild Nøst, Helgi Friðjónsson, Magnús Pálsson, Rod Summers, Tom Winter); \"The Offs\" — leikrit flutt af fjórum röddum (Michael Fraser, Frances Cowan, Kathryn Mearns, Jón Árnason); og \"Dave & Per\" — samræður fluttar af Bodil Halvarson og Magnúsi Pálssyni. Tveir hátalerar til viðbótar útvörpuðu brotum úr auglýsingum, fréttafyrirsögnum og tæknihandbókum, á meðan tveir hátalerar í fjarlægð spiluðu flautu og rödd stúlku með endurómuðum setningum. Sigurveig Magnúsdóttir lagði til söng, munnhörpu og harmoniku. Hugmyndin, eins og Magnús lýsti henni, var að færa alþjóðlegt kitsch inn í rómantískt norrænt umhverfi."
+        "en": "A sound sculpture installed in a wooded area at Henie-Onstad Kunstsenter, Høvikodden, Norway. Ten loudspeakers were mounted on trees, each broadcasting different audio elements simultaneously. The work consisted of three main performed pieces: \"Augustus, my God, I have it!\" — a science fiction scene performed by seven voices (Charles Levin, Melissa van Hoek, Torild Nøst, Helgi Friðjónsson, Magnús Pálsson, Rod Summers, Tom Winter); \"The Offs\" — a play performed by four voices (Michael Fraser, Frances Cowan, Kathryn Mearns, Jón Árnason); and \"Dave & Per\" — a dialogue performed by Bodil Halvarson and Magnús Pálsson. Two additional speakers broadcast broken texts assembled from advertisements, newspaper headlines, and technical manuals, while two far-away speakers played flute and a girl's voice with echoed sentences. Sigurveig Magnúsdóttir contributed chanting, mouthorgan, and accordion. The idea, as Magnús described it, was to bring international kitsch into a romantic Nordic environment.",
+        "is": "Hljóðskúlptúr sett upp í skógarrjóðri á Henie-Onstad Kunstsenter, Høvikodden í Noregi. Tíu hátalerar voru festir á tré og útvörpuðu mismunandi hljóðefni samtímis. Verkið samanstóð af þremur aðalfluttum verkum: \"Augustus, my God, I have it!\" — vísindaskáldskaparsenur flutt af sjö röddum (Charles Levin, Melissa van Hoek, Torild Nøst, Helgi Friðjónsson, Magnús Pálsson, Rod Summers, Tom Winter); \"The Offs\" — leikrit flutt af fjórum röddum (Michael Fraser, Frances Cowan, Kathryn Mearns, Jón Árnason); og \"Dave & Per\" — samræður fluttar af Bodil Halvarson og Magnúsi Pálssyni. Tveir hátalerar til viðbótar útvörpuðu brotum úr auglýsingum, fréttafyrirsögnum og tæknihandbókum, á meðan tveir hátalerar í fjarlægð spiluðu flautu og rödd stúlku með endurómuðum setningum. Sigurveig Magnúsdóttir lagði til söng, munnhörpu og harmoniku. Hugmyndin, eins og Magnús lýsti henni, var að færa alþjóðlegt kitsch inn í rómantískt norrænt umhverfi."
       },
       "category": "sound",
       "tags": [
         "sound",
         "installation",
-        "environment",
         "performance",
-        "sculpture"
+        "sculpture",
+        "sound sculpture"
       ],
       "location": {
         "en": "Henie-Onstad Kunstsenter, Høvikodden, Norway",
@@ -15948,6 +15968,10 @@
       ],
       "exhibitions": [
         "borealis-ii-position-north-1985"
+      ],
+      "relatedWorks": [
+        "augustus_my_god",
+        "the-offs-1994"
       ]
     }
   ],
