@@ -31,10 +31,7 @@
         }
       ],
       "tags": [
-        "1960s",
-        "ásmundarsalur",
-        "assemblage",
-        "dulargervi"
+        "camouflage"
       ],
       "exhibitions": [
         "bestu-stykkin-1967"
@@ -53,7 +50,20 @@
         "owner_en": "lost"
       },
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "sculpture",
+          "collage"
+        ],
+        "is": [
+          "skúlptúr",
+          "klippimynd"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "thiljur-laeknagarður-1995",
@@ -1040,11 +1050,7 @@
           "year": "2020"
         }
       ],
-      "tags": [
-        "wall piece",
-        "sculpture",
-        "1966"
-      ],
+      "tags": [],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
@@ -1069,7 +1075,21 @@
         }
       },
       "contentStatus": "ready for review",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "print",
+          "sculpture"
+        ],
+        "is": [
+          "prentgrafík",
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "print",
+        "sculpture"
+      ]
     },
     {
       "id": "vakning-2015",
@@ -1727,9 +1747,7 @@
         }
       ],
       "tags": [
-        "wallpaper",
-        "installation",
-        "1965"
+        "space"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -1739,7 +1757,7 @@
           "photosensitive paper"
         ],
         "is": [
-          "ljósnæmur pappir"
+          "ljósnæmur pappír"
         ]
       },
       "searchText": "ferð veggfóður (reise) journey, wallpaper 1965 magnús pálsson (f. 1929) tók virkan þátt í framúrstefnu íslenskrar leik- og myndlistar á 6. og 7. áratug 20. aldar og átti m.a. í farsælu samstarfi við dieter roth og síðar súm-hópinn. magnús hefur haft rík áhrif á íslenska samtímalist, m.a. í gegnum kennslustörf sem hann sinnti um árabil, en hann átti, ásamt hildi hákonardóttur, frumkvæði að stofnun nýlistadeildar við myndlista-og handíðaskóla íslands. magnús var fulltrúi íslands á feneyjatvíæringnum í myndlist 1980. árið 1994 var sett upp yfirlitssýning á verkum hans á kjarvalsstöðum. frumgerð verksins ferð er í eigu nýlistasafnsins en var endurgert vegna sýningar magnúsar pálssonar að kjarvalsstöðum 1994. verkið er gert úr 63 stökum tússteikningum sem er skeytt saman. teikningarnar eru prentaðar aftur og aftur og hver yfir aðra á langa pappírsörk svo úr verður til nokkurs konar veggfóður. verkið snýst ekki síst um þá ferð sem vinnan við það felur í sér og útkomuna því að í hvert skipti sem það er gert er útkoman öðruvísi. mögulegt er að tengja vinnuaðferð þess við annað verk í þessum sal sem kallast kál þar sem teikningum er skeytt saman og þær prentaðar á svipaðan máta. magnús pálsson (b. 1929) actively participated in the avant-garde of icelandic theater and visual arts in the 1960s and 1970s, collaborating with dieter roth and later the súm group. magnús has had a significant influence on contemporary icelandic art, particularly through his teaching at the icelandic college of arts and crafts, where he and hildur hákonardóttir initiated the establishment of the new art department. magnús represented iceland at the venice biennale in visual arts in 1980. in 1994, a retrospective exhibition of his works was held at kjarvalsstaðir. the original version of the work \"ferð\" (journey) is owned by the living art museum but was recreated for magnús pálsson's exhibition at kjarvalsstaðir in 1994. the work consists of 63 individual ink drawings joined together. the drawings are printed repeatedly, one over the other, onto long paper strips, creating a kind of wallpaper. the work is not least about the journey that the process of making it entails and the outcome, as each time it is made, the result is different. it is possible to connect the working method with another work in this room called \"kál\" (cabbage), where drawings are similarly joined together and printed. wallpaper installation 1965 ljósnæmur pappir photosensitive paper something-from-nothing-the-visual-realm-of-magnús-2019",
@@ -1757,7 +1775,21 @@
       "source": {
         "name": "Listasafn Reykjavíkur",
         "url": "https://listasafnreykjavikur.is/safneign/verk/85EDE27E-4780-4440-BB52-6135F0F6DF7C"
-      }
+      },
+      "medium": {
+        "en": [
+          "print",
+          "installation"
+        ],
+        "is": [
+          "prentgrafík",
+          "innsetning"
+        ]
+      },
+      "category": [
+        "print",
+        "installation"
+      ]
     },
     {
       "id": "ferd-frumgerd-1966",
@@ -1782,16 +1814,17 @@
         }
       ],
       "tags": [
-        "drawing",
-        "1966"
+        "dreams"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "marker pen on thin rigid plastic"
+          "plastic",
+          "ink"
         ],
         "is": [
-          "tússpenni á þunnt stíft plast"
+          "plast",
+          "blek"
         ]
       },
       "ownership": {
@@ -1805,7 +1838,18 @@
       ],
       "searchText": "ferð frumgerð frumteikning veggfóður journey wallpaper preliminary drawing original 1966 magnús pálsson marker tússpenni plast",
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "drawing"
+        ],
+        "is": [
+          "teikning"
+        ]
+      },
+      "category": [
+        "painting"
+      ]
     },
     {
       "id": "volundarhus-labyrinth-1980",
@@ -1965,10 +2009,7 @@
         }
       ],
       "tags": [
-        "conceptual",
-        "sculpture",
-        "time",
-        "1964"
+        "time"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -1976,14 +2017,10 @@
       "materials": {
         "en": [
           "clock",
-          "found object",
-          "text",
           "paint"
         ],
         "is": [
           "klukka",
-          "fundinn hlutur",
-          "texti",
           "málning"
         ]
       },
@@ -1994,7 +2031,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "tango-1-2-1969",
@@ -2133,25 +2181,21 @@
         }
       ],
       "tags": [
-        "painting",
-        "camouflage",
-        "1962"
+        "camouflage"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "plastic",
           "board",
           "paper",
           "paint",
-          "fish"
+          "plastic"
         ],
         "is": [
-          "plast",
-          "pappír",
           "spjald",
+          "pappír",
           "málning",
-          "fiskur"
+          "plast"
         ]
       },
       "searchText": "tarnung camoflas tros dulamálning 1962 camouflage painting magnús pálsson",
@@ -2161,7 +2205,20 @@
         "owner": "The National Gallery of Iceland",
         "owner_is": "Listsafn Íslands",
         "owner_en": "The National Gallery of Iceland"
-      }
+      },
+      "medium": {
+        "en": [
+          "painting",
+          "collage"
+        ],
+        "is": [
+          "málverk",
+          "klippimynd"
+        ]
+      },
+      "category": [
+        "painting"
+      ]
     },
     {
       "id": "hunting-of-the-snark-1998",
@@ -2811,8 +2868,8 @@
         }
       ],
       "tags": [
-        "negative space",
-        "positive space"
+        "positive/negative space",
+        "love"
       ],
       "exhibitions": [
         "retrospective-exhibition-1994",
@@ -2826,17 +2883,29 @@
       "searchText": "pappirsást 1965-6 1965 magnús pálsson",
       "materials": {
         "en": [
-          "paper",
-          "book"
+          "paper"
         ],
         "is": [
-          "pappír",
-          "bók"
+          "pappír"
         ]
       },
       "status": "ready_for_review",
       "contentStatus": "needs review",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "book art",
+          "sculpture"
+        ],
+        "is": [
+          "bóklist",
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "book",
+        "sculpture"
+      ]
     },
     {
       "id": "portrait-of-dorothy-1966-1966",
@@ -6462,11 +6531,7 @@
         }
       ],
       "tags": [
-        "sculpture",
-        "geometric",
-        "early work",
-        "1960s",
-        "abstract"
+        "collaboration"
       ],
       "exhibitions": [],
       "materials": {
@@ -6475,13 +6540,24 @@
           "paint"
         ],
         "is": [
-          "viður",
-          "paint"
+          "tré",
+          "málning"
         ]
       },
       "searchText": "kúlan geometric sculpture early work 1962 abstract form spatial magnús pálsson",
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "bestu_stykkin",
@@ -6570,15 +6646,8 @@
         }
       ],
       "tags": [
-        "sculpture",
-        "anti-art",
-        "cloth figures",
-        "conceptual",
-        "frúöld",
-        "dieter roth",
-        "controversial",
-        "1960s",
-        "debut exhibition"
+        "humor",
+        "identity"
       ],
       "exhibitions": [
         "bestu-stykkin-1967",
@@ -6586,17 +6655,20 @@
       ],
       "materials": {
         "en": [
-          "dresses stuffed with paper",
+          "cloth",
+          "paper",
           "wire",
           "plaster",
           "lacquer",
           "paint"
         ],
         "is": [
-          "kjólar fylltir með pappír",
+          "textíll",
+          "pappír",
           "vír",
-          "gips",
-          "lakk og málning"
+          "gifs",
+          "lakk",
+          "málning"
         ]
       },
       "searchText": "bestu stykkin best pieces cloth figures frúöld anti-art ásmundarsalur 1967 debut exhibition dieter roth controversial ugly idiotic magnús pálsson hvarf garage studio",
@@ -6608,7 +6680,18 @@
         "catalogNumber": "N-277"
       },
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "augustus_my_god",
@@ -10134,15 +10217,8 @@
         }
       ],
       "tags": [
-        "early work",
-        "1960s",
-        "sculpture",
-        "mixed media",
-        "Fluxus",
-        "conceptual art",
         "humor",
-        "ephemerality",
-        "Ásmundarsalur"
+        "fluxus"
       ],
       "exhibitions": [
         "exhibition-1968"
@@ -10167,7 +10243,18 @@
         "owner": "The National Gallery of Iceland",
         "owner_is": "Listsafn Íslands",
         "owner_en": "The National Gallery of Iceland"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "foss_waterfall_2006",
