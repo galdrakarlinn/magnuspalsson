@@ -924,10 +924,7 @@
         }
       ],
       "tags": [
-        "book work",
-        "artist book",
-        "collaboration",
-        "1984"
+        "collaboration"
       ],
       "exhibitions": [
         "islandische-besucher-in-basel-1984",
@@ -935,10 +932,10 @@
       ],
       "materials": {
         "en": [
-          "Printed pages"
+          "paper"
         ],
         "is": [
-          "Prentaðar síður"
+          "pappír"
         ]
       },
       "searchText": "wendy walking treffen im gebirge isländische besucher basel artist book listabók seedorn verlag 1984 galerie filiale magnús pálsson",
@@ -948,7 +945,18 @@
         "owner": "various owners and the artist",
         "owner_is": "Ýmsir eigendur, í eigu höfundar",
         "owner_en": "various owners and the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "book art"
+        ],
+        "is": [
+          "bóklist"
+        ]
+      },
+      "category": [
+        "book"
+      ]
     },
     {
       "id": "ulla-udda-sudurgata-7-1976",
@@ -1954,20 +1962,16 @@
         }
       ],
       "tags": [
-        "installation",
-        "labyrinth",
-        "1980"
+        "mythology"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
-          "Photograph",
           "paint"
         ],
         "is": [
-          "Ljósmynd",
           "málning"
         ]
       },
@@ -1978,7 +1982,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "installation"
+        ],
+        "is": [
+          "innsetning"
+        ]
+      },
+      "category": [
+        "installation"
+      ]
     },
     {
       "id": "taem-time-clock-now-1964",
@@ -3323,16 +3338,15 @@
         }
       ],
       "tags": [
-        "artwork",
-        "1982"
+        "teaching"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "audio"
+          "audio tape"
         ],
         "is": [
-          "hljóð"
+          "hljóðband"
         ]
       },
       "searchText": "pegasus student work enschede aki 1982-3 1982 magnús pálsson",
@@ -3342,7 +3356,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sound art"
+        ],
+        "is": [
+          "hljóðlist"
+        ]
+      },
+      "category": [
+        "sound"
+      ]
     },
     {
       "id": "kennaraskoli-islands-model-with-dr",
@@ -3776,16 +3801,16 @@
         }
       ],
       "tags": [
-        "artwork",
-        "1983"
+        "teaching",
+        "collaboration"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "book"
+          "paper"
         ],
         "is": [
-          "bók"
+          "pappír"
         ]
       },
       "searchText": "mumbling eye jan van eyck academie maastricht student book 1983 magnús pálsson",
@@ -3795,7 +3820,18 @@
         "owner": "various owners and the artist",
         "owner_is": "ýmsir, í eigu höfundar",
         "owner_en": "various owners and the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "book art"
+        ],
+        "is": [
+          "bóklist"
+        ]
+      },
+      "category": [
+        "book"
+      ]
     },
     {
       "id": "motun-lands-askja-2010-2010",
@@ -5788,18 +5824,17 @@
         }
       ],
       "tags": [
-        "artwork",
-        "1984"
+        "teaching"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
-          "audio"
+          "audio tape"
         ],
         "is": [
-          "hljóð"
+          "hljóðband"
         ]
       },
       "searchText": "kennsla - geggjaðasta listgreinin -  teaching, the craziest branch of art 1984 1984 magnús pálsson",
@@ -5809,7 +5844,21 @@
         "owner": "various owners and the artist",
         "owner_is": "ýmsir, í eigu höfundar",
         "owner_en": "various owners and the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sound art",
+          "performance"
+        ],
+        "is": [
+          "hljóðlist",
+          "gjörningur"
+        ]
+      },
+      "category": [
+        "sound",
+        "performance"
+      ]
     },
     {
       "id": "kjotkassan-og-brasiliufraenkan-19934-1993",
@@ -6547,21 +6596,20 @@
         }
       ],
       "tags": [
-        "installation",
-        "sound",
-        "1982"
+        "death",
+        "humor"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
-          "mixed media",
-          "home appliances"
+          "home appliances",
+          "mixed media"
         ],
         "is": [
-          "blandað efni",
-          "heimilistæki"
+          "heimilistæki",
+          "blandað efni"
         ]
       },
       "ownership": {
@@ -6573,7 +6621,18 @@
       },
       "searchText": "minning magnúsar jónssonar í minningu vinar míns sem át hús á akureyri og spilaði blús á sköflung sinn in memory friend ate house akureyri played blues washboard 1982 magnús pálsson installation innsetning",
       "contentStatus": "needs review",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "installation"
+        ],
+        "is": [
+          "innsetning"
+        ]
+      },
+      "category": [
+        "installation"
+      ]
     },
     {
       "id": "mat-a-h8-skak-checkmate-1972-1972",
@@ -7797,20 +7856,8 @@
         }
       ],
       "tags": [
-        "concert",
-        "performance",
-        "anti-society",
-        "punk band",
-        "casting",
-        "negative space",
-        "audience participation",
-        "sculptural documentation",
-        "material residue",
-        "sound",
-        "presence",
-        "sweden",
-        "norrköping",
-        "1980s"
+        "positive/negative space",
+        "collaboration"
       ],
       "exhibitions": [
         {
@@ -7829,14 +7876,10 @@
       ],
       "materials": {
         "en": [
-          "performance",
-          "plaster mould",
-          "music"
+          "plaster"
         ],
         "is": [
-          "gjörningur",
-          "gifsmót",
-          "tónlist"
+          "gifs"
         ]
       },
       "searchText": "anti society league concert norkjöping sweden performance casting 1982 magnús pálsson placeholder needs review",
@@ -7847,7 +7890,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "performance",
+          "sculpture"
+        ],
+        "is": [
+          "gjörningur",
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "performance",
+        "sculpture"
+      ]
     },
     {
       "id": "ast_i_sundlaug_1975",
@@ -7987,28 +8044,21 @@
         }
       ],
       "tags": [
-        "music",
-        "bacarolle",
-        "plaster casting",
-        "students",
-        "collaboration",
+        "positive/negative space",
         "teaching",
-        "1980s",
-        "PLACEHOLDER - needs review"
+        "collaboration"
       ],
       "exhibitions": [
         "exhibition-1981"
       ],
       "materials": {
         "en": [
-          "plaster mould",
-          "music",
-          "performance"
+          "plaster",
+          "music"
         ],
         "is": [
-          "gifsmót",
-          "tónlist",
-          "gjörningur"
+          "gifs",
+          "tónlist"
         ]
       },
       "searchText": "bacarolle í fís dúr music plaster casting students collaboration teaching 1981 magnús pálsson placeholder needs review",
@@ -8018,7 +8068,22 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "performance",
+          "sound sculpture"
+        ],
+        "is": [
+          "gjörningur",
+          "hljóðskúlptúr"
+        ]
+      },
+      "category": [
+        "performance",
+        "sound",
+        "sculpture"
+      ]
     },
     {
       "id": "bilatal_odurin_til_bilsins_2002",
@@ -8228,23 +8293,19 @@
         }
       ],
       "tags": [
-        "book",
-        "text",
-        "definitions",
-        "1980s",
-        "book art",
-        "bóklist",
-        "student collaboration"
+        "teaching",
+        "collaboration",
+        "language"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
-          "book"
+          "paper"
         ],
         "is": [
-          "bók"
+          "pappír"
         ]
       },
       "audio": {
@@ -8258,7 +8319,18 @@
         "owner_en": "various owners and the artist"
       },
       "contentStatus": "ready for review",
-      "mediaStatus": "images ok"
+      "mediaStatus": "images ok",
+      "medium": {
+        "en": [
+          "book art"
+        ],
+        "is": [
+          "bóklist"
+        ]
+      },
+      "category": [
+        "book"
+      ]
     },
     {
       "id": "bref_til_djonna_1994",
@@ -9889,26 +9961,20 @@
         }
       ],
       "tags": [
-        "echo",
-        "holland",
-        "students",
-        "mirrors",
-        "collaboration",
-        "1980s"
+        "teaching",
+        "collaboration"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
           "glass",
           "paper",
-          "shells",
-          "mixed media"
+          "shells"
         ],
         "is": [
           "gler",
           "pappír",
-          "skeljar",
-          "blandað efni"
+          "skeljar"
         ]
       },
       "searchText": "echo holland student work mirrors collaboration drawings photocopies 1983 magnús pálsson nýlistasafnið",
@@ -9918,7 +9984,18 @@
         "owner_en": "various owners and the artist"
       },
       "contentStatus": "ready for review",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "installation"
+        ],
+        "is": [
+          "innsetning"
+        ]
+      },
+      "category": [
+        "installation"
+      ]
     },
     {
       "id": "edda_text_works_ancestry_malmo_1978",
@@ -10063,29 +10140,23 @@
         }
       ],
       "tags": [
-        "sound sculpture",
-        "hljóðskúlptúr",
-        "multi-channel audio",
-        "installation",
-        "memory",
+        "folklore",
         "childhood",
-        "icelandic humor",
-        "gallery one-one",
-        "snuff tobacco",
-        "1980s",
-        "1990s"
+        "positive/negative space"
       ],
       "exhibitions": [
         "enginn-gleypir-sólina-no-one-swallows-the-sun-1993"
       ],
       "materials": {
         "en": [
-          "audio installation",
+          "loudspeakers",
+          "audio tape",
           "snuff tobacco",
           "paper"
         ],
         "is": [
-          "hljóðinnsetning",
+          "hátalerar",
+          "hljóðband",
           "neftóbak",
           "pappír"
         ]
@@ -10097,7 +10168,22 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sound sculpture",
+          "voice sculpture",
+          "sound clearing"
+        ],
+        "is": [
+          "hljóðskúlptúr",
+          "raddskúlptúr",
+          "hljóðrjóður"
+        ]
+      },
+      "category": [
+        "sound"
+      ]
     },
     {
       "id": "fjall_ceramic_pieces_1969_71",
@@ -10326,15 +10412,7 @@
         }
       ],
       "tags": [
-        "edda",
-        "mythology",
-        "sketches",
-        "hel",
-        "himinbjörg",
-        "mosfellsbær",
-        "íslandsbanki",
-        "1980s",
-        "PLACEHOLDER - needs review"
+        "mythology"
       ],
       "exhibitions": [
         {
@@ -10353,12 +10431,12 @@
       ],
       "materials": {
         "en": [
-          "drawings",
-          "watercolors"
+          "paper",
+          "watercolor"
         ],
         "is": [
-          "teikningar",
-          "vatnslitir"
+          "pappír",
+          "vatnslitur"
         ]
       },
       "searchText": "eddumyndir edda mythology sketches hel himinbjörg mosfellsbær íslandsbanki 1983 magnús pálsson placeholder needs review",
@@ -10368,7 +10446,20 @@
         "owner": "Mosfellsbær municipality and the artist",
         "owner_is": "Mosfellsbær, í eigu höfundar",
         "owner_en": "Mosfellsbær municipality and the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "watercolor",
+          "drawing"
+        ],
+        "is": [
+          "vatnslitur",
+          "teikning"
+        ]
+      },
+      "category": [
+        "painting"
+      ]
     },
     {
       "id": "erdanubodd_1962",
@@ -11419,24 +11510,7 @@
         }
       ],
       "tags": [
-        "animals",
-        "musical notation",
-        "drawing",
-        "hani",
-        "cockerel",
-        "krummi",
-        "crow",
-        "hundur",
-        "dog",
-        "svin",
-        "pig",
-        "bird",
-        "horse",
-        "mouse",
-        "sound",
-        "nature",
-        "galleri gangur",
-        "1980s"
+        "animals"
       ],
       "exhibitions": [
         "exhibition-1982",
@@ -11444,10 +11518,10 @@
       ],
       "materials": {
         "en": [
-          "drawing"
+          "paper"
         ],
         "is": [
-          "teikning"
+          "pappír"
         ]
       },
       "searchText": "galleri gangur hani krummi hundur svin cockerel crow dog pig animals musical notation drawing bird horse mouse sound nature reykjavík 1982 magnús pálsson",
@@ -11457,7 +11531,18 @@
         "owner": "owned by the artist,",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist,"
-      }
+      },
+      "medium": {
+        "en": [
+          "drawing"
+        ],
+        "is": [
+          "teikning"
+        ]
+      },
+      "category": [
+        "painting"
+      ]
     },
     {
       "id": "gapassipi_1995",
@@ -13512,12 +13597,7 @@
         }
       ],
       "tags": [
-        "conceptual",
-        "institutional critique",
-        "banking",
-        "midsummer",
-        "corporate intervention",
-        "1980s"
+        "humor"
       ],
       "exhibitions": [
         {
@@ -13535,11 +13615,9 @@
       ],
       "materials": {
         "en": [
-          "etching",
           "metal"
         ],
         "is": [
-          "æting",
           "málmur"
         ]
       },
@@ -13550,7 +13628,18 @@
       },
       "searchText": "jónsmessunótt bank piece institutional critique banking íslandsbanki corporate intervention midsummer 1982 magnús pálsson corporate collection",
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "print"
+        ],
+        "is": [
+          "prentgrafík"
+        ]
+      },
+      "category": [
+        "print"
+      ]
     },
     {
       "id": "jorgen_bruun_hansen_2013",
@@ -15698,16 +15787,17 @@
         }
       ],
       "tags": [
-        "artwork",
-        "1980"
+        "nature",
+        "animals",
+        "humor"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "rubbish"
+          "found objects"
         ],
         "is": [
-          "rusl"
+          "fundir hlutir"
         ]
       },
       "searchText": "sólskrikja, mús, kengúra bunting, mouse, kangaroo 1980 „norðan korpúlfsstaða við ósa úlfarsár er teikning af sólskríkju á grasbala. á tíu dögum breytist sólskríkja í mús og á öðrum tíu dögum í kengúru.“ svo kemst magnús pálsson sjálfur að orði um verkið. upphaflega var það gert árið 1980 en hann endurgerði það 1994 vegna yfirlitssýningar sem var það ár á kjarvalsstöðum. í bæði skipti sótti hann efnivið í nærliggjandi öskuhauga. upphaflega hafði hann ætlað sér að raða ruslinu upp í fallegt munstur utan í hlíð sem sæist langt að, en á endanum varð það að þessu umbreytingarferli. magnús skapar hér eitthvað úr engu. \"north of korpúlfsstaður at the mouth of úlfarsá there is a drawing of a bird on a grass patch. in ten days, the bird transforms into a mouse, and in another ten days into a kangaroo.\" this is how magnús pálsson himself describes the work. originally it was made in 1980, but he recreated it in 1994 for a retrospective exhibition held that year at kjarvalsstaðir. both times he sourced material from nearby ash heaps. originally he had intended to arrange the garbage in a beautiful pattern on a hillside that could be seen from far away, but in the end it became this transformation process. here magnús creates something from nothing. artwork 1980 rusl rubbish",
@@ -15724,7 +15814,20 @@
       "source": {
         "name": "Listasafn Reykjavíkur",
         "url": "https://listasafnreykjavikur.is/safneign/verk/FF516E6C-A0B4-4392-BFC1-31D51E286F0F"
-      }
+      },
+      "medium": {
+        "en": [
+          "installation",
+          "public art"
+        ],
+        "is": [
+          "innsetning",
+          "almenningsverk"
+        ]
+      },
+      "category": [
+        "installation"
+      ]
     },
     {
       "id": "solur-skagarstrand-aug-2015",
