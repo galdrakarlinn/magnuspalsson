@@ -86,6 +86,22 @@ class WorksManager {
     document.title = `${i18n.t('works')} – Magnús Pálsson`;
   }
 
+  updateWorksCount() {
+    const counter = document.getElementById('works-count');
+    if (!counter) return;
+    const totalWorks = this.allWorks.length;
+    const filteredCount = this.filteredWorks.length;
+    const lang = this.getCurrentLanguage();
+    const worksWord = lang === 'is' ? 'verk' : 'works';
+    const ofWord = lang === 'is' ? 'af' : 'of';
+    const worksTotal = lang === 'is' ? 'verkum' : 'works';
+    if (filteredCount === totalWorks) {
+      counter.textContent = `${totalWorks} ${worksWord}`;
+    } else {
+      counter.textContent = `${filteredCount} ${ofWord} ${totalWorks} ${worksTotal}`;
+    }
+  }
+
   // Helper to get current language
   getCurrentLanguage() {
     return (typeof i18n !== 'undefined' && i18n.currentLang) ? i18n.currentLang : 'en';
@@ -167,6 +183,7 @@ class WorksManager {
     this.updatePageTitle();
     this.renderFilterPanel();
     this.updateFilterToggleLabel();
+    this.updateWorksCount();
     this.updateWorkCardsLanguage(); // Fast update instead of full re-render
     // If modal is open, refresh it
     const modal = document.getElementById('work-modal');
@@ -547,21 +564,12 @@ class WorksManager {
       return;
     }
 
-    const counter = document.getElementById('works-count');
-
-    // Update count display
-    if (counter) {
-      const totalWorks = this.allWorks.length;
-      const filteredCount = this.filteredWorks.length;
-      if (filteredCount === totalWorks) {
-        counter.textContent = `${totalWorks} works`;
-      } else {
-        counter.textContent = `${filteredCount} of ${totalWorks} works`;
-      }
-    }
+    this.updateWorksCount();
 
     if (this.filteredWorks.length === 0) {
-      grid.innerHTML = '<p class="no-results">No works found matching your criteria.</p>';
+      const lang = this.getCurrentLanguage();
+      const noResults = lang === 'is' ? 'Engin verk fundust sem passa við leitarskilyrði.' : 'No works found matching your criteria.';
+      grid.innerHTML = `<p class="no-results">${noResults}</p>`;
       return;
     }
 
