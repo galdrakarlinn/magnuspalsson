@@ -152,15 +152,7 @@
         }
       ],
       "tags": [
-        "acoustics",
-        "anatomy",
-        "berlin",
-        "installation",
-        "mythology",
-        "paper",
-        "sound",
-        "text",
-        "wood carving"
+        "language"
       ],
       "exhibitions": [
         "thiljur-bethanien-berlin-2002"
@@ -168,13 +160,13 @@
       "materials": {
         "en": [
           "wood",
-          "carved text",
-          "paper and ink"
+          "paper",
+          "ink"
         ],
         "is": [
           "tré",
-          "útskorinn texti",
-          "pappír og blek"
+          "pappír",
+          "blek"
         ]
       },
       "searchText": "þiljur thiljur læknagarður cladding panels 1995 2002 anatomy ymir edda bethanien berlin magnús pálsson",
@@ -188,7 +180,21 @@
         }
       },
       "contentStatus": "needs review",
-      "mediaStatus": "images review"
+      "mediaStatus": "images review",
+      "medium": {
+        "en": [
+          "installation",
+          "sculpture"
+        ],
+        "is": [
+          "innsetning",
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "installation",
+        "sculpture"
+      ]
     },
     {
       "id": "thraetubalkur-1990",
@@ -261,26 +267,19 @@
         }
       ],
       "tags": [
-        "sound sculpture",
-        "installation",
-        "Homer",
-        "Iliad",
-        "mythology",
-        "choir"
+        "mythology"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
-          "sound",
-          "performance",
-          "choir"
+          "loudspeakers",
+          "choir score"
         ],
         "is": [
-          "hljóð",
-          "gjörningur",
-          "kór"
+          "hátalerer",
+          "kórnótur"
         ]
       },
       "searchText": "þrætubálkur thraetubalkur dispute pole 1990 sound sculpture iliad homer nýlistasafnið magnús pálsson",
@@ -290,7 +289,20 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sound sculpture",
+          "voice sculpture"
+        ],
+        "is": [
+          "hljóðskúlptúr",
+          "raddskúlptúr"
+        ]
+      },
+      "category": [
+        "sound"
+      ]
     },
     {
       "id": "thrigaldur-thursavaenn-2000",
@@ -1446,12 +1458,7 @@
           "photographer": "Pétur Thomsen"
         }
       ],
-      "tags": [
-        "installation",
-        "sound",
-        "sculpture",
-        "1994"
-      ],
+      "tags": [],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
@@ -1462,8 +1469,8 @@
           "mixed media"
         ],
         "is": [
-          "soap",
-          "hljóðupptaka",
+          "sápa",
+          "hljóðband",
           "blandað efni"
         ]
       },
@@ -1483,7 +1490,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "installation",
+          "sound art"
+        ],
+        "is": [
+          "innsetning",
+          "hljóðlist"
+        ]
+      },
+      "category": [
+        "installation",
+        "sound"
+      ]
     },
     {
       "id": "atlantis-1993",
@@ -1508,10 +1529,7 @@
         }
       ],
       "tags": [
-        "installation",
-        "sculpture",
-        "1990s",
-        "nýlistasafnið"
+        "dreams"
       ],
       "exhibitions": [
         {
@@ -1547,7 +1565,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "installation",
+          "sculpture"
+        ],
+        "is": [
+          "innsetning",
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "installation",
+        "sculpture"
+      ]
     },
     {
       "id": "djengis-khan-1993",
@@ -1572,11 +1604,7 @@
         }
       ],
       "tags": [
-        "installation",
-        "sculpture",
-        "video",
-        "1990s",
-        "nýlistasafnið"
+        "camouflage"
       ],
       "exhibitions": [
         {
@@ -1599,7 +1627,7 @@
           "mixed media"
         ],
         "is": [
-          "strengur",
+          "snúra",
           "vídeó",
           "blandað efni"
         ]
@@ -1616,7 +1644,24 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "installation",
+          "sculpture",
+          "video"
+        ],
+        "is": [
+          "innsetning",
+          "skúlptúr",
+          "vídeó"
+        ]
+      },
+      "category": [
+        "installation",
+        "sculpture",
+        "video"
+      ]
     },
     {
       "id": "etan-langbrok-1993",
@@ -1682,11 +1727,7 @@
           "photographer": "Pétur Thomsen"
         }
       ],
-      "tags": [
-        "installation",
-        "1990s",
-        "nýlistasafnið"
-      ],
+      "tags": [],
       "exhibitions": [
         {
           "title": {
@@ -1703,11 +1744,11 @@
       ],
       "materials": {
         "en": [
-          "coloured soaps",
+          "soap",
           "table"
         ],
         "is": [
-          "litaðar sápur",
+          "sápa",
           "borð"
         ]
       },
@@ -1724,7 +1765,18 @@
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
       },
-      "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-07-thumb.jpg"
+      "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-07-thumb.jpg",
+      "medium": {
+        "en": [
+          "installation"
+        ],
+        "is": [
+          "innsetning"
+        ]
+      },
+      "category": [
+        "installation"
+      ]
     },
     {
       "id": "veggfodur-ferd-reise-1965",
@@ -2295,9 +2347,8 @@
         }
       ],
       "tags": [
-        "installation",
-        "literary",
-        "1998"
+        "language",
+        "humor"
       ],
       "exhibitions": [],
       "materials": {
@@ -2315,7 +2366,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "installation"
+        ],
+        "is": [
+          "innsetning"
+        ]
+      },
+      "category": [
+        "installation"
+      ]
     },
     {
       "id": "the-offs-1994",
@@ -2380,26 +2442,17 @@
         }
       ],
       "tags": [
-        "installation",
-        "1994",
-        "sound sculpture",
-        "book",
-        "performance",
-        "1980s"
+        "language"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
-          "book",
-          "play",
           "paper",
           "plastic"
         ],
         "is": [
-          "bók",
-          "leikrit",
           "pappír",
           "plast"
         ]
@@ -2416,12 +2469,22 @@
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "medium": {
-        "en": "Sound sculpture, book, play",
-        "is": "Hljóðskúlptúr, bók, leikrit"
+        "en": [
+          "play",
+          "sound sculpture"
+        ],
+        "is": [
+          "leikrit",
+          "hljóðskúlptúr"
+        ]
       },
       "relatedWorks": [
         "the-moraga-legend",
         "augustus_my_god"
+      ],
+      "category": [
+        "stage",
+        "sound"
       ]
     },
     {
@@ -2695,21 +2758,17 @@
         }
       ],
       "tags": [
-        "performance",
-        "video",
-        "international",
-        "dada",
-        "2005"
+        "fluxus",
+        "language",
+        "humor"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "performance",
-          "installation"
+          "mixed media"
         ],
         "is": [
-          "gjörningur",
-          "innsetning"
+          "blandað efni"
         ]
       },
       "searchText": "mutations stökkbreytingar dada tate hackney empire 2005 performance video london magnús pálsson",
@@ -2719,7 +2778,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "performance"
+        ],
+        "is": [
+          "gjörningur"
+        ]
+      },
+      "category": [
+        "performance"
+      ]
     },
     {
       "id": "rumbjarni-sudurgata-7-1976-1976",
@@ -2869,20 +2939,15 @@
         }
       ],
       "tags": [
-        "performance",
-        "video",
-        "documentation",
-        "1999"
+        "teaching"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "video",
-          "performance"
+          "video"
         ],
         "is": [
-          "vídeó",
-          "gjörningur"
+          "vídeó"
         ]
       },
       "searchText": "pendúll student performance 1.2.1999 1999 magnús pálsson performance video documentation",
@@ -2892,7 +2957,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "performance",
+          "video"
+        ],
+        "is": [
+          "gjörningur",
+          "vídeó"
+        ]
+      },
+      "category": [
+        "performance",
+        "video"
+      ]
     },
     {
       "id": "pappirsast-19656-1965",
@@ -5644,30 +5723,21 @@
       ],
       "thumbnail": "images/manifesto-bergen-offside-exhibition-1996-1996/thumbs/manifesto-pgt-02-thumb.jpg",
       "tags": [
-        "installation",
-        "text",
-        "voice",
-        "language",
-        "P-language",
-        "sound",
-        "Nordic identity",
-        "1990s"
+        "language"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "hard-boiled eggs",
+          "eggs",
           "nails",
-          "cassette tapes",
-          "photocopied text",
-          "installation"
+          "audio tape",
+          "paper"
         ],
         "is": [
-          "sodin egg",
-          "neglar",
-          "hljodsnildur",
-          "ljosritadur texti",
-          "innsetning"
+          "egg",
+          "naglar",
+          "hljóðband",
+          "pappír"
         ]
       },
       "searchText": "manifesto mapanipifepestopo p-mal p-language bergen offside 1996 nordic identity eggs installation voice text magnus palsson",
@@ -5677,7 +5747,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "installation",
+          "sound poetry"
+        ],
+        "is": [
+          "innsetning",
+          "hljóðljóð"
+        ]
+      },
+      "category": [
+        "installation",
+        "sound"
+      ]
     },
     {
       "id": "minning-kaninunnar-barabbit-1979-1979",
@@ -5882,16 +5966,15 @@
         }
       ],
       "tags": [
-        "artwork",
-        "1993"
+        "humor"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "play"
+          "mixed media"
         ],
         "is": [
-          "leikrit"
+          "blandað efni"
         ]
       },
       "searchText": "kjötkássan og brasilíufrænkan 1993-4 1993 magnús pálsson",
@@ -5901,7 +5984,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "play"
+        ],
+        "is": [
+          "leikrit"
+        ]
+      },
+      "category": [
+        "stage"
+      ]
     },
     {
       "id": "kuakyn-i-haettu-2015-2015",
@@ -6031,20 +6125,17 @@
         }
       ],
       "tags": [
-        "artwork",
-        "1999"
+        "humor"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
-          "video",
-          "sound"
+          "video"
         ],
         "is": [
-          "vídeó",
-          "hljóð"
+          "vídeó"
         ]
       },
       "searchText": "kúplingsdiskur clutch disc 1999 myndbandið er tekið með „green screen“ tækni þar sem listamaðurinn sést sitjandi á stól er virðist smár miðað við manninn. hlutföllin eru á skjön, listamaðurinn situr á hlið og talar út í tómið. textinn fjallar um fólk, atburði og samskipti en einnig um stærð hluta og umhverfis, skynjun manna á stærð í umhverfi sínu og þau viðmið sem beitt er hverju sinni. af og til fer allt á flug; myndin hristist og jarðskjálfti skekur manninn og rýmið. the video is shot using \"green screen\" technology where the artist is seen sitting on a chair that appears small in relation to the person. the proportions are off; the artist sits at an angle and speaks into the void. the text discusses people, events, and interactions, but also the size of objects and surroundings, people's perception of size in their environment, and the standards applied in each case. occasionally everything takes off; the image shakes and an earthquake jolts the person and the space. artwork 1999 vídeó hljóð video sound something-from-nothing-the-visual-realm-of-magnús-2019",
@@ -6061,7 +6152,21 @@
       "source": {
         "name": "Listasafn Reykjavíkur",
         "url": "https://listasafnreykjavikur.is/safneign/verk/080B26D6-E135-4551-8379-B7460C06659C"
-      }
+      },
+      "medium": {
+        "en": [
+          "video",
+          "sound art"
+        ],
+        "is": [
+          "vídeó",
+          "hljóðlist"
+        ]
+      },
+      "category": [
+        "video",
+        "sound"
+      ]
     },
     {
       "id": "nott-i-london-2000",
@@ -6085,19 +6190,14 @@
           "thumbnail": "images/nott-i-london-2000/thumbs/nott-i-london-01-thumb.jpg"
         }
       ],
-      "tags": [
-        "sound",
-        "2000"
-      ],
+      "tags": [],
       "exhibitions": [],
       "materials": {
         "en": [
-          "digital audio tape (DAT)",
-          "cassette tapes"
+          "audio tape"
         ],
         "is": [
-          "stafrænt hljóðband (DAT)",
-          "kassettur"
+          "hljóðband"
         ]
       },
       "ownership": {
@@ -6111,7 +6211,18 @@
       ],
       "searchText": "nótt í london night in london kúplingsdiskur clutch disc framhald continuation 2000 magnús pálsson hljóðverk sound dat kassetta cassette",
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "sound art"
+        ],
+        "is": [
+          "hljóðlist"
+        ]
+      },
+      "category": [
+        "sound"
+      ]
     },
     {
       "id": "legitimate-concrete-fart-viggo-a-1990-1990",
@@ -6149,16 +6260,16 @@
         }
       ],
       "tags": [
-        "artwork",
-        "1990"
+        "humor",
+        "letters"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "Typed letter"
+          "paper"
         ],
         "is": [
-          "Vélritað bréf"
+          "pappír"
         ]
       },
       "searchText": "legitimate concrete fart viggo a 1990 1990 magnús pálsson",
@@ -6168,7 +6279,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "text art"
+        ],
+        "is": [
+          "textalist"
+        ]
+      },
+      "category": [
+        "painting"
+      ]
     },
     {
       "id": "ludurhljomur-i-skokassa-1975-1975",
@@ -6294,16 +6416,15 @@
         }
       ],
       "tags": [
-        "book",
-        "1980s"
+        "collaboration"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "artist book"
+          "paper"
         ],
         "is": [
-          "listabók"
+          "pappír"
         ]
       },
       "searchText": "mob shop dummy book 1986 magnús pálsson",
@@ -6313,7 +6434,18 @@
         "owner_en": "private collection and the artist"
       },
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "book art"
+        ],
+        "is": [
+          "bóklist"
+        ]
+      },
+      "category": [
+        "book"
+      ]
     },
     {
       "id": "minning-bakkabraedra-ljoshirsla-og-1977-1977",
@@ -7001,13 +7133,7 @@
         }
       ],
       "tags": [
-        "sound poetry",
-        "audio art",
-        "book",
-        "performance",
-        "language",
-        "1980s",
-        "sound sculpture"
+        "language"
       ],
       "searchText": "augustus my god have it sound poetry audio art book performance language revelation nordic sound art festival reykjavik",
       "exhibitions": [
@@ -7015,14 +7141,12 @@
       ],
       "materials": {
         "en": [
-          "book",
-          "play",
-          "audio work"
+          "paper",
+          "audio tape"
         ],
         "is": [
-          "bók",
-          "leikrit",
-          "hljóðverk"
+          "pappír",
+          "hljóðband"
         ]
       },
       "contentStatus": "draft",
@@ -7033,12 +7157,25 @@
         "owner_en": "owned by the artist,  book with NÝLÓ"
       },
       "medium": {
-        "en": "Sound sculpture, book, performance",
-        "is": "Hljóðskúlptúr, bók, gjörningur"
+        "en": [
+          "sound poetry",
+          "book art",
+          "performance"
+        ],
+        "is": [
+          "hljóðljóð",
+          "bóklist",
+          "gjörningur"
+        ]
       },
       "relatedWorks": [
         "the-moraga-legend",
         "the-offs-1994"
+      ],
+      "category": [
+        "sound",
+        "book",
+        "performance"
       ]
     },
     {
@@ -7263,26 +7400,19 @@
       ],
       "tags": [
         "death",
-        "mortality",
-        "conversations",
-        "interviews",
-        "existential",
-        "collaboration",
-        "2010s"
+        "collaboration"
       ],
       "searchText": "viðtöl um dauðann conversations about death mortality existential meaning inevitable human experience",
       "exhibitions": [],
       "materials": {
         "en": [
-          "installation",
-          "audio",
           "video",
+          "audio tape",
           "mixed media"
         ],
         "is": [
-          "innsetning",
-          "hljóð",
           "vídeó",
+          "hljóðband",
           "blandað efni"
         ]
       },
@@ -7294,7 +7424,24 @@
         "catalogNumber": "LÍ-8249"
       },
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "installation",
+          "video",
+          "sound art"
+        ],
+        "is": [
+          "innsetning",
+          "vídeó",
+          "hljóðlist"
+        ]
+      },
+      "category": [
+        "installation",
+        "video",
+        "sound"
+      ]
     },
     {
       "id": "draumur_hlynsins_um_fjall_1974",
@@ -7411,13 +7558,9 @@
         }
       ],
       "tags": [
-        "video",
-        "sound",
-        "poetry",
-        "nature",
+        "animals",
         "language",
-        "installation",
-        "headphones"
+        "nature"
       ],
       "exhibitions": [
         "30th-anniversary-of-the-sculptors-union-2002",
@@ -7438,7 +7581,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "video",
+          "sound poetry"
+        ],
+        "is": [
+          "vídeó",
+          "hljóðljóð"
+        ]
+      },
+      "category": [
+        "video",
+        "sound"
+      ]
     },
     {
       "id": "100_years_war_mokka_1995",
@@ -7500,15 +7657,8 @@
         }
       ],
       "tags": [
-        "conceptual",
-        "installation",
-        "conflict",
-        "time",
-        "history",
-        "society",
-        "culture",
-        "café",
-        "1990s"
+        "humor",
+        "time"
       ],
       "exhibitions": [
         {
@@ -7526,12 +7676,10 @@
       ],
       "materials": {
         "en": [
-          "mixed media",
-          "installation"
+          "mixed media"
         ],
         "is": [
-          "blandað efni",
-          "innsetning"
+          "blandað efni"
         ]
       },
       "searchText": "100 ára stríðið 100 years war conflict time history society culture café mokka reykjavik conceptual installation mixed media 1990s magnús pálsson",
@@ -7541,7 +7689,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "installation"
+        ],
+        "is": [
+          "innsetning"
+        ]
+      },
+      "category": [
+        "installation"
+      ]
     },
     {
       "id": "aevintyr_folktale_1997",
@@ -7638,13 +7797,8 @@
         }
       ],
       "tags": [
-        "PLACEHOLDER",
-        "folktale",
-        "storytelling",
-        "performance",
-        "audio",
-        "video",
-        "recurring work"
+        "folklore",
+        "language"
       ],
       "exhibitions": [
         {
@@ -7688,11 +7842,11 @@
       "materials": {
         "en": [
           "video",
-          "performance"
+          "audio tape"
         ],
         "is": [
           "vídeó",
-          "gjörningur"
+          "hljóðband"
         ]
       },
       "searchText": "ævintýr ævintyr folktale storytelling folklore performance audio video NÝLO oxford listhátið seydisfjörður 1997 2011 2013 2016 recurring work magnús pálsson placeholder needs review",
@@ -7702,7 +7856,24 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "performance",
+          "sound poetry",
+          "video"
+        ],
+        "is": [
+          "gjörningur",
+          "hljóðljóð",
+          "vídeó"
+        ]
+      },
+      "category": [
+        "performance",
+        "sound",
+        "video"
+      ]
     },
     {
       "id": "angist_fateka_reykingsmannsins_1975",
@@ -8135,15 +8306,8 @@
         }
       ],
       "tags": [
-        "cars",
-        "poetry",
-        "performance",
-        "bílatal",
-        "NÝLO",
-        "2000s",
-        "video",
-        "audio",
-        "PLACEHOLDER - needs review"
+        "language",
+        "humor"
       ],
       "exhibitions": [
         {
@@ -8161,14 +8325,12 @@
       ],
       "materials": {
         "en": [
-          "performance",
-          "audio",
-          "text"
+          "audio tape",
+          "paper"
         ],
         "is": [
-          "gjörningur",
-          "hljóð",
-          "texti"
+          "hljóðband",
+          "pappír"
         ]
       },
       "searchText": "bílatal óðurin til bílsins cars poetry performance NÝLO 2002 magnús pálsson placeholder needs review",
@@ -8181,7 +8343,21 @@
         "notes": "Installation, 2002"
       },
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "performance",
+          "sound poetry"
+        ],
+        "is": [
+          "gjörningur",
+          "hljóðljóð"
+        ]
+      },
+      "category": [
+        "performance",
+        "sound"
+      ]
     },
     {
       "id": "bjossi_a_mjolkurbilnum_1994",
@@ -8225,11 +8401,7 @@
         }
       ],
       "tags": [
-        "bjössi",
-        "milk truck",
-        "kjarvalstaðir",
-        "1990s",
-        "PLACEHOLDER - needs review"
+        "folklore"
       ],
       "exhibitions": [
         "exhibition-1994"
@@ -8249,7 +8421,18 @@
         "owner": "Árni Páll Jóhansson collection",
         "owner_is": "Árni Páll Jóhansson safn",
         "owner_en": "Árni Páll Jóhansson collection"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "bok_um_bok_og_fleira_1980",
@@ -8356,14 +8539,7 @@
         }
       ],
       "tags": [
-        "audio",
-        "letter",
-        "personal",
-        "sound art",
-        "spoken word",
-        "intimacy",
-        "communication",
-        "1990s"
+        "letters"
       ],
       "exhibitions": [
         {
@@ -8381,12 +8557,10 @@
       ],
       "materials": {
         "en": [
-          "audio recording",
-          "text"
+          "audio tape"
         ],
         "is": [
-          "hljóðupptaka",
-          "texti"
+          "hljóðband"
         ]
       },
       "searchText": "bréf til djonna letter audio personal sound art spoken word intimacy communication 1994 magnús pálsson",
@@ -8396,7 +8570,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sound art"
+        ],
+        "is": [
+          "hljóðlist"
+        ]
+      },
+      "category": [
+        "sound"
+      ]
     },
     {
       "id": "bref_til_kristjans_wingdings_1990",
@@ -8431,13 +8616,9 @@
         }
       ],
       "tags": [
-        "wingdings",
-        "typography",
-        "letter",
-        "kristján",
-        "small work",
-        "1990s",
-        "PLACEHOLDER - needs review"
+        "language",
+        "humor",
+        "letters"
       ],
       "exhibitions": [
         {
@@ -8455,12 +8636,10 @@
       ],
       "materials": {
         "en": [
-          "wingdings font",
-          "text"
+          "paper"
         ],
         "is": [
-          "wingdings letur",
-          "texti"
+          "pappír"
         ]
       },
       "searchText": "bréf til kristjáns wingdings typography letter small work 1990 magnús pálsson placeholder needs review",
@@ -8470,7 +8649,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "text art"
+        ],
+        "is": [
+          "textalist"
+        ]
+      },
+      "category": [
+        "painting"
+      ]
     },
     {
       "id": "bref_til_ragnars_2003",
@@ -8514,12 +8704,7 @@
         }
       ],
       "tags": [
-        "letter",
-        "ragnar",
-        "audio",
-        "personal",
-        "2000s",
-        "PLACEHOLDER - needs review"
+        "letters"
       ],
       "exhibitions": [
         {
@@ -8537,12 +8722,10 @@
       ],
       "materials": {
         "en": [
-          "audio recording",
-          "text"
+          "audio tape"
         ],
         "is": [
-          "hljóðupptaka",
-          "texti"
+          "hljóðband"
         ]
       },
       "searchText": "bréf til ragnars letter ragnar audio personal 2003 magnús pálsson placeholder needs review",
@@ -8552,7 +8735,20 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sound art",
+          "text art"
+        ],
+        "is": [
+          "hljóðlist",
+          "textalist"
+        ]
+      },
+      "category": [
+        "sound"
+      ]
     },
     {
       "id": "brim_keflavik_2005",
@@ -8737,32 +8933,20 @@
         }
       ],
       "tags": [
-        "installation",
-        "video",
-        "sound",
-        "poetry",
-        "multimedia",
-        "cement mixer",
-        "surf",
-        "keflavik",
-        "2000s"
+        "nature"
       ],
       "exhibitions": [
         "brim-surf-2005"
       ],
       "materials": {
         "en": [
-          "video projection",
-          "sound",
+          "video",
           "cement mixer",
-          "poetry reading",
           "mixed media"
         ],
         "is": [
-          "myndvarp",
-          "hljóð",
-          "steypuhrærivél",
-          "ljóðalestur",
+          "vídeó",
+          "steypihrærivél",
           "blandað efni"
         ]
       },
@@ -8774,7 +8958,24 @@
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
       },
-      "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-08-thumb.jpg"
+      "thumbnail": "images/brim-keflavik-2005/thumbs/brim-keflavik-2005-new-08-thumb.jpg",
+      "medium": {
+        "en": [
+          "installation",
+          "video",
+          "sound poetry"
+        ],
+        "is": [
+          "innsetning",
+          "vídeó",
+          "hljóðljóð"
+        ]
+      },
+      "category": [
+        "installation",
+        "video",
+        "sound"
+      ]
     },
     {
       "id": "buxnaskalm_tota_sigga_1968",
@@ -9107,13 +9308,7 @@
         }
       ],
       "tags": [
-        "clothes",
-        "fashion",
-        "jackets",
-        "modeling",
-        "jackie",
-        "2000s",
-        "PLACEHOLDER - needs review"
+        "identity"
       ],
       "exhibitions": [
         {
@@ -9134,7 +9329,7 @@
           "cloth"
         ],
         "is": [
-          "textíl"
+          "textíll"
         ]
       },
       "searchText": "clothes fashion jackets modeling jackie 2000 magnús pálsson placeholder needs review",
@@ -9144,7 +9339,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "performance"
+        ],
+        "is": [
+          "gjörningur"
+        ]
+      },
+      "category": [
+        "performance"
+      ]
     },
     {
       "id": "contours_of_a_baby_1987",
@@ -9225,12 +9431,7 @@
         }
       ],
       "tags": [
-        "baby",
-        "contours",
-        "tape",
-        "digitalization",
-        "1980s",
-        "PLACEHOLDER - needs review"
+        "childhood"
       ],
       "exhibitions": [
         {
@@ -9248,12 +9449,12 @@
       ],
       "materials": {
         "en": [
-          "2 audio cassettes",
-          "4 loudspeakers"
+          "audio tape",
+          "loudspeakers"
         ],
         "is": [
-          "2 hljóðsnældur",
-          "4 hátalara"
+          "hljóðband",
+          "hátalerer"
         ]
       },
       "searchText": "contours of a baby tape digitalization 1987 magnús pálsson placeholder needs review",
@@ -9263,7 +9464,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sound sculpture",
+          "performance"
+        ],
+        "is": [
+          "hljóðskúlptúr",
+          "gjörningur"
+        ]
+      },
+      "category": [
+        "sound",
+        "performance"
+      ]
     },
     {
       "id": "dalalada_mist_1975",
@@ -9569,30 +9784,16 @@
           "year": "1985"
         }
       ],
-      "tags": [
-        "choir",
-        "psalms",
-        "david",
-        "kross",
-        "íris",
-        "religious",
-        "music",
-        "1980s",
-        "PLACEHOLDER - needs review"
-      ],
+      "tags": [],
       "exhibitions": [
         "exhibition-1985"
       ],
       "materials": {
         "en": [
-          "choir",
-          "music",
-          "text"
+          "choir score"
         ],
         "is": [
-          "kór",
-          "tónlist",
-          "texti"
+          "kórnótur"
         ]
       },
       "searchText": "daviðssálmur choir piece kross íris psalms religious music 1985 magnús pálsson placeholder needs review",
@@ -9602,7 +9803,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "choral work"
+        ],
+        "is": [
+          "kórverk"
+        ]
+      },
+      "category": [
+        "sound"
+      ]
     },
     {
       "id": "de_kommer_med_kista_1985",
@@ -9654,15 +9866,7 @@
         }
       ],
       "tags": [
-        "performance",
-        "oslo",
-        "reykjavik",
-        "coffin",
-        "stage",
-        "costumes",
-        "video",
-        "1980s",
-        "PLACEHOLDER - needs review"
+        "death"
       ],
       "exhibitions": [
         {
@@ -9693,17 +9897,14 @@
       ],
       "materials": {
         "en": [
-          "book",
-          "performance",
-          "video",
-          "stage design",
-          "costumes"
+          "costumes",
+          "stage set",
+          "video"
         ],
         "is": [
-          "bók",
-          "vídeó",
-          "leikrit",
-          "búningar"
+          "búningar",
+          "leikmynd",
+          "vídeó"
         ]
       },
       "searchText": "de kommer med kista og henter meg performance oslo reykjavik coffin stage 1985 magnús pálsson placeholder needs review",
@@ -9713,7 +9914,20 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "play",
+          "stage design"
+        ],
+        "is": [
+          "leikrit",
+          "leikmyndahönnun"
+        ]
+      },
+      "category": [
+        "stage"
+      ]
     },
     {
       "id": "dreams_skinned_rabbit_berlin_2005",
@@ -9753,25 +9967,20 @@
         }
       ],
       "tags": [
-        "book",
-        "artist book",
-        "CD",
-        "audio",
         "dreams",
-        "Boekie Woekie",
-        "Amsterdam"
+        "collaboration"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
-          "book",
-          "audio disk"
+          "paper",
+          "compact disc"
         ],
         "is": [
-          "bók",
-          "hljóðdiskur"
+          "pappír",
+          "geisladiskur"
         ]
       },
       "searchText": "dreams skinned rabbit bookie wookie berlin collaboration jan audio 2005 magnús pálsson placeholder needs review",
@@ -9781,7 +9990,21 @@
         "owner": "various owners and the artist",
         "owner_is": "ýmsir, í eigu höfundar",
         "owner_en": "various owners and the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "book art",
+          "sound art"
+        ],
+        "is": [
+          "bóklist",
+          "hljóðlist"
+        ]
+      },
+      "category": [
+        "book",
+        "sound"
+      ]
     },
     {
       "id": "duld_blub_bum_mud_1976",
@@ -10329,15 +10552,7 @@
           "year": "1984"
         }
       ],
-      "tags": [
-        "franklin furnace",
-        "new york",
-        "publication",
-        "performance",
-        "bacarolle",
-        "1980s",
-        "PLACEHOLDER - needs review"
-      ],
+      "tags": [],
       "exhibitions": [
         {
           "title": {
@@ -10354,21 +10569,26 @@
       ],
       "materials": {
         "en": [
-          "publication",
-          "performance",
-          "documentation",
-          "PLACEHOLDER - needs review"
+          "mixed media"
         ],
         "is": [
-          "publication",
-          "перформанс",
-          "documentation",
-          "PLACEHOLDER - needs review"
+          "blandað efni"
         ]
       },
       "searchText": "franklin furnace new york publication performance bacarolle 1984 magnús pálsson placeholder needs review",
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "performance"
+        ],
+        "is": [
+          "gjörningur"
+        ]
+      },
+      "category": [
+        "performance"
+      ]
     },
     {
       "id": "eddumyndir_mosfellsbaer_islandsbanki_1983",
@@ -10729,17 +10949,7 @@
         }
       ],
       "tags": [
-        "freyskatla",
-        "installation",
-        "geological themes",
-        "mythology",
-        "volcanic landscape",
-        "audio",
-        "radio",
-        "steingrímur",
-        "collaboration",
-        "text",
-        "1990s"
+        "sagas"
       ],
       "exhibitions": [
         {
@@ -10758,16 +10968,14 @@
       ],
       "materials": {
         "en": [
-          "text",
-          "choral work",
-          "performance",
-          "book"
+          "loudspeakers",
+          "audio tape",
+          "paper"
         ],
         "is": [
-          "texti",
-          "kórverk",
-          "gjörningur",
-          "bók"
+          "hátalerer",
+          "hljóðband",
+          "pappír"
         ]
       },
       "searchText": "freyskatla audio radio steingrímur collaboration text 1992 magnús pálsson placeholder needs review",
@@ -10779,7 +10987,23 @@
         "notes": "Sound sculpture version - raddskúlptúr"
       },
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "sound sculpture",
+          "voice sculpture",
+          "installation"
+        ],
+        "is": [
+          "hljóðskúlptúr",
+          "raddskúlptúr",
+          "innsetning"
+        ]
+      },
+      "category": [
+        "sound",
+        "installation"
+      ]
     },
     {
       "id": "automobile_bok_1970_74",
@@ -11613,31 +11837,19 @@
         }
       ],
       "tags": [
-        "installation",
-        "performance",
-        "audio",
-        "sound poetry",
-        "experimental language",
-        "tjöpörnipinnipi",
-        "ráðhúsið",
-        "city hall",
-        "floor installation",
-        "spatial composition",
-        "1990s"
+        "language"
       ],
       "exhibitions": [
         "gapassipi-1995"
       ],
       "materials": {
         "en": [
-          "installation",
-          "sound",
-          "mixed media"
+          "mixed media",
+          "audio tape"
         ],
         "is": [
-          "innsetning",
-          "hljóð",
-          "blandað efni"
+          "blandað efni",
+          "hljóðband"
         ]
       },
       "searchText": "gapassipi tjöpörnipinnipi installation performance audio sound poetry experimental language ráðhúsið city hall reykjavík floor spatial composition september 1995 magnús pálsson",
@@ -11647,7 +11859,24 @@
         "owner": "owned by the artists",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artists"
-      }
+      },
+      "medium": {
+        "en": [
+          "installation",
+          "sound poetry",
+          "performance"
+        ],
+        "is": [
+          "innsetning",
+          "hljóðljóð",
+          "gjörningur"
+        ]
+      },
+      "category": [
+        "installation",
+        "sound",
+        "performance"
+      ]
     },
     {
       "id": "g_ljod_2009",
@@ -11770,25 +11999,15 @@
         }
       ],
       "tags": [
-        "audio",
-        "sound poetry",
-        "text",
-        "poetry",
-        "master recording",
-        "experimental audio",
-        "grað",
-        "bú",
-        "2000s"
+        "language"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "sound",
-          "text"
+          "audio tape"
         ],
         "is": [
-          "hljóð",
-          "texti"
+          "hljóðband"
         ]
       },
       "searchText": "grað og bú audio sound poetry text master recording experimental audio hunger dwelling 2002 magnús pálsson",
@@ -11798,7 +12017,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sound poetry"
+        ],
+        "is": [
+          "hljóðljóð"
+        ]
+      },
+      "category": [
+        "sound"
+      ]
     },
     {
       "id": "gibsborn_children_1971",
@@ -12153,16 +12383,7 @@
           "type": "mp4"
         }
       ],
-      "tags": [
-        "video",
-        "performance",
-        "iðnó",
-        "ragga",
-        "speaking",
-        "theater",
-        "2000s",
-        "PLACEHOLDER - needs review"
-      ],
+      "tags": [],
       "exhibitions": [
         {
           "title": {
@@ -12179,11 +12400,9 @@
       ],
       "materials": {
         "en": [
-          "performance",
           "video"
         ],
         "is": [
-          "Gjörningur",
           "vídeó"
         ]
       },
@@ -12194,7 +12413,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "performance",
+          "video"
+        ],
+        "is": [
+          "gjörningur",
+          "vídeó"
+        ]
+      },
+      "category": [
+        "performance",
+        "video"
+      ]
     },
     {
       "id": "hattar_1969_71",
@@ -12467,14 +12700,7 @@
         }
       ],
       "tags": [
-        "sculpture",
-        "installation",
-        "beach",
-        "landscape intervention",
-        "site-specific",
-        "coastal",
-        "environmental",
-        "1990s"
+        "nature"
       ],
       "exhibitions": [
         {
@@ -12492,14 +12718,12 @@
       ],
       "materials": {
         "en": [
-          "metal farm tools",
-          "chains",
-          "small metal plates"
+          "metal",
+          "chains"
         ],
         "is": [
-          "heyvinnsluverkfæri",
-          "keðjur",
-          "málmplötur"
+          "málmur",
+          "keðjur"
         ]
       },
       "searchText": "hrognkelsaveifa strandlegjan beach sculpture installation ægissíða skerjafirði landscape intervention site-specific coastal environmental 1998 magnús pálsson",
@@ -12509,7 +12733,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture",
+          "installation"
+        ],
+        "is": [
+          "skúlptúr",
+          "innsetning"
+        ]
+      },
+      "category": [
+        "sculpture",
+        "installation"
+      ]
     },
     {
       "id": "hundar_dogs_1970",
@@ -13855,24 +14093,16 @@
         }
       ],
       "tags": [
-        "sound poetry",
-        "audio art",
-        "text",
-        "performance",
-        "2002",
-        "experimental"
+        "language",
+        "humor"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "audio",
-          "text",
-          "performance"
+          "audio tape"
         ],
         "is": [
-          "hljóð",
-          "texti",
-          "gjörningur"
+          "hljóðband"
         ]
       },
       "searchText": "seeds of aspidistra 2002 sound poetry audio art text performance experimental magnús pálsson",
@@ -13882,7 +14112,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sound poetry",
+          "performance"
+        ],
+        "is": [
+          "hljóðljóð",
+          "gjörningur"
+        ]
+      },
+      "category": [
+        "sound",
+        "performance"
+      ]
     },
     {
       "id": "silfur-egils-1985",
@@ -13927,8 +14171,7 @@
         }
       ],
       "tags": [
-        "artwork",
-        "1985"
+        "sagas"
       ],
       "exhibitions": [],
       "materials": {
@@ -13946,7 +14189,18 @@
         "owner": "Mosfellsbær municipality",
         "owner_is": "Mosfellsbær",
         "owner_en": "Mosfellsbær municipality"
-      }
+      },
+      "medium": {
+        "en": [
+          "ceramic"
+        ],
+        "is": [
+          "keramík"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "silver-chairs-in-tins-in-ms-office",
@@ -14014,9 +14268,7 @@
           "photographer": "Steinþór Birgisson"
         }
       ],
-      "tags": [
-        "artwork"
-      ],
+      "tags": [],
       "exhibitions": [],
       "materials": {
         "en": [
@@ -14033,7 +14285,18 @@
         "owner": "various owners and the artist",
         "owner_is": "ýmsir, í eigu höfundar",
         "owner_en": "various owners and the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "sjalfsmynd_1975",
@@ -14693,13 +14956,12 @@
         }
       ],
       "tags": [
-        "artwork",
-        "1985"
+        "teaching"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "mixed materials"
+          "mixed media"
         ],
         "is": [
           "blandað efni"
@@ -14712,7 +14974,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sound art"
+        ],
+        "is": [
+          "hljóðlist"
+        ]
+      },
+      "category": [
+        "sound"
+      ]
     },
     {
       "id": "spenna-suspense-1975",
@@ -14913,8 +15186,7 @@
         }
       ],
       "tags": [
-        "artwork",
-        "2003"
+        "humor"
       ],
       "exhibitions": [],
       "materials": {
@@ -14935,7 +15207,18 @@
         "url": "https://sarpur.is/Adfang.aspx?AdfangID=1815440"
       },
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "bjartsynisbru_2003",
@@ -14961,8 +15244,7 @@
         }
       ],
       "tags": [
-        "2000s",
-        "ferðafuða"
+        "humor"
       ],
       "exhibitions": [],
       "materials": {
@@ -14982,7 +15264,18 @@
         "owner_en": "Icelandic Folk and Outsider Art Museum"
       },
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "drawing"
+        ],
+        "is": [
+          "teikning"
+        ]
+      },
+      "category": [
+        "painting"
+      ]
     },
     {
       "id": "sprengd-hljodhimna-burst-eardrum-1991-2012",
@@ -15062,19 +15355,16 @@
           }
         }
       ],
-      "tags": [
-        "artwork",
-        "1991"
-      ],
+      "tags": [],
       "exhibitions": [
         "the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"
       ],
       "materials": {
         "en": [
-          "play"
+          "mixed media"
         ],
         "is": [
-          "leikrit"
+          "blandað efni"
         ]
       },
       "searchText": "sprengd hljóðhimna _ burst eardrum 1991 & 2012 1991 magnús pálsson",
@@ -15084,7 +15374,18 @@
         "owner": "owned by the artist, text with The Living Art Museum",
         "owner_is": "í eigu höfundar, texti hjá Nýlistasafni",
         "owner_en": "owned by the artist, text with The Living Art Museum"
-      }
+      },
+      "medium": {
+        "en": [
+          "play"
+        ],
+        "is": [
+          "leikrit"
+        ]
+      },
+      "category": [
+        "stage"
+      ]
     },
     {
       "id": "spud-bern-mp-rg-ob-1998",
@@ -15157,12 +15458,24 @@
           }
         }
       ],
-      "tags": [
-        "artwork",
-        "1998"
-      ],
+      "tags": [],
       "exhibitions": [],
       "materials": {
+        "en": [
+          "mixed media"
+        ],
+        "is": [
+          "blandað efni"
+        ]
+      },
+      "searchText": "spud  bern  mp rg ob 1998 1998 magnús pálsson",
+      "mediaStatus": "images draft",
+      "ownership": {
+        "owner": "owned by the artist",
+        "owner_is": "í eigu höfundar",
+        "owner_en": "owned by the artist"
+      },
+      "medium": {
         "en": [
           "performance",
           "installation"
@@ -15172,13 +15485,10 @@
           "innsetning"
         ]
       },
-      "searchText": "spud  bern  mp rg ob 1998 1998 magnús pálsson",
-      "mediaStatus": "images draft",
-      "ownership": {
-        "owner": "owned by the artist",
-        "owner_is": "í eigu höfundar",
-        "owner_en": "owned by the artist"
-      }
+      "category": [
+        "performance",
+        "installation"
+      ]
     },
     {
       "id": "steinar-launch-20078",
@@ -15448,17 +15758,14 @@
           }
         }
       ],
-      "tags": [
-        "artwork",
-        "1994"
-      ],
+      "tags": [],
       "exhibitions": [],
       "materials": {
         "en": [
-          "museum"
+          "mixed media"
         ],
         "is": [
-          "safn"
+          "blandað efni"
         ]
       },
       "searchText": "stjáni meik 1994 1994 magnús pálsson",
@@ -15468,7 +15775,18 @@
         "owner": "Museum",
         "owner_is": "Safn",
         "owner_en": "Museum"
-      }
+      },
+      "medium": {
+        "en": [
+          "installation"
+        ],
+        "is": [
+          "innsetning"
+        ]
+      },
+      "category": [
+        "installation"
+      ]
     },
     {
       "id": "struns-2002",
@@ -15535,28 +15853,24 @@
         }
       ],
       "tags": [
-        "artwork",
-        "2002"
+        "social",
+        "death"
       ],
       "exhibitions": [
         "strunz-2002"
       ],
       "materials": {
         "en": [
-          "installation",
-          "video",
           "bicycles",
-          "container",
           "metal",
-          "paint"
+          "paint",
+          "video"
         ],
         "is": [
-          "innsetning",
-          "vídeó",
-          "reiðhjól",
-          "gámur",
+          "hjól",
           "málmur",
-          "málning"
+          "málning",
+          "vídeó"
         ]
       },
       "searchText": "struns 2002 gerðarsafn ásta guðrún eyvindardóttir minningarsýning reiðhjól bicycles video thumbs þumalskúlptúr gámur container magnús pálsson",
@@ -15566,7 +15880,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "installation",
+          "video"
+        ],
+        "is": [
+          "innsetning",
+          "vídeó"
+        ]
+      },
+      "category": [
+        "installation",
+        "video"
+      ]
     },
     {
       "id": "staerdfraedi-maths-1976",
@@ -16350,11 +16678,8 @@
       },
       "images": [],
       "tags": [
-        "public art",
-        "ceramic",
-        "sculpture",
-        "school",
-        "fairy tale"
+        "childhood",
+        "animals"
       ],
       "exhibitions": [],
       "materials": {
@@ -16362,7 +16687,7 @@
           "ceramic"
         ],
         "is": [
-          "Keramik"
+          "keramík"
         ]
       },
       "location": {
@@ -16377,7 +16702,20 @@
       },
       "searchText": "lítill trítill litill tritill karlsson fuglarnir birds hungarian fairy tale ceramic sculpture snælandsskóli kópavogur public art 1985 2015 magnús pálsson",
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "sculpture",
+          "public art"
+        ],
+        "is": [
+          "skúlptúr",
+          "almenningsverk"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "thykkan_dag_thykka_nott",
@@ -16435,20 +16773,24 @@
       },
       "year": 1985,
       "medium": {
-        "en": "Sound sculpture, 10 loudspeakers mounted on trees",
-        "is": "Hljóðskúlptúr, 10 hátalerar festir á tré"
+        "en": [
+          "sound sculpture",
+          "voice sculpture"
+        ],
+        "is": [
+          "hljóðskúlptúr",
+          "raddskúlptúr"
+        ]
       },
       "description": {
         "en": "A sound sculpture installed in a wooded area at Henie-Onstad Kunstsenter, Høvikodden, Norway. Ten loudspeakers were mounted on trees, each broadcasting different audio elements simultaneously. The work consisted of three main performed pieces: \"Augustus, my God, I have it!\" — a science fiction scene performed by seven voices (Charles Levin, Melissa van Hoek, Torild Nøst, Helgi Friðjónsson, Magnús Pálsson, Rod Summers, Tom Winter); \"The Offs\" — a play performed by four voices (Michael Fraser, Frances Cowan, Kathryn Mearns, Jón Árnason); and \"Dave & Per\" — a dialogue performed by Bodil Halvarson and Magnús Pálsson. Two additional speakers broadcast broken texts assembled from advertisements, newspaper headlines, and technical manuals, while two far-away speakers played flute and a girl's voice with echoed sentences. Sigurveig Magnúsdóttir contributed chanting, mouthorgan, and accordion. The idea, as Magnús described it, was to bring international kitsch into a romantic Nordic environment.",
         "is": "Hljóðskúlptúr sett upp í skógarrjóðri á Henie-Onstad Kunstsenter, Høvikodden í Noregi. Tíu hátalerar voru festir á tré og útvörpuðu mismunandi hljóðefni samtímis. Verkið samanstóð af þremur aðalfluttum verkum: \"Augustus, my God, I have it!\" — vísindaskáldskaparsenur flutt af sjö röddum (Charles Levin, Melissa van Hoek, Torild Nøst, Helgi Friðjónsson, Magnús Pálsson, Rod Summers, Tom Winter); \"The Offs\" — leikrit flutt af fjórum röddum (Michael Fraser, Frances Cowan, Kathryn Mearns, Jón Árnason); og \"Dave & Per\" — samræður fluttar af Bodil Halvarson og Magnúsi Pálssyni. Tveir hátalerar til viðbótar útvörpuðu brotum úr auglýsingum, fréttafyrirsögnum og tæknihandbókum, á meðan tveir hátalerar í fjarlægð spiluðu flautu og rödd stúlku með endurómuðum setningum. Sigurveig Magnúsdóttir lagði til söng, munnhörpu og harmoniku. Hugmyndin, eins og Magnús lýsti henni, var að færa alþjóðlegt kitsch inn í rómantískt norrænt umhverfi."
       },
-      "category": "sound",
+      "category": [
+        "sound"
+      ],
       "tags": [
-        "sound",
-        "installation",
-        "performance",
-        "sculpture",
-        "sound sculpture"
+        "folklore"
       ],
       "location": {
         "en": "Henie-Onstad Kunstsenter, Høvikodden, Norway",
@@ -16620,7 +16962,17 @@
       "relatedWorks": [
         "augustus_my_god",
         "the-offs-1994"
-      ]
+      ],
+      "materials": {
+        "en": [
+          "loudspeakers",
+          "audio tape"
+        ],
+        "is": [
+          "hátalerar",
+          "hljóðband"
+        ]
+      }
     }
   ],
   "exhibitions": [
