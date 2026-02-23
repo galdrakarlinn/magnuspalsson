@@ -367,29 +367,19 @@
         }
       ],
       "tags": [
-        "installation",
-        "sound",
-        "video",
-        "space",
-        "imperfection"
+        "folklore"
       ],
       "exhibitions": [
         "the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"
       ],
       "materials": {
         "en": [
-          "performance",
-          "sound",
           "mixed media",
-          "diggers",
-          "small cars"
+          "video"
         ],
         "is": [
-          "gjörningur",
-          "hljóð",
           "blandað efni",
-          "vinnuvélar",
-          "leikfangabílar"
+          "vídeó"
         ]
       },
       "searchText": "þrígaldur thrigaldur þursavænn thursavaenn three spells giants waft 2000 video sound installation hafnarhús magnús pálsson",
@@ -399,7 +389,24 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "performance",
+          "installation",
+          "sound art"
+        ],
+        "is": [
+          "gjörningur",
+          "innsetning",
+          "hljóðlist"
+        ]
+      },
+      "category": [
+        "performance",
+        "installation",
+        "sound"
+      ]
     },
     {
       "id": "einsemd-2013",
@@ -513,26 +520,18 @@
         }
       ],
       "tags": [
-        "sculpture",
-        "2013",
-        "performance",
-        "negative space",
-        "plaster cast",
-        "MUCK"
+        "positive/negative space",
+        "collaboration"
       ],
       "exhibitions": [
         "the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"
       ],
       "materials": {
         "en": [
-          "performance",
-          "plaster moulds",
-          "music"
+          "plaster"
         ],
         "is": [
-          "gjörningur",
-          "gifsmót",
-          "tónlist"
+          "gifs"
         ]
       },
       "ownership": {
@@ -554,7 +553,21 @@
           "is": "Aðalmynd úr safni Listasafns Reykjavíkur. Viðbótarmyndir frá 1982 forverki 'Tónleikar Andfélagsbandalagsins' í Norrköping sem sýna upprunalegu hugmyndina."
         }
       },
-      "series": "anti-society-league"
+      "series": "anti-society-league",
+      "medium": {
+        "en": [
+          "performance",
+          "sculpture"
+        ],
+        "is": [
+          "gjörningur",
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "performance",
+        "sculpture"
+      ]
     },
     {
       "id": "walking-on-water-2012",
@@ -681,11 +694,7 @@
         }
       ],
       "tags": [
-        "installation",
-        "performance",
-        "water",
-        "perception",
-        "gravity"
+        "positive/negative space"
       ],
       "exhibitions": [
         "walking-on-water-2012",
@@ -697,10 +706,10 @@
       "searchText": "walking on water gengið á vatni 2012 kling og bang installation performance magnús pálsson",
       "materials": {
         "en": [
-          "jasmonite plaster"
+          "plaster"
         ],
         "is": [
-          "jasmonite gifs"
+          "gifs"
         ]
       },
       "status": "ready_for_review",
@@ -710,7 +719,24 @@
         "owner_en": "owned by the artist"
       },
       "contentStatus": "needs review",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "sculpture",
+          "installation",
+          "performance"
+        ],
+        "is": [
+          "skúlptúr",
+          "innsetning",
+          "gjörningur"
+        ]
+      },
+      "category": [
+        "sculpture",
+        "installation",
+        "performance"
+      ]
     },
     {
       "id": "watercolours-2016-2018",
@@ -775,17 +801,17 @@
         }
       ],
       "tags": [
-        "painting",
-        "watercolour",
-        "2016-2018"
+        "nature"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "watercolour"
+          "paper",
+          "watercolor"
         ],
         "is": [
-          "vatnslitir"
+          "pappír",
+          "vatnslitur"
         ]
       },
       "searchText": "watercolours 2016 2017 2018 painting magnús pálsson",
@@ -795,7 +821,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "watercolor"
+        ],
+        "is": [
+          "vatnslitur"
+        ]
+      },
+      "category": [
+        "painting"
+      ]
     },
     {
       "id": "watercolours-early",
@@ -1177,21 +1214,16 @@
         }
       ],
       "tags": [
-        "installation",
-        "time",
-        "clocks",
-        "2015"
+        "time"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
           "clocks",
-          "performance",
           "mixed media"
         ],
         "is": [
-          "klukkur",
-          "gjörningur",
+          "klukkor",
           "blandað efni"
         ]
       },
@@ -1202,7 +1234,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "performance",
+          "installation"
+        ],
+        "is": [
+          "gjörningur",
+          "innsetning"
+        ]
+      },
+      "category": [
+        "performance",
+        "installation"
+      ]
     },
     {
       "id": "vallanes-model-1960s",
@@ -2576,23 +2622,17 @@
         }
       ],
       "tags": [
-        "performance",
-        "sound",
-        "2016"
+        "language"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
           "typewriters",
-          "performance",
-          "paper",
-          "letters"
+          "paper"
         ],
         "is": [
           "ritvélar",
-          "gjörningur",
-          "pappír",
-          "stafir"
+          "pappír"
         ]
       },
       "searchText": "typewriter ritvél 2016 performance sound sigló magnús pálsson",
@@ -2602,7 +2642,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "performance",
+          "sound art"
+        ],
+        "is": [
+          "gjörningur",
+          "hljóðlist"
+        ]
+      },
+      "category": [
+        "performance",
+        "sound"
+      ]
     },
     {
       "id": "tadskegglingar-2009",
@@ -2659,22 +2713,15 @@
         }
       ],
       "tags": [
-        "performance",
-        "collage",
-        "installation",
-        "2009"
+        "humor"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "performance",
-          "collage",
           "chairs",
           "mixed media"
         ],
         "is": [
-          "gjörningur",
-          "klippimyndir",
           "stólar",
           "blandað efni"
         ]
@@ -2686,7 +2733,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "performance",
+          "installation"
+        ],
+        "is": [
+          "gjörningur",
+          "innsetning"
+        ]
+      },
+      "category": [
+        "performance",
+        "installation"
+      ]
     },
     {
       "id": "tadskegglingar_innrammad_2011",
@@ -2710,10 +2771,7 @@
           "thumbnail": "images/tadskegglingar-2009/thumbs/tadskegglingar-06-thumb.jpg"
         }
       ],
-      "tags": [
-        "print",
-        "2010s"
-      ],
+      "tags": [],
       "exhibitions": [],
       "materials": {
         "en": [
@@ -2733,7 +2791,18 @@
         "tadskegglingar-2009"
       ],
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "print"
+        ],
+        "is": [
+          "prentgrafík"
+        ]
+      },
+      "category": [
+        "print"
+      ]
     },
     {
       "id": "mutations-stokkbreytingar-dada-tate-hackney-empire-2005",
@@ -3212,10 +3281,7 @@
           }
         }
       ],
-      "tags": [
-        "artwork",
-        "undated"
-      ],
+      "tags": [],
       "exhibitions": [],
       "materials": {
         "en": [
@@ -3234,7 +3300,20 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "video",
+          "collage"
+        ],
+        "is": [
+          "vídeó",
+          "klippimynd"
+        ]
+      },
+      "category": [
+        "video"
+      ]
     },
     {
       "id": "ready_made",
@@ -3261,8 +3340,7 @@
         }
       ],
       "tags": [
-        "found object",
-        "metal"
+        "fluxus"
       ],
       "exhibitions": [],
       "materials": {
@@ -3280,7 +3358,18 @@
         "owner_en": "owned by the artist"
       },
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "segdu_ekki_nei_segdu_kannski",
@@ -3346,11 +3435,19 @@
           "photographer": "Pétur Thomsen"
         }
       ],
-      "tags": [],
+      "tags": [
+        "folklore"
+      ],
       "exhibitions": [],
       "materials": {
-        "en": [],
-        "is": []
+        "en": [
+          "loudspeakers",
+          "audio tape"
+        ],
+        "is": [
+          "hátalerar",
+          "hljóðband"
+        ]
       },
       "searchText": "segðu ekki nei segðu kannski don't say no say maybe magnús pálsson",
       "ownership": {
@@ -3359,7 +3456,20 @@
         "owner_en": "owned by the artist"
       },
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "sound sculpture",
+          "voice sculpture"
+        ],
+        "is": [
+          "hljóðskúlptúr",
+          "raddskúlptúr"
+        ]
+      },
+      "category": [
+        "sound"
+      ]
     },
     {
       "id": "vasi_ceramic",
@@ -3374,9 +3484,7 @@
         "is": ""
       },
       "images": [],
-      "tags": [
-        "ceramic"
-      ],
+      "tags": [],
       "exhibitions": [],
       "materials": {
         "en": [
@@ -3393,7 +3501,18 @@
         "owner_en": "The church at Þykkvabær, owned by the artist"
       },
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "ceramic"
+        ],
+        "is": [
+          "keramík"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "pegasus-student-work-enschede-aki-19823-1982",
@@ -3462,9 +3581,7 @@
       },
       "images": [],
       "tags": [
-        "documentation",
-        "text",
-        "undated"
+        "childhood"
       ],
       "exhibitions": [],
       "materials": {
@@ -3486,7 +3603,18 @@
         "owner": "Teaching school of Iceland",
         "owner_is": "Kennaraskóli Íslands",
         "owner_en": "Teaching school of Iceland"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "kal-5-negative-made-1966-printed-2018-1966",
@@ -3573,19 +3701,18 @@
         }
       ],
       "tags": [
-        "artwork",
-        "1966"
+        "nature"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
-          "print",
-          "watercolours"
+          "paper",
+          "watercolor"
         ],
         "is": [
-          "prentað",
+          "pappír",
           "vatnslitur"
         ]
       },
@@ -3597,7 +3724,21 @@
         "owner": "various owners and the artist",
         "owner_is": "ýmsir, í eigu höfundar",
         "owner_en": "various owners and the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "print",
+          "watercolor"
+        ],
+        "is": [
+          "prentgrafík",
+          "vatnslitur"
+        ]
+      },
+      "category": [
+        "print",
+        "painting"
+      ]
     },
     {
       "id": "an_titils_gerdur_1963_66",
@@ -3637,17 +3778,14 @@
           "thumbnail": "images/an-titils-gerdur/thumbs/an-titils-gerdur-03-thumb.jpg"
         }
       ],
-      "tags": [
-        "print",
-        "1960s"
-      ],
+      "tags": [],
       "exhibitions": [],
       "materials": {
         "en": [
-          "print"
+          "paper"
         ],
         "is": [
-          "prent"
+          "pappír"
         ]
       },
       "searchText": "án titils untitled gerður print prent 1963 1966 magnús pálsson",
@@ -3659,7 +3797,18 @@
       "series": "kál",
       "contentStatus": "draft",
       "mediaStatus": "images complete",
-      "thumbnail": "images/an-titils-gerdur/thumbs/an-titils-gerdur-01-thumb.jpg"
+      "thumbnail": "images/an-titils-gerdur/thumbs/an-titils-gerdur-01-thumb.jpg",
+      "medium": {
+        "en": [
+          "print"
+        ],
+        "is": [
+          "prentgrafík"
+        ]
+      },
+      "category": [
+        "print"
+      ]
     },
     {
       "id": "myrkur-darkness-solskin-photos-1977-1977",
@@ -4019,21 +4168,18 @@
         }
       ],
       "tags": [
-        "installation",
-        "stone",
-        "granite",
-        "poetry",
-        "text art",
-        "Askja"
+        "nature",
+        "language"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "stone and granite tiles"
+          "stone",
+          "granite"
         ],
         "is": [
           "steinn",
-          "granítflísar"
+          "granít"
         ]
       },
       "searchText": "mótun lands askja 2010 2010 magnús pálsson",
@@ -4043,7 +4189,20 @@
         "owner": "University of Iceland Art Museum",
         "owner_is": "Listasafn Háskóla Íslands",
         "owner_en": "University of Iceland Art Museum"
-      }
+      },
+      "medium": {
+        "en": [
+          "installation",
+          "public art"
+        ],
+        "is": [
+          "innsetning",
+          "almenningsverk"
+        ]
+      },
+      "category": [
+        "installation"
+      ]
     },
     {
       "id": "minning-njalsbrennu-1977-1977",
@@ -4438,24 +4597,20 @@
         }
       ],
       "tags": [
-        "artwork",
-        "2007"
+        "folklore",
+        "humor"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
-          "performance",
-          "installation",
-          "video",
-          "plastic"
+          "plastic",
+          "video"
         ],
         "is": [
-          "gjörningur",
-          "innsetning",
-          "vídeó",
-          "plast"
+          "plast",
+          "vídeó"
         ]
       },
       "searchText": "minning þórarinn nefjólfsson i8 reyk 2007 2007 magnús pálsson",
@@ -4468,7 +4623,24 @@
         "notes": "Sculpture, 2007"
       },
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "performance",
+          "installation",
+          "video"
+        ],
+        "is": [
+          "gjörningur",
+          "innsetning",
+          "vídeó"
+        ]
+      },
+      "category": [
+        "performance",
+        "installation",
+        "video"
+      ]
     },
     {
       "id": "kal_series_1963_66",
@@ -4519,25 +4691,21 @@
         }
       ],
       "tags": [
-        "silkscreen",
-        "watercolor",
-        "print",
-        "series",
-        "London",
-        "Kelpra Studio",
-        "1960s"
+        "nature"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
-          "silkscreen print",
-          "watercolor on paper"
+          "paper",
+          "watercolor",
+          "silkscreen ink"
         ],
         "is": [
-          "silkiþrykk",
-          "vatnslitur á pappír"
+          "pappír",
+          "vatnslitur",
+          "silkiprentblek"
         ]
       },
       "searchText": "kál cabbage series sería silkscreen silkiþrykk watercolor vatnslitur london kelpra studio chris prater 1963 1966",
@@ -4549,7 +4717,21 @@
         "owner_is": "ýmsir eigendur",
         "owner_en": "various owners"
       },
-      "thumbnail": "images/kal-1-1963/thumbs/kal-1-1963-spessi-01-thumb.jpg"
+      "thumbnail": "images/kal-1-1963/thumbs/kal-1-1963-spessi-01-thumb.jpg",
+      "medium": {
+        "en": [
+          "print",
+          "watercolor"
+        ],
+        "is": [
+          "prentgrafík",
+          "vatnslitur"
+        ]
+      },
+      "category": [
+        "print",
+        "painting"
+      ]
     },
     {
       "id": "kal-1-1963",
@@ -4678,22 +4860,21 @@
         }
       ],
       "tags": [
-        "painting",
-        "watercolor",
-        "silkscreen",
-        "1960s"
+        "nature"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
+          "paper",
           "watercolor",
-          "silkscreen print"
+          "silkscreen ink"
         ],
         "is": [
+          "pappír",
           "vatnslitur",
-          "silkiþrykk"
+          "silkiprentblek"
         ]
       },
       "searchText": "kál 1 cabbage watercolor silkscreen 1963 magnús pálsson",
@@ -4705,7 +4886,21 @@
         "owner_is": "ýmsir, í eigu höfundar",
         "owner_en": "various owners and the artist"
       },
-      "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-01-thumb.jpg"
+      "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-01-thumb.jpg",
+      "medium": {
+        "en": [
+          "print",
+          "watercolor"
+        ],
+        "is": [
+          "prentgrafík",
+          "vatnslitur"
+        ]
+      },
+      "category": [
+        "print",
+        "painting"
+      ]
     },
     {
       "id": "kal-2-1964",
@@ -4810,22 +5005,21 @@
         }
       ],
       "tags": [
-        "painting",
-        "watercolor",
-        "silkscreen",
-        "1960s"
+        "nature"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
+          "paper",
           "watercolor",
-          "silkscreen print"
+          "silkscreen ink"
         ],
         "is": [
+          "pappír",
           "vatnslitur",
-          "silkiþrykk"
+          "silkiprentblek"
         ]
       },
       "searchText": "kál 2 cabbage watercolor silkscreen 1964 magnús pálsson",
@@ -4837,7 +5031,21 @@
         "owner_is": "ýmsir, í eigu höfundar",
         "owner_en": "various owners and the artist"
       },
-      "thumbnail": "images/kal-2-1964/thumbs/kal-2-photo-01-thumb.jpg"
+      "thumbnail": "images/kal-2-1964/thumbs/kal-2-photo-01-thumb.jpg",
+      "medium": {
+        "en": [
+          "print",
+          "watercolor"
+        ],
+        "is": [
+          "prentgrafík",
+          "vatnslitur"
+        ]
+      },
+      "category": [
+        "print",
+        "painting"
+      ]
     },
     {
       "id": "kal-3-1965",
@@ -4982,22 +5190,21 @@
         }
       ],
       "tags": [
-        "painting",
-        "watercolor",
-        "silkscreen",
-        "1960s"
+        "nature"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
+          "paper",
           "watercolor",
-          "silkscreen print"
+          "silkscreen ink"
         ],
         "is": [
+          "pappír",
           "vatnslitur",
-          "silkiþrykk"
+          "silkiprentblek"
         ]
       },
       "searchText": "kál 3 cabbage watercolor silkscreen 1965 magnús pálsson",
@@ -5009,7 +5216,21 @@
         "owner_is": "ýmsir, í eigu höfundar",
         "owner_en": "various owners and the artist"
       },
-      "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-01-thumb.jpg"
+      "thumbnail": "images/kal-3-1965/thumbs/kal-3-photo-01-thumb.jpg",
+      "medium": {
+        "en": [
+          "print",
+          "watercolor"
+        ],
+        "is": [
+          "prentgrafík",
+          "vatnslitur"
+        ]
+      },
+      "category": [
+        "print",
+        "painting"
+      ]
     },
     {
       "id": "kal-4-1966",
@@ -5058,22 +5279,21 @@
         }
       ],
       "tags": [
-        "painting",
-        "watercolor",
-        "silkscreen",
-        "1960s"
+        "nature"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
+          "paper",
           "watercolor",
-          "silkscreen print"
+          "silkscreen ink"
         ],
         "is": [
+          "pappír",
           "vatnslitur",
-          "silkiþrykk"
+          "silkiprentblek"
         ]
       },
       "searchText": "kál 4 cabbage watercolor silkscreen 1966 magnús pálsson",
@@ -5085,7 +5305,21 @@
         "owner_is": "ýmsir, í eigu höfundar",
         "owner_en": "various owners and the artist"
       },
-      "thumbnail": "images/kal-4-1966/thumbs/kal-4-photo-01-thumb.jpg"
+      "thumbnail": "images/kal-4-1966/thumbs/kal-4-photo-01-thumb.jpg",
+      "medium": {
+        "en": [
+          "print",
+          "watercolor"
+        ],
+        "is": [
+          "prentgrafík",
+          "vatnslitur"
+        ]
+      },
+      "category": [
+        "print",
+        "painting"
+      ]
     },
     {
       "id": "kross-2013-performance-2013",
@@ -5158,20 +5392,15 @@
           }
         }
       ],
-      "tags": [
-        "artwork",
-        "2013"
-      ],
+      "tags": [],
       "exhibitions": [
         "the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"
       ],
       "materials": {
         "en": [
-          "performance",
           "mixed media"
         ],
         "is": [
-          "gjörningur",
           "blandað efni"
         ]
       },
@@ -5182,7 +5411,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "performance"
+        ],
+        "is": [
+          "gjörningur"
+        ]
+      },
+      "category": [
+        "performance"
+      ]
     },
     {
       "id": "landafraedi-series-1975",
@@ -6034,26 +6274,16 @@
         }
       ],
       "tags": [
-        "artwork",
-        "2015"
+        "animals",
+        "humor"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "performance",
-          "choir",
-          "vide",
-          "sinfony orchestrar",
-          "smell",
-          "actors"
+          "mixed media"
         ],
         "is": [
-          "gjörningur",
-          "vídeó",
-          "kór",
-          "sinfóníuhljómsveit",
-          "lykt",
-          "leikarar"
+          "blandað efni"
         ]
       },
       "searchText": "kúakyn í hættu 2015 2015 magnús pálsson",
@@ -6063,7 +6293,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "performance"
+        ],
+        "is": [
+          "gjörningur"
+        ]
+      },
+      "category": [
+        "performance"
+      ]
     },
     {
       "id": "kuplingsdiskur-clutch-disc-1999-1999",
@@ -6352,10 +6593,9 @@
         }
       ],
       "tags": [
-        "sculpture",
-        "plaster",
-        "conceptual",
-        "sound"
+        "positive/negative space",
+        "folklore",
+        "humor"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -6375,7 +6615,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "mob_shop_dummy_1986",
@@ -9067,10 +9318,7 @@
       },
       "images": [],
       "tags": [
-        "sculpture",
-        "1968",
-        "dress",
-        "clothing"
+        "positive/negative space"
       ],
       "exhibitions": [],
       "materials": {
@@ -9094,7 +9342,18 @@
         "catalogNumber": "LÍ"
       },
       "contentStatus": "draft",
-      "mediaStatus": "no images"
+      "mediaStatus": "no images",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "clothes_2000",
@@ -10815,12 +11074,7 @@
         }
       ],
       "tags": [
-        "foss",
-        "waterfall",
-        "nature",
-        "photography",
-        "2000s",
-        "PLACEHOLDER - needs review"
+        "nature"
       ],
       "exhibitions": [
         {
@@ -10838,10 +11092,10 @@
       ],
       "materials": {
         "en": [
-          "photograph"
+          "mixed media"
         ],
         "is": [
-          "ljósmynd"
+          "blandað efni"
         ]
       },
       "searchText": "foss waterfall nature photography 2006 magnús pálsson placeholder needs review",
@@ -10857,6 +11111,17 @@
         "Iðunn Pálsdóttir",
         "Tómas Sturluson",
         "Þórunn Dís Halldórsdóttir"
+      ],
+      "medium": {
+        "en": [
+          "performance"
+        ],
+        "is": [
+          "gjörningur"
+        ]
+      },
+      "category": [
+        "performance"
       ]
     },
     {
@@ -10872,22 +11137,14 @@
         "is": ""
       },
       "images": [],
-      "tags": [
-        "video",
-        "performance",
-        "2000s"
-      ],
+      "tags": [],
       "exhibitions": [],
       "materials": {
         "en": [
-          "video",
-          "sound",
-          "performance"
+          "video"
         ],
         "is": [
-          "vídeó",
-          "hljóð",
-          "gjörningur"
+          "vídeó"
         ]
       },
       "searchText": "fæðing birth video sound performance 2006 magnús pálsson",
@@ -10897,7 +11154,21 @@
         "owner_en": "private collection and the artist"
       },
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "video",
+          "performance"
+        ],
+        "is": [
+          "vídeó",
+          "gjörningur"
+        ]
+      },
+      "category": [
+        "video",
+        "performance"
+      ]
     },
     {
       "id": "freyskatla_1992",
@@ -11947,23 +12218,15 @@
         }
       ],
       "tags": [
-        "poetry",
-        "publication",
-        "experimental text",
-        "visual poetry",
-        "g-ljóð",
-        "language",
-        "text art",
-        "book",
-        "2000s"
+        "language"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "book"
+          "paper"
         ],
         "is": [
-          "bók"
+          "pappír"
         ]
       },
       "searchText": "g ljóð poetry publication experimental text visual poetry language book text art 2009 magnús pálsson",
@@ -11973,7 +12236,20 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "book art",
+          "sound poetry"
+        ],
+        "is": [
+          "bóklist",
+          "hljóðljóð"
+        ]
+      },
+      "category": [
+        "book"
+      ]
     },
     {
       "id": "grad_og_bu_2002",
@@ -12518,14 +12794,8 @@
         }
       ],
       "tags": [
-        "sculpture",
         "identity",
-        "social commentary",
-        "conceptual",
-        "headwear",
-        "series",
-        "1960s",
-        "1970s"
+        "humor"
       ],
       "exhibitions": [
         {
@@ -12558,7 +12828,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "hrognkelsaveifa_strandlegjan_1998",
@@ -13638,15 +13919,7 @@
         }
       ],
       "tags": [
-        "place",
-        "memory",
-        "mapping",
-        "seasonal",
-        "documentation",
-        "multi-temporal",
-        "landscape",
-        "2000s",
-        "2020s"
+        "nature"
       ],
       "exhibitions": [
         {
@@ -13679,7 +13952,7 @@
           "wood"
         ],
         "is": [
-          "timbur"
+          "tré"
         ]
       },
       "searchText": "jón mjóaból haukardal wood timber place memory 2008 2022 magnús pálsson",
@@ -13690,7 +13963,18 @@
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
       },
-      "series": "jón"
+      "series": "jón",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "jon_nypur_2008_2022",
@@ -13706,10 +13990,7 @@
       },
       "images": [],
       "tags": [
-        "landscape",
-        "grass",
-        "2000s",
-        "2020s"
+        "nature"
       ],
       "exhibitions": [],
       "materials": {
@@ -13728,7 +14009,21 @@
       },
       "series": "jón",
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "sculpture",
+          "installation"
+        ],
+        "is": [
+          "skúlptúr",
+          "innsetning"
+        ]
+      },
+      "category": [
+        "sculpture",
+        "installation"
+      ]
     },
     {
       "id": "jonsmessunott_bank_piece_1982",
@@ -13940,13 +14235,7 @@
         }
       ],
       "tags": [
-        "collaboration",
-        "portrait",
-        "drawing",
-        "video",
-        "living art museum",
-        "baldvina",
-        "2010s"
+        "collaboration"
       ],
       "exhibitions": [
         {
@@ -13965,11 +14254,13 @@
       "materials": {
         "en": [
           "plaster",
-          "video"
+          "video",
+          "paper"
         ],
         "is": [
+          "gifs",
           "vídeó",
-          "gifs"
+          "pappír"
         ]
       },
       "searchText": "jörgen bruun hansen collaboration living art museum baldvina pencil sketch video murari portraiture 2013 magnús pálsson",
@@ -13979,7 +14270,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "drawing",
+          "video"
+        ],
+        "is": [
+          "teikning",
+          "vídeó"
+        ]
+      },
+      "category": [
+        "painting",
+        "video"
+      ]
     },
     {
       "id": "eyetalk_augntal_1986_1998",
@@ -14005,17 +14310,7 @@
         }
       ],
       "tags": [
-        "video",
-        "multimedia",
-        "communication",
-        "perception",
-        "language",
-        "eyes",
-        "speech",
-        "augntal",
-        "multi-temporal",
-        "1980s",
-        "1990s"
+        "language"
       ],
       "exhibitions": [
         {
@@ -14046,12 +14341,10 @@
       ],
       "materials": {
         "en": [
-          "video",
-          "text"
+          "video"
         ],
         "is": [
-          "vídeó",
-          "texti"
+          "vídeó"
         ]
       },
       "searchText": "augntal, augntal ii, augntal fyrir augntal eyetalk, eyetalk ii, eyetalk before eyetalk 1986-1998 þríleikur magnúsar, talk preceding eye talk, eye talk og eye talk ii, er uppbyggður með áþekkum hætti hverju sinni, rödd listamannsins er í fyrirrúmi og hann fer sjálfur með textann í mynd. alltaf er til staðar einhver eiginleiki sem gerir frásögnina framandlega og hún virðist úr lausu lofti gripin. í fyrsta myndskeiði er magnús í hlutverki manns sem tekur óhóflega í nefið með tilheyrandi truflun í frásögninni. öðru sinni sést andlit hans ekki, eingöngu hálsinn, fyrir framan upptöku úr skólpræsakerfi. loks stillir hann sér upp þétt við kvenmannsbrjóst og nýtur fulltingis konunnar við frásögnina. ekkert verkanna er klippt eða samsett, þau líða hægt áfram án framvindu eða samhengis. magnús's trilogy, talk preceding eye talk, eye talk, and eye talk ii, is structured in a similar manner each time, with the artist's voice in the foreground and he himself delivering the text in the video. there is always some characteristic that makes the narration strange and it seems to be plucked from thin air. in the first video, magnús plays a man who picks his nose excessively with accompanying disruption in the narration. the second time, his face is not visible, only the neck, in front of footage from a sewage system. finally, he positions himself tightly against a woman's breast and fully enjoys the woman's consolation during the narration. none of the works are edited or composed; they move slowly forward without progression or coherence. video multimedia communication perception language eyes speech augntal multi-temporal 1980s 1990s vídeó texti video text {'title': {'en': 'video installations', 'is': 'video installations'}, 'venue': {'en': 'various venues', 'is': 'various venues'}, 'location': 'iceland', 'year': '1986-1998'} {'title': {'en': 'eyetalk discussion', 'is': 'eyetalk discussion'}, 'venue': {'en': 'various venues', 'is': 'various venues'}, 'location': 'iceland', 'year': 2017} something-from-nothing-the-visual-realm-of-magnús-2019",
@@ -14068,7 +14361,20 @@
       "source": {
         "name": "Listasafn Reykjavíkur",
         "url": "https://listasafnreykjavikur.is/safneign/verk/72C13C12-1B15-4926-86DD-AA0952B43AFD"
-      }
+      },
+      "medium": {
+        "en": [
+          "video",
+          "text art"
+        ],
+        "is": [
+          "vídeó",
+          "textalist"
+        ]
+      },
+      "category": [
+        "video"
+      ]
     },
     {
       "id": "seeds-of-aspidistra-2002",
@@ -14676,13 +14982,11 @@
           "year": "2020"
         }
       ],
-      "tags": [
-        "artwork"
-      ],
+      "tags": [],
       "exhibitions": [],
       "materials": {
         "en": [
-          "mixed materials"
+          "mixed media"
         ],
         "is": [
           "blandað efni"
@@ -14695,7 +14999,18 @@
         "owner": "private collection",
         "owner_is": "einkaeign",
         "owner_en": "private collection"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "small-sketches-with-veiga-and-palli",
@@ -14860,20 +15175,17 @@
         }
       ],
       "tags": [
-        "artwork",
-        "2016"
+        "humor"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
-          "drawing",
-          "IKEA instructions"
+          "paper"
         ],
         "is": [
-          "teikning",
-          "IKEA leiðbeinningar"
+          "pappír"
         ]
       },
       "searchText": "sorg 2016 2016 magnús pálsson",
@@ -14883,7 +15195,20 @@
         "owner": "private collection and the artist",
         "owner_is": "einkaeign og höfundur",
         "owner_en": "private collection and the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "drawing",
+          "collage"
+        ],
+        "is": [
+          "teikning",
+          "klippimynd"
+        ]
+      },
+      "category": [
+        "painting"
+      ]
     },
     {
       "id": "sounds-of-norway-student-work-1985",
@@ -15560,18 +15885,30 @@
           }
         }
       ],
-      "tags": [
-        "artwork",
-        "2007"
-      ],
+      "tags": [],
       "exhibitions": [],
       "materials": {
-        "en": [],
-        "is": []
+        "en": [
+          "paper"
+        ],
+        "is": [
+          "pappír"
+        ]
       },
       "searchText": "steinar launch 2007-8 2007 magnús pálsson",
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "book art"
+        ],
+        "is": [
+          "bóklist"
+        ]
+      },
+      "category": [
+        "book"
+      ]
     },
     {
       "id": "steinthoka-1977",
@@ -16228,20 +16565,18 @@
         }
       ],
       "tags": [
-        "artwork",
-        "2015"
+        "time",
+        "nature"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "basalt columns",
-          "iron",
-          "metal casting"
+          "basalt",
+          "iron"
         ],
         "is": [
-          "stuðlaberg",
-          "málmstypa",
-          "málmur"
+          "basalt",
+          "járn"
         ]
       },
       "searchText": "sólúr skagarstrand aug 2015 2015 magnús pálsson",
@@ -16251,7 +16586,20 @@
         "owner": "Skagaströnd municipal",
         "owner_is": "Sveitarfélagið Skagaströnd",
         "owner_en": "Skagaströnd municipal"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture",
+          "public art"
+        ],
+        "is": [
+          "skúlptúr",
+          "almenningsverk"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "solur-sundials-originals-1965ish-to-77",
@@ -16591,11 +16939,7 @@
           "thumbnail": "images/stuna-2013/thumbs/stuna-thumb.jpg"
         }
       ],
-      "tags": [
-        "video",
-        "artwork",
-        "2013"
-      ],
+      "tags": [],
       "exhibitions": [
         "the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"
       ],
@@ -16614,7 +16958,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "video"
+        ],
+        "is": [
+          "vídeó"
+        ]
+      },
+      "category": [
+        "video"
+      ]
     },
     {
       "id": "spud-kling-og-bang-2012",
@@ -16629,22 +16984,16 @@
         "is": "Gjörningur/innsetning í Kling og Bang gallerí, Reykjavík.\n\nNánari upplýsingar: http://kob.this.is/klingogbang/archive_view.php?lang=is&id=263"
       },
       "images": [],
-      "tags": [
-        "performance",
-        "installation",
-        "2012"
-      ],
+      "tags": [],
       "exhibitions": [
         "Kling og Bang 2012"
       ],
       "materials": {
         "en": [
-          "performance",
-          "installation"
+          "mixed media"
         ],
         "is": [
-          "gjörningur",
-          "innsetning"
+          "blandað efni"
         ]
       },
       "contentStatus": "needs review",
@@ -16662,7 +17011,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "performance",
+          "installation"
+        ],
+        "is": [
+          "gjörningur",
+          "innsetning"
+        ]
+      },
+      "category": [
+        "performance",
+        "installation"
+      ]
     },
     {
       "id": "litill-tritill-karlsson-og-fuglarnir-1985",
@@ -16740,22 +17103,18 @@
         }
       ],
       "tags": [
-        "painting",
-        "diptych",
-        "watercolour",
-        "oil",
-        "landscape",
-        "Hellnar",
-        "Snæfellsnes"
+        "nature"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "watercolour",
+          "paper",
+          "watercolor",
           "oil paint"
         ],
         "is": [
-          "vatnslitir",
+          "pappír",
+          "vatnslitur",
           "olíumálning"
         ]
       },
@@ -16763,7 +17122,20 @@
         "owner": "Private collection",
         "owner_is": "Einkaeign",
         "owner_en": "Private collection"
-      }
+      },
+      "medium": {
+        "en": [
+          "watercolor",
+          "painting"
+        ],
+        "is": [
+          "vatnslitur",
+          "málverk"
+        ]
+      },
+      "category": [
+        "painting"
+      ]
     },
     {
       "id": "the-moraga-legend",
