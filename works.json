@@ -980,9 +980,7 @@
       ],
       "thumbnail": "images/ulla-udda-sudurgata-7-1976/thumbs/ulla-udda-sudurgata-7-1976-02-thumb.jpg",
       "tags": [
-        "installation",
-        "student work",
-        "1976"
+        "teaching"
       ],
       "exhibitions": [],
       "materials": {
@@ -1000,7 +998,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "installation"
+        ],
+        "is": [
+          "innsetning"
+        ]
+      },
+      "category": [
+        "installation"
+      ]
     },
     {
       "id": "vaenting-expectation-1966",
@@ -2421,19 +2430,16 @@
         }
       ],
       "tags": [
-        "conceptual",
-        "space",
-        "1976"
+        "positive/negative space",
+        "childhood"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "text",
-          "mixed media"
+          "plaster"
         ],
         "is": [
-          "texti",
-          "blandað efni"
+          "gifs"
         ]
       },
       "searchText": "tilfæsla rýmis 1976 space conceptual magnús pálsson",
@@ -2443,7 +2449,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture",
+          "installation"
+        ],
+        "is": [
+          "skúlptúr",
+          "innsetning"
+        ]
+      },
+      "category": [
+        "sculpture",
+        "installation"
+      ]
     },
     {
       "id": "typewriter-ritvel-2016",
@@ -2761,8 +2781,9 @@
         }
       ],
       "tags": [
-        "artwork",
-        "1976"
+        "positive/negative space",
+        "humor",
+        "collaboration"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -2770,13 +2791,11 @@
       "materials": {
         "en": [
           "plexiglass",
-          "water",
-          "photograph"
+          "water"
         ],
         "is": [
           "plexígler",
-          "vatn",
-          "ljósmynd"
+          "vatn"
         ]
       },
       "searchText": "rúmbjarni suðurgata 7 1976 1976 magnús pálsson",
@@ -2786,7 +2805,21 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture",
+          "installation"
+        ],
+        "is": [
+          "skúlptúr",
+          "innsetning"
+        ]
+      },
+      "category": [
+        "sculpture",
+        "installation"
+      ]
     },
     {
       "id": "pendull-student-performance-121999",
@@ -6966,9 +6999,7 @@
         }
       ],
       "tags": [
-        "sculpture",
-        "plaster",
-        "conceptual"
+        "positive/negative space"
       ],
       "exhibitions": [
         {
@@ -7005,7 +7036,18 @@
         "notes": "Also known as \"Sekúndurnar þar til Sikorskyþyrlan snertir\" (Seconds Before the Sikorsky Helicopter Touches), 1976"
       },
       "contentStatus": "needs review",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "vidtol_um_daudann_2011",
@@ -7592,11 +7634,7 @@
         }
       ],
       "tags": [
-        "sculpture",
-        "casting",
-        "negative space",
-        "positive/negative",
-        "1975"
+        "positive/negative space"
       ],
       "exhibitions": [
         "retrospective-exhibition-1994",
@@ -7631,7 +7669,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "anti_society_league_concert_1982",
@@ -7797,15 +7846,8 @@
         "credit": "3D scan by Jón Bergmann Heimisson / Punktaský ehf"
       },
       "tags": [
-        "love",
-        "pool",
-        "plaster",
-        "negative space",
-        "positive space",
-        "1970s",
-        "sculpture",
-        "3d-scan",
-        "conceptual art"
+        "positive/negative space",
+        "love"
       ],
       "exhibitions": [
         "exhibition-1975",
@@ -7826,7 +7868,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "bacarolle_i_fis_dur_1981",
@@ -9130,13 +9183,8 @@
         }
       ],
       "tags": [
-        "plaster",
-        "sculpture",
-        "conceptual",
-        "positive-negative-space",
-        "landscape",
-        "atmospheric",
-        "1970s"
+        "positive/negative space",
+        "nature"
       ],
       "exhibitions": [
         {
@@ -9169,7 +9217,18 @@
         "owner": "owned by the artist",
         "owner_is": "einkaeign og höfundur",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "dog_book_1973",
@@ -12894,14 +12953,7 @@
         }
       ],
       "tags": [
-        "plaster",
-        "sculpture",
-        "conceptual",
-        "whisper",
-        "communication",
-        "intimacy",
-        "positive-negative-space",
-        "1970s"
+        "positive/negative space"
       ],
       "exhibitions": [
         {
@@ -12936,7 +12988,18 @@
       },
       "series": "hvískur",
       "contentStatus": "needs review",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "hviskur_whisper_2_1975",
@@ -12971,11 +13034,7 @@
         }
       ],
       "tags": [
-        "plaster",
-        "sculpture",
-        "conceptual",
-        "whisper",
-        "1970s"
+        "positive/negative space"
       ],
       "exhibitions": [],
       "materials": {
@@ -12994,7 +13053,18 @@
       },
       "series": "hvískur",
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "hviskur_whisper_3_1975",
@@ -13057,13 +13127,7 @@
         }
       ],
       "tags": [
-        "plaster",
-        "sculpture",
-        "conceptual",
-        "whisper",
-        "nefertiti",
-        "alexander",
-        "1970s"
+        "positive/negative space"
       ],
       "exhibitions": [],
       "materials": {
@@ -13084,7 +13148,18 @@
       },
       "series": "hvískur",
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "jon_summer_2008_2022",
@@ -13813,19 +13888,17 @@
         }
       ],
       "tags": [
-        "watercolour",
-        "portrait",
-        "1970s"
+        "identity"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
           "paper",
-          "colors"
+          "watercolor"
         ],
         "is": [
           "pappír",
-          "litir"
+          "vatnslitur"
         ]
       },
       "searchText": "sjálfsmynd self portrait watercolour paper 1975 magnús pálsson",
@@ -13835,7 +13908,18 @@
         "owner_en": "owned by the artist"
       },
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "watercolor"
+        ],
+        "is": [
+          "vatnslitur"
+        ]
+      },
+      "category": [
+        "painting"
+      ]
     },
     {
       "id": "sjondeildarhringur-horizon-1975",
@@ -14458,10 +14542,7 @@
         }
       ],
       "tags": [
-        "bookwork",
-        "sculpture",
-        "plaster cast",
-        "1975"
+        "positive/negative space"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -14469,13 +14550,11 @@
       "materials": {
         "en": [
           "plaster",
-          "aluminium",
-          "book"
+          "aluminium"
         ],
         "is": [
           "gifs",
-          "ál",
-          "bók"
+          "ál"
         ]
       },
       "searchText": "spenna, suspense, sænskir sálmar, hymn bok 1977 1977 magnús pálsson",
@@ -14486,7 +14565,21 @@
         "owner": "private collection and the artist",
         "owner_is": "einkaeign og höfundur",
         "owner_en": "private collection and the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture",
+          "book art"
+        ],
+        "is": [
+          "skúlptúr",
+          "bóklist"
+        ]
+      },
+      "category": [
+        "sculpture",
+        "book"
+      ]
     },
     {
       "id": "saenskir-salmar-hymn-1975",
@@ -14535,22 +14628,17 @@
         }
       ],
       "tags": [
-        "bookwork",
-        "sculpture",
-        "plaster cast",
-        "1975"
+        "positive/negative space"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
           "plaster",
-          "aluminium",
-          "book"
+          "aluminium"
         ],
         "is": [
           "gifs",
-          "ál",
-          "bók"
+          "ál"
         ]
       },
       "contentStatus": "needs review",
@@ -14560,7 +14648,21 @@
         "owner": "private collection and the artist",
         "owner_is": "einkaeign og höfundur",
         "owner_en": "private collection and the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture",
+          "book art"
+        ],
+        "is": [
+          "skúlptúr",
+          "bóklist"
+        ]
+      },
+      "category": [
+        "sculpture",
+        "book"
+      ]
     },
     {
       "id": "spilaborg-card-house-nh-for-ferdafuda-2003",
