@@ -2120,11 +2120,7 @@
           "year": "2020"
         }
       ],
-      "tags": [
-        "sculpture",
-        "movement",
-        "1969"
-      ],
+      "tags": [],
       "exhibitions": [],
       "materials": {
         "en": [
@@ -2135,7 +2131,7 @@
         "is": [
           "leir",
           "gifs",
-          "viður"
+          "tré"
         ]
       },
       "searchText": "tango 1969 dance movement sculpture magnús pálsson",
@@ -2145,7 +2141,18 @@
         "owner": "private collection",
         "owner_is": "einkaeign",
         "owner_en": "private collection"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "tarnung-camoflas-tros-1962",
@@ -2964,8 +2971,7 @@
         }
       ],
       "tags": [
-        "artwork",
-        "1966"
+        "identity"
       ],
       "exhibitions": [],
       "materials": {
@@ -2989,7 +2995,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "rainbow-clippings-startart-aug-reyk-berlin-sept-08",
@@ -7629,75 +7646,6 @@
       }
     },
     {
-      "id": "asmundarsalur_exhibition_1968",
-      "title": {
-        "en": "Ásmundarsalur exhibition",
-        "is": "Ásmundarsalur exhibition"
-      },
-      "year": 1968,
-      "dimensions": null,
-      "description": {
-        "en": "PLACEHOLDER: Exhibition at Ásmundarsalur (Reykjavik Sculpture Museum) in 1968. Important early exhibition with documented press coverage and archival materials. This entry needs review and completion by assistant - please add proper description, exhibition details, and select best images from available materials.",
-        "is": ""
-      },
-      "images": [
-        {
-          "url": "images/asmundarsalur-exhibition-1968/medium/asmundarsalur-exhibition-1968-01-medium.jpg",
-          "caption": {
-            "en": "Ásmundarsalur exhibition 1968 - Documentation image 1 [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1968"
-        },
-        {
-          "url": "images/asmundarsalur-exhibition-1968/medium/asmundarsalur-exhibition-1968-02-medium.jpg",
-          "caption": {
-            "en": "Ásmundarsalur exhibition 1968 - Documentation image 2 [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1968"
-        },
-        {
-          "url": "images/asmundarsalur-exhibition-1968/medium/asmundarsalur-exhibition-1968-03-medium.jpg",
-          "caption": {
-            "en": "Ásmundarsalur exhibition 1968 - Archive photo [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1968"
-        }
-      ],
-      "tags": [
-        "exhibition",
-        "ásmundarsalur",
-        "sculpture museum",
-        "reykjavik",
-        "1960s",
-        "early career",
-        "PLACEHOLDER - needs review"
-      ],
-      "exhibitions": [
-        "exhibition-1968"
-      ],
-      "materials": {
-        "en": [
-          "sculpture",
-          "mixed media",
-          "PLACEHOLDER - needs review"
-        ],
-        "is": [
-          "höggmynd",
-          "blandað efni",
-          "PLACEHOLDER - needs review"
-        ]
-      },
-      "searchText": "ásmundarsalur exhibition sculpture museum reykjavik 1968 early career magnús pálsson placeholder needs review",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft"
-    },
-    {
       "id": "ast_i_sundlaug_1975",
       "title": {
         "en": "Love in a pool",
@@ -8589,28 +8537,19 @@
           "year": "1968"
         }
       ],
-      "tags": [
-        "buxnaskálm",
-        "installation",
-        "spatial relationships",
-        "architectural intervention",
-        "collaboration",
-        "tóta",
-        "sigga",
-        "group work",
-        "1960s"
-      ],
+      "tags": [],
       "exhibitions": [
         "exhibition-1968",
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
-          "Paper black ink"
+          "paper",
+          "ink"
         ],
         "is": [
-          "Pappír",
-          "svart blek"
+          "pappír",
+          "blek"
         ]
       },
       "searchText": "buxnaskálm tóta sigga collaboration group work 1968 magnús pálsson placeholder needs review",
@@ -8620,7 +8559,18 @@
         "owner": "private collection",
         "owner_is": "einkaeign",
         "owner_en": "private collection"
-      }
+      },
+      "medium": {
+        "en": [
+          "drawing"
+        ],
+        "is": [
+          "teikning"
+        ]
+      },
+      "category": [
+        "painting"
+      ]
     },
     {
       "id": "kjoll_dress_1968",
@@ -9233,12 +9183,7 @@
         }
       ],
       "tags": [
-        "camouflage",
-        "dulargervi",
-        "malnigarbakki",
-        "early work",
-        "1960s",
-        "PLACEHOLDER - needs review"
+        "camouflage"
       ],
       "exhibitions": [
         {
@@ -9263,7 +9208,7 @@
         ],
         "is": [
           "málningarbakki",
-          "málningapenslar",
+          "penslar",
           "málning"
         ]
       },
@@ -9277,7 +9222,18 @@
         "notes": "Sculpture/Low relief, \"Disguise\" - 57 × 27 × 20.5 cm"
       },
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "davidssalmur_choir_piece",
@@ -9947,13 +9903,7 @@
         }
       ],
       "tags": [
-        "fjall",
-        "mountain",
-        "ceramic",
-        "sculpture",
-        "1960s",
-        "1970s",
-        "PLACEHOLDER - needs review"
+        "nature"
       ],
       "exhibitions": [
         {
@@ -9972,10 +9922,12 @@
       ],
       "materials": {
         "en": [
-          "ceramic or rubber"
+          "ceramic",
+          "rubber"
         ],
         "is": [
-          "ceramic eða gúmmi"
+          "keramík",
+          "gúmmí"
         ]
       },
       "searchText": "fjall mountain ceramic pieces sculpture 1969 1970 1971 magnús pálsson placeholder needs review",
@@ -9985,7 +9937,20 @@
         "owner": "The National Gallery of Iceland, many owned privatel yand by the artist",
         "owner_is": "Listasafn Íslands,  einkeign, höfundur",
         "owner_en": "The National Gallery of Iceland, many owned privatel yand by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture",
+          "ceramic"
+        ],
+        "is": [
+          "skúlptúr",
+          "keramík"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "franklin_furnace_ny_1984",
@@ -10538,11 +10503,7 @@
         }
       ],
       "tags": [
-        "book work",
-        "conceptual art",
-        "found object",
-        "transformation",
-        "1960s"
+        "humor"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -10552,7 +10513,7 @@
           "car parts"
         ],
         "is": [
-          "Bílahlutir"
+          "bílahlutir"
         ]
       },
       "sources": [
@@ -10572,7 +10533,21 @@
       },
       "series": "bílabók",
       "contentStatus": "needs review",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "book art",
+          "sculpture"
+        ],
+        "is": [
+          "bóklist",
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "book",
+        "sculpture"
+      ]
     },
     {
       "id": "bilabok_rafgeymir_1969",
@@ -10588,16 +10563,15 @@
       },
       "images": [],
       "tags": [
-        "found object",
-        "1960s"
+        "humor"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "battery"
+          "metal"
         ],
         "is": [
-          "geymir"
+          "málmur"
         ]
       },
       "searchText": "bílabók rafgeymir automobile battery 1969 magnús pálsson",
@@ -10608,7 +10582,21 @@
       },
       "series": "bílabók",
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "book art",
+          "sculpture"
+        ],
+        "is": [
+          "bóklist",
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "book",
+        "sculpture"
+      ]
     },
     {
       "id": "bilabok_blondungur_1969",
@@ -10624,16 +10612,15 @@
       },
       "images": [],
       "tags": [
-        "found object",
-        "1960s"
+        "humor"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "carburettor"
+          "metal"
         ],
         "is": [
-          "Blöndungur"
+          "málmur"
         ]
       },
       "searchText": "bílabók blöndungur automobile carburettor 1969 magnús pálsson",
@@ -10644,7 +10631,21 @@
       },
       "series": "bílabók",
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "book art",
+          "sculpture"
+        ],
+        "is": [
+          "bóklist",
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "book",
+        "sculpture"
+      ]
     },
     {
       "id": "bilabok_numeraplata_1969",
@@ -10660,16 +10661,15 @@
       },
       "images": [],
       "tags": [
-        "found object",
-        "1960s"
+        "humor"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "license plate"
+          "metal"
         ],
         "is": [
-          "númeraplata"
+          "málmur"
         ]
       },
       "searchText": "bílabók númeraplata automobile numberplate 1969 magnús pálsson",
@@ -10680,7 +10680,21 @@
       },
       "series": "bílabók",
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "book art",
+          "sculpture"
+        ],
+        "is": [
+          "bóklist",
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "book",
+        "sculpture"
+      ]
     },
     {
       "id": "bilabok_dekk_1969",
@@ -10696,16 +10710,15 @@
       },
       "images": [],
       "tags": [
-        "found object",
-        "1960s"
+        "humor"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "tyre"
+          "rubber"
         ],
         "is": [
-          "dekk"
+          "gúmmí"
         ]
       },
       "searchText": "bílabók dekk automobile tyre 1969 magnús pálsson",
@@ -10716,7 +10729,21 @@
       },
       "series": "bílabók",
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "book art",
+          "sculpture"
+        ],
+        "is": [
+          "bóklist",
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "book",
+        "sculpture"
+      ]
     },
     {
       "id": "bilabok_hurd_1969",
@@ -10732,16 +10759,15 @@
       },
       "images": [],
       "tags": [
-        "found object",
-        "1960s"
+        "humor"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "car door"
+          "metal"
         ],
         "is": [
-          "Bílhurð"
+          "málmur"
         ]
       },
       "searchText": "bílabók hurð automobile door 1969 magnús pálsson",
@@ -10752,7 +10778,21 @@
       },
       "series": "bílabók",
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "book art",
+          "sculpture"
+        ],
+        "is": [
+          "bóklist",
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "book",
+        "sculpture"
+      ]
     },
     {
       "id": "bilabok_kupling_1969",
@@ -10768,16 +10808,15 @@
       },
       "images": [],
       "tags": [
-        "found object",
-        "1960s"
+        "humor"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "clutch"
+          "metal"
         ],
         "is": [
-          "Kúpling"
+          "málmur"
         ]
       },
       "searchText": "bílabók kúpling automobile clutch 1969 magnús pálsson",
@@ -10788,7 +10827,21 @@
       },
       "series": "bílabók",
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "book art",
+          "sculpture"
+        ],
+        "is": [
+          "bóklist",
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "book",
+        "sculpture"
+      ]
     },
     {
       "id": "bilabok_felga_1969",
@@ -10804,16 +10857,15 @@
       },
       "images": [],
       "tags": [
-        "found object",
-        "1960s"
+        "humor"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "rim"
+          "metal"
         ],
         "is": [
-          "felga"
+          "málmur"
         ]
       },
       "searchText": "bílabók felga automobile rim 1969 magnús pálsson",
@@ -10824,7 +10876,21 @@
       },
       "series": "bílabók",
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "book art",
+          "sculpture"
+        ],
+        "is": [
+          "bóklist",
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "book",
+        "sculpture"
+      ]
     },
     {
       "id": "flaedamal_beach_1976",
@@ -13827,21 +13893,18 @@
           "year": "2020"
         }
       ],
-      "tags": [
-        "artwork",
-        "1968"
-      ],
+      "tags": [],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
           "paper",
-          "black ink"
+          "ink"
         ],
         "is": [
           "pappír",
-          "svart blek"
+          "blek"
         ]
       },
       "searchText": "skýrsla 1968 1968 magnús pálsson",
@@ -13851,7 +13914,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "drawing"
+        ],
+        "is": [
+          "teikning"
+        ]
+      },
+      "category": [
+        "painting"
+      ]
     },
     {
       "id": "small-pieces-19989-frances-gyda",
