@@ -1212,7 +1212,7 @@
         }
       ],
       "tags": [
-        "sculpture"
+        "childhood"
       ],
       "exhibitions": [],
       "materials": {
@@ -1234,7 +1234,18 @@
         "notes": "Model of Vallanes farm, 1976. Plastic, 1.48 × 1.14 cm. One of three identical models - others in Canada and East Iceland Museum."
       },
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "varla-hardly-1994",
@@ -5031,10 +5042,8 @@
         }
       ],
       "tags": [
-        "sculpture",
-        "plaster",
-        "series",
-        "1975"
+        "positive/negative space",
+        "nature"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -5042,11 +5051,11 @@
       "materials": {
         "en": [
           "plaster",
-          "page of atlas"
+          "paper"
         ],
         "is": [
           "gifs",
-          "blaðsíða úr landafræðibók"
+          "pappír"
         ]
       },
       "searchText": "landafræði geography series 1975 sónninn jóskunni keltneski andi sorg kengúrunnar kaffiilmurinn braselíu trúin afganistan von lappanna magnús pálsson",
@@ -5067,7 +5076,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "sonninn-i-joskunni-1975",
@@ -5099,21 +5119,17 @@
         }
       ],
       "tags": [
-        "sculpture",
-        "plaster",
-        "landafræði",
-        "positive/negative",
-        "1975"
+        "positive/negative space"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
           "plaster",
-          "page of atlas"
+          "paper"
         ],
         "is": [
           "gifs",
-          "blaðsíða úr landafræðibók"
+          "pappír"
         ]
       },
       "searchText": "sónninn jóskunni sound jutlandish landafræði geography denmark danmörk 1975 magnús pálsson",
@@ -5124,7 +5140,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "hinn-keltneski-andi-1975",
@@ -5140,20 +5167,17 @@
       },
       "images": [],
       "tags": [
-        "sculpture",
-        "plaster",
-        "landafræði",
-        "1975"
+        "positive/negative space"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
           "plaster",
-          "page of atlas"
+          "paper"
         ],
         "is": [
           "gifs",
-          "blaðsíða úr landafræðibók"
+          "pappír"
         ]
       },
       "searchText": "hinn keltneski andi celtic spirit landafræði geography 1975 magnús pálsson",
@@ -5164,7 +5188,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "sorg-kengurunnar-1975",
@@ -5188,20 +5223,18 @@
         }
       ],
       "tags": [
-        "sculpture",
-        "plaster",
-        "landafræði",
-        "1975"
+        "positive/negative space",
+        "animals"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
           "plaster",
-          "page of atlas"
+          "paper"
         ],
         "is": [
           "gifs",
-          "blaðsíða úr landafræðibók"
+          "pappír"
         ]
       },
       "searchText": "sorg kengúrunnar sorrow kangaroo australia landafræði geography 1975 magnús pálsson",
@@ -5212,7 +5245,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "kaffiilmurinn-i-braseliu-1975",
@@ -5237,21 +5281,17 @@
         }
       ],
       "tags": [
-        "sculpture",
-        "plaster",
-        "landafræði",
-        "positive/negative",
-        "1975"
+        "positive/negative space"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
           "plaster",
-          "page of atlas"
+          "paper"
         ],
         "is": [
           "gifs",
-          "blaðsíða úr landafræðibók"
+          "pappír"
         ]
       },
       "searchText": "kaffiilmurinn braselíu aroma coffee brazil landafræði geography 1975 magnús pálsson",
@@ -5262,7 +5302,18 @@
         "owner": "private collection and the artist",
         "owner_is": "einkaeign og höfundur",
         "owner_en": "private collection and the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "truin-i-afganistan-1975",
@@ -5287,21 +5338,17 @@
         }
       ],
       "tags": [
-        "sculpture",
-        "plaster",
-        "landafræði",
-        "positive/negative",
-        "1975"
+        "positive/negative space"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
           "plaster",
-          "page of atlas"
+          "paper"
         ],
         "is": [
           "gifs",
-          "blaðsíða úr landafræðibók"
+          "pappír"
         ]
       },
       "searchText": "trúin afganistan religion faith afghanistan landafræði geography 1975 magnús pálsson",
@@ -5312,7 +5359,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "von-lappanna-1975",
@@ -5336,20 +5394,17 @@
         }
       ],
       "tags": [
-        "sculpture",
-        "plaster",
-        "landafræði",
-        "1975"
+        "positive/negative space"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
           "plaster",
-          "page of atlas"
+          "paper"
         ],
         "is": [
           "gifs",
-          "blaðsíða úr landafræðibók"
+          "pappír"
         ]
       },
       "searchText": "von lappanna hope sami lapland landafræði geography 1975 magnús pálsson",
@@ -5360,7 +5415,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "manifesto-bergen-offside-exhibition-1996-1996",
@@ -6479,15 +6545,14 @@
         }
       ],
       "tags": [
-        "artwork",
-        "1972"
+        "humor"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
         "en": [
-          "photogrpah"
+          "photograph"
         ],
         "is": [
           "ljósmynd"
@@ -6500,7 +6565,18 @@
         "owner": "many owners",
         "owner_is": "ýmsir, í eigu höfundar",
         "owner_en": "many owners"
-      }
+      },
+      "medium": {
+        "en": [
+          "photography"
+        ],
+        "is": [
+          "ljósmynd"
+        ]
+      },
+      "category": [
+        "painting"
+      ]
     },
     {
       "id": "kulan_1962",
@@ -7078,14 +7154,9 @@
         }
       ],
       "tags": [
-        "poetry",
+        "nature",
         "dreams",
-        "sound",
-        "landscape",
-        "mountain",
-        "collaboration",
-        "edda jónsdóttir",
-        "1970s"
+        "positive/negative space"
       ],
       "searchText": "draumur hlynsins um fjall dreams sound landscape mountain collaboration edda jónsdóttir 1974 poetry magnús pálsson",
       "exhibitions": [
@@ -7105,7 +7176,18 @@
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
         "owner_en": "owned by the artist"
-      }
+      },
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "yxn_2002",
@@ -9122,11 +9204,7 @@
         }
       ],
       "tags": [
-        "dog",
-        "book",
-        "publication",
-        "1970s",
-        "PLACEHOLDER - needs review"
+        "animals"
       ],
       "exhibitions": [
         {
@@ -9144,10 +9222,10 @@
       ],
       "materials": {
         "en": [
-          "book"
+          "paper"
         ],
         "is": [
-          "bók"
+          "pappír"
         ]
       },
       "searchText": "dog book publication 1973 magnús pálsson placeholder needs review",
@@ -9157,7 +9235,18 @@
         "owner": "many owners",
         "owner_is": "margir eigendur",
         "owner_en": "many owners"
-      }
+      },
+      "medium": {
+        "en": [
+          "book art"
+        ],
+        "is": [
+          "bóklist"
+        ]
+      },
+      "category": [
+        "book"
+      ]
     },
     {
       "id": "dulargervi_malnigarbakki_camouflage_1966",
@@ -11720,18 +11809,8 @@
         }
       ],
       "tags": [
-        "sculpture",
-        "plaster",
-        "children",
-        "life-size",
-        "clothing moulds",
-        "materiality",
         "childhood",
-        "gibsbörn",
-        "gallery fodor",
-        "amsterdam",
-        "lund",
-        "1970s"
+        "positive/negative space"
       ],
       "exhibitions": [
         "exhibition-1971",
@@ -11747,7 +11826,18 @@
       },
       "searchText": "gifsbörn plaster children sculpture life-size clothing moulds materiality childhood casting gallery fodor amsterdam lund international 1970 1971 magnús pálsson listasafn íslands national gallery iceland",
       "contentStatus": "ready for review",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "ad_juda_ser_rangsaelis_2000",
@@ -12535,14 +12625,8 @@
         }
       ],
       "tags": [
-        "sculpture",
         "animals",
-        "dogs",
-        "collaboration",
-        "series",
-        "straw",
-        "1970s",
-        "óli gísla"
+        "collaboration"
       ],
       "exhibitions": [
         {
@@ -12579,7 +12663,18 @@
       },
       "series": "hundar",
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "hundur_dog_1971",
@@ -12604,9 +12699,7 @@
         }
       ],
       "tags": [
-        "sculpture",
-        "dog",
-        "1971"
+        "animals"
       ],
       "exhibitions": [],
       "materials": {
@@ -12629,7 +12722,18 @@
       },
       "series": "hundar",
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "hundur_pappir_1971",
@@ -12645,9 +12749,7 @@
       },
       "images": [],
       "tags": [
-        "sculpture",
-        "dog",
-        "1971"
+        "animals"
       ],
       "exhibitions": [],
       "materials": {
@@ -12668,7 +12770,18 @@
       },
       "series": "hundar",
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "hundur_adrir_1971",
@@ -12684,19 +12797,15 @@
       },
       "images": [],
       "tags": [
-        "sculpture",
-        "dog",
-        "1971"
+        "animals"
       ],
       "exhibitions": [],
       "materials": {
         "en": [
-          "plaster",
-          "various materials"
+          "plaster"
         ],
         "is": [
-          "gifs",
-          "ýmis efni"
+          "gifs"
         ]
       },
       "searchText": "hundur aðrir dogs other plaster various 1971 magnús pálsson",
@@ -12707,7 +12816,18 @@
       },
       "series": "hundar",
       "contentStatus": "draft",
-      "mediaStatus": "needs images"
+      "mediaStatus": "needs images",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "hviskur_whisper_1_1975",
@@ -15729,18 +15849,16 @@
           "year": "2020"
         }
       ],
-      "tags": [
-        "artwork"
-      ],
+      "tags": [],
       "exhibitions": [],
       "materials": {
         "en": [
           "plaster",
-          "cloths"
+          "cloth"
         ],
         "is": [
           "gifs",
-          "föt"
+          "textíll"
         ]
       },
       "searchText": "skyggn_berdreyminn_naemur_1969 Unknown magnús pálsson",
@@ -15752,7 +15870,18 @@
         "notes": "Part of \"Berdreyminn, Skyggn, Næmur\" series"
       },
       "contentStatus": "draft",
-      "mediaStatus": "images draft"
+      "mediaStatus": "images draft",
+      "medium": {
+        "en": [
+          "sculpture"
+        ],
+        "is": [
+          "skúlptúr"
+        ]
+      },
+      "category": [
+        "sculpture"
+      ]
     },
     {
       "id": "stuna-2013",
