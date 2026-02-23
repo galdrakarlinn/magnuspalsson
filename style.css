@@ -184,6 +184,7 @@ body {
   right: 0.75rem;
   color: #000;
   pointer-events: none;
+  display: none;
 }
 
 
