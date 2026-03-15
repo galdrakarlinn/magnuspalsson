@@ -53,7 +53,6 @@ class TheaterManager {
 
     // Build HTML
     let html = `<h1>${this.theaterData.ui?.theater || 'Theater'}</h1>`;
-    html += `<div class="under-construction">${this.theaterData.ui?.underConstruction || 'This page is under construction'}</div>`;
 
     years.forEach(year => {
       html += `<section>`;

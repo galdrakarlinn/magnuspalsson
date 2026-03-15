@@ -42,10 +42,6 @@ class PublicationsManager {
     // Build HTML
     let html = '<h1>' + publicationsData.ui.publicationsTitle + '</h1>';
 
-    // Under construction notice
-    if (publicationsData.ui.underConstruction) {
-      html += '<div class="under-construction">' + publicationsData.ui.underConstruction + '</div>';
-    }
 
     // Render each year group
     publicationsData.publications.forEach(yearGroup => {

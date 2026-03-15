@@ -38,11 +38,6 @@ class ExhibitionsManager {
       h1.textContent = this.type === 'solo' ? i18n.te('soloExhibitions') : i18n.te('groupExhibitions');
     }
 
-    // Update "under construction" message if exists
-    const underConstruction = container.querySelector('.under-construction');
-    if (underConstruction) {
-      underConstruction.textContent = i18n.te('underConstruction');
-    }
 
     // Group exhibitions by year
     const exhibitionsByYear = {};
@@ -59,10 +54,6 @@ class ExhibitionsManager {
 
     // Build HTML
     let html = '<h1>' + (this.type === 'solo' ? i18n.te('soloExhibitions') : i18n.te('groupExhibitions')) + '</h1>';
-
-    if (underConstruction) {
-      html += '<div class="under-construction">' + i18n.te('underConstruction') + '</div>';
-    }
 
     years.forEach(year => {
       html += `<section>`;

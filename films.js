@@ -42,10 +42,6 @@ class FilmsManager {
     // Build HTML
     let html = '<h1>' + filmsData.ui.filmsTitle + '</h1>';
 
-    // Under construction notice
-    if (filmsData.ui.underConstruction) {
-      html += '<div class="under-construction">' + filmsData.ui.underConstruction + '</div>';
-    }
 
     // Render each year group
     filmsData.films.forEach(yearGroup => {

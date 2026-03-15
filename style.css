@@ -1,5 +1,19 @@
 /* style.css */
 
+/* Work in Progress Banner */
+.wip-banner {
+  background-color: #f0c040;
+  color: #333;
+  text-align: center;
+  padding: 0.5rem 1rem;
+  font-weight: 600;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+}
+
 /* Override Pico CSS default colors to black and white theme */
 :root {
   --primary: #000;
@@ -559,17 +573,6 @@ body {
 .archival li {
   margin: 0.1rem 0;
   line-height: 1.3;
-}
-.under-construction {
-  background-color: #fff3cd;
-  color: #856404;
-  border: 1px solid #ffeeba;
-  padding: 1em;
-  margin: 1em 0;
-  text-align: center;
-  font-weight: bold;
-  font-size: 1.2em;
-  border-radius: 4px;
 }
 /* All exhibitions pages */
 .container.archival {

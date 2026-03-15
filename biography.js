@@ -43,7 +43,6 @@ class BiographyManager {
 
     // Build HTML
     let html = `<h1>${this.biographyData.ui?.biography || 'Biography'}</h1>`;
-    html += `<div class="under-construction">${this.biographyData.ui?.underConstruction || 'This page is under construction'}</div>`;
     html += `<section class="biography-content">`;
 
     // Render each section

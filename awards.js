@@ -42,10 +42,6 @@ class AwardsManager {
     // Build HTML
     let html = '<h1>' + awardsData.ui.awardsTitle + '</h1>';
 
-    // Under construction notice
-    if (awardsData.ui.underConstruction) {
-      html += '<div class="under-construction">' + awardsData.ui.underConstruction + '</div>';
-    }
 
     // Render each year group
     awardsData.awards.forEach(yearGroup => {
