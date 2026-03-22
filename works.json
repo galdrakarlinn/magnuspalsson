@@ -197,6 +197,63 @@
       ]
     },
     {
+      "id": "at-blive-trukket-1989",
+      "title": {
+        "en": "To Be Pulled Up Over the Stomach or the Chest",
+        "is": "Að vera þrýst upp yfir magann eða bringuna",
+        "da": "At blive trukket op over maven eller brystet"
+      },
+      "year": 1989,
+      "dimensions": null,
+      "description": {
+        "en": "A comedy in three acts with two intermezzos, written mostly in Danish for 7 to 11 players. Created for Mob Shop IV at Hald Hovedgaard in Jutland, Denmark (1989), first shown at Viborg Theatre and later at Malmö Konsthall in Sweden. Directed by María Kristjánsdóttir, costumes by Þórunn S. Þorgrímsdóttir. The performance took place both on stage, in the balconies and around and between the audience, breaking the boundary between performers and spectators. Magnús Pálsson played the part of the Spiritualist — appearing in blue costume and mask among the seated audience. Performers: Kristbjörg Kjeld, Rode Summer, Steinar Sigurjónsson and Magnús Pálsson.",
+        "is": "Gamanleikur í þremur þáttum með tveimur intermezzum, skrifaður aðallega á dönsku fyrir 7 til 11 leikara. Skapaður fyrir Mob Shop IV á Hald Hovedgaard í Jótlandi, Danmörku (1989), fyrst sýndur í Viborg Theatre og síðan í Malmö Konsthall í Svíþjóð. Leikstjóri: María Kristjánsdóttir, búningahönnun: Þórunn S. Þorgrímsdóttir. Gjörningurinn fór fram bæði á sviði, á svölum og í kringum og á meðal áhorfenda og ruddi þannig úr vegi mörkum milli leikara og áhorfenda. Magnús Pálsson lék hlutverk andamannsins — í bláum búningi og grímu meðal áhorfenda. Leikarar: Kristbjörg Kjeld, Rode Summer, Steinar Sigurjónsson og Magnús Pálsson."
+      },
+      "images": [
+        {
+          "url": "images/at-blive-trukket-1989/at-blive-trukket-preview.mp4",
+          "caption": {
+            "en": "At blive trukket op over maven eller brystet - Mob Shop IV, Viborg Theatre, 1989",
+            "is": "At blive trukket op over maven eller brystet - Mob Shop IV, Viborg Theatre, 1989"
+          }
+        }
+      ],
+      "tags": [
+        "humor",
+        "theater"
+      ],
+      "exhibitions": [],
+      "materials": {
+        "en": [
+          "performance"
+        ],
+        "is": [
+          "gjörningur"
+        ]
+      },
+      "searchText": "at blive trukket op over maven eller brystet mob shop viborg theatre malmö konsthall 1989 magnús pálsson",
+      "ownership": {
+        "owner": "owned by the artist",
+        "owner_is": "í eigu höfundar",
+        "owner_en": "owned by the artist"
+      },
+      "contentStatus": "draft",
+      "mediaStatus": "video",
+      "medium": {
+        "en": [
+          "performance",
+          "theater"
+        ],
+        "is": [
+          "gjörningur",
+          "leikhús"
+        ]
+      },
+      "category": [
+        "performance"
+      ]
+    },
+    {
       "id": "thraetubalkur-1990",
       "title": {
         "en": "Angry dispute",
