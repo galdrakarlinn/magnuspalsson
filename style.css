@@ -1039,6 +1039,26 @@ body {
   max-height: 90vh;
   overflow-y: scroll;
   position: relative;
+  scrollbar-width: thin;
+  scrollbar-color: #999 #f0f0f0;
+}
+
+.modal-content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.modal-content::-webkit-scrollbar-track {
+  background: #f0f0f0;
+  border-radius: 0 8px 8px 0;
+}
+
+.modal-content::-webkit-scrollbar-thumb {
+  background: #999;
+  border-radius: 4px;
+}
+
+.modal-content::-webkit-scrollbar-thumb:hover {
+  background: #666;
 }
 
 .modal-header-sticky {
