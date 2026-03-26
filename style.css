@@ -1035,14 +1035,12 @@ body {
   max-width: 800px;
   max-height: 90vh;
   position: relative;
-  display: flex;
 }
 
 .modal-content {
   background-color: #fff;
   padding: 0;
   border-radius: 8px;
-  flex: 1;
   max-height: 90vh;
   overflow-y: auto;
   scrollbar-width: none;
@@ -1054,11 +1052,14 @@ body {
 
 /* Custom scrollbar track - always visible, not controlled by macOS */
 .custom-scrollbar {
+  position: absolute;
+  top: 0;
+  right: 0;
   width: 8px;
+  height: 100%;
   background: #eee;
   border-radius: 0 8px 8px 0;
-  position: relative;
-  flex-shrink: 0;
+  z-index: 1005;
 }
 
 .custom-scrollbar-thumb {
