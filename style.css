@@ -1020,7 +1020,7 @@ body {
 .modal {
   display: none;
   position: fixed;
-  z-index: 1000;
+  z-index: 10000;
   left: 0;
   top: 0;
   width: 100%;
@@ -1085,7 +1085,7 @@ body {
   position: sticky;
   top: 0;
   background-color: #fff;
-  padding: 1.5rem 2rem 1rem 2.5rem;
+  padding: 1.5rem 2rem 1rem 2rem;
   border-bottom: 1px solid #e0e0e0;
   z-index: 1002;
   display: flex;
