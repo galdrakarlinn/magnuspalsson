@@ -768,11 +768,10 @@ class WorksManager {
       // Custom scrollbar - always visible, immune to macOS overlay hiding
       const scrollbar = document.getElementById('custom-scrollbar');
       const thumb = document.getElementById('custom-scrollbar-thumb');
-      const indicator = document.getElementById('scroll-indicator');
+
       const updateScrollbar = () => {
         const canScroll = modalContent.scrollHeight > modalContent.clientHeight;
         if (scrollbar) scrollbar.style.display = canScroll ? 'block' : 'none';
-        if (indicator) indicator.style.opacity = (canScroll && modalContent.scrollTop + modalContent.clientHeight < modalContent.scrollHeight - 20) ? '1' : '0';
         if (canScroll && thumb) {
           const ratio = modalContent.clientHeight / modalContent.scrollHeight;
           const thumbHeight = Math.max(30, ratio * modalContent.clientHeight);
