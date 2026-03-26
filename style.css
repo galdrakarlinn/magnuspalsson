@@ -1039,26 +1039,36 @@ body {
   max-height: 90vh;
   overflow-y: auto;
   position: relative;
-  scrollbar-width: thin;
-  scrollbar-color: #999 #f0f0f0;
 }
 
-.modal-content::-webkit-scrollbar {
-  width: 8px;
-}
-
-.modal-content::-webkit-scrollbar-track {
-  background: #f0f0f0;
+/* Custom scrollbar track - always visible, not controlled by macOS */
+.custom-scrollbar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 6px;
+  height: 100%;
+  background: #eee;
   border-radius: 0 8px 8px 0;
+  z-index: 1005;
+  pointer-events: none;
 }
 
-.modal-content::-webkit-scrollbar-thumb {
-  background: #999;
-  border-radius: 4px;
+.custom-scrollbar-thumb {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 6px;
+  background: #aaa;
+  border-radius: 3px;
+  min-height: 30px;
+  transition: background 0.2s;
+  pointer-events: auto;
+  cursor: pointer;
 }
 
-.modal-content::-webkit-scrollbar-thumb:hover {
-  background: #666;
+.custom-scrollbar-thumb:hover {
+  background: #777;
 }
 
 .scroll-indicator {

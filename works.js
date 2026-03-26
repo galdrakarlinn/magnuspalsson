@@ -759,18 +759,27 @@ class WorksManager {
     const modalContent = document.querySelector('.modal-content');
     if (modalContent) {
       modalContent.scrollTop = 0;
-      // Show/hide scroll indicator based on whether content overflows
+      // Custom scrollbar - always visible, immune to macOS overlay hiding
+      const scrollbar = document.getElementById('custom-scrollbar');
+      const thumb = document.getElementById('custom-scrollbar-thumb');
       const indicator = document.getElementById('scroll-indicator');
-      if (indicator) {
-        const checkScroll = () => {
-          const canScroll = modalContent.scrollHeight > modalContent.clientHeight;
-          const atBottom = modalContent.scrollTop + modalContent.clientHeight >= modalContent.scrollHeight - 20;
-          indicator.style.opacity = (canScroll && !atBottom) ? '1' : '0';
-        };
-        modalContent.removeEventListener('scroll', checkScroll);
-        modalContent.addEventListener('scroll', checkScroll);
-        setTimeout(checkScroll, 100);
-      }
+      const updateScrollbar = () => {
+        const canScroll = modalContent.scrollHeight > modalContent.clientHeight;
+        if (scrollbar) scrollbar.style.display = canScroll ? 'block' : 'none';
+        if (indicator) indicator.style.opacity = (canScroll && modalContent.scrollTop + modalContent.clientHeight < modalContent.scrollHeight - 20) ? '1' : '0';
+        if (canScroll && thumb) {
+          const ratio = modalContent.clientHeight / modalContent.scrollHeight;
+          const thumbHeight = Math.max(30, ratio * modalContent.clientHeight);
+          const scrollRange = modalContent.scrollHeight - modalContent.clientHeight;
+          const thumbRange = modalContent.clientHeight - thumbHeight;
+          const thumbTop = (modalContent.scrollTop / scrollRange) * thumbRange;
+          thumb.style.height = thumbHeight + 'px';
+          thumb.style.top = thumbTop + 'px';
+        }
+      };
+      modalContent.removeEventListener('scroll', updateScrollbar);
+      modalContent.addEventListener('scroll', updateScrollbar);
+      setTimeout(updateScrollbar, 100);
     }
     modalBody.innerHTML = `
       <div class="modal-header-sticky">
