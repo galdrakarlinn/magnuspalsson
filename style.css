@@ -1039,6 +1039,11 @@ body {
   max-height: 90vh;
   overflow-y: auto;
   position: relative;
+  scrollbar-width: none;
+}
+
+.modal-content::-webkit-scrollbar {
+  display: none;
 }
 
 /* Custom scrollbar track - always visible, not controlled by macOS */
