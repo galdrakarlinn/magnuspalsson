@@ -780,6 +780,42 @@ class WorksManager {
       modalContent.removeEventListener('scroll', updateScrollbar);
       modalContent.addEventListener('scroll', updateScrollbar);
       setTimeout(updateScrollbar, 100);
+
+      // Make custom scrollbar draggable
+      if (thumb) {
+        let dragging = false;
+        let startY = 0;
+        let startScrollTop = 0;
+
+        thumb.addEventListener('mousedown', (e) => {
+          dragging = true;
+          startY = e.clientY;
+          startScrollTop = modalContent.scrollTop;
+          e.preventDefault();
+        });
+
+        document.addEventListener('mousemove', (e) => {
+          if (!dragging) return;
+          const ratio = modalContent.clientHeight / modalContent.scrollHeight;
+          const thumbHeight = Math.max(30, ratio * modalContent.clientHeight);
+          const thumbRange = modalContent.clientHeight - thumbHeight;
+          const scrollRange = modalContent.scrollHeight - modalContent.clientHeight;
+          const deltaY = e.clientY - startY;
+          modalContent.scrollTop = startScrollTop + (deltaY / thumbRange) * scrollRange;
+        });
+
+        document.addEventListener('mouseup', () => {
+          dragging = false;
+        });
+
+        // Click on track to jump
+        scrollbar.addEventListener('click', (e) => {
+          if (e.target === thumb) return;
+          const rect = scrollbar.getBoundingClientRect();
+          const clickRatio = (e.clientY - rect.top) / rect.height;
+          modalContent.scrollTop = clickRatio * (modalContent.scrollHeight - modalContent.clientHeight);
+        });
+      }
     }
     modalBody.innerHTML = `
       <div class="modal-header-sticky">
