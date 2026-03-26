@@ -301,8 +301,14 @@ class WorksManager {
 
     // Keyboard accessibility for modal
     window.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape' && modal.style.display === 'block') {
+      if (modal.style.display !== 'block') return;
+      if (e.key === 'Escape') {
         closeModal();
+      }
+      const modalContent = modal.querySelector('.modal-content');
+      if (modalContent && (e.key === 'ArrowDown' || e.key === 'ArrowUp')) {
+        e.preventDefault();
+        modalContent.scrollTop += (e.key === 'ArrowDown' ? 60 : -60);
       }
     });
   }
