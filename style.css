@@ -1029,16 +1029,22 @@ body {
   backdrop-filter: blur(4px);
 }
 
-.modal-content {
-  background-color: #fff;
+.modal-content-wrapper {
   margin: 2% auto;
-  padding: 0;
-  border-radius: 8px;
   width: 90%;
   max-width: 800px;
   max-height: 90vh;
-  overflow-y: auto;
   position: relative;
+  display: flex;
+}
+
+.modal-content {
+  background-color: #fff;
+  padding: 0;
+  border-radius: 8px;
+  flex: 1;
+  max-height: 90vh;
+  overflow-y: auto;
   scrollbar-width: none;
 }
 
@@ -1048,15 +1054,11 @@ body {
 
 /* Custom scrollbar track - always visible, not controlled by macOS */
 .custom-scrollbar {
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 6px;
-  height: 100%;
+  width: 8px;
   background: #eee;
   border-radius: 0 8px 8px 0;
-  z-index: 1005;
-  pointer-events: none;
+  position: relative;
+  flex-shrink: 0;
 }
 
 .custom-scrollbar-thumb {
