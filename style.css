@@ -1037,7 +1037,7 @@ body {
   width: 90%;
   max-width: 800px;
   max-height: 90vh;
-  overflow-y: auto;
+  overflow-y: scroll;
   position: relative;
 }
 
@@ -1067,9 +1067,6 @@ body {
 }
 
 .close {
-  position: sticky;
-  top: 15px;
-  right: 25px;
   color: #aaa;
   font-size: 28px;
   font-weight: bold;
@@ -1082,8 +1079,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  float: right;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  flex-shrink: 0;
 }
 
 .close:hover {
