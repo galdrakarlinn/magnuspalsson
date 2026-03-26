@@ -759,6 +759,18 @@ class WorksManager {
     const modalContent = document.querySelector('.modal-content');
     if (modalContent) {
       modalContent.scrollTop = 0;
+      // Show/hide scroll indicator based on whether content overflows
+      const indicator = document.getElementById('scroll-indicator');
+      if (indicator) {
+        const checkScroll = () => {
+          const canScroll = modalContent.scrollHeight > modalContent.clientHeight;
+          const atBottom = modalContent.scrollTop + modalContent.clientHeight >= modalContent.scrollHeight - 20;
+          indicator.style.opacity = (canScroll && !atBottom) ? '1' : '0';
+        };
+        modalContent.removeEventListener('scroll', checkScroll);
+        modalContent.addEventListener('scroll', checkScroll);
+        setTimeout(checkScroll, 100);
+      }
     }
     modalBody.innerHTML = `
       <div class="modal-header-sticky">
