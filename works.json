@@ -2428,61 +2428,6 @@
       ]
     },
     {
-      "id": "hunting-of-the-snark-1998",
-      "title": {
-        "en": "The Hunting of the Snark",
-        "is": "Leitin að snarkinum"
-      },
-      "year": 1998,
-      "dimensions": null,
-      "description": {
-        "en": "A work based on Lewis Carroll's nonsense poem, created for NÝLÓ gallery.",
-        "is": ""
-      },
-      "images": [
-        {
-          "url": "images/hunting-of-the-snark-1998/medium/hunting-of-the-snark-1998-01-medium.jpg",
-          "caption": {
-            "en": "The Hunting of the Snark",
-            "is": ""
-          },
-          "thumbnail": "images/hunting-of-the-snark-1998/thumbs/hunting-of-the-snark-1998-01-thumb.jpg"
-        }
-      ],
-      "tags": [
-        "language",
-        "humor"
-      ],
-      "exhibitions": [],
-      "materials": {
-        "en": [
-          "mixed media"
-        ],
-        "is": [
-          "blandað efni"
-        ]
-      },
-      "searchText": "hunting of the snark 1998 nýló lewis carroll magnús pálsson",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft",
-      "ownership": {
-        "owner": "owned by the artist",
-        "owner_is": "í eigu höfundar",
-        "owner_en": "owned by the artist"
-      },
-      "medium": {
-        "en": [
-          "installation"
-        ],
-        "is": [
-          "innsetning"
-        ]
-      },
-      "category": [
-        "installation"
-      ]
-    },
-    {
       "id": "the-offs-1994",
       "title": {
         "en": "The Offs",
@@ -14409,7 +14354,8 @@
           "location": "Iceland",
           "year": 2017
         },
-        "something-from-nothing-the-visual-realm-of-magnús-2019"
+        "something-from-nothing-the-visual-realm-of-magnús-2019",
+        "the-hunting-of-the-snark-1998"
       ],
       "materials": {
         "en": [
