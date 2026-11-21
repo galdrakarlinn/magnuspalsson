@@ -4018,5 +4018,26 @@
     "contact": "Contact",
     "fuhmp_credit": "Created and maintained by The Society for the Works of Magnús Pálsson (FUHMP)"
   },
-  "about": "About"
+  "about": {
+    "title": "About",
+    "website_title": "About This Website",
+    "website_description": "This website is created and maintained by The Society for the Works of Magnús Pálsson (FUHMP), a non-profit organization dedicated to researching, documenting, and preserving the unique and comprehensive body of work of artist Magnús Pálsson.",
+    "fuhmp_title": "About The Society for the Works of Magnús Pálsson (FUHMP)",
+    "fuhmp_description": "The Society for the Works of Magnús Pálsson (FUHMP - Félag um höfundarverk Magnúsar Pálssonar) was founded by family and friends of artist Magnús Pálsson to make it possible to research and document the unique and comprehensive body of work of Magnús. Magnús is one of the pioneers of contemporary art in Iceland and has worked in most fields of creative media for more than 70 years. The organization does not engage in commercial activities and is not intended to generate profit.",
+    "registration": "Registration",
+    "address": "Address",
+    "contact": "Contact",
+    "support_title": "Support Our Work",
+    "support_description": "FUHMP is a non-profit organization. Your support helps us preserve and share Magnús Pálsson's artistic legacy.",
+    "bank_account": "Bank Account",
+    "iban": "IBAN",
+    "swift": "SWIFT",
+    "board_title": "Board",
+    "board_chair": "Chair",
+    "board_member": "Board Member",
+    "book_title": "Book Publication",
+    "book_description": "FUHMP is currently preparing a comprehensive book about Magnús Pálsson's work for publication. More information about how to purchase the book will be available soon.",
+    "credits_title": "Website Credits",
+    "credits_description": "This website was developed with assistance from Claude Code."
+  }
 }

@@ -160,9 +160,9 @@ document.addEventListener("DOMContentLoaded", () => {
     const toggleDesktop = document.getElementById('language-toggle-desktop');
 
     if (typeof i18n !== 'undefined') {
-      // Wait for i18n to be initialized
+      // Initialize i18n if not already initialized
       if (!i18n.isReady()) {
-        await i18n.waitForReady();
+        await i18n.init();
       }
 
       // Function to update button text to show opposite language

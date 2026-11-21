@@ -4029,5 +4029,26 @@
     "contact": "Hafa samband",
     "fuhmp_credit": "Unnið og í umsjón FUHMP (Félags um höfundarverk Magnúsar Pálssonar)"
   },
-  "about": "Um"
+  "about": {
+    "title": "Um",
+    "website_title": "Um vefsíðuna",
+    "website_description": "Þessi vefsíða er unnin og í umsjón FUHMP (Félag um höfundarverk Magnúsar Pálssonar), félagasamtaka sem eru ekki rekin í hagnaðarskyni og eru tileinkuð rannsóknum, skráningu og varðveislu hins einstaka og yfirgripsmikla höfundarverks myndlistarmannsins Magnúsar Pálssonar.",
+    "fuhmp_title": "Um FUHMP",
+    "fuhmp_description": "Félagið um höfundarverk Magnúsar Pálssonar er stofnað af fjölskyldu og vinum myndlistarmannsins Magnúsar Pálssonar, til að gera kleift að rannsaka og skrá hið einstaka og yfirgripsmikla höfundarverk Magnúsar. Magnús er einn af frumkvöðlum nútímamyndlistar á Íslandi og hefur starfað á flestum sviðum skapandi miðla í meira en 70 ár. Félagið stundar ekki atvinnurekstur og er ekki ætlað að skila hagnaði.",
+    "registration": "Skráningarnúmer",
+    "address": "Heimilisfang",
+    "contact": "Netfang",
+    "support_title": "Stuðningur við starf okkar",
+    "support_description": "FUHMP er félagasamtök sem ekki eru rekin í hagnaðarskyni. Stuðningur þinn hjálpar okkur að varðveita og deila liststarfi Magnúsar Pálssonar.",
+    "bank_account": "Reikningsnúmer",
+    "iban": "IBAN númer",
+    "swift": "SWIFT",
+    "board_title": "Stjórn",
+    "board_chair": "Stjórnarformaður",
+    "board_member": "Meðstjórnandi",
+    "book_title": "Bókaútgáfa",
+    "book_description": "FUHMP er að undirbúa yfirgripsmikla bók um verk Magnúsar Pálssonar til útgáfu. Nánari upplýsingar um hvernig hægt er að kaupa bókina verða aðgengilegar innan tíðar.",
+    "credits_title": "Um gerð vefsíðunnar",
+    "credits_description": "Þessi vefsíða var þróuð með aðstoð Claude Code."
+  }
 }

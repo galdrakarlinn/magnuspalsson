@@ -69,7 +69,24 @@ class I18n {
 
   // Get UI translation
   t(key) {
-    return this.translations.ui?.[key] || key;
+    // First check if it exists in ui (this handles keys like "home.quote")
+    if (this.translations.ui?.[key]) {
+      return this.translations.ui[key];
+    }
+
+    // Handle nested keys like "footer.about" by traversing the object
+    if (key.includes('.')) {
+      const parts = key.split('.');
+      let value = this.translations;
+      for (const part of parts) {
+        value = value?.[part];
+        if (value === undefined) return key;
+      }
+      return value || key;
+    }
+
+    // Single-level key at root level
+    return this.translations[key] || key;
   }
 
   // Get current language
