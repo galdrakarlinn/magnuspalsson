@@ -2494,7 +2494,8 @@
         "language"
       ],
       "exhibitions": [
-        "something-from-nothing-the-visual-realm-of-magnús-2019"
+        "something-from-nothing-the-visual-realm-of-magnús-2019",
+        "manuscripts-and-sculptures-2012"
       ],
       "materials": {
         "en": [
@@ -3107,7 +3108,8 @@
       ],
       "exhibitions": [
         "retrospective-exhibition-1994",
-        "something-from-nothing-the-visual-realm-of-magnús-2019"
+        "something-from-nothing-the-visual-realm-of-magnús-2019",
+        "manuscripts-and-sculptures-2012"
       ],
       "ownership": {
         "owner": "The National Gallery of Iceland and the artist",
@@ -5484,7 +5486,8 @@
         "nature"
       ],
       "exhibitions": [
-        "something-from-nothing-the-visual-realm-of-magnús-2019"
+        "something-from-nothing-the-visual-realm-of-magnús-2019",
+        "manuscripts-and-sculptures-2012"
       ],
       "materials": {
         "en": [
@@ -5559,7 +5562,9 @@
       "tags": [
         "positive/negative space"
       ],
-      "exhibitions": [],
+      "exhibitions": [
+        "manuscripts-and-sculptures-2012"
+      ],
       "materials": {
         "en": [
           "plaster",
@@ -5607,7 +5612,9 @@
       "tags": [
         "positive/negative space"
       ],
-      "exhibitions": [],
+      "exhibitions": [
+        "manuscripts-and-sculptures-2012"
+      ],
       "materials": {
         "en": [
           "plaster",
@@ -5664,7 +5671,9 @@
         "positive/negative space",
         "animals"
       ],
-      "exhibitions": [],
+      "exhibitions": [
+        "manuscripts-and-sculptures-2012"
+      ],
       "materials": {
         "en": [
           "plaster",
@@ -5721,7 +5730,9 @@
       "tags": [
         "positive/negative space"
       ],
-      "exhibitions": [],
+      "exhibitions": [
+        "manuscripts-and-sculptures-2012"
+      ],
       "materials": {
         "en": [
           "plaster",
@@ -5778,7 +5789,9 @@
       "tags": [
         "positive/negative space"
       ],
-      "exhibitions": [],
+      "exhibitions": [
+        "manuscripts-and-sculptures-2012"
+      ],
       "materials": {
         "en": [
           "plaster",
@@ -5834,7 +5847,9 @@
       "tags": [
         "positive/negative space"
       ],
-      "exhibitions": [],
+      "exhibitions": [
+        "manuscripts-and-sculptures-2012"
+      ],
       "materials": {
         "en": [
           "plaster",
@@ -6612,7 +6627,8 @@
         "humor"
       ],
       "exhibitions": [
-        "something-from-nothing-the-visual-realm-of-magnús-2019"
+        "something-from-nothing-the-visual-realm-of-magnús-2019",
+        "manuscripts-and-sculptures-2012"
       ],
       "materials": {
         "en": [
@@ -7548,7 +7564,8 @@
           "location": "Venice",
           "year": 1980
         },
-        "something-from-nothing-the-visual-realm-of-magnús-2019"
+        "something-from-nothing-the-visual-realm-of-magnús-2019",
+        "manuscripts-and-sculptures-2012"
       ],
       "searchText": "þyrlulending helicopter landing sikorsky coast guard anticipation mechanical intervention plaster venice biennale 1980 iceland representation time sculpture",
       "materials": {
@@ -8749,7 +8766,8 @@
         "language"
       ],
       "exhibitions": [
-        "something-from-nothing-the-visual-realm-of-magnús-2019"
+        "something-from-nothing-the-visual-realm-of-magnús-2019",
+        "manuscripts-and-sculptures-2012"
       ],
       "materials": {
         "en": [
@@ -12000,31 +12018,8 @@
       ],
       "exhibitions": [
         "retrospective-exhibition-1994",
-        {
-          "title": {
-            "en": "Something from nothing (Eitthvað úr engu) - Retrospective",
-            "is": "Something from nothing (Eitthvað úr engu) - Retrospective"
-          },
-          "venue": {
-            "en": "Listasafn Reykjavíkur (Reykjavik Art Museum)",
-            "is": "Listasafn Reykjavíkur (Reykjavik Art Museum)"
-          },
-          "location": "Reykjavík",
-          "year": 2019
-        },
-        {
-          "title": {
-            "en": "Exhibition in Lund",
-            "is": "Exhibition in Lund"
-          },
-          "venue": {
-            "en": "Lund (venue to be confirmed)",
-            "is": "Lund (venue to be confirmed)"
-          },
-          "location": "Lund",
-          "year": 2012
-        },
-        "something-from-nothing-the-visual-realm-of-magnús-2019"
+        "something-from-nothing-the-visual-realm-of-magnús-2019",
+        "manuscripts-and-sculptures-2012"
       ],
       "materials": {
         "en": [
@@ -12706,7 +12701,7 @@
         "positive/negative space"
       ],
       "exhibitions": [
-        "exhibition-1971",
+        "manuscripts-and-sculptures-2012",
         "exhibition-1971"
       ],
       "materials": {
@@ -13407,7 +13402,8 @@
           "location": "Reykjavik",
           "year": 1975
         },
-        "something-from-nothing-the-visual-realm-of-magnús-2019"
+        "something-from-nothing-the-visual-realm-of-magnús-2019",
+        "manuscripts-and-sculptures-2012"
       ],
       "materials": {
         "en": [
@@ -17273,7 +17269,6 @@
         "straw"
       ],
       "exhibitions": [
-        "manuscripts-and-sculptures-2012",
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
