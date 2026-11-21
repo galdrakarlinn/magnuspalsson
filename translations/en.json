@@ -4012,5 +4012,11 @@
     "home.quote2": "\"Yes, space as the negative of people and things. Yes, that was it. Or vice versa. I thought it had something to say about positive and negative truth. Which means that if one proposition is true, then the opposite proposition is equally true, isn't it? I was putting it in this form, transposing it into material and picture, maybe not to prove any philosophical theories, but I thought it illustrated the thought. (...) Yes, because no thing exists without its opposite also existing.\"",
     "home.quote2source": "(From an interview in Black on White, 1978)",
     "home.quote3": "Sound sculpture is an umbrella term. Voice sculpture is a type of sound sculpture where voices are the medium. A sound sculpture can also use instruments, or simply the sound of a cement mixer or an airplane. A sound clearing is also a sound sculpture, but then you are actually inside the sound — the sound comes from loudspeakers that surround you."
-  }
+  },
+  "footer": {
+    "about": "About",
+    "contact": "Contact",
+    "fuhmp_credit": "Created and maintained by FUHMP (Félag um höfundarverk Magnúsar Pálssonar)"
+  },
+  "about": "About"
 }
