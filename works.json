@@ -13171,571 +13171,145 @@
       ]
     },
     {
-      "id": "hundar_dogs_1970",
-      "title": {
-        "en": "Dog poem",
-        "is": "Hundljóð"
-      },
-      "year": 1971,
-      "dimensions": "10-50 x 31 x 21 cm",
-      "description": {
-        "en": "This extensive work includes multiple dog sculptures with straw elements, documented through photographs. In the artist's own words: 'There are 16 dogs, usually shown in one line on a long table. In the book both front and hind views are given of each dog. I consider this to be a kinetic poem where each part gets its full meaning only in relationship to the whole, and in fact the smallest and most miserable objects have no meaning whatsoever except in this context, which at the time presented me with a nice problem of something as opposed to nothing.'",
-        "is": ""
-      },
-      "images": [
-        {
-          "url": "images/hundar-dogs-1970/medium/365 Magnús Pálsson 2.jpg",
-          "caption": {
-            "en": "Magnús Pálsson documentation with dog sculptures",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1970"
-        },
-        {
-          "url": "images/hundar-dogs-1970/medium/hundljod-1970-medium.jpg",
-          "caption": {
-            "en": "Hundljóð (Dog Poems) 1970 documentation",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1970"
-        },
-        {
-          "url": "images/hundar-dogs-1970/medium/Dogs strip with straw-medium.jpg",
-          "caption": {
-            "en": "Dog sculptures with straw elements",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1970"
-        },
-        {
-          "url": "images/hundar-dogs-1970/medium/Hundur straw old B_W-medium.jpg",
-          "caption": {
-            "en": "Dog sculpture with straw, black and white documentation",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1970"
-        },
-        {
-          "url": "images/hundar-dogs-1970/medium/Hundur Text about series MP 1969-70-medium.jpg",
-          "caption": {
-            "en": "Text about the dog series by Magnús Pálsson 1969-70",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1970"
-        },
-        {
-          "url": "images/hundar-dogs-1970/medium/Hundur agreement MP and LÍ 1988-medium.jpg",
-          "caption": {
-            "en": "Agreement between Magnús Pálsson and LÍ regarding the dog series 1988",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1970"
-        },
-        {
-          "url": "images/hundar-dogs-1970/medium/7238-medium.jpg",
-          "caption": {
-            "en": "Dog sculpture documentation 7238",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1970"
-        },
-        {
-          "url": "images/hundar-dogs-1970/medium/7239a-medium.jpg",
-          "caption": {
-            "en": "Dog sculpture series documentation 7239a",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1970"
-        },
-        {
-          "url": "images/hundar-dogs-1970/medium/Mvc-001s-medium.jpg",
-          "caption": {
-            "en": "Dog sculpture documentation Mvc-001s",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1970"
-        },
-        {
-          "url": "images/hundar-dogs-1970/medium/Mvc-008l-medium.jpg",
-          "caption": {
-            "en": "Dog sculpture documentation Mvc-008l",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1970"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-01-medium.jpg",
-          "caption": {
-            "en": "Both dog sculptures — Dog 1 (left) relatively intact, Dog 2 (right) lower portion with paper",
-            "is": "Báðir hundarnir — Hundur 1 (vinstri) tiltölulega heill, Hundur 2 (hægri) neðri hluti með pappír"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-01-thumb.jpg"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-02-medium.jpg",
-          "caption": {
-            "en": "Dog 2 — lower portion with aged brown paper emerging from plaster",
-            "is": "Hundur 2 — neðri hluti með gömlum brúnum pappír úr gifsi"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-02-thumb.jpg"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-03-medium.jpg",
-          "caption": {
-            "en": "Full Hundaljóð installation — all 16 dogs on long table, retrospective 2020",
-            "is": "Hundaljóð uppsetning — allir 16 hundarnir á löngum borði, yfirlitssýning 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-03-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-04-medium.jpg",
-          "caption": {
-            "en": "Individual dog sculpture, detail",
-            "is": "Einstakur hundur, nánar"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-04-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-05-medium.jpg",
-          "caption": {
-            "en": "Individual dog sculpture, detail",
-            "is": "Einstakur hundur, nánar"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-05-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-06-medium.jpg",
-          "caption": {
-            "en": "Individual dog sculpture, detail",
-            "is": "Einstakur hundur, nánar"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-06-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-07-medium.jpg",
-          "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-1970-spessi-07-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-08-medium.jpg",
-          "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-1970-spessi-08-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-09-medium.jpg",
-          "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-1970-spessi-09-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-10-medium.jpg",
-          "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-1970-spessi-10-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-11-medium.jpg",
-          "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-1970-spessi-11-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-12-medium.jpg",
-          "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-1970-spessi-12-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-13-medium.jpg",
-          "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-1970-spessi-13-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-14-medium.jpg",
-          "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-1970-spessi-14-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-15-medium.jpg",
-          "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-1970-spessi-15-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-16-medium.jpg",
-          "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-1970-spessi-16-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-17-medium.jpg",
-          "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-1970-spessi-17-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-18-medium.jpg",
-          "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-1970-spessi-18-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-19-medium.jpg",
-          "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-1970-spessi-19-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-20-medium.jpg",
-          "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-1970-spessi-20-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-21-medium.jpg",
-          "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-1970-spessi-21-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-22-medium.jpg",
-          "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-1970-spessi-22-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-23-medium.jpg",
-          "caption": {
-            "en": "Retrospective exhibition, 2020",
-            "is": "Yfirlitssýning, 2020"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-1970-spessi-23-thumb.jpg",
-          "photographer": "Spessi",
-          "year": "2020"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-lr-24-medium.jpg",
-          "caption": {
-            "en": "Hundaljóð at retrospective, Listasafn Reykjavíkur 2019",
-            "is": "Hundaljóð á yfirlitssýningu, Listasafn Reykjavíkur 2019"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-lr-24-thumb.jpg",
-          "year": "2019",
-          "photographer": "Pétur Thomsen"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-lr-25-medium.jpg",
-          "caption": {
-            "en": "Hundaljóð at retrospective, Listasafn Reykjavíkur 2019",
-            "is": "Hundaljóð á yfirlitssýningu, Listasafn Reykjavíkur 2019"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-lr-25-thumb.jpg",
-          "year": "2019",
-          "photographer": "Pétur Thomsen"
-        },
-        {
-          "url": "images/hundaljod-1970/medium/hundaljod-lr-26-medium.jpg",
-          "caption": {
-            "en": "Hundaljóð, detail, at retrospective, Listasafn Reykjavíkur 2019",
-            "is": "Hundaljóð, nánar, á yfirlitssýningu, Listasafn Reykjavíkur 2019"
-          },
-          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-lr-26-thumb.jpg",
-          "year": "2019",
-          "photographer": "Pétur Thomsen"
-        }
-      ],
-      "tags": [
-        "animals",
-        "collaboration"
-      ],
-      "exhibitions": [
-        {
-          "title": {
-            "en": "Hundljóð Series",
-            "is": "Hundljóð Series"
-          },
-          "venue": {
-            "en": "Various exhibitions",
-            "is": "Various exhibitions"
-          },
-          "location": "Reykjavik",
-          "year": 1970
-        },
-        "something-from-nothing-the-visual-realm-of-magnús-2019"
-      ],
-      "materials": {
-        "en": [
-          "plaster",
-          "straw"
-        ],
-        "is": [
-          "gifs",
-          "strá"
-        ]
-      },
-      "searchText": "hundar hundljóð dogs in 16 pieces animals sculpture straw porcelain gypsum 1971 magnús pálsson listasafn íslands",
-      "ownership": {
-        "owner": "The National Museum of Iceland",
-        "owner_is": "Listasafn Íslands",
-        "owner_en": "The National Museum of Iceland",
-        "url": "https://sarpur.is/is/collection/item/1626911/",
-        "catalogNumber": "LÍ-7239"
-      },
-      "series": "hundar",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft",
-      "medium": {
-        "en": [
-          "sculpture"
-        ],
-        "is": [
-          "skúlptúr"
-        ]
-      },
-      "category": [
-        "sculpture"
-      ]
-    },
-    {
-      "id": "hundur_dog_1971",
-      "title": {
-        "en": "Dog  with plastic",
-        "is": "Hundur með plasti"
-      },
-      "year": 1971,
-      "dimensions": "42 x 31 x 21 cm",
-      "description": {
-        "en": "A sculpture of a dog from 1971, related to but separate from the Hundljóð series.",
-        "is": ""
-      },
-      "images": [
-        {
-          "url": "images/Hundur/medium/hundur-01-medium.jpg",
-          "caption": {
-            "en": "Hundur (Dog) - sculpture",
-            "is": "Hundur - skúlptúr"
-          },
-          "thumbnail": "images/Hundur/thumbs/hundur-01-thumb.jpg"
-        }
-      ],
-      "tags": [
-        "animals"
-      ],
-      "exhibitions": [],
-      "materials": {
-        "en": [
-          "plaster",
-          "plastic"
-        ],
-        "is": [
-          "gifs",
-          "plast"
-        ]
-      },
-      "searchText": "hundur dog sculpture plaster plastic gifs plast 1971 magnús pálsson safnasafnið",
-      "ownership": {
-        "owner": "Icelandic Folk and Outsider Art Museum",
-        "owner_is": "Safnasafnið",
-        "owner_en": "Icelandic Folk and Outsider Art Museum",
-        "url": "https://sarpur.is/is/collection/item/1815434/",
-        "catalogNumber": "S-180"
-      },
-      "series": "hundar",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft",
-      "medium": {
-        "en": [
-          "sculpture"
-        ],
-        "is": [
-          "skúlptúr"
-        ]
-      },
-      "category": [
-        "sculpture"
-      ]
-    },
-    {
-      "id": "hundur_pappir_1971",
-      "title": {
-        "en": "Dogs with paper",
-        "is": "Hundur með pappír"
-      },
-      "year": 1971,
-      "dimensions": "42 x 31 x 21 cm",
-      "description": {
-        "en": "",
-        "is": ""
-      },
-      "images": [],
-      "tags": [
-        "animals"
-      ],
-      "exhibitions": [],
-      "materials": {
-        "en": [
-          "plaster",
-          "paper"
-        ],
-        "is": [
-          "gifs",
-          "pappír"
-        ]
-      },
-      "searchText": "hundur með pappír dogs with paper plaster 1971 magnús pálsson nýlistasafnið",
-      "ownership": {
-        "owner": "The Living Art Museum",
-        "owner_is": "Nýlistasafnið",
-        "owner_en": "The Living Art Museum"
-      },
-      "series": "hundar",
-      "contentStatus": "draft",
-      "mediaStatus": "needs images",
-      "medium": {
-        "en": [
-          "sculpture"
-        ],
-        "is": [
-          "skúlptúr"
-        ]
-      },
-      "category": [
-        "sculpture"
-      ]
-    },
-    {
       "id": "hundur_adrir_1971",
       "title": {
         "en": "Dogs other",
         "is": "Hundur aðrir"
       },
-      "year": 1971,
+      "year": 1968,
       "dimensions": "42 x 31 x 21 cm",
       "description": {
-        "en": "",
-        "is": ""
+        "en": "A collection of individual dog sculptures created separately from the Hundljóð series. These dogs feature various materials including plaster, paper, plastic, cloth, and fabric elements like jacket and shirt. Dog with plastic is owned by Safnasafnið (Icelandic Folk and Outsider Art Museum), three dogs with cloth are owned by Pétur Arason, two dogs with paper are owned by Nýlistasafnið (Reykjavík Art Museum), while dog with jacket and dog with shirt are in the artist's collection. These works were exhibited at Lund Konsthall, Sweden in 2012.",
+        "is": "Safn einstakra hundamynda sem gerðar voru aðskildar frá Hundljóða verkröðinni. Þessir hundar nota ýmis efni þar á meðal gifs, pappír, plast, klút og fatnaðarefni eins og jakki og skyrta. Hundur með plasti er í eigu Safnasafns, þrír hundar með klút eru í eigu Péturs Arasonar, tveir hundar með pappír eru í eigu Nýlistasafns (Listasafn Reykjavíkur), en hundur með jakka og hundur með skyrtu eru í safni listamannsins. Þessi verk voru sýnd á Lund Konsthall, Svíþjóð árið 2012."
       },
       "images": [
         {
           "url": "images/hundur-adrir-1971/medium/dogs-other-jacket-medium.jpg",
           "caption": {
-            "en": "Dogs Other - Dog with Jacket",
-            "is": "Hundur aðrir - Hundur með jakka"
+            "en": "Dog with jacket",
+            "is": "Hundur með jakka"
           },
-          "thumbnail": "images/hundur-adrir-1971/thumbs/dogs-other-jacket-thumb.jpg"
+          "thumbnail": "images/hundur-adrir-1971/thumbs/dogs-other-jacket-thumb.jpg",
+          "photographer": "Unknown",
+          "year": "1968",
+          "owner": "Artist collection",
+          "collection": "Artist collection"
         },
         {
           "url": "images/hundur-adrir-1971/medium/dogs-other-shirt-medium.jpg",
           "caption": {
-            "en": "Dogs Other - Dog with Shirt",
-            "is": "Hundur aðrir - Hundur með skyrtu"
+            "en": "Dog with shirt",
+            "is": "Hundur með skyrtu"
           },
-          "thumbnail": "images/hundur-adrir-1971/thumbs/dogs-other-shirt-thumb.jpg"
+          "thumbnail": "images/hundur-adrir-1971/thumbs/dogs-other-shirt-thumb.jpg",
+          "photographer": "Unknown",
+          "year": "1968",
+          "owner": "Artist collection",
+          "collection": "Artist collection"
+        },
+        {
+          "url": "images/Hundur/medium/hundur-01-medium.jpg",
+          "caption": {
+            "en": "Dog with plastic (Safnasafnið collection)",
+            "is": "Hundur með plasti (safn Safnasafns)"
+          },
+          "thumbnail": "images/Hundur/thumbs/hundur-01-thumb.jpg",
+          "photographer": "Unknown",
+          "year": "1971",
+          "collection": "Safnasafnið (Icelandic Folk and Outsider Art Museum)",
+          "collectionUrl": "https://sarpur.is/is/collection/item/1815434/",
+          "catalogNumber": "S-180"
+        },
+        {
+          "url": "images/hundur-adrir-1971/medium/dog-p-arason-01-medium.jpg",
+          "caption": {
+            "en": "Dog with cloth (Pétur Arason collection)",
+            "is": "Hundur með klút (safn Péturs Arasonar)"
+          },
+          "thumbnail": "images/hundur-adrir-1971/thumbs/dog-p-arason-01-thumb.jpg",
+          "photographer": "Unknown",
+          "year": "1968",
+          "collection": "Pétur Arason",
+          "owner": "Pétur Arason"
+        },
+        {
+          "url": "images/hundur-adrir-1971/medium/dog-p-arason-02-medium.jpg",
+          "caption": {
+            "en": "Dog with cloth (Pétur Arason collection)",
+            "is": "Hundur með klút (safn Péturs Arasonar)"
+          },
+          "thumbnail": "images/hundur-adrir-1971/thumbs/dog-p-arason-02-thumb.jpg",
+          "photographer": "Unknown",
+          "year": "1968",
+          "collection": "Pétur Arason",
+          "owner": "Pétur Arason"
+        },
+        {
+          "url": "images/hundur-adrir-1971/medium/dog-p-arason-03-medium.jpg",
+          "caption": {
+            "en": "Dog with cloth (Pétur Arason collection)",
+            "is": "Hundur með klút (safn Péturs Arasonar)"
+          },
+          "thumbnail": "images/hundur-adrir-1971/thumbs/dog-p-arason-03-thumb.jpg",
+          "photographer": "Unknown",
+          "year": "1968",
+          "collection": "Pétur Arason",
+          "owner": "Pétur Arason"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-01-medium.jpg",
+          "caption": {
+            "en": "Dog with paper (Nýlistasafnið collection)",
+            "is": "Hundur með pappír (safn Nýlistasafns)"
+          },
+          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-01-thumb.jpg",
+          "photographer": "Unknown",
+          "year": "1970",
+          "collection": "Nýlistasafnið (Reykjavík Art Museum)",
+          "collectionUrl": "https://sarpur.is/is/collection/item/588380/"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-02-medium.jpg",
+          "caption": {
+            "en": "Dog with paper (Nýlistasafnið collection)",
+            "is": "Hundur með pappír (safn Nýlistasafns)"
+          },
+          "thumbnail": "images/hundaljod-1970/thumbs/hundaljod-02-thumb.jpg",
+          "photographer": "Unknown",
+          "year": "1970",
+          "collection": "Nýlistasafnið (Reykjavík Art Museum)",
+          "collectionUrl": "https://sarpur.is/is/collection/item/588380/"
         }
       ],
       "tags": [
         "animals"
       ],
-      "exhibitions": [],
+      "exhibitions": [
+        "manuscripts-and-sculptures-2012"
+      ],
       "materials": {
         "en": [
-          "plaster"
+          "plaster",
+          "paper",
+          "fabric",
+          "mixed media",
+          "plastic",
+          "cloth"
         ],
         "is": [
-          "gifs"
+          "gifs",
+          "pappír",
+          "fatnaður",
+          "blandaður miðill",
+          "plast",
+          "klútur"
         ]
       },
       "searchText": "hundur aðrir dogs other plaster various 1971 magnús pálsson",
       "ownership": {
-        "owner": "owned by the artist",
-        "owner_is": "í eigu höfundar",
-        "owner_en": "owned by the artist"
+        "owner": "Various collections: Artist (dogs with jacket and shirt), Safnasafnið (dog with plastic), Pétur Arason (3 dogs with cloth), Nýlistasafnið (2 dogs with paper)",
+        "owner_is": "Ýmis söfn: Listamaður (hundar með jakka og skyrtu), Safnasafnið (hundur með plasti), Pétur Arason (3 hundar með klút), Nýlistasafnið (2 hundar með pappír)",
+        "owner_en": "Various collections: Artist (dogs with jacket and shirt), Safnasafnið (dog with plastic), Pétur Arason (3 dogs with cloth), Nýlistasafnið (2 dogs with paper)"
       },
       "series": "hundar",
       "contentStatus": "draft",
@@ -17506,6 +17080,215 @@
           "hljóðband"
         ]
       }
+    },
+    {
+      "id": "hundljod_1970",
+      "title": {
+        "en": "Dog Poem",
+        "is": "Hundljóð"
+      },
+      "year": 1970,
+      "dimensions": "16 dogs, 10-50 x 31 x 21 cm each",
+      "description": {
+        "en": "A series of 16 dog sculptures that progress from plaster to straw, usually displayed in a single line on a long table. In the artist's words: 'There are 16 dogs, usually shown in one line on a long table. In the book both front and hind views are given of each dog. I consider this to be a kinetic poem where each part gets its full meaning only in relationship to the whole, and in fact the smallest and most miserable objects have no meaning whatsoever except in this context, which at the time presented me with a nice problem of something as opposed to nothing.'",
+        "is": "Verkröð 16 hundamynda sem þróast frá gifsi til hálms, venjulega sýndar í einni línu á löngum borði. Í orðum listamannsins: 'Það eru 16 hundar, venjulega sýndir í einni línu á löngum borði. Í bókinni eru bæði fram- og afturhlið hvers hunds. Ég tel þetta vera hreyfiljóð þar sem hver hluti fær fulla merkingu sína aðeins í tengslum við heildina, og í raun hafa minnstu og erfiðustu hlutir enga merkingu nema í þessu samhengi, sem á þeim tíma gaf mér fallegt vandamál um eitthvað á móti engu.'"
+      },
+      "images": [
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-lr-24-medium.jpg",
+          "caption": {
+            "en": "Hundljóð series overview",
+            "is": "Hundljóð verkröð yfirlit"
+          },
+          "photographer": "Unknown",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-lr-25-medium.jpg",
+          "caption": {
+            "en": "Hundljóð series overview",
+            "is": "Hundljóð verkröð yfirlit"
+          },
+          "photographer": "Unknown",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-lr-26-medium.jpg",
+          "caption": {
+            "en": "Hundljóð series overview",
+            "is": "Hundljóð verkröð yfirlit"
+          },
+          "photographer": "Unknown",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-07-medium.jpg",
+          "caption": {
+            "en": "Hundljóð dog 1/16 (mostly plaster)",
+            "is": "Hundljóð hundur 1/16 (aðallega gifs)"
+          },
+          "photographer": "Spessi (Sigurgeir Sigurjónsson)",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-08-medium.jpg",
+          "caption": {
+            "en": "Hundljóð dog 2/16",
+            "is": "Hundljóð hundur 2/16"
+          },
+          "photographer": "Spessi (Sigurgeir Sigurjónsson)",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-09-medium.jpg",
+          "caption": {
+            "en": "Hundljóð dog 3/16",
+            "is": "Hundljóð hundur 3/16"
+          },
+          "photographer": "Spessi (Sigurgeir Sigurjónsson)",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-10-medium.jpg",
+          "caption": {
+            "en": "Hundljóð dog 4/16",
+            "is": "Hundljóð hundur 4/16"
+          },
+          "photographer": "Spessi (Sigurgeir Sigurjónsson)",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-11-medium.jpg",
+          "caption": {
+            "en": "Hundljóð dog 5/16",
+            "is": "Hundljóð hundur 5/16"
+          },
+          "photographer": "Spessi (Sigurgeir Sigurjónsson)",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-12-medium.jpg",
+          "caption": {
+            "en": "Hundljóð dog 6/16",
+            "is": "Hundljóð hundur 6/16"
+          },
+          "photographer": "Spessi (Sigurgeir Sigurjónsson)",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-13-medium.jpg",
+          "caption": {
+            "en": "Hundljóð dog 7/16",
+            "is": "Hundljóð hundur 7/16"
+          },
+          "photographer": "Spessi (Sigurgeir Sigurjónsson)",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-14-medium.jpg",
+          "caption": {
+            "en": "Hundljóð dog 8/16",
+            "is": "Hundljóð hundur 8/16"
+          },
+          "photographer": "Spessi (Sigurgeir Sigurjónsson)",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-15-medium.jpg",
+          "caption": {
+            "en": "Hundljóð dog 9/16",
+            "is": "Hundljóð hundur 9/16"
+          },
+          "photographer": "Spessi (Sigurgeir Sigurjónsson)",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-16-medium.jpg",
+          "caption": {
+            "en": "Hundljóð dog 10/16",
+            "is": "Hundljóð hundur 10/16"
+          },
+          "photographer": "Spessi (Sigurgeir Sigurjónsson)",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-17-medium.jpg",
+          "caption": {
+            "en": "Hundljóð dog 11/16",
+            "is": "Hundljóð hundur 11/16"
+          },
+          "photographer": "Spessi (Sigurgeir Sigurjónsson)",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-18-medium.jpg",
+          "caption": {
+            "en": "Hundljóð dog 12/16",
+            "is": "Hundljóð hundur 12/16"
+          },
+          "photographer": "Spessi (Sigurgeir Sigurjónsson)",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-19-medium.jpg",
+          "caption": {
+            "en": "Hundljóð dog 13/16",
+            "is": "Hundljóð hundur 13/16"
+          },
+          "photographer": "Spessi (Sigurgeir Sigurjónsson)",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-20-medium.jpg",
+          "caption": {
+            "en": "Hundljóð dog 14/16",
+            "is": "Hundljóð hundur 14/16"
+          },
+          "photographer": "Spessi (Sigurgeir Sigurjónsson)",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-21-medium.jpg",
+          "caption": {
+            "en": "Hundljóð dog 15/16",
+            "is": "Hundljóð hundur 15/16"
+          },
+          "photographer": "Spessi (Sigurgeir Sigurjónsson)",
+          "year": "1970"
+        },
+        {
+          "url": "images/hundaljod-1970/medium/hundaljod-1970-spessi-22-medium.jpg",
+          "caption": {
+            "en": "Hundljóð dog 16/16 (mostly straw)",
+            "is": "Hundljóð hundur 16/16 (aðallega hálm)"
+          },
+          "photographer": "Spessi (Sigurgeir Sigurjónsson)",
+          "year": "1970"
+        }
+      ],
+      "tags": [
+        "animals",
+        "series",
+        "plaster",
+        "straw"
+      ],
+      "exhibitions": [
+        "manuscripts-and-sculptures-2012",
+        "something-from-nothing-the-visual-realm-of-magnús-2019"
+      ],
+      "materials": {
+        "en": [
+          "plaster",
+          "straw",
+          "mixed media"
+        ],
+        "is": [
+          "gifs",
+          "hálm",
+          "blandaður miðill"
+        ]
+      },
+      "category": "sculpture"
     }
   ],
   "exhibitions": [
