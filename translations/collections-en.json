@@ -163,6 +163,11 @@
           "title": "Rainbow Clippings",
           "type": "Art/Design work",
           "url": "https://sarpur.is/Leit.aspx?search=Rainbow+Clippings"
+        },
+        {
+          "title": "Dog with plastic",
+          "type": "",
+          "url": ""
         }
       ]
     },
@@ -487,6 +492,27 @@
           "type": "Wall installation, 1982",
           "url": "",
           "note": "Aluminium wall piece, later relocated"
+        }
+      ]
+    },
+    {
+      "name": "Pétur Arason",
+      "url": "",
+      "works": [
+        {
+          "title": "Dog with cloth (1)",
+          "type": "",
+          "url": ""
+        },
+        {
+          "title": "Dog with cloth (2)",
+          "type": "",
+          "url": ""
+        },
+        {
+          "title": "Dog with cloth (3)",
+          "type": "",
+          "url": ""
         }
       ]
     }
