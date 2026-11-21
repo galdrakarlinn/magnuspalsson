@@ -1120,6 +1120,24 @@
   ],
   "group": [
     {
+      "id": "volcanic-attitude-2026",
+      "year": "2026",
+      "title": {
+        "en": "Volcanic Attitude - Festival di cultura contemporanea",
+        "is": "Volcanic Attitude - Festival di cultura contemporanea"
+      },
+      "venue": {
+        "en": "Aeolian Islands (Stromboli, Ginostra)",
+        "is": "Eólíueyjar (Stromboli, Ginostra)"
+      },
+      "location": "Sicily, Italy",
+      "notes": {
+        "en": "September 25-29, 2026. Fifth edition of the contemporary culture festival traveling between Naples and the Aeolian Islands, featuring artists and researchers in explorations, conferences and performances exploring connections between art, science, and volcanic landscapes. Magnús Pálsson's participation curated by An Paenhuysen included: 'Völundarhús (Project for a Labyrinth, 1980)' - installation transposed from Iceland to Stromboli, originally inspired by Iceland's 1973 volcanic eruption proposing molds for a lava-redirecting labyrinth; 'Cross (1996/2013)' - partial reenactment and screening in Ginostra featuring non-vocal choir using sign language, Morse code, semaphore flags, rubbing stones, clicking sounds, nail clippers, nodding heads, bags, mittens and felt tipped pens; and a 'mini-mob-shop' collective mobile workshop on Stromboli beach (Spiaggia di Scari). Festival included crater ascents, thermal bathing experiences, maritime journeys, and collective dining with 16+ participating artists and researchers.",
+        "is": "25.-29. september 2026. Fimmta útgáfa nútímamenningarhátíðarinnar sem ferðast á milli Napólí og Eólíueyjanna, með listamönnum og vísindamönnum í könnunum, ráðstefnum og sýningum sem kanna tengsl milli listar, vísinda og eldfjallasviðs. Þátttaka Magnúsar Pálssonar í umsjón An Paenhuysen innihélt: 'Völundarhús (Verkefni fyrir völundarhús, 1980)' - innsetning færð frá Íslandi til Stromboli, upphaflega innblásin af eldgosi Íslands 1973 sem leggur til mót fyrir hraungönguleiðir; 'Kross (1996/2013)' - hluti endurgerð og sýning í Ginostra með raddalausum kór sem notar táknmál, morse-kóða, semafór fána, núning steina, smellihljóð, neglklippur, höfuðhnik, töskur, vettlinga og filtpennar; og 'mini-mob-shop' sameiginlegan hreyfanlegan vinnustofu á Stromboli strönd (Spiaggia di Scari). Hátíðin innihélt gígaruppgöngu, jarðhitabað, siglingaferðir og sameiginlega matseld með 16+ þátttakendum listamönnum og vísindamönnum."
+      },
+      "url": "https://www.volcanicattitude.org/en/protagonisti/magnus-palsson/"
+    },
+    {
       "id": "nr-4-umhverfing-no-4-around-2022",
       "year": "2022",
       "title": {

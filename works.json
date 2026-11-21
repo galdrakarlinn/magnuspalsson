@@ -1174,6 +1174,7 @@
         "1980"
       ],
       "exhibitions": [
+        "volcanic-attitude-2026",
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
@@ -3089,7 +3090,9 @@
         "artwork",
         "2013"
       ],
-      "exhibitions": [],
+      "exhibitions": [
+        "volcanic-attitude-2026"
+      ],
       "materials": {
         "en": [],
         "is": []
