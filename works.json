@@ -7827,6 +7827,7 @@
         "nature"
       ],
       "exhibitions": [
+        "a-skjon-fjardabyggd-2026",
         "30th-anniversary-of-the-sculptors-union-2002",
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
@@ -16022,6 +16023,7 @@
         "humor"
       ],
       "exhibitions": [
+        "a-skjon-fjardabyggd-2026",
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
@@ -17132,7 +17134,9 @@
       "tags": [
         "nature"
       ],
-      "exhibitions": [],
+      "exhibitions": [
+        "a-skjon-fjardabyggd-2026"
+      ],
       "materials": {
         "en": [
           "paper",
