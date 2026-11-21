@@ -311,23 +311,6 @@
       }
     },
     {
-      "id": "manuscripts-and-sculptures-2012",
-      "year": "2012",
-      "title": {
-        "en": "Manuscripts and sculptures",
-        "is": "Manuscripts and sculptures"
-      },
-      "venue": {
-        "en": "Lund Konsthall",
-        "is": "Lund Konsthall"
-      },
-      "location": "Lund, Sweden",
-      "notes": {
-        "en": "In “Spela med, stöpa om” (Play with, recast)",
-        "is": "Í „Spela med, stöpa om\" (Leikið með, steypt upp á nýtt), samsýning með Erni Alexander Ámundasyni, Ívari Brynjólfssyni og Haraldi Jónssyni."
-      }
-    },
-    {
       "id": "walking-on-water-2012",
       "year": "2012",
       "title": {
@@ -2349,6 +2332,23 @@
         "is": "Bergen"
       },
       "location": "Norway (theatre work)"
+    },
+    {
+      "id": "manuscripts-and-sculptures-2012",
+      "year": "2012",
+      "title": {
+        "en": "Manuscripts and sculptures",
+        "is": "Manuscripts and sculptures"
+      },
+      "venue": {
+        "en": "Lund Konsthall",
+        "is": "Lund Konsthall"
+      },
+      "location": "Lund, Sweden",
+      "notes": {
+        "en": "In “Spela med, stöpa om” (Play with, recast)",
+        "is": "Í „Spela med, stöpa om\" (Leikið með, steypt upp á nýtt), samsýning með Erni Alexander Ámundasyni, Ívari Brynjólfssyni og Haraldi Jónssyni."
+      }
     }
   ]
 }
