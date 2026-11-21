@@ -6,6 +6,10 @@ document.addEventListener("DOMContentLoaded", () => {
       })
       .then(data => {
         document.getElementById("footer-placeholder").innerHTML = data;
+        // Trigger i18n translation for the footer after it's loaded
+        if (window.applyTranslations) {
+          window.applyTranslations();
+        }
       })
       .catch(error => console.error("Error loading footer:", error));
   });
