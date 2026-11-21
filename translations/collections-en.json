@@ -515,6 +515,18 @@
           "url": ""
         }
       ]
+    },
+    {
+      "name": "Staatliche Museen zu Berlin (State Museums of Berlin)",
+      "url": "https://search.smb.museum/en/object/obj-1062197?q=Papierliebe+4&has_images=true",
+      "works": [
+        {
+          "title": "Pappírsást (Papierliebe 4)",
+          "type": "Artist's book, 1979",
+          "url": "https://search.smb.museum/en/object/obj-1062197?q=Papierliebe+4&has_images=true",
+          "note": "Paper Love 4"
+        }
+      ]
     }
   ]
 }
