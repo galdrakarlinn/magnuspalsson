@@ -104,7 +104,7 @@
     },
     {
       "year": "2013",
-      "title": "Hljómur lúðurs í skókassa: Magnús Pálsson - Yfirlit gjörninga 1980-2013",
+      "title": "Lúðurhljómur í skókassa: Magnús Pálsson - Yfirlit gjörninga 1980-2013",
       "venue": "Listasafn Reykjavíkur – Hafnarhús",
       "location": "Reykjavík, Ísland",
       "notes": "Einkasýning með yfirliti yfir 33 ára gjörningalist Pálssonar"
@@ -858,15 +858,27 @@
     },
     {
       "year": "1985",
-      "title": "The Moraga Legend",
-      "venue": "Henie-Onstad Kunstsenter",
-      "location": "Norway"
+      "title": "Borealis II: Position North",
+      "venue": "Henie Onstad Kunstsenter",
+      "location": "Høvikodden, Noregur"
     },
     {
       "year": "1984",
       "title": "Iceland: The Art Revealed",
       "venue": "Franklin Furnace",
       "location": "New York, USA"
+    },
+    {
+      "year": "1984",
+      "title": "Tio isländska konstnärer (Tíu íslenskir listamenn)",
+      "venue": "Malmö Konsthall",
+      "location": "Malmö, Svíþjóð"
+    },
+    {
+      "year": "1984",
+      "title": "Treffen im Gebirge – Isländische Besucher in Basel I und II (Fundur í fjöllunum – Íslenskir gestir í Basel)",
+      "venue": "Galerie Filiale",
+      "location": "Basel, Sviss"
     },
     {
       "year": "1982",
@@ -901,9 +913,9 @@
     },
     {
       "year": "1978–79",
-      "title": "11 Modern Icelandic Artists",
+      "title": "11 nútíma íslenskir listamenn",
       "venue": "Malmö Konsthall",
-      "location": "Sweden"
+      "location": "Malmö, Svíþjóð"
     },
     {
       "year": "1977",

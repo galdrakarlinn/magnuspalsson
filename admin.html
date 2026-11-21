@@ -91,6 +91,33 @@
       </div>
     </div>
 
+    <!-- Workflow Status -->
+    <section class="metadata-section">
+      <h2>🚦 Workflow Status</h2>
+      <div class="stats">
+        <div class="stat-card">
+          <h4>Content Status</h4>
+          <p><strong id="content-needs-review">0</strong> needs review</p>
+          <p><strong id="content-draft">0</strong> draft</p>
+        </div>
+        <div class="stat-card">
+          <h4>Media Status</h4>
+          <p><strong id="media-done">0</strong> done</p>
+          <p><strong id="media-review">0</strong> review</p>
+          <p><strong id="media-draft">0</strong> draft</p>
+        </div>
+      </div>
+      <details>
+        <summary>View Works Needing Attention</summary>
+        <div style="margin-top: 1rem;">
+          <h4>Content Ready for Review:</h4>
+          <div id="content-review-list" style="margin: 1rem 0; font-size: 0.9rem;"></div>
+          <h4>Images Ready for Review:</h4>
+          <div id="media-review-list" style="margin: 1rem 0; font-size: 0.9rem;"></div>
+        </div>
+      </details>
+    </section>
+
     <!-- Assistant Workflow Documents -->
     <section class="metadata-section">
       <h2>📋 Assistant Workflow Documents</h2>
@@ -174,14 +201,69 @@
         
         // Display statistics
         document.getElementById('total-works').textContent = worksData.works.length;
-        
+
         let totalImages = 0;
         let years = [];
+        let contentNeedsReview = [];
+        let contentDraft = 0;
+        let mediaDone = 0;
+        let mediaReview = [];
+        let mediaDraft = 0;
+
         worksData.works.forEach(work => {
           totalImages += work.images.length;
           years.push(work.year);
+
+          // Count content status
+          if (work.contentStatus === 'needs review') {
+            contentNeedsReview.push(work);
+          } else if (work.contentStatus === 'draft') {
+            contentDraft++;
+          }
+
+          // Count media status
+          if (work.mediaStatus === 'images done') {
+            mediaDone++;
+          } else if (work.mediaStatus === 'images review') {
+            mediaReview.push(work);
+          } else if (work.mediaStatus === 'images draft') {
+            mediaDraft++;
+          }
         });
+
         document.getElementById('total-images').textContent = totalImages;
+
+        // Display workflow status
+        document.getElementById('content-needs-review').textContent = contentNeedsReview.length;
+        document.getElementById('content-draft').textContent = contentDraft;
+        document.getElementById('media-done').textContent = mediaDone;
+        document.getElementById('media-review').textContent = mediaReview.length;
+        document.getElementById('media-draft').textContent = mediaDraft;
+
+        // Display works needing review
+        const contentReviewList = document.getElementById('content-review-list');
+        if (contentNeedsReview.length === 0) {
+          contentReviewList.innerHTML = '<p style="color: #999;">No works pending content review</p>';
+        } else {
+          contentReviewList.innerHTML = contentNeedsReview.map(work => {
+            const titleText = typeof work.title === 'object' ? work.title.en : work.title;
+            return `<div style="padding: 0.5rem; border-left: 3px solid #4CAF50; margin: 0.5rem 0; background: #f9f9f9;">
+              <strong>${titleText}</strong> (${work.year}) - <span style="color: #666;">media: ${work.mediaStatus}</span>
+            </div>`;
+          }).join('');
+        }
+
+        const mediaReviewList = document.getElementById('media-review-list');
+        if (mediaReview.length === 0) {
+          mediaReviewList.innerHTML = '<p style="color: #999;">No works pending media review</p>';
+        } else {
+          mediaReviewList.innerHTML = mediaReview.map(work => {
+            const titleText = typeof work.title === 'object' ? work.title.en : work.title;
+            return `<div style="padding: 0.5rem; border-left: 3px solid #2196F3; margin: 0.5rem 0; background: #f9f9f9;">
+              <strong>${titleText}</strong> (${work.year}) - <span style="color: #666;">content: ${work.contentStatus}</span>
+            </div>`;
+          }).join('');
+        }
         
         const minYear = Math.min(...years);
         const maxYear = Math.max(...years);
@@ -201,10 +283,19 @@
         
         // Display works list
         const worksList = document.getElementById('works-list');
-        worksList.innerHTML = worksData.works.map(work => `
+        worksList.innerHTML = worksData.works.map(work => {
+          const titleText = typeof work.title === 'object' ? work.title.en : work.title;
+          const contentStatusColor = work.contentStatus === 'needs review' ? '#4CAF50' : '#999';
+          const mediaStatusColor = work.mediaStatus === 'images done' ? '#4CAF50' :
+                                   work.mediaStatus === 'images review' ? '#2196F3' : '#999';
+          return `
           <div class="work-entry">
-            <h4>${work.title} (${work.year})</h4>
+            <h4>${titleText} (${work.year})</h4>
             <p><strong>ID:</strong> ${work.id}</p>
+            <p>
+              <strong>Content:</strong> <span style="color: ${contentStatusColor}; font-weight: bold;">${work.contentStatus || 'unknown'}</span> |
+              <strong>Media:</strong> <span style="color: ${mediaStatusColor}; font-weight: bold;">${work.mediaStatus || 'unknown'}</span>
+            </p>
             <p><strong>Images:</strong> ${work.images.length} files</p>
             <div class="work-images">
               ${work.images.slice(0, 3).map(img => 
@@ -222,7 +313,8 @@
               <pre>${JSON.stringify(work, null, 2)}</pre>
             </details>
           </div>
-        `).join('');
+        `;
+        }).join('');
         
         // Load search index
         const searchResponse = await fetch('search-index.json');

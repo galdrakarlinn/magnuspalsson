@@ -3,11 +3,32 @@ class WorksManager {
     this.allWorks = [];
     this.filteredWorks = [];
     this.currentFilters = {
-      decades: [],
+      categories: [],
+      mediums: [],
       tags: [],
-      statuses: []
+      decades: []
     };
+    this.filterPanelOpen = false;
     this.tagCategories = null;
+    this.categories = ['sculpture', 'sound', 'painting', 'print', 'book', 'performance', 'video', 'installation', 'stage'];
+    this.tagTranslations = {
+      animals: 'dýr', camouflage: 'dulbúningur', childhood: 'æska', collaboration: 'samstarf',
+      death: 'dauði', dreams: 'draumar', fluxus: 'fluxus', folklore: 'þjóðsögur',
+      humor: 'húmor', identity: 'sjálfsmynd', language: 'tungumál', letters: 'bréf',
+      love: 'ást', mythology: 'goðafræði', nature: 'náttúra',
+      'positive/negative space': 'jákvætt/neikvætt rými', sagas: 'sögur', social: 'samfélag',
+      space: 'rými', teaching: 'kennsla', time: 'tími'
+    };
+    this.mediumTranslations = {
+      'book art': 'bóklist', 'ceramic': 'keramík', 'choral work': 'kórverk',
+      'collage': 'klippimynd', 'drawing': 'teikning', 'installation': 'innsetning',
+      'painting': 'málverk', 'performance': 'gjörningur', 'photography': 'ljósmyndun',
+      'play': 'leikrit', 'print': 'prentmynd', 'public art': 'almenningsverk',
+      'sculpture': 'skúlptúr', 'sound art': 'hljóðlist', 'sound clearing': 'hljóðrjóður',
+      'sound poetry': 'hljóðljóð', 'sound sculpture': 'hljóðskúlptúr',
+      'stage design': 'leikmyndahönnun', 'text art': 'textalist',
+      'video': 'vídeó', 'voice sculpture': 'raddskúlptúr', 'watercolor': 'vatnslitamynd'
+    };
     this.exhibitionsData = null; // Will hold all exhibitions from exhibitions.json
 
     this.init();
@@ -25,16 +46,14 @@ class WorksManager {
     await this.loadExhibitions();
     await this.loadWorks();
     this.setupEventListeners();
-    this.setupCategoryCollapse();
 
     // Set initial page title
     this.updatePageTitle();
 
+    this.injectNavFilterToggle();
+    this.renderFilterPanel();
+    this.setupFilterToggle();
     this.renderWorks();
-    this.renderTagFilters();
-    this.renderDecades();
-    this.renderStatusFilters();
-    this.setupClearButton(); // Setup clear button AFTER filters are rendered
     this.checkForDirectWorkLink();
   }
 
@@ -65,6 +84,22 @@ class WorksManager {
       h1.textContent = i18n.t('works');
     }
     document.title = `${i18n.t('works')} – Magnús Pálsson`;
+  }
+
+  updateWorksCount() {
+    const counter = document.getElementById('works-count');
+    if (!counter) return;
+    const totalWorks = this.allWorks.length;
+    const filteredCount = this.filteredWorks.length;
+    const lang = this.getCurrentLanguage();
+    const worksWord = lang === 'is' ? 'verk' : 'works';
+    const ofWord = lang === 'is' ? 'af' : 'of';
+    const worksTotal = lang === 'is' ? 'verkum' : 'works';
+    if (filteredCount === totalWorks) {
+      counter.textContent = `${totalWorks} ${worksWord}`;
+    } else {
+      counter.textContent = `${filteredCount} ${ofWord} ${totalWorks} ${worksTotal}`;
+    }
   }
 
   // Helper to get current language
@@ -135,13 +170,20 @@ class WorksManager {
         // Handle legacy string format
         return ex;
       }) : [],
-      ownership: work.ownership
+      ownership: work.ownership,
+      model3d: work.model3d ? {
+        ...work.model3d,
+        caption: this.getLocalizedValue(work.model3d.caption)
+      } : null
     };
   }
 
   // Refresh all content when language changes
   refreshAll() {
     this.updatePageTitle();
+    this.renderFilterPanel();
+    this.updateFilterToggleLabel();
+    this.updateWorksCount();
     this.updateWorkCardsLanguage(); // Fast update instead of full re-render
     // If modal is open, refresh it
     const modal = document.getElementById('work-modal');
@@ -259,109 +301,260 @@ class WorksManager {
 
     // Keyboard accessibility for modal
     window.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape' && modal.style.display === 'block') {
+      if (modal.style.display !== 'block') return;
+      if (e.key === 'Escape') {
         closeModal();
+      }
+      const modalContent = modal.querySelector('.modal-content');
+      if (modalContent && (e.key === 'ArrowDown' || e.key === 'ArrowUp')) {
+        e.preventDefault();
+        modalContent.scrollTop += (e.key === 'ArrowDown' ? 60 : -60);
       }
     });
   }
 
-  setupCategoryCollapse() {
-    // Load pinned states from localStorage
-    const pinnedCategories = JSON.parse(localStorage.getItem('pinnedCategories') || '[]');
-    
-    document.querySelectorAll('.filter-category').forEach(category => {
-      const categoryName = category.dataset.category;
-      const header = category.querySelector('.category-header');
-      const content = category.querySelector('.category-content');
-      const expandBtn = category.querySelector('.expand-btn');
-      const pinBtn = category.querySelector('.pin-btn');
-      
-      // Set initial pinned state
-      if (pinnedCategories.includes(categoryName)) {
-        category.classList.add('pinned');
-        content.classList.remove('collapsed');
-        expandBtn.textContent = '▲';
-        pinBtn.style.opacity = '1';
+  // Extract first valid year number from complex year strings
+  parseYearNumber(year) {
+    if (typeof year === 'number') return year;
+    if (!year) return null;
+    const str = String(year);
+    const match = str.match(/\d{4}/);
+    return match ? parseInt(match[0]) : null;
+  }
+
+  // Inject filter toggle links into navbar (desktop) and works-header (mobile)
+  injectNavFilterToggle() {
+    const labels = this.getFilterLabels();
+    const toggleHandler = (e) => {
+      e.preventDefault();
+      const panel = document.getElementById('filter-panel');
+      if (!panel) return;
+      this.filterPanelOpen = !this.filterPanelOpen;
+      panel.classList.toggle('open', this.filterPanelOpen);
+      panel.setAttribute('aria-hidden', !this.filterPanelOpen);
+      this.updateFilterToggleLabel();
+    };
+
+    // Desktop: inject into navbar next to search
+    const desktopSearch = document.querySelector('.desktop-search');
+    if (desktopSearch) {
+      const link = document.createElement('a');
+      link.href = '#';
+      link.className = 'nav-filter-toggle';
+      link.id = 'nav-filter-toggle';
+      link.textContent = `${labels.toggle} ▾`;
+      desktopSearch.parentNode.insertBefore(link, desktopSearch);
+      link.addEventListener('click', toggleHandler);
+    }
+
+    // Mobile: inject into works-header next to count
+    const worksHeader = document.querySelector('.works-header');
+    if (worksHeader) {
+      const mobileLink = document.createElement('a');
+      mobileLink.href = '#';
+      mobileLink.className = 'mobile-filter-toggle';
+      mobileLink.id = 'mobile-filter-toggle';
+      mobileLink.textContent = `${labels.toggle} ▾`;
+      worksHeader.appendChild(mobileLink);
+      mobileLink.addEventListener('click', toggleHandler);
+    }
+  }
+
+  getCategoryLabels() {
+    const lang = this.getCurrentLanguage();
+    const labels = {
+      en: {
+        sculpture: 'Sculpture', sound: 'Sound', painting: 'Painting', print: 'Print',
+        book: 'Book', performance: 'Performance', video: 'Video',
+        installation: 'Installation', stage: 'Stage'
+      },
+      is: {
+        sculpture: 'Skúlptúr', sound: 'Hljóð', painting: 'Málverk', print: 'Prent',
+        book: 'Bók', performance: 'Gjörningur', video: 'Vídeó',
+        installation: 'Innsetning', stage: 'Sviðslist'
       }
-      
-      // Header click to expand/collapse
-      header.addEventListener('click', (e) => {
-        // Don't trigger on pin button clicks
-        if (e.target === pinBtn) return;
+    };
+    return labels[lang] || labels.en;
+  }
 
-        const isCollapsed = content.classList.contains('collapsed');
-        const isPinned = category.classList.contains('pinned');
+  getFilterLabels() {
+    const lang = this.getCurrentLanguage();
+    return lang === 'is'
+      ? { toggle: 'Sía verk', category: 'Flokkur', medium: 'Miðill', themes: 'Þemu', decades: 'Áratugir', clear: 'Hreinsa' }
+      : { toggle: 'Filter works', category: 'Category', medium: 'Medium', themes: 'Themes', decades: 'Decades', clear: 'Clear' };
+  }
 
-        if (isCollapsed) {
-          // Expand
-          content.classList.remove('collapsed');
-          expandBtn.textContent = '▲';
-          expandBtn.setAttribute('aria-expanded', 'true');
+  setupFilterToggle() {
+    // Clear button
+    const clearBtn = document.getElementById('filter-clear');
+    if (clearBtn) {
+      clearBtn.addEventListener('click', (e) => {
+        e.preventDefault();
+        this.currentFilters = { categories: [], mediums: [], tags: [], decades: [] };
+        this.renderFilterPanel();
+        this.updateFilterToggleLabel();
+        this.filterWorks();
+      });
+    }
 
-          // If not pinned, auto-collapse other categories
-          if (!isPinned) {
-            document.querySelectorAll('.filter-category:not(.pinned)').forEach(otherCategory => {
-              if (otherCategory !== category) {
-                const otherContent = otherCategory.querySelector('.category-content');
-                const otherExpandBtn = otherCategory.querySelector('.expand-btn');
-                otherContent.classList.add('collapsed');
-                otherExpandBtn.textContent = '▼';
-                otherExpandBtn.setAttribute('aria-expanded', 'false');
-              }
-            });
-          }
-        } else {
-          // Collapse (only if not pinned)
-          if (!isPinned) {
-            content.classList.add('collapsed');
-            expandBtn.textContent = '▼';
-            expandBtn.setAttribute('aria-expanded', 'false');
-          }
+    // Close button (X)
+    const closeBtn = document.getElementById('filter-close-btn');
+    if (closeBtn) {
+      closeBtn.addEventListener('click', () => {
+        const panel = document.getElementById('filter-panel');
+        if (panel) {
+          this.filterPanelOpen = false;
+          panel.classList.remove('open');
+          panel.setAttribute('aria-hidden', 'true');
+          this.updateFilterToggleLabel();
         }
       });
-      
-      // Pin button functionality
-      pinBtn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        const isPinned = category.classList.contains('pinned');
-        
-        if (isPinned) {
-          // Unpin
-          category.classList.remove('pinned');
-          pinBtn.style.opacity = '0.3';
-          const updatedPinned = pinnedCategories.filter(name => name !== categoryName);
-          localStorage.setItem('pinnedCategories', JSON.stringify(updatedPinned));
+    }
+  }
+
+  updateFilterToggleLabel() {
+    const labels = this.getFilterLabels();
+    const activeCount = this.currentFilters.categories.length + this.currentFilters.mediums.length + this.currentFilters.tags.length + this.currentFilters.decades.length;
+    const arrow = this.filterPanelOpen ? '▴' : '▾';
+    const text = activeCount > 0 ? `${labels.toggle} (${activeCount}) ${arrow}` : `${labels.toggle} ${arrow}`;
+
+    // Update all toggles (desktop nav + mobile header)
+    const navToggle = document.getElementById('nav-filter-toggle');
+    if (navToggle) navToggle.textContent = text;
+    const mobileToggle = document.getElementById('mobile-filter-toggle');
+    if (mobileToggle) mobileToggle.textContent = text;
+  }
+
+  renderFilterPanel() {
+    const catLabels = this.getCategoryLabels();
+    const labels = this.getFilterLabels();
+    const lang = this.getCurrentLanguage();
+
+    // Categories
+    const catContainer = document.getElementById('filter-categories');
+    if (catContainer) {
+      catContainer.innerHTML = `
+        <span class="filter-label">${labels.category}</span>
+        <div class="filter-pills">
+          ${this.categories.map(cat => `
+            <button class="filter-pill${this.currentFilters.categories.includes(cat) ? ' active' : ''}"
+                    data-filter="category" data-value="${cat}">${catLabels[cat] || cat}</button>
+          `).join('')}
+        </div>
+      `;
+    }
+
+    // Medium — collect from actual works data (medium.en arrays)
+    const allMediums = [...new Set(this.allWorks.flatMap(w => {
+      if (!w.medium) return [];
+      const m = w.medium.en || w.medium;
+      return Array.isArray(m) ? m : [];
+    }))].sort();
+    const medContainer = document.getElementById('filter-mediums');
+    if (medContainer && allMediums.length > 0) {
+      medContainer.innerHTML = `
+        <span class="filter-label">${labels.medium}</span>
+        <div class="filter-pills">
+          ${allMediums.map(m => {
+            const display = lang === 'is' ? (this.mediumTranslations[m] || m) : m;
+            return `<button class="filter-pill${this.currentFilters.mediums.includes(m) ? ' active' : ''}"
+                    data-filter="medium" data-value="${m}">${display}</button>`;
+          }).join('')}
+        </div>
+      `;
+    }
+
+    // Tags — collect from actual works data, translate for Icelandic
+    const allTags = [...new Set(this.allWorks.flatMap(w => w.tags || []))].sort();
+    const tagContainer = document.getElementById('filter-tags');
+    if (tagContainer && allTags.length > 0) {
+      tagContainer.innerHTML = `
+        <span class="filter-label">${labels.themes}</span>
+        <div class="filter-pills">
+          ${allTags.map(tag => {
+            const display = lang === 'is' ? (this.tagTranslations[tag] || tag) : tag;
+            return `<button class="filter-pill${this.currentFilters.tags.includes(tag) ? ' active' : ''}"
+                    data-filter="tag" data-value="${tag}">${display}</button>`;
+          }).join('')}
+        </div>
+      `;
+    }
+
+    // Decades — parse year safely, filter out NaN
+    const decades = [...new Set(this.allWorks.map(w => {
+      const y = this.parseYearNumber(w.year);
+      return y ? Math.floor(y / 10) * 10 : null;
+    }).filter(d => d !== null))].sort();
+    const decContainer = document.getElementById('filter-decades');
+    if (decContainer) {
+      decContainer.innerHTML = `
+        <span class="filter-label">${labels.decades}</span>
+        <div class="filter-pills">
+          ${decades.map(d => `
+            <button class="filter-pill${this.currentFilters.decades.includes(d) ? ' active' : ''}"
+                    data-filter="decade" data-value="${d}">${d}s</button>
+          `).join('')}
+        </div>
+      `;
+    }
+
+    // Clear label
+    const clearBtn = document.getElementById('filter-clear');
+    if (clearBtn) clearBtn.textContent = labels.clear;
+
+    // Attach pill click handlers
+    document.querySelectorAll('#filter-panel .filter-pill').forEach(pill => {
+      pill.addEventListener('click', () => {
+        const type = pill.dataset.filter;
+        const value = type === 'decade' ? parseInt(pill.dataset.value) : pill.dataset.value;
+
+        let arr;
+        if (type === 'category') arr = this.currentFilters.categories;
+        else if (type === 'medium') arr = this.currentFilters.mediums;
+        else if (type === 'tag') arr = this.currentFilters.tags;
+        else arr = this.currentFilters.decades;
+
+        const idx = arr.indexOf(value);
+        if (idx >= 0) {
+          arr.splice(idx, 1);
+          pill.classList.remove('active');
         } else {
-          // Pin
-          category.classList.add('pinned');
-          content.classList.remove('collapsed');
-          expandBtn.textContent = '▲';
-          pinBtn.style.opacity = '1';
-          const updatedPinned = [...pinnedCategories, categoryName];
-          localStorage.setItem('pinnedCategories', JSON.stringify(updatedPinned));
+          arr.push(value);
+          pill.classList.add('active');
         }
+
+        this.updateFilterToggleLabel();
+        this.filterWorks();
       });
     });
   }
 
   filterWorks() {
     this.filteredWorks = this.allWorks.filter(work => {
-      // Decade filter
-      if (this.currentFilters.decades.length > 0) {
-        const workDecade = Math.floor(work.year / 10) * 10;
-        if (!this.currentFilters.decades.includes(workDecade)) return false;
+      // Category filter (OR within group)
+      if (this.currentFilters.categories.length > 0) {
+        const workCats = Array.isArray(work.category) ? work.category : [];
+        if (!this.currentFilters.categories.some(c => workCats.includes(c))) return false;
       }
 
-      // Tags filter
+      // Medium filter (OR within group)
+      if (this.currentFilters.mediums.length > 0) {
+        const workMediums = work.medium ? (Array.isArray(work.medium.en) ? work.medium.en : []) : [];
+        if (!this.currentFilters.mediums.some(m => workMediums.includes(m))) return false;
+      }
+
+      // Tag filter (OR within group)
       if (this.currentFilters.tags.length > 0) {
-        const hasTag = this.currentFilters.tags.some(tag => work.tags.includes(tag));
-        if (!hasTag) return false;
+        const workTags = work.tags || [];
+        if (!this.currentFilters.tags.some(t => workTags.includes(t))) return false;
       }
 
-      // Status filter
-      if (this.currentFilters.statuses.length > 0) {
-        const workStatus = work.status || 'not-set';
-        if (!this.currentFilters.statuses.includes(workStatus)) return false;
+      // Decade filter (OR within group)
+      if (this.currentFilters.decades.length > 0) {
+        const y = this.parseYearNumber(work.year);
+        if (!y) return false;
+        const workDecade = Math.floor(y / 10) * 10;
+        if (!this.currentFilters.decades.includes(workDecade)) return false;
       }
 
       return true;
@@ -377,21 +570,12 @@ class WorksManager {
       return;
     }
 
-    const counter = document.getElementById('works-count');
-
-    // Update count display
-    if (counter) {
-      const totalWorks = this.allWorks.length;
-      const filteredCount = this.filteredWorks.length;
-      if (filteredCount === totalWorks) {
-        counter.textContent = `${totalWorks} works`;
-      } else {
-        counter.textContent = `${filteredCount} of ${totalWorks} works`;
-      }
-    }
+    this.updateWorksCount();
 
     if (this.filteredWorks.length === 0) {
-      grid.innerHTML = '<p class="no-results">No works found matching your criteria.</p>';
+      const lang = this.getCurrentLanguage();
+      const noResults = lang === 'is' ? 'Engin verk fundust sem passa við leitarskilyrði.' : 'No works found matching your criteria.';
+      grid.innerHTML = `<p class="no-results">${noResults}</p>`;
       return;
     }
 
@@ -418,14 +602,14 @@ class WorksManager {
                  </video>
                  <div class="video-indicator">▶</div>` :
               isAudio && displayMedia !== firstMedia ?
-                `<img src="${this.getThumbPath(displayMedia.thumbnail || displayMedia.url)}" alt="${translatedWork.title}" loading="lazy" />
+                `<img src="${displayMedia.url}" alt="${translatedWork.title}" loading="lazy" />
                  <div class="audio-indicator">♪</div>` :
               isAudio ?
                 `<div class="audio-placeholder">
                    <div class="audio-icon">♪</div>
                    <div class="audio-title">${translatedWork.title}</div>
                  </div>` :
-                `<img src="${this.getThumbPath(firstMedia.thumbnail || firstMedia.url)}" alt="${translatedWork.title}" loading="lazy" />`
+                `<img src="${firstMedia.url}" alt="${translatedWork.title}" loading="lazy" />`
             ) : '<div class="no-image">No media available</div>'}
             <div class="work-overlay">
               <h3>${translatedWork.title}</h3>
@@ -549,126 +733,6 @@ class WorksManager {
     return url;
   }
 
-  renderTagFilters() {
-    if (!this.tagCategories) {
-      console.error('Tag categories not loaded');
-      return;
-    }
-
-    const allTags = [...new Set(this.allWorks.flatMap(work => work.tags))].sort();
-
-    // Render medium tags
-    this.renderTagCategory('medium-tags', allTags.filter(tag => this.tagCategories.medium.includes(tag)));
-
-    // Render concept tags
-    this.renderTagCategory('concept-tags', allTags.filter(tag => this.tagCategories.concepts.includes(tag)));
-
-    // Render historical tags
-    this.renderTagCategory('historical-tags', allTags.filter(tag => this.tagCategories.historical.includes(tag)));
-
-    // Render remaining uncategorized tags in concepts
-    const categorizedTags = [...this.tagCategories.medium, ...this.tagCategories.concepts, ...this.tagCategories.historical];
-    const uncategorized = allTags.filter(tag => !categorizedTags.includes(tag));
-    if (uncategorized.length > 0) {
-      this.renderTagCategory('concept-tags', [...allTags.filter(tag => this.tagCategories.concepts.includes(tag)), ...uncategorized]);
-    }
-  }
-
-  renderTagCategory(containerId, tags) {
-    const container = document.getElementById(containerId);
-    if (!container || tags.length === 0) return;
-    
-    container.innerHTML = tags.map(tag => `
-      <label class="tag-checkbox" for="tag-${tag.replace(/\s+/g, '-')}">
-        <input type="checkbox" id="tag-${tag.replace(/\s+/g, '-')}" value="${tag}" title="${tag}" />
-        <span>${tag}</span>
-      </label>
-    `).join('');
-
-    // Add event listeners to tag checkboxes
-    container.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
-      checkbox.addEventListener('change', (e) => {
-        if (e.target.checked) {
-          this.currentFilters.tags.push(e.target.value);
-        } else {
-          this.currentFilters.tags = this.currentFilters.tags.filter(tag => tag !== e.target.value);
-        }
-        this.filterWorks();
-      });
-    });
-  }
-
-  renderDecades() {
-    const container = document.getElementById('decade-tags');
-    if (!container) return;
-
-    // Get all unique decades from works
-    const decades = [...new Set(this.allWorks.map(work => Math.floor(work.year / 10) * 10))].sort();
-
-    container.innerHTML = decades.map(decade => `
-      <label class="tag-checkbox" for="decade-${decade}">
-        <input type="checkbox" id="decade-${decade}" value="${decade}" title="${decade}s" />
-        <span>${decade}s</span>
-      </label>
-    `).join('');
-
-    // Add event listeners to decade checkboxes
-    container.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
-      checkbox.addEventListener('change', (e) => {
-        if (e.target.checked) {
-          this.currentFilters.decades.push(parseInt(e.target.value));
-        } else {
-          this.currentFilters.decades = this.currentFilters.decades.filter(decade => decade !== parseInt(e.target.value));
-        }
-        this.filterWorks();
-      });
-    });
-  }
-
-  renderStatusFilters() {
-    const container = document.getElementById('status-tags');
-    if (!container) return;
-
-    // Define status options
-    const statuses = [
-      { value: 'complete', label: 'Complete' },
-      { value: 'needs-review', label: 'Needs Review' },
-      { value: 'incomplete', label: 'Incomplete' },
-      { value: 'draft', label: 'Draft' },
-      { value: 'not-set', label: 'Not Set' }
-    ];
-
-    container.innerHTML = statuses.map(status => `
-      <label class="tag-checkbox" for="status-${status.value}">
-        <input type="checkbox" id="status-${status.value}" value="${status.value}" title="${status.label}" />
-        <span>${status.label}</span>
-      </label>
-    `).join('');
-
-    // Add event listeners to status checkboxes
-    container.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
-      checkbox.addEventListener('change', (e) => {
-        if (e.target.checked) {
-          this.currentFilters.statuses.push(e.target.value);
-        } else {
-          this.currentFilters.statuses = this.currentFilters.statuses.filter(s => s !== e.target.value);
-        }
-        this.filterWorks();
-      });
-    });
-  }
-
-  setupClearButton() {
-    const clearFilters = document.getElementById('clear-works-filters');
-    
-    if (clearFilters) {
-      clearFilters.addEventListener('click', (e) => {
-        e.preventDefault();
-        e.stopPropagation();
-        this.clearAllFilters();
-      });
-    }
-  }
 
   getOwnershipInfo(workId) {
     // Legacy function - ownership info now stored in works.json
@@ -689,13 +753,74 @@ class WorksManager {
     const translatedWork = this.getTranslatedWork(work);
 
     // Use ownership from work.json if available, otherwise fall back to legacy map
-    const ownership = translatedWork.ownership || this.getOwnershipInfo(workId);
+    const ownershipRaw = translatedWork.ownership || this.getOwnershipInfo(workId);
+    // Resolve localized owner name
+    const ownership = ownershipRaw ? {
+      ...ownershipRaw,
+      owner: (this.getCurrentLanguage() === 'is' && ownershipRaw.owner_is) ? ownershipRaw.owner_is : (ownershipRaw.owner_en || ownershipRaw.owner)
+    } : null;
     const modalBody = document.getElementById('modal-body');
     
     // Reset modal scroll position to top
     const modalContent = document.querySelector('.modal-content');
     if (modalContent) {
       modalContent.scrollTop = 0;
+      // Custom scrollbar - always visible, immune to macOS overlay hiding
+      const scrollbar = document.getElementById('custom-scrollbar');
+      const thumb = document.getElementById('custom-scrollbar-thumb');
+
+      const updateScrollbar = () => {
+        const canScroll = modalContent.scrollHeight > modalContent.clientHeight;
+        if (scrollbar) scrollbar.style.display = canScroll ? 'block' : 'none';
+        if (canScroll && thumb) {
+          const ratio = modalContent.clientHeight / modalContent.scrollHeight;
+          const thumbHeight = Math.max(30, ratio * modalContent.clientHeight);
+          const scrollRange = modalContent.scrollHeight - modalContent.clientHeight;
+          const thumbRange = modalContent.clientHeight - thumbHeight;
+          const thumbTop = (modalContent.scrollTop / scrollRange) * thumbRange;
+          thumb.style.height = thumbHeight + 'px';
+          thumb.style.top = thumbTop + 'px';
+        }
+      };
+      modalContent.removeEventListener('scroll', updateScrollbar);
+      modalContent.addEventListener('scroll', updateScrollbar);
+      setTimeout(updateScrollbar, 100);
+
+      // Make custom scrollbar draggable
+      if (thumb) {
+        let dragging = false;
+        let startY = 0;
+        let startScrollTop = 0;
+
+        thumb.addEventListener('mousedown', (e) => {
+          dragging = true;
+          startY = e.clientY;
+          startScrollTop = modalContent.scrollTop;
+          e.preventDefault();
+        });
+
+        document.addEventListener('mousemove', (e) => {
+          if (!dragging) return;
+          const ratio = modalContent.clientHeight / modalContent.scrollHeight;
+          const thumbHeight = Math.max(30, ratio * modalContent.clientHeight);
+          const thumbRange = modalContent.clientHeight - thumbHeight;
+          const scrollRange = modalContent.scrollHeight - modalContent.clientHeight;
+          const deltaY = e.clientY - startY;
+          modalContent.scrollTop = startScrollTop + (deltaY / thumbRange) * scrollRange;
+        });
+
+        document.addEventListener('mouseup', () => {
+          dragging = false;
+        });
+
+        // Click on track to jump
+        scrollbar.addEventListener('click', (e) => {
+          if (e.target === thumb) return;
+          const rect = scrollbar.getBoundingClientRect();
+          const clickRatio = (e.clientY - rect.top) / rect.height;
+          modalContent.scrollTop = clickRatio * (modalContent.scrollHeight - modalContent.clientHeight);
+        });
+      }
     }
     modalBody.innerHTML = `
       <div class="modal-header-sticky">
@@ -733,26 +858,68 @@ class WorksManager {
               <p class="image-caption">${media.caption}</p>
               ${media.photographer || media.copyright ? `
                 <p class="photo-credit">
-                  ${media.photographer ? `Photo: ${media.photographer}${media.year ? `, ${media.year}` : ''}` : ''}
+                  ${media.photographer ? `Photo: ${media.photographer}` : ''}
                   ${media.photographer && media.copyright ? '<br>' : ''}
                   ${media.copyright ? `${media.copyright}` : ''}
                 </p>
               ` : ''}
             `;
           }).join('')}
+          ${translatedWork.model3d ? `
+            <div class="model-viewer-container">
+              <model-viewer
+                src="${translatedWork.model3d.url}"
+                alt="${translatedWork.title} - 3D model"
+                camera-controls
+                touch-action="pan-y"
+                auto-rotate
+                shadow-intensity="0.5"
+                exposure="0.5"
+                environment-image="neutral"
+                tone-mapping="commerce"
+              ></model-viewer>
+              <p class="model-caption">${translatedWork.model3d.caption}</p>
+              ${translatedWork.model3d.credit ? `<p class="model-credit">${translatedWork.model3d.credit}</p>` : ''}
+            </div>
+          ` : ''}
         </div>
         <div class="work-info">
           <h2>${translatedWork.title}</h2>
-          <p class="work-year">${translatedWork.year}</p>
+          ${work.alternativeTitles ? `
+            <p class="work-alt-titles">
+              ${Object.entries(work.alternativeTitles).map(([lang, title]) => {
+                const langNames = { de: 'German', en: 'English', is: 'Icelandic', fr: 'French' };
+                return `<em>${langNames[lang] || lang}: ${title}</em>`;
+              }).join(' · ')}
+            </p>
+          ` : ''}
+          <p class="work-year">${translatedWork.year}${work.dimensions ? ` · ${work.dimensions}` : ''}</p>
           <p class="work-description">${translatedWork.description}</p>
+          ${translatedWork.materials && translatedWork.materials.length > 0 ? `
+            <p class="work-materials"><strong>${i18n.t('materials')}:</strong> ${Array.isArray(translatedWork.materials) ? translatedWork.materials.join(', ') : translatedWork.materials}</p>
+          ` : ''}
+          ${work.collaboration ? `
+            <div class="collaboration-info">
+              <p class="work-collaboration"><strong>${this.getCurrentLanguage() === 'is' ? 'Samstarf' : 'Collaboration'}:</strong>
+                ${work.collaboration.type === 'student' ? (this.getCurrentLanguage() === 'is' ? 'Nemendaverk' : 'Student work') : work.collaboration.type}
+                ${work.collaboration.institution ? ` · ${work.collaboration.institution}` : ''}
+                ${work.collaboration.location ? `, ${work.collaboration.location}` : ''}
+                ${work.collaboration.producer ? ` · ${this.getCurrentLanguage() === 'is' ? 'Framleiðandi' : 'Producer'}: ${work.collaboration.producer}` : ''}
+              </p>
+            </div>
+          ` : ''}
+          ${work.source ? `
+            <div class="source-info">
+              <p class="source-attribution"><em>Source: <a href="${work.source.url}" target="_blank">${work.source.name}</a></em></p>
+            </div>
+          ` : ''}
           ${ownership ? `
             <div class="ownership-info">
-              <h3>${i18n.t('collection')}</h3>
               <p><strong>${i18n.t('ownedBy')}</strong> ${ownership.url ? `<a href="${ownership.url}" target="_blank">${ownership.owner}</a>` : ownership.owner}</p>
               ${ownership.catalogNumber ? `<p class="catalog-number">${i18n.t('catalog')}: ${ownership.catalogNumber}</p>` : ''}
               ${ownership.notes ? `<p class="ownership-notes">${ownership.notes}</p>` : ''}
               ${ownership.altTitle ? `<p class="alt-title">${i18n.t('alsoListedAs')}: "${ownership.altTitle}"</p>` : ''}
-              <p><a href="collections.html">${i18n.t('viewCollectionsPage')} →</a></p>
+              ${ownership.url ? `<p><a href="collections.html">${i18n.t('viewCollectionsPage')} →</a></p>` : ''}
             </div>
           ` : ''}
           <div class="work-tags">
@@ -789,33 +956,6 @@ class WorksManager {
     modal.setAttribute('aria-hidden', 'false');
   }
 
-  clearAllFilters() {
-    // Reset the filter state
-    this.currentFilters.tags = [];
-    this.currentFilters.decades = [];
-    this.currentFilters.statuses = [];
-
-    // Uncheck all checkboxes visually
-    const allCheckboxes = document.querySelectorAll('.filter-sidebar input[type="checkbox"]');
-    allCheckboxes.forEach(cb => {
-      if (cb.checked) {
-        cb.checked = false;
-      }
-    });
-
-    // Collapse all unpinned categories after clearing
-    document.querySelectorAll('.filter-category:not(.pinned)').forEach(category => {
-      const content = category.querySelector('.category-content');
-      const expandBtn = category.querySelector('.expand-btn');
-      if (content && expandBtn) {
-        content.classList.add('collapsed');
-        expandBtn.textContent = '▼';
-      }
-    });
-
-    // Re-render with empty filters
-    this.filterWorks();
-  }
 
   checkForDirectWorkLink() {
     const urlParams = new URLSearchParams(window.location.search);

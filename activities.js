@@ -42,10 +42,6 @@ class ActivitiesManager {
     // Build HTML
     let html = '<h1>' + activitiesData.ui.activitiesTitle + '</h1>';
 
-    // Under construction notice
-    if (activitiesData.ui.underConstruction) {
-      html += '<div class="under-construction">' + activitiesData.ui.underConstruction + '</div>';
-    }
 
     // Render each year group
     activitiesData.activities.forEach(yearGroup => {

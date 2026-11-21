@@ -263,7 +263,7 @@
       "year": "2013",
       "title": {
         "en": "The Sound of a Bugle in a Shoebox: Magnús Pálsson - A Performance Retrospective 1980-2013",
-        "is": "Hljómur lúðurs í skókassa: Magnús Pálsson - Yfirlit gjörninga 1980-2013"
+        "is": "Lúðurhljómur í skókassa: Magnús Pálsson - Yfirlit gjörninga 1980-2013"
       },
       "venue": {
         "en": "Reykjavík Art Museum – Hafnarhús",
@@ -273,6 +273,24 @@
       "notes": {
         "en": "Solo retrospective exhibition of performance documentation spanning 33 years of Pálsson's performance art practice",
         "is": "Einkasýning með yfirliti yfir 33 ára gjörningalist Pálssonar"
+      }
+    },
+    {
+      "id": "thiljur-bethanien-berlin-2002",
+      "year": "2002",
+      "type": "group",
+      "title": {
+        "en": "Þiljur (Cladding)",
+        "is": "Þiljur"
+      },
+      "venue": {
+        "en": "Kunstquartier Bethanien",
+        "is": "Kunstquartier Bethanien"
+      },
+      "location": "Berlin, Germany",
+      "notes": {
+        "en": "November 2002",
+        "is": "Nóvember 2002"
       }
     },
     {
@@ -288,7 +306,7 @@
       },
       "location": "Berlin, Germany",
       "notes": {
-        "en": "In “Gesture Sign Art. Deaf Culture / Hearing Culture” (curated by Wolfgang Müller, An Paenhuysen)",
+        "en": "In \"Gesture Sign Art. Deaf Culture / Hearing Culture\" (curated by Wolfgang Müller, An Paenhuysen)",
         "is": ""
       }
     },
@@ -623,14 +641,18 @@
       "id": "strunz-2002",
       "year": "2002",
       "title": {
-        "en": "Strunz",
-        "is": "Strunz"
+        "en": "Memorial Exhibition for Ásta Guðrún Eyvindardóttir",
+        "is": "Minningarsýning um Ástu Guðrúnu Eyvindardóttur"
       },
       "venue": {
-        "en": "Kópavogur Art Museum",
-        "is": "Kópavogur Art Museum"
+        "en": "Gerðarsafn - Kópavogur Art Museum",
+        "is": "Gerðarsafn - Listasafn Kópavogs"
       },
-      "location": "Kópavogur, Iceland"
+      "location": "Kópavogur, Iceland",
+      "notes": {
+        "en": "Magnús Pálsson exhibited the work Struns at this memorial exhibition",
+        "is": "Magnús Pálsson sýndi verkið Struns á þessari minningarsýningu"
+      }
     },
     {
       "id": "seeds-of-aspidistra-2001",
@@ -1533,6 +1555,23 @@
       "location": "Reykjavík, Iceland \n            (choral sound poetry, International Polipoetry Festival)"
     },
     {
+      "id": "polypoetry-festival-2006",
+      "year": "2006",
+      "title": {
+        "en": "International Polipoetry Festival",
+        "is": "Fjölljóða hátíð"
+      },
+      "venue": {
+        "en": "Iðnó",
+        "is": "Iðnó"
+      },
+      "location": "Reykjavík, Iceland",
+      "notes": {
+        "en": "Choral sound poetry performance",
+        "is": "Kórraddljóð"
+      }
+    },
+    {
       "id": "a-selection-of-20th-century-works-2005",
       "year": "2005",
       "title": {
@@ -1744,11 +1783,11 @@
       "year": "1998",
       "title": {
         "en": "The Hunting of the Snark",
-        "is": "The Hunting of the Snark"
+        "is": "Leitin að Snarkinum"
       },
       "venue": {
         "en": "The Living Art Museum",
-        "is": "The Living Art Museum"
+        "is": "Nýlistasafnið"
       },
       "location": "Reykjavík, Iceland"
     },
@@ -1974,17 +2013,21 @@
       "location": "Finland"
     },
     {
-      "id": "the-moraga-legend-1985",
+      "id": "borealis-ii-position-north-1985",
       "year": "1985",
       "title": {
-        "en": "The Moraga Legend",
-        "is": "The Moraga Legend"
+        "en": "Borealis II: Position North",
+        "is": "Borealis II: Position North"
       },
       "venue": {
-        "en": "Henie-Onstad Kunstsenter",
-        "is": "Henie-Onstad Kunstsenter"
+        "en": "Henie Onstad Kunstsenter",
+        "is": "Henie Onstad Kunstsenter"
       },
-      "location": "Norway"
+      "location": "Høvikodden, Norway",
+      "notes": {
+        "en": "June 23 – September 15, 1985. Outdoor sculpture exhibition in the landscape at Henie Onstad Art Center, curated by Per Hovdenakk and Maaretta Jaukkuri. Twenty invited artists — ten from Nordic countries and ten from elsewhere. Magnús Pálsson exhibited the sound environment 'The Moraga Legend' with 10 loudspeakers mounted on trees. The exhibition was characterized by a free approach to different stylistic and historical elements, reflecting postmodern sensibilities. Catalogue published by Nordic Arts Centre, Helsinki (ISBN 9519575634).",
+        "is": "23. júní – 15. september 1985. Útisýning á höggmyndum og umhverfislistverkum á Henie Onstad Kunstsenter, undir stjórn Per Hovdenakk og Maaretta Jaukkuri. Tuttugu listamenn boðnir — tíu frá Norðurlöndum og tíu aðrir. Magnús Pálsson sýndi hljóðumhverfið 'The Moraga Legend' með 10 hátalerum festum á tré. Sýningin einkennist af frjálsri nálgun á mismunandi stíl- og sögulega þætti. Sýningarskrá gefin út af Nordic Arts Centre, Helsinki (ISBN 9519575634)."
+      }
     },
     {
       "id": "iceland-the-art-revealed-1984",

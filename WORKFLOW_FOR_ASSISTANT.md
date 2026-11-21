@@ -101,7 +101,9 @@ Each artwork needs this JSON structure in `works.json`:
   "tags": ["sculpture", "performance", "video", "sound", "installation"],
   "exhibitions": [],
   "materials": ["plaster", "video", "sound", "metal"],
-  "searchText": "relevant keywords for search functionality"
+  "searchText": "relevant keywords for search functionality",
+  "contentStatus": "draft",
+  "mediaStatus": "images draft"
 }
 ```
 
@@ -115,10 +117,35 @@ Each artwork needs this JSON structure in `works.json`:
 - `exhibitions` - array (can be empty `[]` if no exhibitions)
 - `materials` - array of materials
 - `searchText` - search keywords
+- `contentStatus` - workflow status for content (see Status Workflow below)
+- `mediaStatus` - workflow status for images/media (see Status Workflow below)
 
 **Optional fields:**
 - `photographer` - in image objects
 - Exhibition details (if exhibitions exist): `title`, `venue`, `year`, `city`
+
+### 4.5. STATUS WORKFLOW
+
+Two separate status fields track content and media preparation independently:
+
+#### Content Status (`contentStatus`):
+- **`"draft"`** - Content needs to be written or enhanced
+- **`"needs review"`** - Content is complete and ready for review/approval
+
+#### Media Status (`mediaStatus`):
+- **`"images draft"`** - Images need to be processed, selected, or organized
+- **`"images review"`** - Images are ready for review/approval
+- **`"images done"`** - Images are finalized and approved
+
+**Check current status:**
+```bash
+python check_status.py
+```
+
+This shows:
+- Count of works at each status level
+- List of works needing attention
+- Both content and media status for each work
 ```
 
 ### 5. WORK ID NAMING CONVENTION
