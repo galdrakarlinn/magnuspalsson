@@ -86,6 +86,14 @@ def create_work_search_entry(work, exhibitions_data):
         materials_is,
     ]
 
+    # Add series info if present to boost searchability
+    series = work.get('series', '')
+    if series:
+        content_parts.append(series)
+        # Also add common name variations
+        if series == 'bílabók':
+            content_parts.extend(['Automobile', 'Bílabók', 'automobile book', 'car book'])
+
     # Add exhibition info (handle ID references and bilingual objects)
     for ex in work.get('exhibitions', []):
         if isinstance(ex, str):

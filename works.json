@@ -11417,7 +11417,24 @@
         "en": "",
         "is": ""
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/bilabok-rafgeymir-1969/medium/automobile-battery-1-medium.jpg",
+          "caption": {
+            "en": "Automobile, Battery - View 1",
+            "is": "Bílabók, Rafgeymir - Mynd 1"
+          },
+          "thumbnail": "images/bilabok-rafgeymir-1969/thumbs/automobile-battery-1-thumb.jpg"
+        },
+        {
+          "url": "images/bilabok-rafgeymir-1969/medium/automobile-battery-2-medium.jpg",
+          "caption": {
+            "en": "Automobile, Battery - View 2",
+            "is": "Bílabók, Rafgeymir - Mynd 2"
+          },
+          "thumbnail": "images/bilabok-rafgeymir-1969/thumbs/automobile-battery-2-thumb.jpg"
+        }
+      ],
       "tags": [
         "humor"
       ],
@@ -11438,7 +11455,7 @@
       },
       "series": "bílabók",
       "contentStatus": "draft",
-      "mediaStatus": "needs images",
+      "mediaStatus": "has images",
       "medium": {
         "en": [
           "book art",
@@ -11466,7 +11483,24 @@
         "en": "",
         "is": ""
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/bilabok-blondungur-1969/medium/automobile-carburettor-open-medium.jpg",
+          "caption": {
+            "en": "Automobile, Carburettor (open)",
+            "is": "Bílabók, Blöndungur (opin)"
+          },
+          "thumbnail": "images/bilabok-blondungur-1969/thumbs/automobile-carburettor-open-thumb.jpg"
+        },
+        {
+          "url": "images/bilabok-blondungur-1969/medium/automobile-carburettor-medium.jpg",
+          "caption": {
+            "en": "Automobile, Carburettor (closed)",
+            "is": "Bílabók, Blöndungur (lokuð)"
+          },
+          "thumbnail": "images/bilabok-blondungur-1969/thumbs/automobile-carburettor-thumb.jpg"
+        }
+      ],
       "tags": [
         "humor"
       ],
@@ -11487,7 +11521,7 @@
       },
       "series": "bílabók",
       "contentStatus": "draft",
-      "mediaStatus": "needs images",
+      "mediaStatus": "has images",
       "medium": {
         "en": [
           "book art",
@@ -11515,7 +11549,24 @@
         "en": "",
         "is": ""
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/bilabok-numeraplata-1969/medium/automobile-numberplate-1-medium.jpg",
+          "caption": {
+            "en": "Automobile, Numberplate - View 1",
+            "is": "Bílabók, Númeraplata - Mynd 1"
+          },
+          "thumbnail": "images/bilabok-numeraplata-1969/thumbs/automobile-numberplate-1-thumb.jpg"
+        },
+        {
+          "url": "images/bilabok-numeraplata-1969/medium/automobile-numberplate-2-medium.jpg",
+          "caption": {
+            "en": "Automobile, Numberplate - View 2",
+            "is": "Bílabók, Númeraplata - Mynd 2"
+          },
+          "thumbnail": "images/bilabok-numeraplata-1969/thumbs/automobile-numberplate-2-thumb.jpg"
+        }
+      ],
       "tags": [
         "humor"
       ],
@@ -11536,7 +11587,7 @@
       },
       "series": "bílabók",
       "contentStatus": "draft",
-      "mediaStatus": "needs images",
+      "mediaStatus": "has images",
       "medium": {
         "en": [
           "book art",
@@ -11564,7 +11615,24 @@
         "en": "",
         "is": ""
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/bilabok-dekk-1969/medium/automobile-tyre-1-medium.jpg",
+          "caption": {
+            "en": "Automobile, Tyre - View 1",
+            "is": "Bílabók, Dekk - Mynd 1"
+          },
+          "thumbnail": "images/bilabok-dekk-1969/thumbs/automobile-tyre-1-thumb.jpg"
+        },
+        {
+          "url": "images/bilabok-dekk-1969/medium/automobile-tyre-2-medium.jpg",
+          "caption": {
+            "en": "Automobile, Tyre - View 2",
+            "is": "Bílabók, Dekk - Mynd 2"
+          },
+          "thumbnail": "images/bilabok-dekk-1969/thumbs/automobile-tyre-2-thumb.jpg"
+        }
+      ],
       "tags": [
         "humor"
       ],
@@ -11585,7 +11653,7 @@
       },
       "series": "bílabók",
       "contentStatus": "draft",
-      "mediaStatus": "needs images",
+      "mediaStatus": "has images",
       "medium": {
         "en": [
           "book art",
@@ -11613,7 +11681,18 @@
         "en": "",
         "is": ""
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/automobile-bok-1970-74/medium/automobile-lr-05-medium.jpg",
+          "caption": {
+            "en": "Automobile, Door (open) at retrospective, Listasafn Reykjavíkur 2019",
+            "is": "Bílabók, Hurð (opin) á yfirlitssýningu, Listasafn Reykjavíkur 2019"
+          },
+          "thumbnail": "images/automobile-bok-1970-74/thumbs/automobile-lr-05-thumb.jpg",
+          "year": "2019",
+          "photographer": "Pétur Thomsen"
+        }
+      ],
       "tags": [
         "humor"
       ],
@@ -11633,8 +11712,8 @@
         "owner_en": "owned by the artist"
       },
       "series": "bílabók",
-      "contentStatus": "draft",
-      "mediaStatus": "needs images",
+      "contentStatus": "published",
+      "mediaStatus": "complete",
       "medium": {
         "en": [
           "book art",
@@ -11662,7 +11741,24 @@
         "en": "",
         "is": ""
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/bilabok-kupling-1969/medium/automobile-clutch-medium.jpg",
+          "caption": {
+            "en": "Automobile, Clutch (open)",
+            "is": "Bílabók, Kúpling (opin)"
+          },
+          "thumbnail": "images/bilabok-kupling-1969/thumbs/automobile-clutch-thumb.jpg"
+        },
+        {
+          "url": "images/bilabok-kupling-1969/medium/automobile-clutch-closed-medium.jpg",
+          "caption": {
+            "en": "Automobile, Clutch (closed)",
+            "is": "Bílabók, Kúpling (lokuð)"
+          },
+          "thumbnail": "images/bilabok-kupling-1969/thumbs/automobile-clutch-closed-thumb.jpg"
+        }
+      ],
       "tags": [
         "humor"
       ],
@@ -11683,7 +11779,7 @@
       },
       "series": "bílabók",
       "contentStatus": "draft",
-      "mediaStatus": "needs images",
+      "mediaStatus": "has images",
       "medium": {
         "en": [
           "book art",
@@ -11711,7 +11807,24 @@
         "en": "",
         "is": ""
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/bilabok-felga-1969/medium/automobile-rim-1-medium.jpg",
+          "caption": {
+            "en": "Automobile, Rim - View 1",
+            "is": "Bílabók, Felga - Mynd 1"
+          },
+          "thumbnail": "images/bilabok-felga-1969/thumbs/automobile-rim-1-thumb.jpg"
+        },
+        {
+          "url": "images/bilabok-felga-1969/medium/automobile-rim-2-medium.jpg",
+          "caption": {
+            "en": "Automobile, Rim - View 2",
+            "is": "Bílabók, Felga - Mynd 2"
+          },
+          "thumbnail": "images/bilabok-felga-1969/thumbs/automobile-rim-2-thumb.jpg"
+        }
+      ],
       "tags": [
         "humor"
       ],
@@ -11732,7 +11845,7 @@
       },
       "series": "bílabók",
       "contentStatus": "draft",
-      "mediaStatus": "needs images",
+      "mediaStatus": "has images",
       "medium": {
         "en": [
           "book art",
@@ -13588,7 +13701,24 @@
         "en": "",
         "is": ""
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/hundur-adrir-1971/medium/dogs-other-jacket-medium.jpg",
+          "caption": {
+            "en": "Dogs Other - Dog with Jacket",
+            "is": "Hundur aðrir - Hundur með jakka"
+          },
+          "thumbnail": "images/hundur-adrir-1971/thumbs/dogs-other-jacket-thumb.jpg"
+        },
+        {
+          "url": "images/hundur-adrir-1971/medium/dogs-other-shirt-medium.jpg",
+          "caption": {
+            "en": "Dogs Other - Dog with Shirt",
+            "is": "Hundur aðrir - Hundur með skyrtu"
+          },
+          "thumbnail": "images/hundur-adrir-1971/thumbs/dogs-other-shirt-thumb.jpg"
+        }
+      ],
       "tags": [
         "animals"
       ],
@@ -13603,13 +13733,13 @@
       },
       "searchText": "hundur aðrir dogs other plaster various 1971 magnús pálsson",
       "ownership": {
-        "owner": "owned by the artist and NYLÓ",
-        "owner_is": "í eigu höfundar, einkaeign",
-        "owner_en": "owned by the artist and NYLÓ"
+        "owner": "owned by the artist",
+        "owner_is": "í eigu höfundar",
+        "owner_en": "owned by the artist"
       },
       "series": "hundar",
       "contentStatus": "draft",
-      "mediaStatus": "needs images",
+      "mediaStatus": "has images",
       "medium": {
         "en": [
           "sculpture"
