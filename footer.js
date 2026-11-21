@@ -6,9 +6,15 @@ document.addEventListener("DOMContentLoaded", () => {
       })
       .then(data => {
         document.getElementById("footer-placeholder").innerHTML = data;
-        // Trigger i18n translation for the footer after it's loaded
-        if (window.applyTranslations) {
-          window.applyTranslations();
+
+        // Apply translations to footer after it's loaded
+        if (typeof i18n !== 'undefined' && i18n.isReady()) {
+          // Update all elements with data-i18n attribute in the footer
+          document.querySelectorAll('#footer-placeholder [data-i18n]').forEach(element => {
+            const key = element.getAttribute('data-i18n');
+            const translation = i18n.t(key);
+            element.textContent = translation;
+          });
         }
       })
       .catch(error => console.error("Error loading footer:", error));
