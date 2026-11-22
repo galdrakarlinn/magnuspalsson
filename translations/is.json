@@ -2520,36 +2520,6 @@
         }
       ]
     },
-    "franklin_furnace_ny_1984": {
-      "title": "Franklin Furnace New York",
-      "description": "",
-      "materials": [
-        "publication",
-        "перформанс",
-        "documentation",
-        "PLACEHOLDER - needs review"
-      ],
-      "exhibitions": [
-        {
-          "title": "Franklin Furnace Exhibition",
-          "venue": "Franklin Furnace",
-          "year": 1984,
-          "city": "New York",
-          "country": "USA"
-        }
-      ],
-      "images": [
-        {
-          "caption": ""
-        },
-        {
-          "caption": ""
-        },
-        {
-          "caption": ""
-        }
-      ]
-    },
     "eddumyndir_mosfellsbaer_islandsbanki_1983": {
       "title": "Eddumyndir Mosfellsbær & Íslandsbanki",
       "description": "",

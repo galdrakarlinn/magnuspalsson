@@ -7416,8 +7416,9 @@
       "tags": [
         "language"
       ],
-      "searchText": "augustus my god have it sound poetry audio art book performance language revelation nordic sound art festival reykjavik",
+      "searchText": "augustus my god have it sound poetry audio art book performance language revelation nordic sound art festival reykjavik franklin furnace",
       "exhibitions": [
+        "iceland-the-art-revealed-1984",
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
       "materials": {
@@ -10806,85 +10807,6 @@
       },
       "category": [
         "sculpture"
-      ]
-    },
-    {
-      "id": "franklin_furnace_ny_1984",
-      "title": {
-        "en": "Franklin Furnace New York",
-        "is": "Franklin Furnace New York"
-      },
-      "year": 1984,
-      "dimensions": null,
-      "description": {
-        "en": "PLACEHOLDER: Work from 1984 at Franklin Furnace in New York. Features publication pages and performance documentation including Bacarolle í fís dúr. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
-        "is": ""
-      },
-      "images": [
-        {
-          "url": "images/franklin-furnace-ny-1984/medium/franklin-furnace-ny-1984-01-medium.jpg",
-          "caption": {
-            "en": "Franklin Furnace cover - Publication cover [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1984"
-        },
-        {
-          "url": "images/franklin-furnace-ny-1984/medium/franklin-furnace-ny-1984-02-medium.jpg",
-          "caption": {
-            "en": "FF front page - Publication front page [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1984"
-        },
-        {
-          "url": "images/franklin-furnace-ny-1984/medium/franklin-furnace-ny-1984-03-medium.jpg",
-          "caption": {
-            "en": "Performance Bacarolle í fís dúr - Performance documentation [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1984"
-        }
-      ],
-      "tags": [],
-      "exhibitions": [
-        {
-          "title": {
-            "en": "Franklin Furnace Exhibition",
-            "is": "Franklin Furnace Exhibition"
-          },
-          "venue": {
-            "en": "Franklin Furnace",
-            "is": "Franklin Furnace"
-          },
-          "location": "New York",
-          "year": 1984
-        }
-      ],
-      "materials": {
-        "en": [
-          "mixed media"
-        ],
-        "is": [
-          "blandað efni"
-        ]
-      },
-      "searchText": "franklin furnace new york publication performance bacarolle 1984 magnús pálsson placeholder needs review",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft",
-      "medium": {
-        "en": [
-          "performance"
-        ],
-        "is": [
-          "gjörningur"
-        ]
-      },
-      "category": [
-        "performance"
       ]
     },
     {

@@ -928,19 +928,6 @@
       "location": "Reykjavík, Iceland"
     },
     {
-      "id": "augustus-my-god-i-have-it-1984",
-      "year": "1984",
-      "title": {
-        "en": "Augustus, my God, I have it",
-        "is": "Augustus, my God, I have it"
-      },
-      "venue": {
-        "en": "Franklin Furnace",
-        "is": "Franklin Furnace"
-      },
-      "location": "New York, USA"
-    },
-    {
       "id": "teaching-the-craziest-branch-of-art-1984",
       "year": "1984",
       "title": {
@@ -2034,14 +2021,18 @@
       "id": "iceland-the-art-revealed-1984",
       "year": "1984",
       "title": {
-        "en": "Iceland: The Art Revealed",
-        "is": "Iceland: The Art Revealed"
+        "en": "Iceland: The Art Revealed – Bookworks, Performances, and Graphic Art",
+        "is": "Iceland: The Art Revealed – Bookworks, Performances, and Graphic Art"
       },
       "venue": {
         "en": "Franklin Furnace",
         "is": "Franklin Furnace"
       },
-      "location": "New York, USA"
+      "location": "New York, USA",
+      "notes": {
+        "en": "April 19 – July 31, 1984. Curated by Ingólfur Arnarsson. Group exhibition of 185 Icelandic bookworks and graphic works. Magnús Pálsson showed bookworks and gave a performance on May 4, 1984.",
+        "is": "19. apríl – 31. júlí 1984. Sýningarstjóri: Ingólfur Arnarsson. Samsýning á 185 íslenskum bókverkum og grafíkverkum. Magnús Pálsson sýndi bókverk og flutti gjörning 4. maí 1984."
+      }
     },
     {
       "id": "musik-1982",

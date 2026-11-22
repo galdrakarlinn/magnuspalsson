@@ -2520,36 +2520,6 @@
         }
       ]
     },
-    "franklin_furnace_ny_1984": {
-      "title": "Franklin Furnace New York",
-      "description": "PLACEHOLDER: Work from 1984 at Franklin Furnace in New York. Features publication pages and performance documentation including Bacarolle í fís dúr. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
-      "materials": [
-        "publication",
-        "performance",
-        "documentation",
-        "PLACEHOLDER - needs review"
-      ],
-      "exhibitions": [
-        {
-          "title": "Franklin Furnace Exhibition",
-          "venue": "Franklin Furnace",
-          "year": 1984,
-          "city": "New York",
-          "country": "USA"
-        }
-      ],
-      "images": [
-        {
-          "caption": "Franklin Furnace cover - Publication cover [NEEDS REVIEW]"
-        },
-        {
-          "caption": "FF front page - Publication front page [NEEDS REVIEW]"
-        },
-        {
-          "caption": "Performance Bacarolle í fís dúr - Performance documentation [NEEDS REVIEW]"
-        }
-      ]
-    },
     "eddumyndir_mosfellsbaer_islandsbanki_1983": {
       "title": "Eddumyndir Mosfellsbær & Íslandsbanki",
       "description": "PLACEHOLDER: Edda-related images/sketches from 1983 involving Mosfellsbær and Íslandsbanki. Features Hel, Himinbjörg and other mythological references. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
