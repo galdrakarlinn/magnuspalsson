@@ -4036,6 +4036,16 @@
       },
       "images": [
         {
+          "url": "images/an_titils_gerdur_1963_66/medium/an_titils_gerdur_1963_66-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #3",
+            "is": "Smamynd ur bok #3"
+          },
+          "thumbnail": "images/an_titils_gerdur_1963_66/thumbs/an_titils_gerdur_1963_66-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/an-titils-gerdur/medium/an-titils-gerdur-01-medium.jpg",
           "caption": {
             "en": "detail view",
@@ -4060,7 +4070,9 @@
           "thumbnail": "images/an-titils-gerdur/thumbs/an-titils-gerdur-03-thumb.jpg"
         }
       ],
-      "tags": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
       "exhibitions": [],
       "materials": {
         "en": [
@@ -4070,7 +4082,7 @@
           "pappír"
         ]
       },
-      "searchText": "án titils untitled gerður print prent 1963 1966 magnús pálsson",
+      "searchText": "án titils untitled gerður print prent 1963 1966 magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "private collection",
         "owner_is": "einkaeign",
@@ -6256,6 +6268,16 @@
       },
       "images": [
         {
+          "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-bergen-offside-exhibition-1996-1996-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #104",
+            "is": "Smamynd ur bok #104"
+          },
+          "thumbnail": "images/manifesto-bergen-offside-exhibition-1996-1996/thumbs/manifesto-bergen-offside-exhibition-1996-1996-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/manifesto-bergen-offside-exhibition-1996-1996/medium/manifesto-pgt-02-medium.jpg",
           "caption": {
             "en": "Installation view with eggs spelling text and cassette players on floor, OFFSIDE Bergen 1996",
@@ -6352,7 +6374,8 @@
       ],
       "thumbnail": "images/manifesto-bergen-offside-exhibition-1996-1996/thumbs/manifesto-pgt-02-thumb.jpg",
       "tags": [
-        "language"
+        "language",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -6369,7 +6392,7 @@
           "pappír"
         ]
       },
-      "searchText": "manifesto mapanipifepestopo p-mal p-language bergen offside 1996 nordic identity eggs installation voice text magnus palsson",
+      "searchText": "manifesto mapanipifepestopo p-mal p-language bergen offside 1996 nordic identity eggs installation voice text magnus palsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -6742,6 +6765,16 @@
       },
       "images": [
         {
+          "url": "images/kuplingsdiskur-clutch-disc-1999-1999/medium/kuplingsdiskur-clutch-disc-1999-1999-book-thumbnail-medium.png",
+          "caption": {
+            "en": "Book thumbnail #115",
+            "is": "Smamynd ur bok #115"
+          },
+          "thumbnail": "images/kuplingsdiskur-clutch-disc-1999-1999/thumbs/kuplingsdiskur-clutch-disc-1999-1999-book-thumbnail-thumb.png",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/kuplingsdiskur-clutch-disc-1999-1999/kuplingsdiskur-clutch-disc-1999-preview.mp4",
           "caption": {
             "en": "Kúplingsdiskur (Clutch Disc) - video documentation (1 minute preview)",
@@ -6788,7 +6821,8 @@
         }
       ],
       "tags": [
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "settantaventidue-2026",
@@ -6802,7 +6836,7 @@
           "vídeó"
         ]
       },
-      "searchText": "kúplingsdiskur clutch disc 1999 myndbandið er tekið með „green screen“ tækni þar sem listamaðurinn sést sitjandi á stól er virðist smár miðað við manninn. hlutföllin eru á skjön, listamaðurinn situr á hlið og talar út í tómið. textinn fjallar um fólk, atburði og samskipti en einnig um stærð hluta og umhverfis, skynjun manna á stærð í umhverfi sínu og þau viðmið sem beitt er hverju sinni. af og til fer allt á flug; myndin hristist og jarðskjálfti skekur manninn og rýmið. the video is shot using \"green screen\" technology where the artist is seen sitting on a chair that appears small in relation to the person. the proportions are off; the artist sits at an angle and speaks into the void. the text discusses people, events, and interactions, but also the size of objects and surroundings, people's perception of size in their environment, and the standards applied in each case. occasionally everything takes off; the image shakes and an earthquake jolts the person and the space. artwork 1999 vídeó hljóð video sound something-from-nothing-the-visual-realm-of-magnús-2019",
+      "searchText": "kúplingsdiskur clutch disc 1999 myndbandið er tekið með „green screen“ tækni þar sem listamaðurinn sést sitjandi á stól er virðist smár miðað við manninn. hlutföllin eru á skjön, listamaðurinn situr á hlið og talar út í tómið. textinn fjallar um fólk, atburði og samskipti en einnig um stærð hluta og umhverfis, skynjun manna á stærð í umhverfi sínu og þau viðmið sem beitt er hverju sinni. af og til fer allt á flug; myndin hristist og jarðskjálfti skekur manninn og rýmið. the video is shot using \"green screen\" technology where the artist is seen sitting on a chair that appears small in relation to the person. the proportions are off; the artist sits at an angle and speaks into the void. the text discusses people, events, and interactions, but also the size of objects and surroundings, people's perception of size in their environment, and the standards applied in each case. occasionally everything takes off; the image shakes and an earthquake jolts the person and the space. artwork 1999 vídeó hljóð video sound something-from-nothing-the-visual-realm-of-magnús-2019 book thumbnail added",
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
@@ -9685,6 +9719,16 @@
       },
       "images": [
         {
+          "url": "images/brim_keflavik_2005/medium/brim_keflavik_2005-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail #130",
+            "is": "Smamynd ur bok #130"
+          },
+          "thumbnail": "images/brim_keflavik_2005/thumbs/brim_keflavik_2005-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/brim-keflavik-2005/medium/brim-keflavik-2005-new-15-medium.jpg",
           "caption": {
             "en": "Installation view with video projections",
@@ -9854,7 +9898,8 @@
         }
       ],
       "tags": [
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "brim-surf-2005"
@@ -9871,7 +9916,7 @@
           "blandað efni"
         ]
       },
-      "searchText": "brim surf suðsuðvestur keflavík 2005 installation video sound poetry cement mixer steypuhrærivél steinþór birgisson eyvindur erlendsson hafliði magnússon karl guðmundsson kristbjörg kjeld myndvarp ljóðalestur blandað efni",
+      "searchText": "brim surf suðsuðvestur keflavík 2005 installation video sound poetry cement mixer steypuhrærivél steinþór birgisson eyvindur erlendsson hafliði magnússon karl guðmundsson kristbjörg kjeld myndvarp ljóðalestur blandað efni book thumbnail added",
       "contentStatus": "complete",
       "mediaStatus": "images complete",
       "ownership": {
@@ -10822,6 +10867,16 @@
       },
       "images": [
         {
+          "url": "images/de_kommer_med_kista_1985/medium/de_kommer_med_kista_1985-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #80",
+            "is": "Smamynd ur bok #80"
+          },
+          "thumbnail": "images/de_kommer_med_kista_1985/thumbs/de_kommer_med_kista_1985-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/de-kommer-med-kista-1985/de-kommer-med-kista-1985-preview.mp4",
           "caption": {
             "en": "De kommer med kista (They Come with the Coffin) - video documentation (1 minute preview)",
@@ -10858,7 +10913,8 @@
         }
       ],
       "tags": [
-        "death"
+        "death",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -10899,7 +10955,7 @@
           "vídeó"
         ]
       },
-      "searchText": "de kommer med kista og henter meg performance oslo reykjavik coffin stage 1985 magnús pálsson placeholder needs review",
+      "searchText": "de kommer med kista og henter meg performance oslo reykjavik coffin stage 1985 magnús pálsson placeholder needs review book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -11902,8 +11958,21 @@
         "en": "",
         "is": ""
       },
-      "images": [],
-      "tags": [],
+      "images": [
+        {
+          "url": "images/faeding_birth_2006/medium/faeding_birth_2006-book-thumbnail-medium.png",
+          "caption": {
+            "en": "Book thumbnail #133",
+            "is": "Smamynd ur bok #133"
+          },
+          "thumbnail": "images/faeding_birth_2006/thumbs/faeding_birth_2006-book-thumbnail-thumb.png",
+          "photographer": "Book publication",
+          "year": ""
+        }
+      ],
+      "tags": [
+        "book-thumbnail-added"
+      ],
       "exhibitions": [],
       "materials": {
         "en": [
@@ -11913,7 +11982,7 @@
           "vídeó"
         ]
       },
-      "searchText": "fæðing birth video sound performance 2006 magnús pálsson",
+      "searchText": "fæðing birth video sound performance 2006 magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "private collection and the artist",
         "owner_is": "einkaeign og höfundur",
@@ -13070,6 +13139,16 @@
       },
       "images": [
         {
+          "url": "images/g_ljod_2009/medium/g_ljod_2009-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail #140",
+            "is": "Smamynd ur bok #140"
+          },
+          "thumbnail": "images/g_ljod_2009/thumbs/g_ljod_2009-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/g-ljod-2009/medium/G-ljóð1 front page 2009-medium.jpg",
           "caption": {
             "en": "G-ljóð front cover - Poetry publication, 2009",
@@ -13125,7 +13204,8 @@
         }
       ],
       "tags": [
-        "language"
+        "language",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -13136,7 +13216,7 @@
           "pappír"
         ]
       },
-      "searchText": "g ljóð poetry publication experimental text visual poetry language book text art 2009 magnús pálsson",
+      "searchText": "g ljóð poetry publication experimental text visual poetry language book text art 2009 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {

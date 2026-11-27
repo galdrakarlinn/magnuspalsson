@@ -1,0 +1,76 @@
+{
+  "likely_correct": [
+    "80",
+    "104",
+    "140",
+    "115",
+    "3",
+    "130",
+    "133"
+  ],
+  "matches": [
+    {
+      "thumb_num": "80",
+      "thumb_title": "De kommer med kista og henter meg (They are Coming with a Coffin to Fetch Me)",
+      "thumb_year": "1985",
+      "work_id": "de_kommer_med_kista_1985",
+      "work_title": "De kommer med kista og henter meg",
+      "work_year": "1985",
+      "score": 0.7
+    },
+    {
+      "thumb_num": "104",
+      "thumb_title": "Manifestó (Manifesto)",
+      "thumb_year": "1996",
+      "work_id": "manifesto-bergen-offside-exhibition-1996-1996",
+      "work_title": "Manifesto",
+      "work_year": "1996",
+      "score": 0.7
+    },
+    {
+      "thumb_num": "140",
+      "thumb_title": "G-ljóð (G-Poem)",
+      "thumb_year": "2009",
+      "work_id": "g_ljod_2009",
+      "work_title": "G-poem",
+      "work_year": "2009",
+      "score": 0.67
+    },
+    {
+      "thumb_num": "115",
+      "thumb_title": "Kúplingsdiskur (Clutch Disc)",
+      "thumb_year": "1999",
+      "work_id": "kuplingsdiskur-clutch-disc-1999-1999",
+      "work_title": "Clutch Disc",
+      "work_year": "1999",
+      "score": 0.66
+    },
+    {
+      "thumb_num": "3",
+      "thumb_title": "Untitled",
+      "thumb_year": "1963",
+      "work_id": "an_titils_gerdur_1963_66",
+      "work_title": "Untitled (Gerður)",
+      "work_year": "1963-66",
+      "score": 0.64
+    },
+    {
+      "thumb_num": "130",
+      "thumb_title": "Brim (Surf)",
+      "thumb_year": "2005",
+      "work_id": "brim_keflavik_2005",
+      "work_title": "Surf",
+      "work_year": "2005",
+      "score": 0.63
+    },
+    {
+      "thumb_num": "133",
+      "thumb_title": "Fæðing (Birth)",
+      "thumb_year": "2006",
+      "work_id": "faeding_birth_2006",
+      "work_title": "Birth",
+      "work_year": "2006",
+      "score": 0.63
+    }
+  ]
+}
