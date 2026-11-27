@@ -1,7 +1,7 @@
 [
   {
     "number": "1",
-    "title_en": "Dulargerfi, Tros (Camouflage, Tarnung)",
+    "title_en": "Camouflage, Tros, Tarnung",
     "year": "1962",
     "materials": [
       "plastic, board, paper, paint, fish"
@@ -9,7 +9,7 @@
     "dimensions": "57 x 27 x 20.5 cm",
     "location": "The National Gallery of Iceland",
     "details": [],
-    "title_is": "Dulargerfi, Tros",
+    "title_is": "Dulargervi, Tros, Tarnung",
     "materials_is": [
       "plast,pappi, pappír, málning, fiskur"
     ],
@@ -37,7 +37,7 @@
   },
   {
     "number": "3",
-    "title_en": "Untitled",
+    "title_en": "Untitled (Gerður)",
     "year": "1963",
     "materials": [
       "screen print, watercolour, monotype"
@@ -47,7 +47,7 @@
     "details": [
       "only 1 known"
     ],
-    "title_is": "Án titils",
+    "title_is": "Án titils (Verk hjá Gerði)",
     "materials_is": [
       "prent, vatnslitir"
     ],
@@ -102,7 +102,7 @@
   },
   {
     "number": "6",
-    "title_en": "Bestu stykkin, Frúöld (The Best Pieces)",
+    "title_en": "The best peices",
     "year": "1965",
     "materials": [
       "dresses, wire, lacquer, paint"
@@ -120,7 +120,7 @@
   },
   {
     "number": "7",
-    "title_en": "Ferð, Veggfóður (Journey, Wallpaper)",
+    "title_en": "Journey, Wallpaper",
     "year": "1965",
     "materials": [
       "photosensitive paper (ammonia print)"
@@ -128,7 +128,7 @@
     "dimensions": "five strips of 600 x 60.5 cm",
     "location": "The Living Art Museum and Reykjavík Art Museum",
     "details": [],
-    "title_is": "Ferð, Veggfóður",
+    "title_is": "Ferð Veggfóður  (Reise)",
     "materials_is": [
       "ljósnæmur pappír (ammoníakprent)"
     ],
@@ -223,7 +223,7 @@
   },
   {
     "number": "12",
-    "title_en": "Dulargerfi (Camouflage)",
+    "title_en": "Camouflage paint tray",
     "year": "1966",
     "materials": [
       "paint tray, paint brushes, paint"
@@ -231,7 +231,7 @@
     "dimensions": "50 x 30 cm",
     "location": "private collection",
     "details": [],
-    "title_is": "Dulargerfi",
+    "title_is": "Dulargervi Málnigarbakki",
     "materials_is": [
       "málningarbakki, málningarpenslar, málning"
     ],
@@ -321,7 +321,7 @@
   },
   {
     "number": "17",
-    "title_en": "Miami Beach",
+    "title_en": "Flæðarmál (Beach)",
     "year": "1967",
     "materials": [
       "domed acrylic glass, mixed media"
@@ -329,7 +329,7 @@
     "dimensions": "~27 x 27 x 26 cm",
     "location": "whereabouts unknown",
     "details": [],
-    "title_is": "Miami Beach",
+    "title_is": "Flæðarmál",
     "materials_is": [
       "kúpt akrýlgler, blönduð tækni"
     ],
@@ -361,7 +361,7 @@
   },
   {
     "number": "19",
-    "title_en": "Untitled plaster sculpture",
+    "title_en": "Untitled (Gerður)",
     "year": "1967",
     "materials": [
       "plaster, paint"
@@ -369,7 +369,7 @@
     "dimensions": "~25 x 25 cm",
     "location": "whereabouts unknown",
     "details": [],
-    "title_is": "Án titils, gifsskúlptúrar",
+    "title_is": "Án titils (Verk hjá Gerði)",
     "materials_is": [
       "gibs, málning"
     ],
@@ -381,7 +381,7 @@
   },
   {
     "number": "20",
-    "title_en": "Untitled plaster sculpture",
+    "title_en": "Untitled (Gerður)",
     "year": "1967",
     "materials": [
       "plaster, paint"
@@ -389,7 +389,7 @@
     "dimensions": "~20 x 25 cm",
     "location": "whereabouts unknown",
     "details": [],
-    "title_is": "Án titils, gifsskúlptúrar",
+    "title_is": "Án titils (Verk hjá Gerði)",
     "materials_is": [
       "gibs, málning"
     ],
@@ -522,7 +522,7 @@
   },
   {
     "number": "27",
-    "title_en": "Skyggn, Berdreyminn, Næmur (Clairvoyant, Prophetic dreamer, Sensitive)",
+    "title_en": "Clairvoyant, Prophetic dreamer, sensitive",
     "year": "1969",
     "materials": [
       "plaster, clothes"
@@ -530,7 +530,7 @@
     "dimensions": "102 x 70 x 5 cm",
     "location": "The Living Art Museum",
     "details": [],
-    "title_is": "Skyggn, Berdreyminn, Næmur",
+    "title_is": "Skyggn, berdreyminn, næmur",
     "materials_is": [
       "gifs, föt"
     ],
@@ -540,7 +540,7 @@
   },
   {
     "number": "28",
-    "title_en": "Tangó (Tango)",
+    "title_en": "Etán Langbrók",
     "year": "1969",
     "materials": [
       "clay, plaster, wood, acrylic glass"
@@ -550,7 +550,7 @@
     "details": [
       "series of four, all different"
     ],
-    "title_is": "Tangó",
+    "title_is": "Etán Langbrók",
     "materials_is": [
       "leir, gifs, viður, akrýlgler"
     ],
@@ -563,7 +563,7 @@
   },
   {
     "number": "29",
-    "title_en": "Fjöll (Mountains)",
+    "title_en": "Mountains",
     "year": "1969",
     "materials": [
       "ceramic, paint, 1 rubber, many variations"
@@ -625,7 +625,7 @@
   },
   {
     "number": "32",
-    "title_en": "Hundar (Dogs)",
+    "title_en": "Hundljóð (Dog Poem)",
     "year": "1970",
     "materials": [
       "plaster, plastic, paper, clothes"
@@ -633,7 +633,7 @@
     "dimensions": "42 x 31 x 21 cm",
     "location": "private collections and the artist",
     "details": [],
-    "title_is": "Hundar",
+    "title_is": "Hundljóð",
     "materials_is": [
       "gifs, plast, pappír, föt"
     ],
@@ -803,7 +803,7 @@
   },
   {
     "number": "40",
-    "title_en": "Hvískur 1, 2, 3 (Whisper 1, 2, 3)",
+    "title_en": "Whisper 1",
     "year": "1975",
     "materials": [
       "plaster, epoxy"
@@ -811,7 +811,7 @@
     "dimensions": "1. 9.5 x 14.5 x 11.3 cm; 2. 9.5 x 14.5 x 55 cm; 3. 9.5 x 14.5 x 150 cm",
     "location": "owners 1. Icelandic Folk and Outsider Art Museum, private collections and the artist, 2. the artist, 3. University of Iceland Art Collection",
     "details": [],
-    "title_is": "Hvískur 1, 2, 3",
+    "title_is": "Hvískur 1",
     "materials_is": [
       "gifs, epoxý"
     ],
@@ -938,7 +938,7 @@
   },
   {
     "number": "47",
-    "title_en": "Stærðfræði (Mathematics)",
+    "title_en": "Stærðfræði 2 (Mathematics 2)",
     "year": "1976",
     "materials": [
       "plaster"
@@ -948,7 +948,7 @@
     "details": [
       "series of many different equations"
     ],
-    "title_is": "Stærðfræði",
+    "title_is": "Stærðfræði 2",
     "materials_is": [
       "gifs"
     ],
@@ -1036,7 +1036,7 @@
   },
   {
     "number": "52",
-    "title_en": "wow-mom, good-boop; bum-mud; but-tub",
+    "title_en": "Mum-wow, good-boop, bum-mud, but-tub",
     "year": "1976",
     "materials": [
       "plaster, brass"
@@ -1046,7 +1046,7 @@
     "details": [
       "series of three"
     ],
-    "title_is": "wow-mom, good-boop; bum-mud; but-tub",
+    "title_is": "Mum-wow, good-boop, bum-mud, but-tub",
     "materials_is": [],
     "dimensions_is": "9 x 6 x 6 cm",
     "location_is": "einkasöfn, listamaðurinn og eitt óþekkt",
@@ -1075,7 +1075,7 @@
   },
   {
     "number": "54",
-    "title_en": "duld blub, 6 pund pund 9",
+    "title_en": "Duld-blub, 6 pund",
     "year": "1976",
     "materials": [
       "plaster"
@@ -1083,7 +1083,7 @@
     "dimensions": "18 x 23 x 2 cm",
     "location": "private collections",
     "details": [],
-    "title_is": "duld blub, 6 pund pund 9",
+    "title_is": "Duld-blub, 6 pund",
     "materials_is": [],
     "dimensions_is": "18 x 23 x 2 cm",
     "location_is": "",
@@ -1116,7 +1116,7 @@
   },
   {
     "number": "56",
-    "title_en": "Myrkur (Darkness)",
+    "title_en": "Darkness / Sunlight",
     "year": "1977",
     "materials": [
       "plaster"
@@ -1126,7 +1126,7 @@
     "details": [
       "series of two"
     ],
-    "title_is": "Myrkur",
+    "title_is": "Myrkur / Sólskin",
     "materials_is": [
       "gifs"
     ],
@@ -1178,7 +1178,7 @@
   },
   {
     "number": "59",
-    "title_en": "Vatnslitamyndir, eldri verk (Watercolours, early works)",
+    "title_en": "Watercolours (Early Works)",
     "year": "1977",
     "materials": [
       "paper, watercolour"
@@ -1188,7 +1188,7 @@
     "details": [
       "series of six, all different"
     ],
-    "title_is": "Vatnslitamyndir, eldri verk",
+    "title_is": "Vatnslitamyndir (fyrri verk)",
     "materials_is": [
       "pappír, vatnslitur"
     ],
@@ -1200,7 +1200,7 @@
   },
   {
     "number": "60",
-    "title_en": "Minning Bakkabræðra, Ljóshirsla (In Memory of the Bakki Brothers, Lightcabinet)",
+    "title_en": "In memory of the Bakki Brothers (Light-Compartment)",
     "year": "1977",
     "materials": [
       "wood, paint"
@@ -1240,7 +1240,7 @@
   },
   {
     "number": "62",
-    "title_en": "Orðaveggur (Wall of Words)",
+    "title_en": "Watercolours (Early Works)",
     "year": "1977",
     "materials": [],
     "dimensions": "",
@@ -1250,7 +1250,7 @@
       "capital letters on wall",
       "two works, each ~205.6 x 200"
     ],
-    "title_is": "Orðaveggur",
+    "title_is": "Vatnslitamyndir (fyrri verk)",
     "materials_is": [],
     "dimensions_is": "",
     "location_is": "eign listamannsins",
@@ -1304,7 +1304,7 @@
   },
   {
     "number": "65",
-    "title_en": "Minning kanínunnar, Barabbit (In Memory of the Rabbit, Barabbit)",
+    "title_en": "In memory of a rabbit, Barabbit",
     "year": "1979",
     "materials": [
       "wood, paint, brass plates"
@@ -1362,7 +1362,7 @@
   },
   {
     "number": "68",
-    "title_en": "Sólskríkja, mús, kengúra (Bunting, Mouse, Kangaroo)",
+    "title_en": "Bunting, mouse, kangaroo",
     "year": "1980",
     "materials": [],
     "dimensions": "~2000 x 2000 cm",
@@ -1370,7 +1370,7 @@
     "details": [
       "junkyard material"
     ],
-    "title_is": "Sólskríkja, mús, kengúra",
+    "title_is": "Sólskrikja, mús, kengúra",
     "materials_is": [],
     "dimensions_is": "~2000 x 2000 cm",
     "location_is": "eign listamannsins",
@@ -1416,7 +1416,7 @@
   },
   {
     "number": "71",
-    "title_en": "Hani, krummi, hundur, svín (Cock, Raven, Dog, Pig)",
+    "title_en": "Cock, raven, dog, pig.",
     "year": "1982",
     "materials": [
       "paper, pencil, ink"
@@ -1426,7 +1426,7 @@
     "details": [
       "14 different drawings"
     ],
-    "title_is": "Hani, krummi, hundur, svín",
+    "title_is": "Hani, krummi, hundur, svin",
     "materials_is": [
       "pappír, blýantur, blek"
     ],
@@ -1482,7 +1482,7 @@
   },
   {
     "number": "74",
-    "title_en": "The Offs: A Play in Two Acts",
+    "title_en": "Lúðurhljómur í skókassa (The Sound of a Bugle in a Shoe Box)",
     "year": "1983",
     "materials": [
       "book (paper, plastic)"
@@ -1490,7 +1490,7 @@
     "dimensions": "publ. Reykjavik Art Museum 1994 32 x 24 cm edition of 200",
     "location": "various collections and museums and the artist",
     "details": [],
-    "title_is": "The Offs: Leikrit í tveimur þáttum",
+    "title_is": "Lúðurhljómur í skókassa",
     "materials_is": [
       "bók (pappír, plast)"
     ],
@@ -1548,7 +1548,7 @@
   },
   {
     "number": "77",
-    "title_en": "Kennsla – geggjaðasta listgreinin (Teaching, the Craziest Form of Art)",
+    "title_en": "Teaching, the craziest branch of art",
     "year": "1984",
     "materials": [
       "Water colour, acrylic, pencil, card"
@@ -1560,7 +1560,7 @@
       "78 Þykkan dag um nótt, Þykka nótt um dag (Thick day at night, Thick night at day)",
       "1985 or earlier"
     ],
-    "title_is": "Kennsla – geggjaðasta listgreinin",
+    "title_is": "Kennsla - geggjaðasta listgreinin",
     "materials_is": [],
     "dimensions_is": "",
     "location_is": "ýmis söfn, einkasöfn og listamaðurinn",
@@ -1570,7 +1570,7 @@
   },
   {
     "number": "79",
-    "title_en": "Lítill, Trítill, Karlsson og fuglarnir (Little, Tritle, Karlsson and the Birds)",
+    "title_en": "Little, Treetle, Karlsson and the Birds",
     "year": "1985",
     "materials": [],
     "dimensions": "",
@@ -1578,11 +1578,12 @@
     "details": [
       "ceramics on walls, outdoor and indoor work at the school, Snælandsskóli, Kópavogur",
       "Kópavogur Municipality"
-    ]
+    ],
+    "title_is": "Lítill, Trítill, Karlsson og fuglarnir"
   },
   {
     "number": "80",
-    "title_en": "De kommer med kista og henter meg (They are Coming with a Coffin to Fetch Me)",
+    "title_en": "De kommer med kista og henter meg",
     "year": "1985",
     "materials": [],
     "dimensions": "book 42 x 29.7 x 0.7 cm",
@@ -1590,7 +1591,8 @@
     "details": [
       "a play for eight actors, book",
       "publ. Hong Kong Press, Gothenburg"
-    ]
+    ],
+    "title_is": "De kommer med kista og henter meg"
   },
   {
     "number": "81",
@@ -1631,7 +1633,7 @@
   },
   {
     "number": "83",
-    "title_en": "Madame President",
+    "title_en": "Madame President, Contours of a Baby",
     "year": "1986",
     "materials": [],
     "dimensions": "",
@@ -1639,22 +1641,24 @@
     "details": [
       "voice sculpture on audio cassette",
       "publ. Hong Kong Press, Gothenburg"
-    ]
+    ],
+    "title_is": "Madame President, Contours of a Baby"
   },
   {
     "number": "84",
-    "title_en": "Augntal fyrir Augntal (Eyetalk preceding Eyetalk)",
+    "title_en": "Eyetalk preceding Eyetalk",
     "year": "1986",
     "materials": [],
     "dimensions": "",
     "location": "Reykjavík Art Museum and the artist",
     "details": [
       "video, spoken text"
-    ]
+    ],
+    "title_is": "Augntal fyrir Augntal"
   },
   {
     "number": "85",
-    "title_en": "Contours of a Baby",
+    "title_en": "Madame President, Contours of a Baby",
     "year": "1987",
     "materials": [],
     "dimensions": "",
@@ -1662,29 +1666,32 @@
     "details": [
       "voice sculpture on audio cassette",
       "publ. Hong Kong Press, Gothenburg"
-    ]
+    ],
+    "title_is": "Madame President, Contours of a Baby"
   },
   {
     "number": "86",
-    "title_en": "At blive trukket op over maven eller brystet (To be Pulled up over the Stomach or the Chest)",
+    "title_en": "To Be Pulled Up Over the Stomach or the Chest",
     "year": "1989",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "play for 7-11 actors, part of Mob Shop IV, Denmark"
-    ]
+    ],
+    "title_is": "Að vera þrýst upp yfir magann eða bringuna"
   },
   {
     "number": "87",
-    "title_en": "Augntal (Eyetalk)",
+    "title_en": "Eyetalk",
     "year": "1990",
     "materials": [],
     "dimensions": "",
     "location": "Reykjavík Art Museum and the artist",
     "details": [
       "video, spoken text"
-    ]
+    ],
+    "title_is": "Augntal"
   },
   {
     "number": "88",
@@ -1705,40 +1712,43 @@
   },
   {
     "number": "89",
-    "title_en": "Bréf til Kristjáns (Letter to Kristján)",
+    "title_en": "Letter to Kristján",
     "year": "1990",
     "materials": [],
     "dimensions": "24 x 21 cm",
     "location": "private collection",
     "details": [
       "handwritten letter in wingdings font to Kristján Guðmundsson"
-    ]
+    ],
+    "title_is": "Bréf til Kristjáns"
   },
   {
     "number": "90",
-    "title_en": "Þrætubálkur (Verbal Dispute)",
+    "title_en": "Angry dispute",
     "year": "1990",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "performance, spoken text, choir"
-    ]
+    ],
+    "title_is": "Þrætubálkur"
   },
   {
     "number": "91",
-    "title_en": "Sprengd hljóðhimna, vinstra megin (Burst Eardrum, Left Side)",
+    "title_en": "Burst Eardrum, left side 1991 & 2012",
     "year": "1991",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist, manuscript with The Living Art Museum",
     "details": [
       "play"
-    ]
+    ],
+    "title_is": "Sprengd hljóðhimna, vinstri megin 1991 & 2012"
   },
   {
     "number": "92",
-    "title_en": "Freyskatla (Hrafnkell's Saga)",
+    "title_en": "Hrafnkell's Saga",
     "year": "1992",
     "materials": [],
     "dimensions": "bound manuscript 42 x 29.3 cm",
@@ -1747,11 +1757,12 @@
       "performance, voice sculpture, choir, 10 soloists",
       "93 Hrepeiðaparrs (Hreiðars þáttur heimska, The Tale of Hreiðar the Fool)1993",
       "performance, voice sculpture, director Kári Halldor Þórsson"
-    ]
+    ],
+    "title_is": "Freyskatla"
   },
   {
     "number": "94",
-    "title_en": "Enginn gleypir sólina (No One Swallows the Sun)",
+    "title_en": "No one swallows the sun",
     "year": "1993",
     "materials": [
       "audio installation, snuff tobacco, paper noses"
@@ -1760,22 +1771,24 @@
     "location": "The National Gallery of Iceland and the artist",
     "details": [
       "book and CD publ. Mumbling Eye 2023 edition of 500"
-    ]
+    ],
+    "title_is": "Enginn gleypir sólina"
   },
   {
     "number": "95",
-    "title_en": "Kjötkássan og Brasilíufrænkan (The Stew and the Brazilian Aunt)",
+    "title_en": "The stew and the Brazilian aunt",
     "year": "1994",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "play (not enacted)"
-    ]
+    ],
+    "title_is": "Kjötkássan og Brasilíufrænkan"
   },
   {
     "number": "96",
-    "title_en": "Varla….. (Hardly.....)",
+    "title_en": "Hardly.....",
     "year": "1994",
     "materials": [],
     "dimensions": "",
@@ -1786,11 +1799,12 @@
       "Etán Langbrok (Etán Langbrok)",
       "Djengis Kan (Genghis Khan)",
       "soap ends, audio"
-    ]
+    ],
+    "title_is": "Varla..."
   },
   {
     "number": "97",
-    "title_en": "Bjössi á mjólkurbílnum (Bjössi on the Milk Truck)",
+    "title_en": "Bjössi on the milk truck",
     "year": "1994",
     "materials": [],
     "dimensions": "165 x 13 x 2, 136 x 13 x 2 cm",
@@ -1798,22 +1812,24 @@
     "details": [
       "bronze cast of text from 2 popular songs",
       "Árni Páll Jóhannsson sculpture park, Hólmatjörn"
-    ]
+    ],
+    "title_is": "Bjössi á mjólkurbílnum"
   },
   {
     "number": "98",
-    "title_en": "Bréf til Djonna (Letter to Johnny) (Jón Gunnar Árnason)",
+    "title_en": "Letter to Johnny",
     "year": "1994",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "audio recording"
-    ]
+    ],
+    "title_is": "Bréf til Djonna"
   },
   {
     "number": "99",
-    "title_en": "Silfur Egils (Egill's Silver)",
+    "title_en": "Egill´s silver",
     "year": "1995",
     "materials": [],
     "dimensions": "size 300 x 180 cm",
@@ -1822,11 +1838,12 @@
       "ceramics on wall, outdoor work, Varmárskóli",
       "Mosfellsbær municipality",
       "This work has now been covered over."
-    ]
+    ],
+    "title_is": "Silfur Egils"
   },
   {
     "number": "100",
-    "title_en": "Gapassipi (Gapandeper)",
+    "title_en": "Gapassipi (Tjöpörnipinnipi)",
     "year": "1995",
     "materials": [
       "installation, sound, broken glass"
@@ -1836,22 +1853,24 @@
     "details": [
       "booklet Tjöpörnipinnipi 1995",
       "book and CD Gapassipi publ. Mumbling Eye 2021 edition of 200"
-    ]
+    ],
+    "title_is": "Gapassipi (Tjöpörnipinnipi)"
   },
   {
     "number": "101",
-    "title_en": "Hundraðárastríðið (100 Years' War)",
+    "title_en": "100 Years War",
     "year": "1995",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "installation, mixed media"
-    ]
+    ],
+    "title_is": "100 ára stríðið"
   },
   {
     "number": "102",
-    "title_en": "Þiljur (Cladding)",
+    "title_en": "Cladding",
     "year": "1995",
     "materials": [
       "three wooden panels, glass, egg, carved texts in different fonts relating to body parts"
@@ -1860,11 +1879,12 @@
     "location": "",
     "details": [
       "University of Iceland Art Collection"
-    ]
+    ],
+    "title_is": "Þiljur"
   },
   {
     "number": "103",
-    "title_en": "Ormurinn hva? (The Wyrm or what?)",
+    "title_en": "The Wyrm or what?",
     "year": "1995",
     "materials": [],
     "dimensions": "",
@@ -1872,22 +1892,24 @@
     "details": [
       "log, rope, carved wingding lettering",
       "outdoor sculpture, Hallormsstaður"
-    ]
+    ],
+    "title_is": "Ormurinn hva?"
   },
   {
     "number": "104",
-    "title_en": "Manifestó (Manifesto)",
+    "title_en": "Manifesto",
     "year": "1996",
     "materials": [
       "text in P language, paper, eggs"
     ],
     "dimensions": "",
     "location": "owned by the artist",
-    "details": []
+    "details": [],
+    "title_is": "Manifestó"
   },
   {
     "number": "105",
-    "title_en": "Kross (Cross)",
+    "title_en": "Cross",
     "year": "1996",
     "materials": [],
     "dimensions": "",
@@ -1895,44 +1917,48 @@
     "details": [
       "Roskilde, Denmark (Margarethe Fjorden) and Reykjavík (2013)",
       "performance, choirs, sign language, flags, pebbles, nail clippers, flashlights, bells, balloons"
-    ]
+    ],
+    "title_is": "Kross"
   },
   {
     "number": "106",
-    "title_en": "Small sketches",
+    "title_en": "Litlar myndir (Small drawings)",
     "year": "1996",
     "materials": [
       "ink, pencil, biro on used paper"
     ],
     "dimensions": "15 x 21 cm – 21 x 30cm",
     "location": "Private collections and the artist",
-    "details": []
+    "details": [],
+    "title_is": "Litlar myndir"
   },
   {
     "number": "107",
-    "title_en": "Ævintýr (Folktale)",
+    "title_en": "Folktale",
     "year": "1997",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "performance, costumes, electrical conduit, text"
-    ]
+    ],
+    "title_is": "Ævintýr"
   },
   {
     "number": "108",
-    "title_en": "Augntal II (Eyetalk II)",
+    "title_en": "Eyetalk II",
     "year": "1998",
     "materials": [],
     "dimensions": "",
     "location": "Reykjavík Art Museum and the artist",
     "details": [
       "video, spoken text"
-    ]
+    ],
+    "title_is": "Augntal II"
   },
   {
     "number": "109",
-    "title_en": "Hrognkelsaveifa (Lumpfish Waver)",
+    "title_en": "Waving a lumpfish",
     "year": "1998",
     "materials": [
       "metal farm equipment, chains, small metal plates"
@@ -1941,44 +1967,48 @@
     "location": "owned by the artist",
     "details": [
       "outdoor work"
-    ]
+    ],
+    "title_is": "Hrognkelsaveifa"
   },
   {
     "number": "110",
-    "title_en": "Spud",
+    "title_en": "Spud  (Bern)",
     "year": "1998",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "performance"
-    ]
+    ],
+    "title_is": "Spud  (Bern)"
   },
   {
     "number": "111",
-    "title_en": "Göngur (Round Ups)",
+    "title_en": "Spud  (Bern)",
     "year": "1998",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "sound sculpture"
-    ]
+    ],
+    "title_is": "Spud  (Bern)"
   },
   {
     "number": "112",
-    "title_en": "Smáhlutir (Small Object)",
+    "title_en": "Small Object",
     "year": "1998",
     "materials": [],
     "dimensions": "~10 x 10 x 40 cm",
     "location": "private collection",
     "details": [
       "mixed materials"
-    ]
+    ],
+    "title_is": "Smáhlutir"
   },
   {
     "number": "113",
-    "title_en": "Silfurstólar (Silver Chairs)",
+    "title_en": "Silver chairs",
     "year": "1999",
     "materials": [],
     "dimensions": "4.8 x 9.7 x 8 / 4.8 x 5 x 2.5 / 2.5 x 2.5 x 5 cm",
@@ -1986,33 +2016,36 @@
     "details": [
       "silver",
       "series in different sizes and shapes"
-    ]
+    ],
+    "title_is": "Silfur stólar"
   },
   {
     "number": "114",
-    "title_en": "Pendúll dzt (Pendulum dzt)",
+    "title_en": "Pendulum",
     "year": "1999",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "performance, videos, ropes, furniture, costumes"
-    ]
+    ],
+    "title_is": "Pendúll"
   },
   {
     "number": "115",
-    "title_en": "Kúplingsdiskur (Clutch Disc)",
+    "title_en": "Clutch Disc",
     "year": "1999",
     "materials": [],
     "dimensions": "",
     "location": "Reykjavík Art Museum",
     "details": [
       "video, sound, silver chairs, decanter, red wine"
-    ]
+    ],
+    "title_is": "Kúplingsdiskur"
   },
   {
     "number": "116",
-    "title_en": "Að juða sér rangsælis (Writhing Anticlockwise)",
+    "title_en": "To turn slowly counterclockwise",
     "year": "2000",
     "materials": [],
     "dimensions": "",
@@ -2020,55 +2053,60 @@
     "details": [
       "performance, videos, sound, smoke machines, lines, ladders, sheets",
       "cooperation with Kitchen Motors and Stilluppsteypa"
-    ]
+    ],
+    "title_is": "Að juða sér rangsælis"
   },
   {
     "number": "117",
-    "title_en": "Þrígaldur Þursavænn (Triple Magic Fit for Giants)",
+    "title_en": "Triple Magic Fit for Giants",
     "year": "2000",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "performance, choir, sound, 2 diggers, small moving toy car"
-    ]
+    ],
+    "title_is": "Þrígaldur Þursavænn"
   },
   {
     "number": "118",
-    "title_en": "Nótt í London (Night in London)",
+    "title_en": "Night in London",
     "year": "2000",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "sound sculpture on CD"
-    ]
+    ],
+    "title_is": "Nótt í London"
   },
   {
     "number": "119",
-    "title_en": "Föt (Clothes)",
+    "title_en": "Clothes",
     "year": "2000",
     "materials": [
       "cloth, paint"
     ],
     "dimensions": "",
     "location": "owned by the artist",
-    "details": []
+    "details": [],
+    "title_is": "Föt"
   },
   {
     "number": "120",
-    "title_en": "Spilaborg (House of Cards)",
+    "title_en": "House of cards for Ferðafuða 2003",
     "year": "2002",
     "materials": [
       "playing cards, paper"
     ],
     "dimensions": "17 x 11.5 cm",
     "location": "Icelandic Folk and Outsider Art Museum",
-    "details": []
+    "details": [],
+    "title_is": "Spilaborg for Ferðafuða 2003"
   },
   {
     "number": "121",
-    "title_en": "Grað og Bú (Horny and Farm)",
+    "title_en": "Horny and Farm",
     "year": "2002",
     "materials": [
       "audio tape"
@@ -2081,29 +2119,32 @@
     "materials_is": [
       "hljóðband"
     ],
-    "location_is": "í eigu höfundar"
+    "location_is": "í eigu höfundar",
+    "title_is": "Grað og Bú"
   },
   {
     "number": "122",
-    "title_en": "Strunz (Flounce)",
+    "title_en": "Flounce",
     "year": "2002",
     "materials": [
       "installation, video, bicycles, transport container, painted metal sculptures"
     ],
     "dimensions": "",
     "location": "owned by the artist",
-    "details": []
+    "details": [],
+    "title_is": "Strunz"
   },
   {
     "number": "123",
-    "title_en": "Bílatal – Óðurinn til bílsins (Tribute to the Automobile)",
+    "title_en": "Tribute to the automobile",
     "year": "2002",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist, manuscript with The Living Art Museum",
     "details": [
       "performance, spoken text"
-    ]
+    ],
+    "title_is": "Bílatal - Óðurinn til bílsins"
   },
   {
     "number": "124",
@@ -2124,29 +2165,31 @@
   },
   {
     "number": "125",
-    "title_en": "YXN (Cows)",
+    "title_en": "YXN",
     "year": "2002",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "video of cows in heat, spoken text"
-    ]
+    ],
+    "title_is": "YXN"
   },
   {
     "number": "126",
-    "title_en": "Bjartsýnisbrú (Bridge of Optimism)",
+    "title_en": "Bridge of Optimism",
     "year": "2003",
     "materials": [
       "paper, ink"
     ],
     "dimensions": "29.7 x 21 cm",
     "location": "Icelandic Folk and Outsider Art Museum",
-    "details": []
+    "details": [],
+    "title_is": "Bjartsynisbrú"
   },
   {
     "number": "127",
-    "title_en": "Viðtöl um dauðann (Conversations about Death)",
+    "title_en": "Conversations about Death",
     "year": "2003",
     "materials": [
       "video",
@@ -2164,18 +2207,20 @@
       "hljóðband",
       "blandað efni"
     ],
-    "location_is": "Listasafn Íslands"
+    "location_is": "Listasafn Íslands",
+    "title_is": "Viðtöl um dauðann"
   },
   {
     "number": "128",
-    "title_en": "Bréf til Ragnars (Letter to Ragnar)",
+    "title_en": "Letter to Ragnar",
     "year": "2003",
     "materials": [],
     "dimensions": "29.7 x 21 cm",
     "location": "owned by the artist",
     "details": [
       "letter to Ragnar Kjartansson, audio recording"
-    ]
+    ],
+    "title_is": "Bréf til Ragnars"
   },
   {
     "number": "129",
@@ -2200,29 +2245,31 @@
   },
   {
     "number": "130",
-    "title_en": "Brim (Surf)",
+    "title_en": "Surf",
     "year": "2005",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "video performance, household objects, mixed media"
-    ]
+    ],
+    "title_is": "Brim"
   },
   {
     "number": "131",
-    "title_en": "Stökkbreytingar (Mutations)",
+    "title_en": "Mutations",
     "year": "2005",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "performance related to Bílatal"
-    ]
+    ],
+    "title_is": "Stökkbreytingar"
   },
   {
     "number": "132",
-    "title_en": "Foss (Waterfall)",
+    "title_en": "Waterfall",
     "year": "2006",
     "materials": [
       "mixed media"
@@ -2235,29 +2282,32 @@
     "materials_is": [
       "blandað efni"
     ],
-    "location_is": "í eigu höfundar"
+    "location_is": "í eigu höfundar",
+    "title_is": "Foss"
   },
   {
     "number": "133",
-    "title_en": "Fæðing (Birth)",
+    "title_en": "Birth",
     "year": "2006",
     "materials": [],
     "dimensions": "",
     "location": "private collection and the artist",
     "details": [
       "performance, video, sound"
-    ]
+    ],
+    "title_is": "Fæðing"
   },
   {
     "number": "134",
-    "title_en": "Ég (I)",
+    "title_en": "I",
     "year": "2006",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "broadcast performance"
-    ]
+    ],
+    "title_is": "Ég"
   },
   {
     "number": "135",
@@ -2274,18 +2324,19 @@
   },
   {
     "number": "136",
-    "title_en": "Minning Þórarins Nefjólfssonar (In Memory of Þórarinn Nefjólfsson)",
+    "title_en": "In memory of Þórarinn Nefjólfsson",
     "year": "2007",
     "materials": [
       "installation, video, performance, painted plastic sculptures"
     ],
     "dimensions": "",
     "location": "private collections and the artist",
-    "details": []
+    "details": [],
+    "title_is": "Minning Þórarinns Nefjólfssonar"
   },
   {
     "number": "137",
-    "title_en": "Jón",
+    "title_en": "Jón Nýpur",
     "year": "2008",
     "materials": [
       "cut in grass with added wood at Mjóaból, Haukadal"
@@ -2294,7 +2345,8 @@
     "location": "owned by the artist",
     "details": [
       "name cut in grass at Nýpur, Skarðsströnd and"
-    ]
+    ],
+    "title_is": "Jón Nýpur"
   },
   {
     "number": "138",
@@ -2317,29 +2369,31 @@
   },
   {
     "number": "139",
-    "title_en": "Taðskegglingar (Dungbeards)",
+    "title_en": "The dung beards",
     "year": "2009",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "performance, collage, chairs, fire"
-    ]
+    ],
+    "title_is": "Taðskegglingar"
   },
   {
     "number": "140",
-    "title_en": "G-ljóð (G-Poem)",
+    "title_en": "G-poem",
     "year": "2009",
     "materials": [],
     "dimensions": "29.7 x 21 cm",
     "location": "owned by the artist",
     "details": [
       "collaged manuscript"
-    ]
+    ],
+    "title_is": "G-Ljóð"
   },
   {
     "number": "141",
-    "title_en": "Sköpun (Mótun) lands (Creation of Land)",
+    "title_en": "Mótun) lands (Creation of Land",
     "year": "2010",
     "materials": [],
     "dimensions": "1100 x 330 cm",
@@ -2347,7 +2401,8 @@
     "details": [
       "stone and granite tiles mounted on wall (Askja, University of Iceland)",
       "University of Iceland Art Collection"
-    ]
+    ],
+    "title_is": "Sköpun"
   },
   {
     "number": "142",
@@ -2364,51 +2419,55 @@
   },
   {
     "number": "143",
-    "title_en": "Gengið á vatni (Walking on Water)",
+    "title_en": "Walking on Water",
     "year": "2012",
     "materials": [
       "jasmonite plaster sculptures"
     ],
     "dimensions": "four figures ~ 165 x 146 x 81, ~ 135 x 85 x 156, ~ 164 x 95 x 70, ~ 195 x 142 x 77 cm",
     "location": "owned by the artist",
-    "details": []
+    "details": [],
+    "title_is": "Gengið á vatni"
   },
   {
     "number": "144",
-    "title_en": "Jørgen múrari (Jørgen the Mason)",
+    "title_en": "Jörgen the mason",
     "year": "2013",
     "materials": [
       "plaster heads, video"
     ],
     "dimensions": "seven heads, each ~25 x 30 x 21 cm",
     "location": "owned by the artist",
-    "details": []
+    "details": [],
+    "title_is": "Jörgen múrari"
   },
   {
     "number": "145",
-    "title_en": "Stuna (Sigh)",
+    "title_en": "Sigh",
     "year": "2013",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "performance, choir, text, balloon, organ pipe, air pump, video"
-    ]
+    ],
+    "title_is": "Stuna"
   },
   {
     "number": "146",
-    "title_en": "Einsemd (Solitude)",
+    "title_en": "Solitude",
     "year": "2013",
     "materials": [
       "performance, plaster casts, music"
     ],
     "dimensions": "350 x 350 x 120 cm",
     "location": "Reykjavík Art Museum",
-    "details": []
+    "details": [],
+    "title_is": "Einsemd"
   },
   {
     "number": "147",
-    "title_en": "Sólúr (Sundial)",
+    "title_en": "Sundials",
     "year": "2015",
     "materials": [],
     "dimensions": "280 x 150 x 140 cm",
@@ -2416,55 +2475,60 @@
     "details": [
       "basalt columns, carved text, iron stones with text (outdoor work)",
       "Skagaströnd municipality"
-    ]
+    ],
+    "title_is": "Sólúr Skagarstönd"
   },
   {
     "number": "148",
-    "title_en": "Kúakyn í hættu (The Endangered Cow)",
+    "title_en": "The endangered cow",
     "year": "2015",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "performance, choir, actors, video, symphony orchestra"
-    ]
+    ],
+    "title_is": "Kúakyn í hættu"
   },
   {
     "number": "149",
-    "title_en": "Vakning (Awakening)",
+    "title_en": "Awaking",
     "year": "2015",
     "materials": [],
     "dimensions": "",
     "location": "owned by the artist",
     "details": [
       "performance, alarm clocks"
-    ]
+    ],
+    "title_is": "Vakning"
   },
   {
     "number": "150",
-    "title_en": "Sorg (Sorrow)",
+    "title_en": "Sorrow",
     "year": "2016",
     "materials": [],
     "dimensions": "40 x 50 cm",
     "location": "private collection",
     "details": [
       "drawing on water tap assembly instructions"
-    ]
+    ],
+    "title_is": "Sorg"
   },
   {
     "number": "151",
-    "title_en": "Ritvél (Typewriter)",
+    "title_en": "Typewriter",
     "year": "2016",
     "materials": [
       "performance, typewriters, paper, cardboard, letters"
     ],
     "dimensions": "",
     "location": "owned by the artist",
-    "details": []
+    "details": [],
+    "title_is": "Ritvél"
   },
   {
     "number": "152",
-    "title_en": "Vatnslitamyndir (Watercolour Paintings)",
+    "title_en": "Watercolours",
     "year": "2018",
     "materials": [
       "paper, watercolour"
@@ -2473,6 +2537,7 @@
     "location": "private collections and the artist",
     "details": [
       "series of ~30, all different"
-    ]
+    ],
+    "title_is": "Vatnslitamyndir"
   }
 ]
