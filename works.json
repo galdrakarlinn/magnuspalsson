@@ -84,7 +84,7 @@
         "is": "Þiljur"
       },
       "year": 1995,
-      "dimensions": null,
+      "dimensions": "1. 230 x 270 cm 2. 230 x 186 cm 3. 230 x 173 cm",
       "description": {
         "en": "The work \"Þiljur\" (Cladding) is a large-scale installation comprising three panels situated in the entrance hall of the Anatomy Department at the University of Iceland (Læknagarður). The work integrates pagan Norse mythology with scientific anatomy.\n\nThe core concept is the creation myth from Snorri Sturluson's Edda, detailing how the sky and earth were formed from the body of the giant Ymir. The text inscribed on the panels describes how the Earth was made from Ymir's flesh, the sea and waterways from his blood, the cliffs and mountains from his bones, the sky was created from his skull, and the clouds were formed from his brain.\n\nSince the work was created for a medical institution, the creation myth and the description of Ymir's body parts are juxtaposed with anatomical terms in Icelandic. These terms are drawn from the glossary compiled by Guðmundur Hannesson, a professor of medicine in the early 20th century, who translated Latin anatomical terms into Icelandic. Magnús Pálsson notes that Hannesson's imaginative use of the Icelandic language creates such \"beauty that it could be called poetry\".\n\nThe text is carved and written into wood using various computer typefaces.\n\nIn 2002, the work was reinstalled at Kunstquartier Bethanien in Berlin in a new version using paper scrolls and ink, continuing the exploration of text, space, and material presence.",
         "is": "Verkið \"Þiljur\" er stór innsetning sem samanstendur af þremur þiljum í anddyri Líffærafræðistofnunar Háskóla Íslands (Læknagarði). Verkið vinnur með sameiningu heiðinnar norrænnar goðafræði og vísindalegrar líffærafræði.\n\nGrunnhugmyndin er sköpunarsagan úr Eddu Snorra Sturlusonar, þar sem himinn og jörð eru sköpuð úr líkama jötunsins Ýmis. Verkinu er ætlað að sýna hvernig jörðin varð til af holdi Ýmis, sær og votnin af blóði hans, björgin af beinunum, himinninn var gerður úr hausi hans, og skýin voru sköpuð úr heila hans.\n\nÞar sem verkið er gert fyrir vísindastofnun eru sköpunarsagan og lýsingar á líkamshlutum Ýmis tengdar líffærafræðilegum heitum á íslensku. Þessi heiti eru fengin úr orðalista Guðmundar Hannessonar, prófessors í læknisfræði á fyrri hluta 20. aldar, sem þýddi latnesk líffæraheiti yfir á íslensku. Listamaðurinn segir að þessi þýðing Guðmundar sé „slíkrar fegurðar að það megi kallast ljóð\".\n\nTextinn er ritaður og rist í tré með mismunandi tölvualfabetum (tölvuletri).\n\nÁrið 2002 var verkið sett upp á ný í Kunstquartier Bethanien í Berlín í nýrri útgáfu með pappírsrenningum og bleki, þar sem haldið var áfram könnun á texta, rými og efniskennd."
@@ -182,9 +182,7 @@
       ],
       "materials": {
         "en": [
-          "wood",
-          "paper",
-          "ink"
+          "three wooden panels, glass, egg, carved texts in different fonts relating to body parts"
         ],
         "is": [
           "tré",
@@ -667,7 +665,7 @@
         "is": "Gengið á vatni"
       },
       "year": 2012,
-      "dimensions": "~ 165 x 146 81, ~ 135 x 85 x 156, ~ 164 x 95 x 70,  ~ 195 x 142 x 77 cm",
+      "dimensions": "four figures ~ 165 x 146 x 81, ~ 135 x 85 x 156, ~ 164 x 95 x 70, ~ 195 x 142 x 77 cm",
       "description": {
         "en": "The work \"Walking on Water\" directly references the mythological idea of transcendental movement. Magnús Pálsson utilizes this concept to investigate materiality, gravity, and perception through an innovative arrangement.\n\nThe installation may involve creating a surface of water or a water reflection in an unexpected location within the space. By simply objectifying the impossible, the artist prompts the viewer to question the limitations of physics.\n\nThe work was exhibited at Kling & Bang in March 2012, accompanied by a performance called \"Spud\". This emphasizes the movement itself and the physical experience of the artist or participant in the face of the impossible. The performance transforms the work from a static sculpture into a living reflection on faith, power, and perception.",
         "is": "Verkið \"Gengið á vatni\" vísar beint til hinnar goðsögulegu hugmyndar um yfirskilvitlega hreyfingu. Magnús Pálsson notar þessa hugmynd til að kanna efniskennd, þyngdarafl og skynjun með nýstárlegri uppsetningu.\n\nInnsetningin getur falist í því að skapa yfirborð vatns eða endurkast vatns á óvæntum stað í rýminu. Með þessari einföldu hlutgervingu hið ómögulega, fær listamaðurinn áhorfandann til að spyrja sig um takmarkanir eðlisfræðinnar.\n\nVerkið var sýnt í Kling & Bang í mars 2012, ásamt gjörningi sem nefndist \"Spud\". Þetta leggur áherslu á hreyfinguna sjálfa og líkamlega reynslu listamannsins eða þátttakandans andspænis hinu ómögulega. Gjörningurinn umbreytir verkinu úr kyrrstæðum skúlptúr í lifandi speglun á trú, krafti og skynjun."
@@ -808,7 +806,7 @@
       "searchText": "walking on water gengið á vatni 2012 kling og bang installation performance magnús pálsson book thumbnail added",
       "materials": {
         "en": [
-          "plaster"
+          "jasmonite plaster sculptures"
         ],
         "is": [
           "gifs"
@@ -943,7 +941,7 @@
         "is": "Vatnslitamyndir (fyrri verk)"
       },
       "year": 1977,
-      "dimensions": "73 x 53 cm",
+      "dimensions": "~73 x 53 cm",
       "description": {
         "en": "Early watercolour paintings and landscape studies.",
         "is": ""
@@ -1045,12 +1043,10 @@
       "exhibitions": [],
       "materials": {
         "en": [
-          "paper",
-          "watercolor"
+          "paper, watercolour"
         ],
         "is": [
-          "pappír",
-          "vatnslitur"
+          "pappír, vatnslitur"
         ]
       },
       "searchText": "Watercolours (Early Works) Vatnslitamyndir (fyrri verk) 1977 paper watercolor pappír vatnslitur watercolor vatnslitur painting nature Early watercolour paintings and landscape studies. book thumbnail added",
@@ -1058,8 +1054,8 @@
       "mediaStatus": "images draft",
       "ownership": {
         "owner": "owned by the artist",
-        "owner_is": "í eigu höfundar",
-        "owner_en": "owned by the artist"
+        "owner_is": "einkasöfn og listamaðurinn",
+        "owner_en": "private collection and the artist"
       },
       "medium": {
         "en": [
@@ -1989,7 +1985,7 @@
         "is": "Ferð Veggfóður  (Reise)"
       },
       "year": 1965,
-      "dimensions": "5 strips of 6m x 60.5 cm",
+      "dimensions": "five strips of 600 x 60.5 cm",
       "description": {
         "en": "Magnús Pálsson (b. 1929) actively participated in the avant-garde of Icelandic theater and visual arts in the 1960s and 1970s, collaborating with Dieter Roth and later the SÚM group. Magnús has had a significant influence on contemporary Icelandic art, particularly through his teaching at the Icelandic College of Arts and Crafts, where he and Hildur Hákonardóttir initiated the establishment of the new art department. Magnús represented Iceland at the Venice Biennale in visual arts in 1980. In 1994, a retrospective exhibition of his works was held at Kjarvalsstaðir. The original version of the work \"Ferð\" (Journey) is owned by the Living Art Museum but was recreated for Magnús Pálsson's exhibition at Kjarvalsstaðir in 1994. The work consists of 63 individual ink drawings joined together. The drawings are printed repeatedly, one over the other, onto long paper strips, creating a kind of wallpaper. The work is not least about the journey that the process of making it entails and the outcome, as each time it is made, the result is different. It is possible to connect the working method with another work in this room called \"Kál\" (Cabbage), where drawings are similarly joined together and printed.",
         "is": "Magnús Pálsson (f. 1929) tók virkan þátt í framúrstefnu íslenskrar leik- og myndlistar á 6. og 7. áratug 20. aldar og átti m.a. í farsælu samstarfi við Dieter Roth og síðar SÚM-hópinn. Magnús hefur haft rík áhrif á íslenska samtímalist, m.a. í gegnum kennslustörf sem hann sinnti um árabil, en hann átti, ásamt Hildi Hákonardóttur, frumkvæði að stofnun nýlistadeildar við Myndlista-og handíðaskóla Íslands. Magnús var fulltrúi Íslands á Feneyjatvíæringnum í myndlist 1980. Árið 1994 var sett upp yfirlitssýning á verkum hans á Kjarvalsstöðum. Frumgerð verksins Ferð er í eigu Nýlistasafnsins en var endurgert vegna sýningar Magnúsar Pálssonar að Kjarvalsstöðum 1994. Verkið er gert úr 63 stökum tússteikningum sem er skeytt saman. Teikningarnar eru prentaðar aftur og aftur og hver yfir aðra á langa pappírsörk svo úr verður til nokkurs konar veggfóður. Verkið snýst ekki síst um þá ferð sem vinnan við það felur í sér og útkomuna því að í hvert skipti sem það er gert er útkoman öðruvísi. Mögulegt er að tengja vinnuaðferð þess við annað verk í þessum sal sem kallast Kál þar sem teikningum er skeytt saman og þær prentaðar á svipaðan máta."
@@ -2059,17 +2055,17 @@
       ],
       "materials": {
         "en": [
-          "photosensitive paper"
+          "photosensitive paper (ammonia print)"
         ],
         "is": [
-          "ljósnæmur pappír"
+          "ljósnæmur pappír (ammoníakprent)"
         ]
       },
       "searchText": "Journey, Wallpaper Ferð Veggfóður  (Reise) 1965 photosensitive paper ljósnæmur pappír print installation prentgrafík innsetning print installation space Magnús Pálsson (b. 1929) actively participated in the avant-garde of Icelandic theater and visual arts in the 1960s and 1970s, collaborating with Dieter Roth and later the SÚM group. Magnús has had a significant influence on contemporary Icelandic art, particularly through his teaching at the Icelandic College of Arts and book thumbnail added",
       "ownership": {
         "owner": "The Living Art Museum & Reykjavík Art Museum",
         "owner_is": "Nýlistasafnið og Listasafn Reykjavíkur",
-        "owner_en": "The Living Art Museum & Reykjavík Art Museum",
+        "owner_en": "The Living Art Museum and Reykjavík Art Museum",
         "notes": {
           "en": "Original version from 1965",
           "is": "Frumgerð frá 1965"
@@ -2579,16 +2575,10 @@
       "exhibitions": [],
       "materials": {
         "en": [
-          "board",
-          "paper",
-          "paint",
-          "plastic"
+          "plastic, board, paper, paint, fish"
         ],
         "is": [
-          "spjald",
-          "pappír",
-          "málning",
-          "plast"
+          "plast,pappi, pappír, málning, fiskur"
         ]
       },
       "searchText": "Camouflage, Tros, Tarnung Dulargervi, Tros, Tarnung 1962 board paper paint plastic spjald pappír málning plast painting collage málverk klippimynd painting camouflage Camouflage work exploring themes of concealment and visual deception. book thumbnail added",
@@ -2596,7 +2586,7 @@
       "mediaStatus": "images draft",
       "ownership": {
         "owner": "The National Gallery of Iceland",
-        "owner_is": "Listsafn Íslands",
+        "owner_is": "Listasafn Íslands",
         "owner_en": "The National Gallery of Iceland"
       },
       "medium": {
@@ -2846,8 +2836,7 @@
       "exhibitions": [],
       "materials": {
         "en": [
-          "typewriters",
-          "paper"
+          "performance, typewriters, paper, cardboard, letters"
         ],
         "is": [
           "ritvélar",
@@ -4062,7 +4051,7 @@
         "en": "Untitled (Gerður)",
         "is": "Án titils (Verk hjá Gerði)"
       },
-      "year": "1963-66",
+      "year": "1963",
       "dimensions": "~ 91 x 101 cm",
       "description": {
         "en": "",
@@ -4110,17 +4099,17 @@
       "exhibitions": [],
       "materials": {
         "en": [
-          "paper"
+          "screen print, watercolour, monotype"
         ],
         "is": [
-          "pappír"
+          "prent, vatnslitir"
         ]
       },
       "searchText": "án titils untitled gerður print prent 1963 1966 magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "private collection",
         "owner_is": "einkaeign",
-        "owner_en": "private collection"
+        "owner_en": "Private collection"
       },
       "series": "kál",
       "contentStatus": "draft",
@@ -4946,8 +4935,7 @@
       ],
       "materials": {
         "en": [
-          "plastic",
-          "video"
+          "installation, video, performance, painted plastic sculptures"
         ],
         "is": [
           "plast",
@@ -4958,7 +4946,7 @@
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
-        "owner_en": "owned by the artist",
+        "owner_en": "private collections and the artist",
         "url": "https://listasafnreykjavikur.is/safneign?q=Minning+Þórarins+Nefjólfssonar",
         "catalogNumber": "108204",
         "notes": "Sculpture, 2007"
@@ -6414,10 +6402,7 @@
       "exhibitions": [],
       "materials": {
         "en": [
-          "eggs",
-          "nails",
-          "audio tape",
-          "paper"
+          "text in P language, paper, eggs"
         ],
         "is": [
           "egg",
@@ -6525,14 +6510,10 @@
       ],
       "materials": {
         "en": [
-          "wood",
-          "paint",
-          "brass"
+          "wood, paint, brass plates"
         ],
         "is": [
-          "tré",
-          "málning",
-          "málmur"
+          "viður, málning, messingplötur"
         ]
       },
       "searchText": "In memory of a rabbit, Barabbit Minning kanínunnar, Barabbit 1979 wood paint brass tré málning málmur sculpture skúlptúr sculpture animals humor A work by Magnús Pálsson from 1979. This piece demonstrates his continued exploration of artistic concepts and materials during this period of his career. book thumbnail added",
@@ -6540,7 +6521,7 @@
       "mediaStatus": "images draft",
       "ownership": {
         "owner": "owned by the artist",
-        "owner_is": "í eigu höfundar",
+        "owner_is": "eign listamannsins",
         "owner_en": "owned by the artist"
       },
       "medium": {
@@ -6623,7 +6604,7 @@
       ],
       "materials": {
         "en": [
-          "audio tape"
+          "Water colour, acrylic, pencil, card"
         ],
         "is": [
           "hljóðband"
@@ -6634,8 +6615,8 @@
       "mediaStatus": "images draft",
       "ownership": {
         "owner": "various owners and the artist",
-        "owner_is": "ýmsir, í eigu höfundar",
-        "owner_en": "various owners and the artist"
+        "owner_is": "ýmis söfn, einkasöfn og listamaðurinn",
+        "owner_en": "private collection"
       },
       "medium": {
         "en": [
@@ -6874,7 +6855,7 @@
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
-        "owner_en": "owned by the artist",
+        "owner_en": "Reykjavík Art Museum",
         "url": "https://listasafnreykjavikur.is/safneign/listamadur/id/11525A97-BA7F-4B3C-B035-603961A0E971",
         "catalogNumber": "93882",
         "notes": "Multimedia work, 1999"
@@ -7316,12 +7297,10 @@
       ],
       "materials": {
         "en": [
-          "wood",
-          "paint"
+          "wood, paint"
         ],
         "is": [
-          "tré",
-          "málning"
+          "viður, málning"
         ]
       },
       "searchText": "In memory of the Bakki Brothers (Light-Compartment) Minning Bakkabræðra, Ljóshirsla 1977 wood paint tré málning sculpture skúlptúr sculpture folklore humor A chest of drawers with three drawers, two of which are partially open. The piece features an inscription reading: \"In memory of the Bakki Brothers, and their feat of carrying light into a windowless house in their caps.\" This references an Icelandic folk tale about three brothers and their humorous book thumbnail added",
@@ -7884,27 +7863,17 @@
       ],
       "materials": {
         "en": [
-          "cloth",
-          "paper",
-          "wire",
-          "plaster",
-          "lacquer",
-          "paint"
+          "dresses, wire, lacquer, paint"
         ],
         "is": [
-          "textíll",
-          "pappír",
-          "vír",
-          "gifs",
-          "lakk",
-          "málning"
+          "kjólar, vír, lakk, málning"
         ]
       },
       "searchText": "The best peices Bestu stykkin, Frúöld 1965 cloth paper wire plaster lacquer paint textíll pappír vír gifs lakk málning sculpture skúlptúr sculpture humor identity Three surviving sculptures from a larger anti-art series of cloth figures called Frúöld, created in 1965 and exhibited at Magnús Pálsson's debut solo exhibition at Ásmundarsalur in 1967. Made by stuffing old cloths with paper, stiffening with glue and paint until hard, then removing the paper so the cloth figures book thumbnail added",
       "ownership": {
         "owner": "The Living Art Museum",
-        "owner_is": "Nýlistasafnið",
-        "owner_en": "The Living Art Museum",
+        "owner_is": "Nýlistasafnið á þau 3 verk sem til eru",
+        "owner_en": "The Living Art Museum owns the 3 existing pieces",
         "url": "https://sarpur.is/is/collection/item/1396243/",
         "catalogNumber": "N-277"
       },
@@ -8179,8 +8148,8 @@
     {
       "id": "vidtol_um_daudann_2011",
       "title": {
-        "en": "Viðtöl um dauðann (Conversations about Death)",
-        "is": ""
+        "en": "Conversations about Death",
+        "is": "Viðtöl um dauðann"
       },
       "year": "2003",
       "dimensions": null,
@@ -9281,7 +9250,7 @@
       "ownership": {
         "owner": "The Living Art Museum have manuscript, owned by the artist",
         "owner_is": "Nýlistasafnið,  í eigu höfundar",
-        "owner_en": "The Living Art Museum have manuscript, owned by the artist",
+        "owner_en": "owned by the artist, manuscript with The Living Art Museum",
         "url": "https://listasafnreykjavikur.is/safneign?q=Óður+til+bílsins",
         "catalogNumber": "100733",
         "notes": "Installation, 2002"
@@ -9557,7 +9526,7 @@
         "is": "Bréf til Kristjáns"
       },
       "year": 1990,
-      "dimensions": null,
+      "dimensions": "24 x 21 cm",
       "description": {
         "en": "PLACEHOLDER: Small work from 1990 using Wingdings font, created as a letter to Kristján. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this typography work.",
         "is": ""
@@ -9626,7 +9595,7 @@
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
-        "owner_en": "owned by the artist"
+        "owner_en": "private collection"
       },
       "medium": {
         "en": [
@@ -9647,7 +9616,7 @@
         "is": "Bréf til Ragnars"
       },
       "year": 2003,
-      "dimensions": "A4",
+      "dimensions": "29.7 x 21 cm",
       "description": {
         "en": "PLACEHOLDER: Letter work from 2003 to Ragnar, including audio recording and documentation. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
         "is": ""
@@ -10363,7 +10332,7 @@
       ],
       "materials": {
         "en": [
-          "cloth"
+          "cloth, paint"
         ],
         "is": [
           "textíll"
@@ -10512,7 +10481,7 @@
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
-        "owner_en": "owned by the artist"
+        "owner_en": "various museums and collections and the artist"
       },
       "medium": {
         "en": [
@@ -10894,7 +10863,7 @@
         "is": "De kommer med kista og henter meg"
       },
       "year": 1985,
-      "dimensions": "42 x 29.7 x 0.7 cm",
+      "dimensions": "book 42 x 29.7 x 0.7 cm",
       "description": {
         "en": "PLACEHOLDER: Performance work from 1985 (They come with coffin and fetch me). Features performances in Oslo and Reykjavik with stage sets, costumes, and student productions. Includes video documentation. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
         "is": ""
@@ -11106,7 +11075,7 @@
         "is": "Duld-blub, 6 pund"
       },
       "year": 1976,
-      "dimensions": null,
+      "dimensions": "18 x 23 x 2 cm",
       "description": {
         "en": "PLACEHOLDER: Complex work from 1976 involving wordplay titles, 6 pound elements, and small plaster books. Features various sculptural components and experimental language. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
         "is": ""
@@ -11173,7 +11142,7 @@
       "ownership": {
         "owner": "private collection",
         "owner_is": "einkaeign",
-        "owner_en": "private collection"
+        "owner_en": "private collections"
       },
       "medium": {
         "en": [
@@ -11232,8 +11201,7 @@
       "exhibitions": [],
       "materials": {
         "en": [
-          "plaster",
-          "brass"
+          "plaster, brass"
         ],
         "is": [
           "gifs",
@@ -11243,8 +11211,8 @@
       "searchText": "Mum-wow, good-boop, bum-mud, but-tub Mum-wow, good-boop, bum-mud, but-tub 1976 plaster brass gifs málmur sculpture book art skúlptúr bóklist sculpture book language positive/negative space book thumbnail added",
       "ownership": {
         "owner": "owned by the artist",
-        "owner_is": "í eigu höfundar",
-        "owner_en": "owned by the artist"
+        "owner_is": "einkasöfn, listamaðurinn og eitt óþekkt",
+        "owner_en": "private collection, the artist and one unknown"
       },
       "contentStatus": "draft",
       "mediaStatus": "needs images",
@@ -11540,7 +11508,7 @@
         "en": "Mountains",
         "is": "Fjöll"
       },
-      "year": "1969-2023",
+      "year": "1969",
       "dimensions": "~12 x 12 x 35 cm",
       "description": {
         "en": "Ceramic pieces with mountain (fjall) themes, featuring various ceramic works with many variations.",
@@ -11638,14 +11606,10 @@
       ],
       "materials": {
         "en": [
-          "ceramic",
-          "paint",
-          "rubber"
+          "ceramic, paint, 1 rubber, many variations"
         ],
         "is": [
-          "leir",
-          "málning",
-          "gúmmí"
+          "keramik, málning, 1 gúmmí, mörg afbrigði"
         ]
       },
       "searchText": "Mountains Fjöll 1969-2023 ceramic paint rubber leir málning gúmmí sculpture ceramic skúlptúr keramík sculpture nature Ceramic pieces with mountain (fjall) themes, featuring various ceramic works with many variations. book thumbnail added",
@@ -11653,7 +11617,7 @@
       "mediaStatus": "images draft",
       "ownership": {
         "owner": "The National Gallery of Iceland, The Living Art Museum, private collections and the artist",
-        "owner_is": "Listasafn Íslands, Nýlistasafnið, einkasöfn og höfundur",
+        "owner_is": "Listasafn Íslands, Nýlistasafnið, einkasöfn og listamaðurinn",
         "owner_en": "The National Gallery of Iceland, The Living Art Museum, private collections and the artist"
       },
       "medium": {
@@ -11889,8 +11853,8 @@
     {
       "id": "foss_waterfall_2006",
       "title": {
-        "en": "Foss (Waterfall)",
-        "is": ""
+        "en": "Waterfall",
+        "is": "Foss"
       },
       "year": "2006",
       "dimensions": null,
@@ -13012,10 +12976,10 @@
       ],
       "materials": {
         "en": [
-          "paper"
+          "paper, pencil, ink"
         ],
         "is": [
-          "pappír"
+          "pappír, blýantur, blek"
         ]
       },
       "searchText": "Cock, raven, dog, pig. Hani, krummi, hundur, svin 1982 paper pappír drawing teikning painting animals Multi-part work featuring animals and musical notation, exhibited at Galleri Gangur in 1982. The work combines drawings and musical compositions featuring various animals: hani (cockerel), krummi (crow), hundur (dog), and svin (pig), along with birds, horses, and mice. The integration of animal imagery with musical notation suggests an exploration of book thumbnail added",
@@ -13023,8 +12987,8 @@
       "mediaStatus": "images draft",
       "ownership": {
         "owner": "owned by the artist,",
-        "owner_is": "í eigu höfundar",
-        "owner_en": "owned by the artist,"
+        "owner_is": "eign listamannsins",
+        "owner_en": "owned by the artist"
       },
       "medium": {
         "en": [
@@ -13125,8 +13089,7 @@
       ],
       "materials": {
         "en": [
-          "mixed media",
-          "audio tape"
+          "installation, sound, broken glass"
         ],
         "is": [
           "blandað efni",
@@ -13139,7 +13102,7 @@
       "ownership": {
         "owner": "owned by the artists",
         "owner_is": "í eigu höfundar",
-        "owner_en": "owned by the artists"
+        "owner_en": "owned by the artist"
       },
       "medium": {
         "en": [
@@ -13275,8 +13238,8 @@
     {
       "id": "grad_og_bu_2002",
       "title": {
-        "en": "Grað og Bú (Horny and Farm)",
-        "is": ""
+        "en": "Horny and Farm",
+        "is": "Grað og Bú"
       },
       "year": "2002",
       "dimensions": null,
@@ -14242,7 +14205,7 @@
         "is": "Hvískur 1"
       },
       "year": 1975,
-      "dimensions": "9.5 x 14.5 x 11.3 cm",
+      "dimensions": "1. 9.5 x 14.5 x 11.3 cm; 2. 9.5 x 14.5 x 55 cm; 3. 9.5 x 14.5 x 150 cm",
       "description": {
         "en": "Whisper is one of Magnús Pálsson's plaster works from the mid-1970s that belongs to the series of works where he created objectifications of the immaterial. The work can be described as a plaster cast of a whisper.\n\nThe work is an attempt to materialize communication. What Nefertiti whispered to Alexander the Great, is, as its name implies, a plaster cast of a whisper, which is made by taking a plaster cast of the space between the ear that listens and the mouth that speaks.\n\n<strong>Conceptual Execution</strong>\nThe work represents the whispers between Alexander, lying on his back in bed, and Nefertiti, lying on her side with her face turned towards his ear, with both their heads resting on a lace pillow.\n\n<strong>Negative and Positive Space</strong>\nNefertiti's lips and nose appear negative on one side, and Alexander's ear negative on the other. This underscores Magnús's consistent focus on positive and negative space.\n\n<strong>Temporal Play</strong>\nThe conceptual playfulness is evident in the fact that Alexander and Nefertiti lived 1000 years apart.",
         "is": "Hvískur er eitt af gifsverkum Magnúsar Pálssonar frá miðjum áttunda áratugnum sem fellur undir þá röð verka þar sem hann skapaði hlutgervingar hins óefniskennda. Verkinu mætti lýsa sem gifsafsteypu af hvíslinu.\n\nVerkið er tilraun til að gera samskipti áþreifanleg. Það sem Nefertíte hvíslarði að Alexander mikla, er, eins og nafnið ber með sér, afsteypa af hvíslinu.\n\n<strong>Framkvæmd Hugmyndarinnar</strong>\nAfsteypan er fengin með því að taka afsteypu af rýminu milli munns sem hvíslar og eyra sem hlustar. Verkið sýnir hvískur á milli Alexanders, sem liggur á bakinu í rúmi, og Nefertítí, sem liggur á hliðinni með andlitið að eyra hans, en bæði höfuðin hvíla á blúndukodda.\n\n<strong>Neikvætt og Jákvætt Rými</strong>\nVarir og nef Nefertítí birtast neikvæð á annarri hliðinni, og eyra Alexanders neikvætt á hinni. Þetta undirstrikar áherslu Magnúsar á jákvætt og neikvætt rými.\n\n<strong>Tímaflakk</strong>\nHugmyndafræðileg gletting kemur fram í því að Alexander og Nefertítí lifðu með 1000 ára millibili."
@@ -14332,19 +14295,17 @@
       ],
       "materials": {
         "en": [
-          "plaster",
-          "epoxy"
+          "plaster, epoxy"
         ],
         "is": [
-          "gifs",
-          "epoxy"
+          "gifs, epoxý"
         ]
       },
       "searchText": "Whisper 1 Hvískur 1 1975 plaster epoxy gifs epoxy sculpture skúlptúr sculpture positive/negative space Whisper is one of Magnús Pálsson's plaster works from the mid-1970s that belongs to the series of works where he created objectifications of the immaterial. The work can be described as a plaster cast of a whisper. The work is an attempt to materialize communication. What Nefertiti whispered to Alexander book thumbnail added",
       "ownership": {
         "owner": "Icelandic Folk and Outsider Art Museum, private collection, owned by the artist",
-        "owner_is": "Safnasafnið, einkaeign og höfundur",
-        "owner_en": "Icelandic Folk and Outsider Art Museum, private collection, owned by the artist"
+        "owner_is": "eigendur 1. Safnasafnið, einkasöfn og listamaðurinn, 2. listamaðurinn, 3. Listasafn Háskóla Íslands",
+        "owner_en": "owners 1. Icelandic Folk and Outsider Art Museum, private collections and the artist, 2. the artist, 3. University of Iceland Art Collection"
       },
       "series": "hvískur",
       "contentStatus": "needs review",
@@ -15279,7 +15240,7 @@
       "ownership": {
         "owner": "various owners and the artist",
         "owner_is": "ýmsir, í eigu höfundar",
-        "owner_en": "various owners and the artist"
+        "owner_en": "private collections and the artist"
       },
       "medium": {
         "en": [
@@ -15933,7 +15894,7 @@
       "ownership": {
         "owner": "private collection and the artist",
         "owner_is": "einkaeign og höfundur",
-        "owner_en": "private collection and the artist"
+        "owner_en": "private collection"
       },
       "medium": {
         "en": [
@@ -16335,8 +16296,7 @@
       "exhibitions": [],
       "materials": {
         "en": [
-          "paper",
-          "ink"
+          "paper, ink"
         ],
         "is": [
           "pappír",
@@ -17013,7 +16973,7 @@
         "is": "Stærðfræði 2"
       },
       "year": "1976",
-      "dimensions": "37 x 23 x 2 cm",
+      "dimensions": "35 x 23 x 2 – 81 x 23 x 2 cm",
       "description": {
         "en": "Mathematics is a plaster work from 1976 that demonstrates how Magnús Pálsson dealt with the concept of positive and negative space. He used this approach not only to objectify emotions and natural phenomena (as in Love in a Pool and Valley Mist) but also to materialize immaterial facts.\n\n<strong>Conceptual Execution</strong>\nThe plaster pieces in this series are made from mathematical equations. Magnús scratched the equations into sand. Casts were then taken from the sand, and these casts were in turn used as a mold for further casts.\n\nBy placing the resulting casts next to each other, they are laid out as mirror images of each other. This highlights the duality and continuity in opposites.\n\n<strong>Connection to Venice 1980</strong>\nThe work was exhibited at the Venice Biennale in 1980, demonstrating how Magnús shifted towards a more conceptual form (as in the Vocal Sculptures), where the concept is the core of the piece.\n\nThe work is thus not just mathematics, but an exploration of positive and negative truth made visible through form.",
         "is": "Stærðfræði er gifsverk frá 1976 sem sýnir hvernig Magnús Pálsson fékkst við hugtakið jákvætt og neikvætt rými. Hann notaði þetta ekki aðeins til að sýna tilfinningar og náttúrufyrirbæri (eins og í Ást í laug og Dalalæðu) heldur einnig til að hlutgera óefnislegar staðreyndir.\n\n<strong>Framkvæmd Hugmyndarinnar</strong>\nGifsverkin í þessari röð eru gerð úr stærðfræðilegum jöfnum. Magnús skrifaði jöfnurnar í sand. Afsteypur voru síðan teknar úr sandinum, og afsteypurnar voru aftur notaðar sem mót fyrir aðrar afsteypur.\n\nMeð því að leggja afsteypurnar hlið við hlið endurspegla þær hvor aðra eins og spegilmyndir. Þetta undirstrikar tvíhyggjuna og samfelluna í andstæðum.\n\n<strong>Tenging við Feneyjar 1980</strong>\nVerkið var sýnt á Feneyjatvíæringnum árið 1980, og sýnir hvernig Magnús færði sig yfir í meira konseptúalískt form (eins og í Raddskúlptúrunum), þar sem hugtakið er kjarninn í verkinu.\n\nVerkið er þannig ekki aðeins stærðfræði, heldur rannsókn á jákvæðum og neikvæðum sannleika sem er sýnilegur í forminu."
@@ -17155,8 +17115,8 @@
       "searchText": "Stærðfræði 2 (Mathematics 2) Stærðfræði 2 1976 plaster gifs sculpture skúlptúr sculpture positive/negative space Mathematics is a plaster work from 1976 that demonstrates how Magnús Pálsson dealt with the concept of positive and negative space. He used this approach not only to objectify emotions and natural phenomena (as in Love in a Pool and Valley Mist) but also to materialize immaterial facts. <strong>Conceptual Execution</strong> book thumbnail added",
       "ownership": {
         "owner": "owned by the artist",
-        "owner_is": "eign listamannsins",
-        "owner_en": "owned by the artist",
+        "owner_is": "Listasafn Reykjavíkur og listamaðurinn",
+        "owner_en": "Reykjavík Art Museum and the artist",
         "url": "https://listasafnreykjavikur.is/safneign?q=Stærðfræði",
         "catalogNumber": "91549",
         "notes": "Sculpture, 1976, 950 × 65 cm"
@@ -17182,7 +17142,7 @@
         "is": "Sólskrikja, mús, kengúra"
       },
       "year": 1980,
-      "dimensions": "~ 20 x 20 m",
+      "dimensions": "~2000 x 2000 cm",
       "description": {
         "en": "\"North of Korpúlfsstaður at the mouth of Úlfarsá there is a drawing of a bird on a grass patch. In ten days, the bird transforms into a mouse, and in another ten days into a kangaroo.\" This is how Magnús Pálsson himself describes the work. Originally it was made in 1980, but he recreated it in 1994 for a retrospective exhibition held that year at Kjarvalsstaðir. Both times he sourced material from nearby ash heaps. Originally he had intended to arrange the garbage in a beautiful pattern on a hillside that could be seen from far away, but in the end it became this transformation process. Here Magnús creates something from nothing.",
         "is": "„Norðan Korpúlfsstaða við ósa Úlfarsár er teikning af sólskríkju á grasbala. Á tíu dögum breytist sólskríkja í mús og á öðrum tíu dögum í kengúru.“ Svo kemst Magnús Pálsson sjálfur að orði um verkið. Upphaflega var það gert árið 1980 en hann endurgerði það 1994 vegna yfirlitssýningar sem var það ár á Kjarvalsstöðum. Í bæði skipti sótti hann efnivið í nærliggjandi öskuhauga. Upphaflega hafði hann ætlað sér að raða ruslinu upp í fallegt munstur utan í hlíð sem sæist langt að, en á endanum varð það að þessu umbreytingarferli. Magnús skapar hér eitthvað úr engu."
@@ -17273,7 +17233,7 @@
       "searchText": "Bunting, mouse, kangaroo Sólskrikja, mús, kengúra 1980 found objects fundir hlutir installation public art innsetning almenningsverk installation nature animals humor \"North of Korpúlfsstaður at the mouth of Úlfarsá there is a drawing of a bird on a grass patch. In ten days, the bird transforms into a mouse, and in another ten days into a kangaroo.\" This is how Magnús Pálsson himself describes the work. Originally it was made in book thumbnail added",
       "ownership": {
         "owner": "owned by the artist",
-        "owner_is": "í eigu höfundar",
+        "owner_is": "eign listamannsins",
         "owner_en": "owned by the artist",
         "url": "https://listasafnreykjavikur.is/safneign?q=Sólskríkja",
         "catalogNumber": "91551",
@@ -17726,12 +17686,10 @@
       "exhibitions": [],
       "materials": {
         "en": [
-          "plaster",
-          "cloth"
+          "plaster, clothes"
         ],
         "is": [
-          "gifs",
-          "textíll"
+          "gifs, föt"
         ]
       },
       "searchText": "Clairvoyant, Prophetic dreamer, sensitive Skyggn, berdreyminn, næmur 1969 plaster cloth gifs textíll sculpture skúlptúr sculpture A work by Magnús Pálsson from Unknown. This piece demonstrates his artistic exploration and creative development during this period. book thumbnail added",
