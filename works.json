@@ -91,6 +91,16 @@
       },
       "images": [
         {
+          "url": "images/thiljur-laeknagarður-1995/medium/thiljur-laeknagarður-1995-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail - Cladding",
+            "is": "Smamynd ur bok - Þiljur"
+          },
+          "thumbnail": "images/thiljur-laeknagarður-1995/thumbs/thiljur-laeknagarður-1995-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": "1995"
+        },
+        {
           "url": "images/thiljur-laeknagarður-1995/medium/thiljur-laeknagarður-1995-01-medium.jpg",
           "caption": {
             "en": "Þiljur, Læknagarður (1995) – view 1",
@@ -164,7 +174,8 @@
         }
       ],
       "tags": [
-        "language"
+        "language",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "thiljur-bethanien-berlin-2002"
@@ -181,7 +192,7 @@
           "blek"
         ]
       },
-      "searchText": "þiljur thiljur læknagarður cladding panels 1995 2002 anatomy ymir edda bethanien berlin magnús pálsson",
+      "searchText": "þiljur thiljur læknagarður cladding panels 1995 2002 anatomy ymir edda bethanien berlin magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "University of Iceland Art Museum",
         "owner_is": "Háskóli íslands",
@@ -223,6 +234,16 @@
       },
       "images": [
         {
+          "url": "images/at-blive-trukket-1989/medium/at-blive-trukket-1989-book-thumbnail-medium.png",
+          "caption": {
+            "en": "Book thumbnail - To Be Pulled Up Over the Stomach or the Chest",
+            "is": "Smamynd ur bok - Að vera þrýst upp yfir magann eða bringuna"
+          },
+          "thumbnail": "images/at-blive-trukket-1989/thumbs/at-blive-trukket-1989-book-thumbnail-thumb.png",
+          "photographer": "Book publication",
+          "year": "1989"
+        },
+        {
           "url": "images/at-blive-trukket-1989/at-blive-trukket-preview.mp4",
           "caption": {
             "en": "At blive trukket op over maven eller brystet - Mob Shop IV, Viborg Theatre, 1989",
@@ -232,7 +253,8 @@
       ],
       "tags": [
         "humor",
-        "theater"
+        "theater",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -243,7 +265,7 @@
           "gjörningur"
         ]
       },
-      "searchText": "at blive trukket op over maven eller brystet mob shop viborg theatre malmö konsthall 1989 magnús pálsson",
+      "searchText": "at blive trukket op over maven eller brystet mob shop viborg theatre malmö konsthall 1989 magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
@@ -652,6 +674,16 @@
       },
       "images": [
         {
+          "url": "images/walking-on-water-2012/medium/walking-on-water-2012-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail - Walking on Water",
+            "is": "Smamynd ur bok - Gengið á vatni"
+          },
+          "thumbnail": "images/walking-on-water-2012/thumbs/walking-on-water-2012-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "2012"
+        },
+        {
           "url": "images/walking-on-water-2012/medium/walking-on-water-2012-01-medium.jpg",
           "caption": {
             "en": "Walking on Water installation 1",
@@ -763,7 +795,8 @@
         }
       ],
       "tags": [
-        "positive/negative space"
+        "positive/negative space",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "walking-on-water-2012",
@@ -772,7 +805,7 @@
         "red-snow-ice-in-motion-2016",
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
-      "searchText": "walking on water gengið á vatni 2012 kling og bang installation performance magnús pálsson",
+      "searchText": "walking on water gengið á vatni 2012 kling og bang installation performance magnús pálsson book thumbnail added",
       "materials": {
         "en": [
           "plaster"
@@ -1459,6 +1492,16 @@
       },
       "images": [
         {
+          "url": "images/varla-hardly-1994/medium/varla-hardly-1994-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail - Hardly.....",
+            "is": "Smamynd ur bok - Varla..."
+          },
+          "thumbnail": "images/varla-hardly-1994/thumbs/varla-hardly-1994-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": "1994"
+        },
+        {
           "url": "images/varla-hardly-1994/medium/varla-hardly-1994-01-medium.jpg",
           "caption": {
             "en": "Varla installation",
@@ -1617,7 +1660,9 @@
           "photographer": "Pétur Thomsen"
         }
       ],
-      "tags": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
@@ -1633,7 +1678,7 @@
           "blandað efni"
         ]
       },
-      "searchText": "varla hardly 1994 soaps audio installation nýlistasafnið atlantis djengis khan etán langbrók magnús pálsson",
+      "searchText": "varla hardly 1994 soaps audio installation nýlistasafnið atlantis djengis khan etán langbrók magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "relatedWorks": [
@@ -2753,6 +2798,16 @@
       },
       "images": [
         {
+          "url": "images/typewriter-ritvel-2016/medium/typewriter-ritvel-2016-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail - Typewriter",
+            "is": "Smamynd ur bok - Ritvél"
+          },
+          "thumbnail": "images/typewriter-ritvel-2016/thumbs/typewriter-ritvel-2016-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": "2016"
+        },
+        {
           "url": "images/typewriter-ritvel-2016/medium/typewriter-ritvel-2016-01-medium.jpg",
           "caption": {
             "en": "Performance poster Djupivogur",
@@ -2762,7 +2817,8 @@
         }
       ],
       "tags": [
-        "language"
+        "language",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -2775,7 +2831,7 @@
           "pappír"
         ]
       },
-      "searchText": "typewriter ritvél 2016 performance sound sigló magnús pálsson",
+      "searchText": "typewriter ritvél 2016 performance sound sigló magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -2811,6 +2867,16 @@
         "is": ""
       },
       "images": [
+        {
+          "url": "images/tadskegglingar-2009/medium/tadskegglingar-2009-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail - The dung beards",
+            "is": "Smamynd ur bok - Taðskegglingar"
+          },
+          "thumbnail": "images/tadskegglingar-2009/thumbs/tadskegglingar-2009-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "2009"
+        },
         {
           "url": "images/tadskegglingar-2009/medium/tadskegglingar-01-medium.jpg",
           "caption": {
@@ -2853,7 +2919,8 @@
         }
       ],
       "tags": [
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -2866,7 +2933,7 @@
           "blandað efni"
         ]
       },
-      "searchText": "tadskegglingar sequences 2009 performance collage hanging chairs magnús pálsson",
+      "searchText": "tadskegglingar sequences 2009 performance collage hanging chairs magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -4625,6 +4692,16 @@
       },
       "images": [
         {
+          "url": "images/minning-thorarinn-nefjolfsson-i8-reyk-2007-2007/medium/minning-thorarinn-nefjolfsson-i8-reyk-2007-2007-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail - In memory of Þórarinn Nefjólfsson",
+            "is": "Smamynd ur bok - Minning Þórarinns Nefjólfssonar"
+          },
+          "thumbnail": "images/minning-thorarinn-nefjolfsson-i8-reyk-2007-2007/thumbs/minning-thorarinn-nefjolfsson-i8-reyk-2007-2007-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": "2007"
+        },
+        {
           "url": "images/minning-thorarinn-nefjolfsson-i8-reyk-2007-2007/minning-thorarinn-nefjolfsson-2007-preview.mp4",
           "caption": {
             "en": "Minning Þórarinn Nefjólfsson - video documentation (1 minute preview)",
@@ -4815,7 +4892,8 @@
       ],
       "tags": [
         "folklore",
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -4830,7 +4908,7 @@
           "vídeó"
         ]
       },
-      "searchText": "minning þórarinn nefjólfsson i8 reyk 2007 2007 magnús pálsson",
+      "searchText": "minning þórarinn nefjólfsson i8 reyk 2007 2007 magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
@@ -6584,6 +6662,16 @@
       },
       "images": [
         {
+          "url": "images/kuakyn-i-haettu-2015-2015/medium/kuakyn-i-haettu-2015-2015-book-thumbnail-medium.png",
+          "caption": {
+            "en": "Book thumbnail - The endangered cow",
+            "is": "Smamynd ur bok - Kúakyn í hættu"
+          },
+          "thumbnail": "images/kuakyn-i-haettu-2015-2015/thumbs/kuakyn-i-haettu-2015-2015-book-thumbnail-thumb.png",
+          "photographer": "Book publication",
+          "year": "2015"
+        },
+        {
           "url": "images/kuakyn-i-haettu-2015-2015/kuakyn-i-haettu-2015-preview.mp4",
           "caption": {
             "en": "Kúakyn í hættu - performance at Harpa. Video: Steinþór Birgisson",
@@ -6608,7 +6696,8 @@
       ],
       "tags": [
         "animals",
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -6619,7 +6708,7 @@
           "blandað efni"
         ]
       },
-      "searchText": "kúakyn í hættu 2015 2015 magnús pálsson",
+      "searchText": "kúakyn í hættu 2015 2015 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -8441,6 +8530,16 @@
       },
       "images": [
         {
+          "url": "images/aevintyr_folktale_1997/medium/aevintyr_folktale_1997-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail - Folktale",
+            "is": "Smamynd ur bok - Ævintýr"
+          },
+          "thumbnail": "images/aevintyr_folktale_1997/thumbs/aevintyr_folktale_1997-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "1997"
+        },
+        {
           "url": "images/aevintyr-folktale-1997/medium/aevintyr-listhatid-07-medium.jpg",
           "caption": {
             "en": "Reykjavík Arts Festival, 2013. Photo: Greipur Gíslason",
@@ -8523,7 +8622,8 @@
       ],
       "tags": [
         "folklore",
-        "language"
+        "language",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -8574,7 +8674,7 @@
           "hljóðband"
         ]
       },
-      "searchText": "ævintýr ævintyr folktale storytelling folklore performance audio video NÝLO oxford listhátið seydisfjörður 1997 2011 2013 2016 recurring work magnús pálsson placeholder needs review",
+      "searchText": "ævintýr ævintyr folktale storytelling folklore performance audio video NÝLO oxford listhátið seydisfjörður 1997 2011 2013 2016 recurring work magnús pálsson placeholder needs review book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -9035,6 +9135,16 @@
       },
       "images": [
         {
+          "url": "images/bilatal_odurin_til_bilsins_2002/medium/bilatal_odurin_til_bilsins_2002-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail - Tribute to the automobile",
+            "is": "Smamynd ur bok - Bílatal - Óðurinn til bílsins"
+          },
+          "thumbnail": "images/bilatal_odurin_til_bilsins_2002/thumbs/bilatal_odurin_til_bilsins_2002-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "2002"
+        },
+        {
           "url": "images/bilatal-odurin-til-bilsins-2002/bilatal-odurin-til-bilsins-2002-preview.mp4",
           "caption": {
             "en": "Óðurin til bílsins (Song to the Car) - video documentation (1 minute preview)",
@@ -9072,7 +9182,8 @@
       ],
       "tags": [
         "language",
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -9098,7 +9209,7 @@
           "pappír"
         ]
       },
-      "searchText": "bílatal óðurin til bílsins cars poetry performance NÝLO 2002 magnús pálsson placeholder needs review",
+      "searchText": "bílatal óðurin til bílsins cars poetry performance NÝLO 2002 magnús pálsson placeholder needs review book thumbnail added",
       "ownership": {
         "owner": "The Living Art Museum have manuscript, owned by the artist",
         "owner_is": "Nýlistasafnið,  í eigu höfundar",
@@ -9138,6 +9249,16 @@
       },
       "images": [
         {
+          "url": "images/bjossi_a_mjolkurbilnum_1994/medium/bjossi_a_mjolkurbilnum_1994-book-thumbnail-medium.JPG",
+          "caption": {
+            "en": "Book thumbnail - Bjössi on the milk truck",
+            "is": "Smamynd ur bok - Bjössi á mjólkurbílnum"
+          },
+          "thumbnail": "images/bjossi_a_mjolkurbilnum_1994/thumbs/bjossi_a_mjolkurbilnum_1994-book-thumbnail-thumb.JPG",
+          "photographer": "Book publication",
+          "year": "1994"
+        },
+        {
           "url": "images/bjossi-a-mjolkurbilnum-1994/medium/bjossi-a-mjolkurbilnum-1994-01-medium.jpg",
           "caption": {
             "en": "Bjössi at Kjarvalstaðir 1994 - Exhibition view [NEEDS REVIEW]",
@@ -9166,7 +9287,8 @@
         }
       ],
       "tags": [
-        "folklore"
+        "folklore",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "exhibition-1994"
@@ -9179,7 +9301,7 @@
           "brons"
         ]
       },
-      "searchText": "bjössi á mjólkurbílnum milk truck kjarvalstaðir 1994 magnús pálsson placeholder needs review",
+      "searchText": "bjössi á mjólkurbílnum milk truck kjarvalstaðir 1994 magnús pálsson placeholder needs review book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -9374,6 +9496,16 @@
       },
       "images": [
         {
+          "url": "images/bref_til_kristjans_wingdings_1990/medium/bref_til_kristjans_wingdings_1990-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail - Letter to Kristján",
+            "is": "Smamynd ur bok - Bréf til Kristjáns"
+          },
+          "thumbnail": "images/bref_til_kristjans_wingdings_1990/thumbs/bref_til_kristjans_wingdings_1990-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "1990"
+        },
+        {
           "url": "images/bref-til-kristjans-wingdings-1990/medium/bref-til-kristjans-wingdings-1990-01-medium.jpg",
           "caption": {
             "en": "Wingdings work for KG 1990 [NEEDS REVIEW]",
@@ -9395,7 +9527,8 @@
       "tags": [
         "language",
         "humor",
-        "letters"
+        "letters",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -9419,7 +9552,7 @@
           "pappír"
         ]
       },
-      "searchText": "bréf til kristjáns wingdings typography letter small work 1990 magnús pálsson placeholder needs review",
+      "searchText": "bréf til kristjáns wingdings typography letter small work 1990 magnús pálsson placeholder needs review book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -9453,6 +9586,16 @@
       },
       "images": [
         {
+          "url": "images/bref_til_ragnars_2003/medium/bref_til_ragnars_2003-book-thumbnail-medium.JPG",
+          "caption": {
+            "en": "Book thumbnail - Letter to Ragnar",
+            "is": "Smamynd ur bok - Bréf til Ragnars"
+          },
+          "thumbnail": "images/bref_til_ragnars_2003/thumbs/bref_til_ragnars_2003-book-thumbnail-thumb.JPG",
+          "photographer": "Book publication",
+          "year": "2003"
+        },
+        {
           "url": "images/bref-til-ragnars-2003/medium/bref-til-ragnars-2003-01-medium.jpg",
           "caption": {
             "en": "Bréf til Ragnars - Documentation 1 [NEEDS REVIEW]",
@@ -9481,7 +9624,8 @@
         }
       ],
       "tags": [
-        "letters"
+        "letters",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -9505,7 +9649,7 @@
           "hljóðband"
         ]
       },
-      "searchText": "bréf til ragnars letter ragnar audio personal 2003 magnús pálsson placeholder needs review",
+      "searchText": "bréf til ragnars letter ragnar audio personal 2003 magnús pálsson placeholder needs review book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -9913,6 +10057,16 @@
       },
       "images": [
         {
+          "url": "images/clothes_2000/medium/clothes_2000-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail - Clothes",
+            "is": "Smamynd ur bok - Föt"
+          },
+          "thumbnail": "images/clothes_2000/thumbs/clothes_2000-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": "2000"
+        },
+        {
           "url": "images/clothes-2000/medium/clothes-2000-01-medium.jpg",
           "caption": {
             "en": "Magnus Jacket MEP - Fashion documentation [NEEDS REVIEW]",
@@ -10111,7 +10265,8 @@
         }
       ],
       "tags": [
-        "identity"
+        "identity",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -10135,7 +10290,7 @@
           "textíll"
         ]
       },
-      "searchText": "clothes fashion jackets modeling jackie 2000 magnús pálsson placeholder needs review",
+      "searchText": "clothes fashion jackets modeling jackie 2000 magnús pálsson placeholder needs review book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -10168,6 +10323,16 @@
         "is": "Madame President, Contours of a Baby. Tvær hljóðsnældur fyrir fjóra hátalara. Madame President var fyrst flutt á Henie-Onstad Kunstsenter í Ósló 1986 með þátttöku listamannsins sjálfs, sjónvarpsskjá og fjórum háttölurum. Contours of a Baby var flutt á Kunstcentret Brandts Klædefabrik í Odense 1987 með fjórum háttölurum. Hljóðritað í Studio VEC Maastricht og Studio Stef Kópavogi. Gefið út sem Hong Kong Press nr. 7."
       },
       "images": [
+        {
+          "url": "images/contours_of_a_baby_1987/medium/contours_of_a_baby_1987-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail - Madame President, Contours of a Baby",
+            "is": "Smamynd ur bok - Madame President, Contours of a Baby"
+          },
+          "thumbnail": "images/contours_of_a_baby_1987/thumbs/contours_of_a_baby_1987-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "1987"
+        },
         {
           "url": "images/contours-of-a-baby-1987/medium/contours-of-a-baby-1987-01-medium.jpg",
           "caption": {
@@ -10234,7 +10399,8 @@
         }
       ],
       "tags": [
-        "childhood"
+        "childhood",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "settantaventidue-2026",
@@ -10261,7 +10427,7 @@
           "hátalerer"
         ]
       },
-      "searchText": "contours of a baby tape digitalization 1987 magnús pálsson placeholder needs review",
+      "searchText": "contours of a baby tape digitalization 1987 magnús pálsson placeholder needs review book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -12783,6 +12949,16 @@
       },
       "images": [
         {
+          "url": "images/gapassipi_1995/medium/gapassipi_1995-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail - Gapassipi (Tjöpörnipinnipi)",
+            "is": "Smamynd ur bok - Gapassipi (Tjöpörnipinnipi)"
+          },
+          "thumbnail": "images/gapassipi_1995/thumbs/gapassipi_1995-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "1995"
+        },
+        {
           "url": "images/gapassipi-1995/medium/Gapassipi 1-medium.JPG",
           "caption": {
             "en": "Gapassipi installation view 1 - City Hall exhibition",
@@ -12838,7 +13014,8 @@
         }
       ],
       "tags": [
-        "language"
+        "language",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "gapassipi-1995"
@@ -12853,7 +13030,7 @@
           "hljóðband"
         ]
       },
-      "searchText": "gapassipi tjöpörnipinnipi installation performance audio sound poetry experimental language ráðhúsið city hall reykjavík floor spatial composition september 1995 magnús pálsson",
+      "searchText": "gapassipi tjöpörnipinnipi installation performance audio sound poetry experimental language ráðhúsið city hall reykjavík floor spatial composition september 1995 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -14908,6 +15085,16 @@
       },
       "images": [
         {
+          "url": "images/silver-chairs-in-tins-in-ms-office/medium/silver-chairs-in-tins-in-ms-office-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail - Silver chairs",
+            "is": "Smamynd ur bok - Silfur stólar"
+          },
+          "thumbnail": "images/silver-chairs-in-tins-in-ms-office/thumbs/silver-chairs-in-tins-in-ms-office-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "1999"
+        },
+        {
           "url": "images/silver-chairs-in-tins-in-ms-office/medium/silver-01-medium.jpg",
           "caption": {
             "en": "Silver chairs - in tins in M's office - view 1",
@@ -14960,7 +15147,9 @@
           "photographer": "Steinþór Birgisson"
         }
       ],
-      "tags": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
       "exhibitions": [],
       "materials": {
         "en": [
@@ -14970,7 +15159,7 @@
           "silfur"
         ]
       },
-      "searchText": "silver chairs - in tins in m's office Unknown magnús pálsson",
+      "searchText": "silver chairs - in tins in m's office Unknown magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -15551,6 +15740,16 @@
       },
       "images": [
         {
+          "url": "images/sorg-2016/medium/sorg-2016-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail - Sorrow",
+            "is": "Smamynd ur bok - Sorg"
+          },
+          "thumbnail": "images/sorg-2016/thumbs/sorg-2016-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "2016"
+        },
+        {
           "url": "images/sorg-2016/medium/sorg-01-medium.jpg",
           "caption": {
             "en": "Sorg 2016 - view 1",
@@ -15600,7 +15799,8 @@
         }
       ],
       "tags": [
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -15613,7 +15813,7 @@
           "pappír"
         ]
       },
-      "searchText": "sorg 2016 2016 magnús pálsson",
+      "searchText": "sorg 2016 2016 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -15995,6 +16195,16 @@
       },
       "images": [
         {
+          "url": "images/bjartsynisbru_2003/medium/bjartsynisbru_2003-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail - Bridge of Optimism",
+            "is": "Smamynd ur bok - Bjartsynisbrú"
+          },
+          "thumbnail": "images/bjartsynisbru_2003/thumbs/bjartsynisbru_2003-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": "2003"
+        },
+        {
           "url": "images/ferdafuda-travel-exhibition-2003/medium/ferdafuda-travel-exhibition-2003-01-medium.jpg",
           "caption": {
             "en": "Bridge - Travel exhibition component [NEEDS REVIEW]",
@@ -16005,7 +16215,8 @@
         }
       ],
       "tags": [
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -16018,7 +16229,7 @@
           "blek"
         ]
       },
-      "searchText": "bjartsynisbrú bridge of optimism paper ink ferðafuða 2003 magnús pálsson",
+      "searchText": "bjartsynisbrú bridge of optimism paper ink ferðafuða 2003 magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "Icelandic Folk and Outsider Art Museum",
         "owner_is": "Safnasafnið",
@@ -16988,6 +17199,16 @@
       },
       "images": [
         {
+          "url": "images/solur-skagarstrand-aug-2015/medium/solur-skagarstrand-aug-2015-book-thumbnail-medium.JPG",
+          "caption": {
+            "en": "Book thumbnail - Sundials",
+            "is": "Smamynd ur bok - Sólúr Skagarstönd"
+          },
+          "thumbnail": "images/solur-skagarstrand-aug-2015/thumbs/solur-skagarstrand-aug-2015-book-thumbnail-thumb.JPG",
+          "photographer": "Book publication",
+          "year": "2015"
+        },
+        {
           "url": "images/solur-skagarstrand-aug-2015/medium/solur-01-medium.jpg",
           "caption": {
             "en": "Sólúr Skagarstrand Aug 2015 - view 1",
@@ -17046,7 +17267,8 @@
       ],
       "tags": [
         "time",
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -17059,7 +17281,7 @@
           "járn"
         ]
       },
-      "searchText": "sólúr skagarstrand aug 2015 2015 magnús pálsson",
+      "searchText": "sólúr skagarstrand aug 2015 2015 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
