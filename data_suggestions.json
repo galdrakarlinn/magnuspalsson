@@ -1,0 +1,241 @@
+[
+  {
+    "thumb_num": "10",
+    "work_id": "pappirsast-19656-1965",
+    "data": {
+      "materials_is": [
+        "pappír"
+      ],
+      "materials_en": [
+        "paper"
+      ]
+    }
+  },
+  {
+    "thumb_num": "13",
+    "work_id": "sunnudagur-hausaveidmannanna-1967",
+    "data": {
+      "location_is": "týnt"
+    }
+  },
+  {
+    "thumb_num": "22",
+    "work_id": "buxnaskalm_tota_sigga_1968",
+    "data": {
+      "location_is": "einkaeign"
+    }
+  },
+  {
+    "thumb_num": "30",
+    "work_id": "automobile_bok_1970_74",
+    "data": {
+      "materials_is": [
+        "bílahlutir"
+      ],
+      "materials_en": [
+        "car parts"
+      ]
+    }
+  },
+  {
+    "thumb_num": "34",
+    "work_id": "mat-a-h8-skak-checkmate-1972-1972",
+    "data": {
+      "materials_is": [
+        "ljósmynd"
+      ],
+      "materials_en": [
+        "photograph"
+      ]
+    }
+  },
+  {
+    "thumb_num": "36",
+    "work_id": "vasi_ceramic",
+    "data": {
+      "location_is": "Þykkvabæjarkirkja, í eigu höfundar",
+      "location_en": "The church at Þykkvabær, owned by the artist"
+    }
+  },
+  {
+    "thumb_num": "37",
+    "work_id": "dog_book_1973",
+    "data": {
+      "materials_is": [
+        "pappír"
+      ],
+      "materials_en": [
+        "paper"
+      ]
+    }
+  },
+  {
+    "thumb_num": "45",
+    "work_id": "sjondeildarhringur-horizon-1975",
+    "data": {
+      "materials_is": [
+        "pappír"
+      ],
+      "materials_en": [
+        "paper"
+      ],
+      "location_is": "einkaeign"
+    }
+  },
+  {
+    "thumb_num": "72",
+    "work_id": "minning-magnusar-jonssonar-1982-1982",
+    "data": {
+      "materials_is": [
+        "heimilistæki",
+        "blandað efni"
+      ],
+      "materials_en": [
+        "home appliances",
+        "mixed media"
+      ],
+      "dimensions": "Dimensions depend on installation"
+    }
+  },
+  {
+    "thumb_num": "75",
+    "work_id": "augustus_my_god",
+    "data": {
+      "materials_is": [
+        "pappír",
+        "hljóðband"
+      ],
+      "materials_en": [
+        "paper",
+        "audio tape"
+      ]
+    }
+  },
+  {
+    "thumb_num": "81",
+    "work_id": "the-moraga-legend",
+    "data": {
+      "materials_is": [
+        "hátalerar",
+        "hljóðband"
+      ],
+      "materials_en": [
+        "loudspeakers",
+        "audio tape"
+      ]
+    }
+  },
+  {
+    "thumb_num": "82",
+    "work_id": "mob_shop_dummy_1986",
+    "data": {
+      "materials_is": [
+        "pappír"
+      ],
+      "materials_en": [
+        "paper"
+      ],
+      "location_is": "einkaeign og höfundur"
+    }
+  },
+  {
+    "thumb_num": "88",
+    "work_id": "legitimate-concrete-fart-viggo-a-1990-1990",
+    "data": {
+      "materials_is": [
+        "pappír"
+      ],
+      "materials_en": [
+        "paper"
+      ],
+      "location_is": "í eigu höfundar"
+    }
+  },
+  {
+    "thumb_num": "121",
+    "work_id": "grad_og_bu_2002",
+    "data": {
+      "materials_is": [
+        "hljóðband"
+      ],
+      "materials_en": [
+        "audio tape"
+      ],
+      "location_is": "í eigu höfundar"
+    }
+  },
+  {
+    "thumb_num": "124",
+    "work_id": "seeds-of-aspidistra-2002",
+    "data": {
+      "materials_is": [
+        "hljóðband"
+      ],
+      "materials_en": [
+        "audio tape"
+      ],
+      "location_is": "í eigu höfundar"
+    }
+  },
+  {
+    "thumb_num": "127",
+    "work_id": "vidtol_um_daudann_2011",
+    "data": {
+      "materials_is": [
+        "vídeó",
+        "hljóðband",
+        "blandað efni"
+      ],
+      "materials_en": [
+        "video",
+        "audio tape",
+        "mixed media"
+      ],
+      "location_is": "Listasafn Íslands"
+    }
+  },
+  {
+    "thumb_num": "129",
+    "work_id": "dreams_skinned_rabbit_berlin_2005",
+    "data": {
+      "materials_is": [
+        "pappír",
+        "geisladiskur"
+      ],
+      "materials_en": [
+        "paper",
+        "compact disc"
+      ],
+      "dimensions": "20.5 x 14.5 cm",
+      "location_is": "ýmsir, í eigu höfundar"
+    }
+  },
+  {
+    "thumb_num": "132",
+    "work_id": "foss_waterfall_2006",
+    "data": {
+      "materials_is": [
+        "blandað efni"
+      ],
+      "materials_en": [
+        "mixed media"
+      ],
+      "location_is": "í eigu höfundar"
+    }
+  },
+  {
+    "thumb_num": "138",
+    "work_id": "rainbow-clippings-startart-aug-reyk-berlin-sept-08",
+    "data": {
+      "materials_is": [
+        "vídeó",
+        "pappír"
+      ],
+      "materials_en": [
+        "video",
+        "paper"
+      ],
+      "location_is": "í eigu höfundar"
+    }
+  }
+]
