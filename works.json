@@ -41,7 +41,8 @@
         }
       ],
       "tags": [
-        "camouflage"
+        "camouflage",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "bestu-stykkin-1967"
@@ -73,7 +74,8 @@
       },
       "category": [
         "sculpture"
-      ]
+      ],
+      "searchText": "book thumbnail added"
     },
     {
       "id": "thiljur-laeknagarður-1995",
@@ -1004,7 +1006,8 @@
         }
       ],
       "tags": [
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -1017,7 +1020,7 @@
           "vatnslitur"
         ]
       },
-      "searchText": "watercolours early 1977 painting landscape magnús pálsson",
+      "searchText": "watercolours early 1977 painting landscape magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -1070,7 +1073,8 @@
         }
       ],
       "tags": [
-        "collaboration"
+        "collaboration",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "islandische-besucher-in-basel-1984",
@@ -1084,7 +1088,7 @@
           "pappír"
         ]
       },
-      "searchText": "wendy walking treffen im gebirge isländische besucher basel artist book listabók seedorn verlag 1984 galerie filiale magnús pálsson",
+      "searchText": "wendy walking treffen im gebirge isländische besucher basel artist book listabók seedorn verlag 1984 galerie filiale magnús pálsson book thumbnail added",
       "contentStatus": "ready for review",
       "mediaStatus": "images draft",
       "ownership": {
@@ -1233,7 +1237,9 @@
           "year": "2020"
         }
       ],
-      "tags": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
@@ -1245,7 +1251,7 @@
           "ljósnæmur pappír"
         ]
       },
-      "searchText": "vænting expectation 1966 wall piece nýló butterflies fiðrildi paper pappír magnús pálsson",
+      "searchText": "vænting expectation 1966 wall piece nýló butterflies fiðrildi paper pappír magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "The Living Art Museum & owned by the artist",
         "owner_is": "Nýlistasafnið og í eigu höfundar",
@@ -2000,7 +2006,8 @@
         }
       ],
       "tags": [
-        "space"
+        "space",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -2013,7 +2020,7 @@
           "ljósnæmur pappír"
         ]
       },
-      "searchText": "ferð veggfóður (reise) journey, wallpaper 1965 magnús pálsson (f. 1929) tók virkan þátt í framúrstefnu íslenskrar leik- og myndlistar á 6. og 7. áratug 20. aldar og átti m.a. í farsælu samstarfi við dieter roth og síðar súm-hópinn. magnús hefur haft rík áhrif á íslenska samtímalist, m.a. í gegnum kennslustörf sem hann sinnti um árabil, en hann átti, ásamt hildi hákonardóttur, frumkvæði að stofnun nýlistadeildar við myndlista-og handíðaskóla íslands. magnús var fulltrúi íslands á feneyjatvíæringnum í myndlist 1980. árið 1994 var sett upp yfirlitssýning á verkum hans á kjarvalsstöðum. frumgerð verksins ferð er í eigu nýlistasafnsins en var endurgert vegna sýningar magnúsar pálssonar að kjarvalsstöðum 1994. verkið er gert úr 63 stökum tússteikningum sem er skeytt saman. teikningarnar eru prentaðar aftur og aftur og hver yfir aðra á langa pappírsörk svo úr verður til nokkurs konar veggfóður. verkið snýst ekki síst um þá ferð sem vinnan við það felur í sér og útkomuna því að í hvert skipti sem það er gert er útkoman öðruvísi. mögulegt er að tengja vinnuaðferð þess við annað verk í þessum sal sem kallast kál þar sem teikningum er skeytt saman og þær prentaðar á svipaðan máta. magnús pálsson (b. 1929) actively participated in the avant-garde of icelandic theater and visual arts in the 1960s and 1970s, collaborating with dieter roth and later the súm group. magnús has had a significant influence on contemporary icelandic art, particularly through his teaching at the icelandic college of arts and crafts, where he and hildur hákonardóttir initiated the establishment of the new art department. magnús represented iceland at the venice biennale in visual arts in 1980. in 1994, a retrospective exhibition of his works was held at kjarvalsstaðir. the original version of the work \"ferð\" (journey) is owned by the living art museum but was recreated for magnús pálsson's exhibition at kjarvalsstaðir in 1994. the work consists of 63 individual ink drawings joined together. the drawings are printed repeatedly, one over the other, onto long paper strips, creating a kind of wallpaper. the work is not least about the journey that the process of making it entails and the outcome, as each time it is made, the result is different. it is possible to connect the working method with another work in this room called \"kál\" (cabbage), where drawings are similarly joined together and printed. wallpaper installation 1965 ljósnæmur pappir photosensitive paper something-from-nothing-the-visual-realm-of-magnús-2019",
+      "searchText": "ferð veggfóður (reise) journey, wallpaper 1965 magnús pálsson (f. 1929) tók virkan þátt í framúrstefnu íslenskrar leik- og myndlistar á 6. og 7. áratug 20. aldar og átti m.a. í farsælu samstarfi við dieter roth og síðar súm-hópinn. magnús hefur haft rík áhrif á íslenska samtímalist, m.a. í gegnum kennslustörf sem hann sinnti um árabil, en hann átti, ásamt hildi hákonardóttur, frumkvæði að stofnun nýlistadeildar við myndlista-og handíðaskóla íslands. magnús var fulltrúi íslands á feneyjatvíæringnum í myndlist 1980. árið 1994 var sett upp yfirlitssýning á verkum hans á kjarvalsstöðum. frumgerð verksins ferð er í eigu nýlistasafnsins en var endurgert vegna sýningar magnúsar pálssonar að kjarvalsstöðum 1994. verkið er gert úr 63 stökum tússteikningum sem er skeytt saman. teikningarnar eru prentaðar aftur og aftur og hver yfir aðra á langa pappírsörk svo úr verður til nokkurs konar veggfóður. verkið snýst ekki síst um þá ferð sem vinnan við það felur í sér og útkomuna því að í hvert skipti sem það er gert er útkoman öðruvísi. mögulegt er að tengja vinnuaðferð þess við annað verk í þessum sal sem kallast kál þar sem teikningum er skeytt saman og þær prentaðar á svipaðan máta. magnús pálsson (b. 1929) actively participated in the avant-garde of icelandic theater and visual arts in the 1960s and 1970s, collaborating with dieter roth and later the súm group. magnús has had a significant influence on contemporary icelandic art, particularly through his teaching at the icelandic college of arts and crafts, where he and hildur hákonardóttir initiated the establishment of the new art department. magnús represented iceland at the venice biennale in visual arts in 1980. in 1994, a retrospective exhibition of his works was held at kjarvalsstaðir. the original version of the work \"ferð\" (journey) is owned by the living art museum but was recreated for magnús pálsson's exhibition at kjarvalsstaðir in 1994. the work consists of 63 individual ink drawings joined together. the drawings are printed repeatedly, one over the other, onto long paper strips, creating a kind of wallpaper. the work is not least about the journey that the process of making it entails and the outcome, as each time it is made, the result is different. it is possible to connect the working method with another work in this room called \"kál\" (cabbage), where drawings are similarly joined together and printed. wallpaper installation 1965 ljósnæmur pappir photosensitive paper something-from-nothing-the-visual-realm-of-magnús-2019 book thumbnail added",
       "ownership": {
         "owner": "The Living Art Museum & Reykjavík Art Museum",
         "owner_is": "Nýlistasafnið og Listasafn Reykjavíkur",
@@ -2187,7 +2194,8 @@
         }
       ],
       "tags": [
-        "mythology"
+        "mythology",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "volcanic-attitude-2026",
@@ -2201,7 +2209,7 @@
           "málning"
         ]
       },
-      "searchText": "völundarhús labyrinth 1980 vestmannaeyjar magnús pálsson",
+      "searchText": "völundarhús labyrinth 1980 vestmannaeyjar magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -2300,7 +2308,8 @@
         }
       ],
       "tags": [
-        "time"
+        "time",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -2315,7 +2324,7 @@
           "málning"
         ]
       },
-      "searchText": "taem time clock now 1964 conceptual sculpture magnús pálsson",
+      "searchText": "taem time clock now 1964 conceptual sculpture magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -2509,7 +2518,8 @@
         }
       ],
       "tags": [
-        "camouflage"
+        "camouflage",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -2526,7 +2536,7 @@
           "plast"
         ]
       },
-      "searchText": "tarnung camoflas tros dulamálning 1962 camouflage painting magnús pálsson",
+      "searchText": "tarnung camoflas tros dulamálning 1962 camouflage painting magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -2699,7 +2709,8 @@
       ],
       "tags": [
         "positive/negative space",
-        "childhood"
+        "childhood",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -2710,7 +2721,7 @@
           "gifs"
         ]
       },
-      "searchText": "tilfæsla rýmis 1976 space conceptual magnús pálsson",
+      "searchText": "tilfæsla rýmis 1976 space conceptual magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -3091,7 +3102,8 @@
       "tags": [
         "positive/negative space",
         "humor",
-        "collaboration"
+        "collaboration",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -3106,7 +3118,7 @@
           "vatn"
         ]
       },
-      "searchText": "rúmbjarni suðurgata 7 1976 1976 magnús pálsson",
+      "searchText": "rúmbjarni suðurgata 7 1976 1976 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -3254,7 +3266,8 @@
       ],
       "tags": [
         "positive/negative space",
-        "love"
+        "love",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "retrospective-exhibition-1994",
@@ -3266,7 +3279,7 @@
         "owner_is": "Listsafn Íslands og í eigu höfundar",
         "owner_en": "The National Gallery of Iceland and the artist"
       },
-      "searchText": "pappirsást 1965-6 1965 magnús pálsson",
+      "searchText": "pappirsást 1965-6 1965 magnús pálsson book thumbnail added",
       "materials": {
         "en": [
           "paper"
@@ -3360,7 +3373,8 @@
         }
       ],
       "tags": [
-        "identity"
+        "identity",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -3377,7 +3391,7 @@
           "plast"
         ]
       },
-      "searchText": "portrait of dorothy 1966 1966 magnús pálsson",
+      "searchText": "portrait of dorothy 1966 1966 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -3463,7 +3477,9 @@
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
       "exhibitions": [],
       "materials": {
         "en": [
@@ -3475,7 +3491,7 @@
           "pappír"
         ]
       },
-      "searchText": "rainbow clippings startart aug reyk berlin sept 08 Unknown magnús pálsson",
+      "searchText": "rainbow clippings startart aug reyk berlin sept 08 Unknown magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -3532,7 +3548,8 @@
         }
       ],
       "tags": [
-        "fluxus"
+        "fluxus",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -3543,7 +3560,7 @@
           "málmur"
         ]
       },
-      "searchText": "ready made metal málmur found object magnús pálsson",
+      "searchText": "ready made metal málmur found object magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
@@ -3687,7 +3704,9 @@
           "year": "1972"
         }
       ],
-      "tags": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
       "exhibitions": [],
       "materials": {
         "en": [
@@ -3697,7 +3716,7 @@
           "keramík"
         ]
       },
-      "searchText": "vasi vase ceramic keramík þykkvabæjarkirkja magnús pálsson",
+      "searchText": "vasi vase ceramic keramík þykkvabæjarkirkja magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "The church at Þykkvabær, owned by the artist",
         "owner_is": "Þykkvabæjarkirkja, í eigu höfundar",
@@ -3914,7 +3933,8 @@
         }
       ],
       "tags": [
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -3929,7 +3949,7 @@
           "vatnslitur"
         ]
       },
-      "searchText": "kál 5 negative made 1966 printed 2018 1966 magnús pálsson",
+      "searchText": "kál 5 negative made 1966 printed 2018 1966 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "series": "kál",
@@ -4565,7 +4585,8 @@
       "tags": [
         "sagas",
         "death",
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -4588,7 +4609,7 @@
           "númeraplata"
         ]
       },
-      "searchText": "minning njálsbrennu in memory of the burning of njáll 1977 í minningu njálsbrennu er eitt af verkum magnúsar þar sem hann vinnur skopleg tilbrigði við hugmyndina um minnismerki. verkið samanstendur af tíu ritvélum á stöplum, arfa sem hangir úr hverri ritvél og bílnúmeraplötunni l-1010 sem stendur á stöpli fyrir framan ritvélarnar. l-ið stendur fyrir rangárvallasýslu og 1010 fyrir ártal brennunnar; ritvélarnar eru jafnmargar og þeir sem brunnu inni samkvæmt sögunni. arfinn vísar til þess að í sögunni segir að notaður hafi verið arfi til að tendra eldinn. í minningu njálsbrennu er gott dæmi um bókmenntalega konseptlist, ekki aðeins vegna þess að verkið fjallar um bókmenntalegt efni, heldur einnig vegna þess að uppbygging verksins og innri merkingartengsl eru bókmenntalegs eðlis. in memory of the burning of njáll is one of magnús's works where he creates playful variations on the idea of monuments. the work consists of ten typewriters on pedestals, a rope hanging from each typewriter, and the license plate l-1010 standing on a pedestal in front of the typewriters. the letter l stands for rangárvallasýsla county, and 1010 represents the year of the burning; the typewriters are equal in number to those who burned inside according to the saga. the rope refers to the fact that according to the saga, a rope was used to start the fire. in memory of the burning of njáll is a good example of literary conceptual art, not only because the work deals with literary subject matter, but also because the structure of the work and its internal meaning connections are of a literary nature. artwork 1977 ritvélar tré olíumálverk typewriters wood oilpainting something-from-nothing-the-visual-realm-of-magnús-2019",
+      "searchText": "minning njálsbrennu in memory of the burning of njáll 1977 í minningu njálsbrennu er eitt af verkum magnúsar þar sem hann vinnur skopleg tilbrigði við hugmyndina um minnismerki. verkið samanstendur af tíu ritvélum á stöplum, arfa sem hangir úr hverri ritvél og bílnúmeraplötunni l-1010 sem stendur á stöpli fyrir framan ritvélarnar. l-ið stendur fyrir rangárvallasýslu og 1010 fyrir ártal brennunnar; ritvélarnar eru jafnmargar og þeir sem brunnu inni samkvæmt sögunni. arfinn vísar til þess að í sögunni segir að notaður hafi verið arfi til að tendra eldinn. í minningu njálsbrennu er gott dæmi um bókmenntalega konseptlist, ekki aðeins vegna þess að verkið fjallar um bókmenntalegt efni, heldur einnig vegna þess að uppbygging verksins og innri merkingartengsl eru bókmenntalegs eðlis. in memory of the burning of njáll is one of magnús's works where he creates playful variations on the idea of monuments. the work consists of ten typewriters on pedestals, a rope hanging from each typewriter, and the license plate l-1010 standing on a pedestal in front of the typewriters. the letter l stands for rangárvallasýsla county, and 1010 represents the year of the burning; the typewriters are equal in number to those who burned inside according to the saga. the rope refers to the fact that according to the saga, a rope was used to start the fire. in memory of the burning of njáll is a good example of literary conceptual art, not only because the work deals with literary subject matter, but also because the structure of the work and its internal meaning connections are of a literary nature. artwork 1977 ritvélar tré olíumálverk typewriters wood oilpainting something-from-nothing-the-visual-realm-of-magnús-2019 book thumbnail added",
       "ownership": {
         "owner": "Reykjavík art museum",
         "owner_is": "Listasafn Reykjavíkur",
@@ -4945,7 +4966,8 @@
         }
       ],
       "tags": [
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -4962,7 +4984,7 @@
           "silkiprentblek"
         ]
       },
-      "searchText": "kál cabbage series sería silkscreen silkiþrykk watercolor vatnslitur london kelpra studio chris prater 1963 1966",
+      "searchText": "kál cabbage series sería silkscreen silkiþrykk watercolor vatnslitur london kelpra studio chris prater 1963 1966 book thumbnail added",
       "contentStatus": "complete",
       "mediaStatus": "images complete",
       "series": "kál",
@@ -5124,7 +5146,8 @@
         }
       ],
       "tags": [
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -5141,7 +5164,7 @@
           "silkiprentblek"
         ]
       },
-      "searchText": "kál 1 cabbage watercolor silkscreen 1963 magnús pálsson",
+      "searchText": "kál 1 cabbage watercolor silkscreen 1963 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "needs identification",
       "series": "kál",
@@ -5279,7 +5302,8 @@
         }
       ],
       "tags": [
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -5296,7 +5320,7 @@
           "silkiprentblek"
         ]
       },
-      "searchText": "kál 2 cabbage watercolor silkscreen 1964 magnús pálsson",
+      "searchText": "kál 2 cabbage watercolor silkscreen 1964 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "needs identification",
       "series": "kál",
@@ -5474,7 +5498,8 @@
         }
       ],
       "tags": [
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -5491,7 +5516,7 @@
           "silkiprentblek"
         ]
       },
-      "searchText": "kál 3 cabbage watercolor silkscreen 1965 magnús pálsson",
+      "searchText": "kál 3 cabbage watercolor silkscreen 1965 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "needs identification",
       "series": "kál",
@@ -5774,7 +5799,8 @@
       ],
       "tags": [
         "positive/negative space",
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019",
@@ -5790,7 +5816,7 @@
           "pappír"
         ]
       },
-      "searchText": "landafræði geography series 1975 sónninn jóskunni keltneski andi sorg kengúrunnar kaffiilmurinn braselíu trúin afganistan von lappanna magnús pálsson",
+      "searchText": "landafræði geography series 1975 sónninn jóskunni keltneski andi sorg kengúrunnar kaffiilmurinn braselíu trúin afganistan von lappanna magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "relatedWorks": [
         "sonninn-i-joskunni-1975",
@@ -6390,7 +6416,8 @@
       ],
       "tags": [
         "animals",
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -6407,7 +6434,7 @@
           "málmur"
         ]
       },
-      "searchText": "minning kanínunnar, barabbit 1979 1979 magnús pálsson",
+      "searchText": "minning kanínunnar, barabbit 1979 1979 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -6487,7 +6514,8 @@
         }
       ],
       "tags": [
-        "teaching"
+        "teaching",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -6500,7 +6528,7 @@
           "hljóðband"
         ]
       },
-      "searchText": "kennsla - geggjaðasta listgreinin -  teaching, the craziest branch of art 1984 1984 magnús pálsson",
+      "searchText": "kennsla - geggjaðasta listgreinin -  teaching, the craziest branch of art 1984 1984 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -6852,7 +6880,8 @@
       ],
       "tags": [
         "humor",
-        "letters"
+        "letters",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -6863,7 +6892,7 @@
           "pappír"
         ]
       },
-      "searchText": "legitimate concrete fart viggo a 1990 1990 magnús pálsson",
+      "searchText": "legitimate concrete fart viggo a 1990 1990 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -6955,7 +6984,8 @@
       "tags": [
         "positive/negative space",
         "folklore",
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019",
@@ -6969,7 +6999,7 @@
           "gifs"
         ]
       },
-      "searchText": "lúðurhljómur skókassa bugle shoe box sound plaster sculpture conceptual münchhausen frozen sound heat cold 1975 1976 magnús pálsson",
+      "searchText": "lúðurhljómur skókassa bugle shoe box sound plaster sculpture conceptual münchhausen frozen sound heat cold 1975 1976 magnús pálsson book thumbnail added",
       "contentStatus": "needs review",
       "mediaStatus": "images draft",
       "ownership": {
@@ -7038,7 +7068,8 @@
         }
       ],
       "tags": [
-        "collaboration"
+        "collaboration",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -7049,7 +7080,7 @@
           "pappír"
         ]
       },
-      "searchText": "mob shop dummy book 1986 magnús pálsson",
+      "searchText": "mob shop dummy book 1986 magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "private collection and the artist",
         "owner_is": "einkaeign og höfundur",
@@ -7154,7 +7185,8 @@
       ],
       "tags": [
         "folklore",
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -7169,7 +7201,7 @@
           "málning"
         ]
       },
-      "searchText": "minning bakkabræðra ljóshirsla light-compartment bakki brothers 1977 magnús pálsson readymade kommóða chest drawers",
+      "searchText": "minning bakkabræðra ljóshirsla light-compartment bakki brothers 1977 magnús pálsson readymade kommóða chest drawers book thumbnail added",
       "contentStatus": "ready for review",
       "mediaStatus": "images draft",
       "medium": {
@@ -7245,7 +7277,8 @@
       ],
       "tags": [
         "folklore",
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -7258,7 +7291,7 @@
           "málmur"
         ]
       },
-      "searchText": "minning irafellsmóra  1977 1977 magnús pálsson",
+      "searchText": "minning irafellsmóra  1977 1977 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -7381,7 +7414,8 @@
       ],
       "tags": [
         "death",
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -7403,7 +7437,7 @@
         "url": "https://sarpur.is/is/collection/item/1396412/",
         "catalogNumber": "N-549"
       },
-      "searchText": "minning magnúsar jónssonar í minningu vinar míns sem át hús á akureyri og spilaði blús á sköflung sinn in memory friend ate house akureyri played blues washboard 1982 magnús pálsson installation innsetning",
+      "searchText": "minning magnúsar jónssonar í minningu vinar míns sem át hús á akureyri og spilaði blús á sköflung sinn in memory friend ate house akureyri played blues washboard 1982 magnús pálsson installation innsetning book thumbnail added",
       "contentStatus": "needs review",
       "mediaStatus": "images draft",
       "medium": {
@@ -7504,7 +7538,8 @@
         }
       ],
       "tags": [
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -7517,7 +7552,7 @@
           "ljósmynd"
         ]
       },
-      "searchText": "mát á h8  (skák, checkmate) 1972 1972 magnús pálsson",
+      "searchText": "mát á h8  (skák, checkmate) 1972 1972 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -7719,7 +7754,8 @@
       ],
       "tags": [
         "humor",
-        "identity"
+        "identity",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "bestu-stykkin-1967",
@@ -7743,7 +7779,7 @@
           "málning"
         ]
       },
-      "searchText": "bestu stykkin best pieces cloth figures frúöld anti-art ásmundarsalur 1967 debut exhibition dieter roth controversial ugly idiotic magnús pálsson hvarf garage studio",
+      "searchText": "bestu stykkin best pieces cloth figures frúöld anti-art ásmundarsalur 1967 debut exhibition dieter roth controversial ugly idiotic magnús pálsson hvarf garage studio book thumbnail added",
       "ownership": {
         "owner": "The Living Art Museum",
         "owner_is": "Nýlistasafnið",
@@ -7825,9 +7861,10 @@
         }
       ],
       "tags": [
-        "language"
+        "language",
+        "book-thumbnail-added"
       ],
-      "searchText": "augustus my god have it sound poetry audio art book performance language revelation nordic sound art festival reykjavik franklin furnace",
+      "searchText": "augustus my god have it sound poetry audio art book performance language revelation nordic sound art festival reykjavik franklin furnace book thumbnail added",
       "exhibitions": [
         "iceland-the-art-revealed-1984",
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -7971,7 +8008,8 @@
         }
       ],
       "tags": [
-        "positive/negative space"
+        "positive/negative space",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -7989,7 +8027,7 @@
         "something-from-nothing-the-visual-realm-of-magnús-2019",
         "manuscripts-and-sculptures-2012"
       ],
-      "searchText": "þyrlulending helicopter landing sikorsky coast guard anticipation mechanical intervention plaster venice biennale 1980 iceland representation time sculpture",
+      "searchText": "þyrlulending helicopter landing sikorsky coast guard anticipation mechanical intervention plaster venice biennale 1980 iceland representation time sculpture book thumbnail added",
       "materials": {
         "en": [
           "plaster",
@@ -8114,9 +8152,10 @@
       ],
       "tags": [
         "death",
-        "collaboration"
+        "collaboration",
+        "book-thumbnail-added"
       ],
-      "searchText": "viðtöl um dauðann conversations about death mortality existential meaning inevitable human experience",
+      "searchText": "viðtöl um dauðann conversations about death mortality existential meaning inevitable human experience book thumbnail added",
       "exhibitions": [],
       "materials": {
         "en": [
@@ -8201,9 +8240,10 @@
       "tags": [
         "nature",
         "dreams",
-        "positive/negative space"
+        "positive/negative space",
+        "book-thumbnail-added"
       ],
-      "searchText": "draumur hlynsins um fjall dreams sound landscape mountain collaboration edda jónsdóttir 1974 poetry magnús pálsson",
+      "searchText": "draumur hlynsins um fjall dreams sound landscape mountain collaboration edda jónsdóttir 1974 poetry magnús pálsson book thumbnail added",
       "exhibitions": [
         "odur-til-nidarins-fjardabyggd-2026",
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -8673,7 +8713,8 @@
         }
       ],
       "tags": [
-        "positive/negative space"
+        "positive/negative space",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "retrospective-exhibition-1994",
@@ -8701,7 +8742,7 @@
           "tómarúm"
         ]
       },
-      "searchText": "angist fátæka reykingsmannsins poor smokers anguish sculpture casting negative space positive neikvætt rými jákvætt rými tómarúm void cigarette sígaretta 1975 magnús pálsson kjarvalsstaðir 1994",
+      "searchText": "angist fátæka reykingsmannsins poor smokers anguish sculpture casting negative space positive neikvætt rými jákvætt rými tómarúm void cigarette sígaretta 1975 magnús pálsson kjarvalsstaðir 1994 book thumbnail added",
       "contentStatus": "ready for review",
       "mediaStatus": "images review",
       "ownership": {
@@ -8774,7 +8815,8 @@
       ],
       "tags": [
         "positive/negative space",
-        "collaboration"
+        "collaboration",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -8799,7 +8841,7 @@
           "gifs"
         ]
       },
-      "searchText": "anti society league concert norkjöping sweden performance casting 1982 magnús pálsson placeholder needs review",
+      "searchText": "anti society league concert norkjöping sweden performance casting 1982 magnús pálsson placeholder needs review book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "series": "anti-society-league",
@@ -8904,7 +8946,8 @@
       },
       "tags": [
         "positive/negative space",
-        "love"
+        "love",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "the-two-headed-art-of-iceland-2026",
@@ -8919,7 +8962,7 @@
           "gifs"
         ]
       },
-      "searchText": "ást í sundlaug love in a pool plaster cast negative space positive space emotion sculpture 3d scan 1975 magnús pálsson pappírsást vocal sculptures",
+      "searchText": "ást í sundlaug love in a pool plaster cast negative space positive space emotion sculpture 3d scan 1975 magnús pálsson pappírsást vocal sculptures book thumbnail added",
       "contentStatus": "needs review",
       "mediaStatus": "images draft",
       "ownership": {
@@ -8984,7 +9027,8 @@
       "tags": [
         "positive/negative space",
         "teaching",
-        "collaboration"
+        "collaboration",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "exhibition-1981"
@@ -8999,7 +9043,7 @@
           "tónlist"
         ]
       },
-      "searchText": "bacarolle í fís dúr music plaster casting students collaboration teaching 1981 magnús pálsson placeholder needs review",
+      "searchText": "bacarolle í fís dúr music plaster casting students collaboration teaching 1981 magnús pálsson placeholder needs review book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -9255,7 +9299,8 @@
       "tags": [
         "teaching",
         "collaboration",
-        "language"
+        "language",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019",
@@ -9273,7 +9318,7 @@
         "url": "https://soundcloud.com/bok-um-bok-og-fleira",
         "type": "soundcloud"
       },
-      "searchText": "bók um bók og fleira book about books wanderings explanations engravings drawings woodcut calves 1980 mhí magnús pálsson nýlistasafnið soundcloud",
+      "searchText": "bók um bók og fleira book about books wanderings explanations engravings drawings woodcut calves 1980 mhí magnús pálsson nýlistasafnið soundcloud book thumbnail added",
       "ownership": {
         "owner": "various owners and the artist",
         "owner_is": "ýmsir, í eigu höfundar",
@@ -9806,7 +9851,9 @@
           "year": "1968"
         }
       ],
-      "tags": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
       "exhibitions": [
         "exhibition-1968",
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -9821,7 +9868,7 @@
           "blek"
         ]
       },
-      "searchText": "buxnaskálm tóta sigga collaboration group work 1968 magnús pálsson placeholder needs review",
+      "searchText": "buxnaskálm tóta sigga collaboration group work 1968 magnús pálsson placeholder needs review book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -9866,7 +9913,8 @@
         }
       ],
       "tags": [
-        "positive/negative space"
+        "positive/negative space",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -9881,7 +9929,7 @@
           "gifs"
         ]
       },
-      "searchText": "kjóll dress sculpture clothing 1968 2023 magnús pálsson listasafn íslands",
+      "searchText": "kjóll dress sculpture clothing 1968 2023 magnús pálsson listasafn íslands book thumbnail added",
       "ownership": {
         "owner": "The National Gallery of Iceland",
         "owner_is": "Listasafn Íslands",
@@ -10362,7 +10410,8 @@
       ],
       "tags": [
         "positive/negative space",
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "the-two-headed-art-of-iceland-2026",
@@ -10391,7 +10440,7 @@
           "ál"
         ]
       },
-      "searchText": "dalalæða valley mist plaster sculpture conceptual positive negative space landscape atmospheric vatnsdalur venice biennale 1975 1980 magnús pálsson",
+      "searchText": "dalalæða valley mist plaster sculpture conceptual positive negative space landscape atmospheric vatnsdalur venice biennale 1975 1980 magnús pálsson book thumbnail added",
       "mediaStatus": "images draft",
       "ownership": {
         "owner": "owned by the artist",
@@ -10453,7 +10502,8 @@
         }
       ],
       "tags": [
-        "animals"
+        "animals",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -10477,7 +10527,7 @@
           "pappír"
         ]
       },
-      "searchText": "dog book publication 1973 magnús pálsson placeholder needs review",
+      "searchText": "dog book publication 1973 magnús pálsson placeholder needs review book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -10808,7 +10858,8 @@
       ],
       "tags": [
         "dreams",
-        "collaboration"
+        "collaboration",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -10823,7 +10874,7 @@
           "geisladiskur"
         ]
       },
-      "searchText": "dreams skinned rabbit bookie wookie berlin collaboration jan audio 2005 magnús pálsson placeholder needs review",
+      "searchText": "dreams skinned rabbit bookie wookie berlin collaboration jan audio 2005 magnús pálsson placeholder needs review book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -10899,7 +10950,8 @@
       ],
       "tags": [
         "language",
-        "positive/negative space"
+        "positive/negative space",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "exhibition-1976",
@@ -10913,7 +10965,7 @@
           "gifs"
         ]
       },
-      "searchText": "duld blub bum mud 6 pund plaster books wordplay experimental language sculpture 1976 magnús pálsson placeholder needs review",
+      "searchText": "duld blub bum mud 6 pund plaster books wordplay experimental language sculpture 1976 magnús pálsson placeholder needs review book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -10972,7 +11024,8 @@
       ],
       "tags": [
         "language",
-        "positive/negative space"
+        "positive/negative space",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -10985,7 +11038,7 @@
           "málmur"
         ]
       },
-      "searchText": "mum wow good boop bum mud but tub palindrome wordplay plaster brass 1976 magnús pálsson",
+      "searchText": "mum wow good boop bum mud but tub palindrome wordplay plaster brass 1976 magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
@@ -11363,7 +11416,8 @@
         }
       ],
       "tags": [
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -11392,7 +11446,7 @@
           "gúmmí"
         ]
       },
-      "searchText": "fjall mountain ceramic pieces sculpture 1969 1970 1971 magnús pálsson placeholder needs review",
+      "searchText": "fjall mountain ceramic pieces sculpture 1969 1970 1971 magnús pálsson placeholder needs review book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -11466,7 +11520,8 @@
         }
       ],
       "tags": [
-        "mythology"
+        "mythology",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -11493,7 +11548,7 @@
           "vatnslitur"
         ]
       },
-      "searchText": "eddumyndir edda mythology sketches hel himinbjörg mosfellsbær íslandsbanki 1983 magnús pálsson placeholder needs review",
+      "searchText": "eddumyndir edda mythology sketches hel himinbjörg mosfellsbær íslandsbanki 1983 magnús pálsson placeholder needs review book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -11598,7 +11653,8 @@
       ],
       "tags": [
         "humor",
-        "fluxus"
+        "fluxus",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "exhibition-1968"
@@ -11617,7 +11673,7 @@
           "límband"
         ]
       },
-      "searchText": "erðanú borð what a table early work 1962 magnús pálsson fluxus conceptual art sculpture mixed media humor ephemerality ásmundarsalur",
+      "searchText": "erðanú borð what a table early work 1962 magnús pálsson fluxus conceptual art sculpture mixed media humor ephemerality ásmundarsalur book thumbnail added",
       "mediaStatus": "images draft",
       "ownership": {
         "owner": "The National Gallery of Iceland",
@@ -11679,7 +11735,8 @@
         }
       ],
       "tags": [
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -11703,7 +11760,7 @@
           "blandað efni"
         ]
       },
-      "searchText": "foss waterfall nature photography 2006 magnús pálsson placeholder needs review",
+      "searchText": "foss waterfall nature photography 2006 magnús pálsson placeholder needs review book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -11954,7 +12011,8 @@
         }
       ],
       "tags": [
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -11976,7 +12034,7 @@
           "note": "Description enriched from exhibition catalog information about car parts transformed into book form and significance of linear form in Magnús's work"
         }
       ],
-      "searchText": "automobile bílabók book car 1970 1974 magnús pálsson",
+      "searchText": "automobile bílabók book car 1970 1974 magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
@@ -12601,7 +12659,8 @@
       ],
       "tags": [
         "positive/negative space",
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "retrospective-exhibition-1994",
@@ -12616,7 +12675,7 @@
           "gifs"
         ]
       },
-      "searchText": "flæðarmál beach sea sky three parts plaster cast seamless block positive negative value mathematical reflection environmental casting landscape kjarvalstaðir retrospective listasafn reykjavíkur something from nothing eitthvað úr engu lund 1976 1994 2019 magnús pálsson",
+      "searchText": "flæðarmál beach sea sky three parts plaster cast seamless block positive negative value mathematical reflection environmental casting landscape kjarvalstaðir retrospective listasafn reykjavíkur something from nothing eitthvað úr engu lund 1976 1994 2019 magnús pálsson book thumbnail added",
       "contentStatus": "ready for review",
       "mediaStatus": "images draft",
       "medium": {
@@ -12737,7 +12796,8 @@
         }
       ],
       "tags": [
-        "animals"
+        "animals",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "exhibition-1982",
@@ -12751,7 +12811,7 @@
           "pappír"
         ]
       },
-      "searchText": "galleri gangur hani krummi hundur svin cockerel crow dog pig animals musical notation drawing bird horse mouse sound nature reykjavík 1982 magnús pálsson",
+      "searchText": "galleri gangur hani krummi hundur svin cockerel crow dog pig animals musical notation drawing bird horse mouse sound nature reykjavík 1982 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -13017,7 +13077,8 @@
         }
       ],
       "tags": [
-        "language"
+        "language",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -13028,7 +13089,7 @@
           "hljóðband"
         ]
       },
-      "searchText": "grað og bú audio sound poetry text master recording experimental audio hunger dwelling 2002 magnús pálsson",
+      "searchText": "grað og bú audio sound poetry text master recording experimental audio hunger dwelling 2002 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -13315,7 +13376,8 @@
       ],
       "tags": [
         "childhood",
-        "positive/negative space"
+        "positive/negative space",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "manuscripts-and-sculptures-2012",
@@ -13329,7 +13391,7 @@
           "gifs"
         ]
       },
-      "searchText": "gifsbörn plaster children sculpture life-size clothing moulds materiality childhood casting gallery fodor amsterdam lund international 1970 1971 magnús pálsson listasafn íslands national gallery iceland",
+      "searchText": "gifsbörn plaster children sculpture life-size clothing moulds materiality childhood casting gallery fodor amsterdam lund international 1970 1971 magnús pálsson listasafn íslands national gallery iceland book thumbnail added",
       "contentStatus": "ready for review",
       "mediaStatus": "images draft",
       "medium": {
@@ -13557,7 +13619,8 @@
       ],
       "tags": [
         "identity",
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -13583,7 +13646,7 @@
           "málning"
         ]
       },
-      "searchText": "hattar hats headwear identity social commentary conceptual series sculpture mixed media 1969 1970 1971 early career magnús pálsson",
+      "searchText": "hattar hats headwear identity social commentary conceptual series sculpture mixed media 1969 1970 1971 early career magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -14023,7 +14086,8 @@
         }
       ],
       "tags": [
-        "positive/negative space"
+        "positive/negative space",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "settantaventidue-2026",
@@ -14052,7 +14116,7 @@
           "epoxy"
         ]
       },
-      "searchText": "hvískur 1 hviskur whisper plaster epoxy sculpture conceptual 1975 magnús pálsson safnasafnið",
+      "searchText": "hvískur 1 hviskur whisper plaster epoxy sculpture conceptual 1975 magnús pálsson safnasafnið book thumbnail added",
       "ownership": {
         "owner": "Icelandic Folk and Outsider Art Museum, private collection, owned by the artist",
         "owner_is": "Safnasafnið, einkaeign og höfundur",
@@ -14505,7 +14569,8 @@
         }
       ],
       "tags": [
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -14534,7 +14599,7 @@
         "notes": "Institutional artwork created within and owned by the bank",
         "owner_is": "Íslandsbanki"
       },
-      "searchText": "jónsmessunótt bank piece institutional critique banking íslandsbanki corporate intervention midsummer 1982 magnús pálsson corporate collection",
+      "searchText": "jónsmessunótt bank piece institutional critique banking íslandsbanki corporate intervention midsummer 1982 magnús pálsson corporate collection book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "medium": {
@@ -14786,7 +14851,8 @@
       ],
       "tags": [
         "language",
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -14797,7 +14863,7 @@
           "hljóðband"
         ]
       },
-      "searchText": "seeds of aspidistra 2002 sound poetry audio art text performance experimental magnús pálsson",
+      "searchText": "seeds of aspidistra 2002 sound poetry audio art text performance experimental magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -15045,7 +15111,8 @@
         }
       ],
       "tags": [
-        "identity"
+        "identity",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -15058,7 +15125,7 @@
           "vatnslitur"
         ]
       },
-      "searchText": "sjálfsmynd self portrait watercolour paper 1975 magnús pálsson",
+      "searchText": "sjálfsmynd self portrait watercolour paper 1975 magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
@@ -15189,7 +15256,8 @@
         }
       ],
       "tags": [
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -15202,7 +15270,7 @@
           "pappír"
         ]
       },
-      "searchText": "sjóndeildarhringur (horizon) 1975 1975 magnús pálsson",
+      "searchText": "sjóndeildarhringur (horizon) 1975 1975 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -15284,7 +15352,9 @@
           "year": "2020"
         }
       ],
-      "tags": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
       ],
@@ -15298,7 +15368,7 @@
           "blek"
         ]
       },
-      "searchText": "skýrsla 1968 1968 magnús pálsson",
+      "searchText": "skýrsla 1968 1968 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -15505,7 +15575,8 @@
         }
       ],
       "tags": [
-        "childhood"
+        "childhood",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -15518,7 +15589,7 @@
           "blýantur"
         ]
       },
-      "searchText": "small sketches with veiga and palli Unknown magnús pálsson",
+      "searchText": "small sketches with veiga and palli Unknown magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -15874,7 +15945,8 @@
         }
       ],
       "tags": [
-        "positive/negative space"
+        "positive/negative space",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -15908,7 +15980,8 @@
       "category": [
         "sculpture",
         "book"
-      ]
+      ],
+      "searchText": "book thumbnail added"
     },
     {
       "id": "spilaborg-card-house-nh-for-ferdafuda-2003",
@@ -16439,7 +16512,8 @@
       ],
       "tags": [
         "nature",
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "odur-til-nidarins-fjardabyggd-2026",
@@ -16453,7 +16527,7 @@
           "plast"
         ]
       },
-      "searchText": "steinþoka 1977 1977 magnús pálsson",
+      "searchText": "steinþoka 1977 1977 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -16812,7 +16886,8 @@
         }
       ],
       "tags": [
-        "positive/negative space"
+        "positive/negative space",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "biennale-di-venezia-1980",
@@ -16826,7 +16901,7 @@
           "gifs"
         ]
       },
-      "searchText": "stærðfræði mathematics plaster sculpture conceptual positive negative space equations sand casting venice biennale 1976 1980 magnús pálsson",
+      "searchText": "stærðfræði mathematics plaster sculpture conceptual positive negative space equations sand casting venice biennale 1976 1980 magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "Reykjavík art museum and the artist",
         "owner_is": "Listasafn Reykjavíkur, í eigu höfundar",
@@ -16932,7 +17007,8 @@
       "tags": [
         "nature",
         "animals",
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -16943,7 +17019,7 @@
           "fundir hlutir"
         ]
       },
-      "searchText": "sólskrikja, mús, kengúra bunting, mouse, kangaroo 1980 „norðan korpúlfsstaða við ósa úlfarsár er teikning af sólskríkju á grasbala. á tíu dögum breytist sólskríkja í mús og á öðrum tíu dögum í kengúru.“ svo kemst magnús pálsson sjálfur að orði um verkið. upphaflega var það gert árið 1980 en hann endurgerði það 1994 vegna yfirlitssýningar sem var það ár á kjarvalsstöðum. í bæði skipti sótti hann efnivið í nærliggjandi öskuhauga. upphaflega hafði hann ætlað sér að raða ruslinu upp í fallegt munstur utan í hlíð sem sæist langt að, en á endanum varð það að þessu umbreytingarferli. magnús skapar hér eitthvað úr engu. \"north of korpúlfsstaður at the mouth of úlfarsá there is a drawing of a bird on a grass patch. in ten days, the bird transforms into a mouse, and in another ten days into a kangaroo.\" this is how magnús pálsson himself describes the work. originally it was made in 1980, but he recreated it in 1994 for a retrospective exhibition held that year at kjarvalsstaðir. both times he sourced material from nearby ash heaps. originally he had intended to arrange the garbage in a beautiful pattern on a hillside that could be seen from far away, but in the end it became this transformation process. here magnús creates something from nothing. artwork 1980 rusl rubbish",
+      "searchText": "sólskrikja, mús, kengúra bunting, mouse, kangaroo 1980 „norðan korpúlfsstaða við ósa úlfarsár er teikning af sólskríkju á grasbala. á tíu dögum breytist sólskríkja í mús og á öðrum tíu dögum í kengúru.“ svo kemst magnús pálsson sjálfur að orði um verkið. upphaflega var það gert árið 1980 en hann endurgerði það 1994 vegna yfirlitssýningar sem var það ár á kjarvalsstöðum. í bæði skipti sótti hann efnivið í nærliggjandi öskuhauga. upphaflega hafði hann ætlað sér að raða ruslinu upp í fallegt munstur utan í hlíð sem sæist langt að, en á endanum varð það að þessu umbreytingarferli. magnús skapar hér eitthvað úr engu. \"north of korpúlfsstaður at the mouth of úlfarsá there is a drawing of a bird on a grass patch. in ten days, the bird transforms into a mouse, and in another ten days into a kangaroo.\" this is how magnús pálsson himself describes the work. originally it was made in 1980, but he recreated it in 1994 for a retrospective exhibition held that year at kjarvalsstaðir. both times he sourced material from nearby ash heaps. originally he had intended to arrange the garbage in a beautiful pattern on a hillside that could be seen from far away, but in the end it became this transformation process. here magnús creates something from nothing. artwork 1980 rusl rubbish book thumbnail added",
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
@@ -17230,7 +17306,8 @@
         }
       ],
       "tags": [
-        "time"
+        "time",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -17241,7 +17318,7 @@
           "málmur"
         ]
       },
-      "searchText": "sólúr sundials  originals 1965ish (to 77) Unknown magnús pálsson",
+      "searchText": "sólúr sundials  originals 1965ish (to 77) Unknown magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -17381,7 +17458,9 @@
           "year": "2020"
         }
       ],
-      "tags": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
       "exhibitions": [],
       "materials": {
         "en": [
@@ -17393,7 +17472,7 @@
           "textíll"
         ]
       },
-      "searchText": "skyggn_berdreyminn_naemur_1969 Unknown magnús pálsson",
+      "searchText": "skyggn_berdreyminn_naemur_1969 Unknown magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "The Living Art Museum",
         "owner_is": "Nýlistasafnið",
@@ -17660,7 +17739,8 @@
         "sound"
       ],
       "tags": [
-        "folklore"
+        "folklore",
+        "book-thumbnail-added"
       ],
       "location": {
         "en": "Henie-Onstad Kunstsenter, Høvikodden, Norway",
@@ -17852,7 +17932,8 @@
           "hátalerar",
           "hljóðband"
         ]
-      }
+      },
+      "searchText": "book thumbnail added"
     },
     {
       "id": "hundljod_1970",
@@ -18053,7 +18134,8 @@
         "animals",
         "series",
         "plaster",
-        "straw"
+        "straw",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -18070,7 +18152,8 @@
           "blandaður miðill"
         ]
       },
-      "category": "sculpture"
+      "category": "sculpture",
+      "searchText": "book thumbnail added"
     }
   ],
   "exhibitions": [
