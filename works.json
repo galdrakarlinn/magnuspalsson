@@ -2401,6 +2401,16 @@
       },
       "images": [
         {
+          "url": "images/tango-1-2-1969/medium/tango-1-2-1969-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #28",
+            "is": "Smamynd ur bok #28"
+          },
+          "thumbnail": "images/tango-1-2-1969/thumbs/tango-1-2-1969-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/tango-1-2-1969/medium/tango-1-2-1969-01-medium.jpg",
           "caption": {
             "en": "Tango 1",
@@ -2463,7 +2473,9 @@
           "year": "2020"
         }
       ],
-      "tags": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
       "exhibitions": [],
       "materials": {
         "en": [
@@ -2477,7 +2489,7 @@
           "tré"
         ]
       },
-      "searchText": "tango 1969 dance movement sculpture magnús pálsson",
+      "searchText": "tango 1969 dance movement sculpture magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -2615,6 +2627,16 @@
       },
       "images": [
         {
+          "url": "images/the-offs-1994/medium/the-offs-1994-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail #74",
+            "is": "Smamynd ur bok #74"
+          },
+          "thumbnail": "images/the-offs-1994/thumbs/the-offs-1994-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/the-offs-1994/medium/the-offs-1994-01-medium.jpg",
           "caption": {
             "en": "The Offs - view 1",
@@ -2664,7 +2686,8 @@
         }
       ],
       "tags": [
-        "language"
+        "language",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019",
@@ -2680,7 +2703,7 @@
           "plast"
         ]
       },
-      "searchText": "the offs 1994 installation magnús pálsson",
+      "searchText": "the offs 1994 installation magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "owned by the artist and others",
         "owner_is": "í eigu höfundar,",
@@ -3648,6 +3671,16 @@
       },
       "images": [
         {
+          "url": "images/segdu_ekki_nei_segdu_kannski/medium/segdu_ekki_nei_segdu_kannski-book-thumbnail-medium.JPG",
+          "caption": {
+            "en": "Book thumbnail #62",
+            "is": "Smamynd ur bok #62"
+          },
+          "thumbnail": "images/segdu_ekki_nei_segdu_kannski/thumbs/segdu_ekki_nei_segdu_kannski-book-thumbnail-thumb.JPG",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/segdu_ekki_nei_segdu_kannski/medium/segdu_ekki_nei_segdu_kannski-spessi-01-medium.jpg",
           "caption": {
             "en": "Retrospective exhibition, 2020",
@@ -3699,7 +3732,8 @@
         }
       ],
       "tags": [
-        "folklore"
+        "folklore",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -3712,7 +3746,7 @@
           "hljóðband"
         ]
       },
-      "searchText": "segðu ekki nei segðu kannski don't say no say maybe magnús pálsson",
+      "searchText": "segðu ekki nei segðu kannski don't say no say maybe magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
