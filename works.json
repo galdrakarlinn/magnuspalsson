@@ -17153,16 +17153,6 @@
           "year": "1976"
         },
         {
-          "url": "images/staerdfraedi-maths-1976/medium/staerdfraedi-maths-1976-book-thumbnail-medium.jpg",
-          "caption": {
-            "en": "Book thumbnail - Stærðfræði (Mathematics)",
-            "is": "Smámynd úr bók - Stærðfræði"
-          },
-          "thumbnail": "images/staerdfraedi-maths-1976/thumbs/staerdfraedi-maths-1976-book-thumbnail-thumb.jpg",
-          "photographer": "Book publication",
-          "year": "1976"
-        },
-        {
           "url": "images/staerdfraedi-maths-1976/medium/staerdfraedi-01-medium.jpg",
           "caption": {
             "en": "Stærðfræði  (Maths) 1976 - view 1",
@@ -17955,10 +17945,32 @@
         "en": "Public installation based on a Hungarian fairy tale, depicted in 50 ceramic sculptures and texts on inside and outside walls of Snælandsskóli in Kópavogur. The work was created in 1985 and restored/completed in 2015.",
         "is": "Útilistaverk byggt á ungversku ævintýri, sýnt í 50 leirskúlptúrum og textum á innri og ytri veggjum Snælandsskóla í Kópavogi. Verkið var gert árið 1985 og endurgert/lokið við árið 2015."
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images\\litill-tritill-karlsson-og-fuglarnir-1985\\medium\\litill-tritill-karlsson-og-fuglarnir-1985-book-thumbnail-a-medium.JPG",
+          "caption": {
+            "en": "Book thumbnail #79a",
+            "is": "Smámynd úr bók #79a"
+          },
+          "thumbnail": "images\\litill-tritill-karlsson-og-fuglarnir-1985\\thumbs\\litill-tritill-karlsson-og-fuglarnir-1985-book-thumbnail-a-thumb.JPG",
+          "photographer": "Book publication",
+          "year": "1985"
+        },
+        {
+          "url": "images\\litill-tritill-karlsson-og-fuglarnir-1985\\medium\\litill-tritill-karlsson-og-fuglarnir-1985-book-thumbnail-b-medium.JPG",
+          "caption": {
+            "en": "Book thumbnail #79b",
+            "is": "Smámynd úr bók #79b"
+          },
+          "thumbnail": "images\\litill-tritill-karlsson-og-fuglarnir-1985\\thumbs\\litill-tritill-karlsson-og-fuglarnir-1985-book-thumbnail-b-thumb.JPG",
+          "photographer": "Book publication",
+          "year": "1985"
+        }
+      ],
       "tags": [
         "childhood",
-        "animals"
+        "animals",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
