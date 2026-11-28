@@ -10361,18 +10361,28 @@
       ]
     },
     {
-      "id": "contours_of_a_baby_1987",
+      "id": "madame-president-1986",
       "title": {
-        "en": "Madame President, Contours of a Baby",
-        "is": "Madame President, Contours of a Baby"
+        "en": "Madame President",
+        "is": "Madame President"
       },
-      "year": 1987,
+      "year": 1986,
       "dimensions": null,
       "description": {
-        "en": "Madame President, Contours of a Baby. Two audio cassettes for four loudspeakers. Madame President was first performed at Henie-Onstad Kunstsenter in Oslo 1986 with the artist's own participation, a video monitor and four loudspeakers. Contours of a Baby was performed at Kunstcentret Brandts Klædefabrik in Odense 1987 with four loudspeakers. Recorded at Studio VEC Maastricht and Studio Stef Kópavogur. Published as Hong Kong Press nr. 7.",
-        "is": "Madame President, Contours of a Baby. Tvær hljóðsnældur fyrir fjóra hátalara. Madame President var fyrst flutt á Henie-Onstad Kunstsenter í Ósló 1986 með þátttöku listamannsins sjálfs, sjónvarpsskjá og fjórum háttölurum. Contours of a Baby var flutt á Kunstcentret Brandts Klædefabrik í Odense 1987 með fjórum háttölurum. Hljóðritað í Studio VEC Maastricht og Studio Stef Kópavogi. Gefið út sem Hong Kong Press nr. 7."
+        "en": "Audio cassette for four loudspeakers. First performed at Henie-Onstad Kunstsenter in Oslo 1986 with the artist's own participation, a video monitor and four loudspeakers. Recorded at Studio VEC Maastricht and Studio Stef Kópavogur. Published as Hong Kong Press nr. 7.",
+        "is": "Hljóðsnælda fyrir fjóra hátalara. Fyrst flutt á Henie-Onstad Kunstsenter í Ósló 1986 með þátttöku listamannsins sjálfs, sjónvarpsskjá og fjórum háttölurum. Hljóðritað í Studio VEC Maastricht og Studio Stef Kópavogi. Gefið út sem Hong Kong Press nr. 7."
       },
       "images": [
+        {
+          "url": "images\\madame-president-1986\\medium\\madame-president-1986-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #83",
+            "is": "Smámynd úr bók #83"
+          },
+          "thumbnail": "images\\madame-president-1986\\thumbs\\madame-president-1986-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "1986"
+        },
         {
           "url": "images/contours_of_a_baby_1987/medium/contours_of_a_baby_1987-book-thumbnail-medium.jpg",
           "caption": {
@@ -10380,6 +10390,68 @@
             "is": "Smamynd ur bok - Madame President, Contours of a Baby"
           },
           "thumbnail": "images/contours_of_a_baby_1987/thumbs/contours_of_a_baby_1987-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "1987"
+        },
+        {
+          "url": "images/madame-president-1986-audio-to-be-digitalised-1986/medium/madame-01-medium.jpg",
+          "caption": {
+            "en": "Hong Kong Press nr. 7 packaging",
+            "is": "Hong Kong Press nr. 7 umbúðir"
+          }
+        },
+        {
+          "url": "images/madame-president-1986-audio-to-be-digitalised-1986/medium/madame-02-medium.jpg",
+          "caption": {
+            "en": "Artist statement in Swedish (Hong Kong Press 1987)",
+            "is": "Yfirlýsing listamanns á sænsku (Hong Kong Press 1987)"
+          }
+        }
+      ],
+      "tags": [
+        "sound",
+        "performance",
+        "book-thumbnail-added"
+      ],
+      "materials": {
+        "en": [
+          "audio cassette"
+        ],
+        "is": [
+          "hljóðsnælda"
+        ]
+      },
+      "category": [
+        "sound-art",
+        "performance"
+      ],
+      "ownership": {
+        "owner": "various museums and collections and the artist",
+        "owner_en": "various museums and collections and the artist",
+        "owner_is": "ýmis söfn og söfn og listamaðurinn"
+      },
+      "searchText": "madame president 1986 audio cassette hong kong press book thumbnail #83 added"
+    },
+    {
+      "id": "contours_of_a_baby_1987",
+      "title": {
+        "en": "Contours of a Baby",
+        "is": "Contours of a Baby"
+      },
+      "year": 1987,
+      "dimensions": null,
+      "description": {
+        "en": "Audio cassette for four loudspeakers. Performed at Kunstcentret Brandts Klædefabrik in Odense 1987 with four loudspeakers. Recorded at Studio VEC Maastricht and Studio Stef Kópavogur. Published as Hong Kong Press nr. 7.",
+        "is": "Hljóðsnælda fyrir fjóra hátalara. Flutt á Kunstcentret Brandts Klædefabrik í Odense 1987 með fjórum háttölurum. Hljóðritað í Studio VEC Maastricht og Studio Stef Kópavogi. Gefið út sem Hong Kong Press nr. 7."
+      },
+      "images": [
+        {
+          "url": "images\\contours-of-a-baby-1987\\medium\\contours-of-a-baby-1987-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #85",
+            "is": "Smámynd úr bók #85"
+          },
+          "thumbnail": "images\\contours-of-a-baby-1987\\thumbs\\contours-of-a-baby-1987-book-thumbnail-thumb.jpg",
           "photographer": "Book publication",
           "year": "1987"
         },
@@ -10432,20 +10504,6 @@
             "is": "Hong Kong Press 1987 fylgibréf"
           },
           "thumbnail": "images/contours-of-a-baby-1987/thumbs/contours-06-thumb.jpg"
-        },
-        {
-          "url": "images/madame-president-1986-audio-to-be-digitalised-1986/medium/madame-01-medium.jpg",
-          "caption": {
-            "en": "Hong Kong Press nr. 7 packaging",
-            "is": "Hong Kong Press nr. 7 umbúðir"
-          }
-        },
-        {
-          "url": "images/madame-president-1986-audio-to-be-digitalised-1986/medium/madame-02-medium.jpg",
-          "caption": {
-            "en": "Artist statement in Swedish (Hong Kong Press 1987)",
-            "is": "Yfirlýsing listamanns á sænsku (Hong Kong Press 1987)"
-          }
         }
       ],
       "tags": [
@@ -10477,7 +10535,7 @@
           "hátalerer"
         ]
       },
-      "searchText": "contours of a baby tape digitalization 1987 magnús pálsson placeholder needs review book thumbnail added",
+      "searchText": "contours of a baby 1987 audio cassette hong kong press book thumbnail #85 added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -14931,6 +14989,16 @@
         "is": "Þríleikur Magnúsar, Talk Preceding Eye Talk, Eye Talk og Eye Talk II, er uppbyggður með áþekkum hætti hverju sinni, rödd listamannsins er í fyrirrúmi og hann fer sjálfur með textann í mynd. Alltaf er til staðar einhver eiginleiki sem gerir frásögnina framandlega og hún virðist úr lausu lofti gripin. Í fyrsta myndskeiði er Magnús í hlutverki manns sem tekur óhóflega í nefið með tilheyrandi truflun í frásögninni. Öðru sinni sést andlit hans ekki, eingöngu hálsinn, fyrir framan upptöku úr skólpræsakerfi. Loks stillir hann sér upp þétt við kvenmannsbrjóst og nýtur fulltingis konunnar við frásögnina. Ekkert verkanna er klippt eða samsett, þau líða hægt áfram án framvindu eða samhengis."
       },
       "images": [
+        {
+          "url": "images\\eyetalk_augntal_1986_1998\\medium\\eyetalk_augntal_1986_1998-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail #84",
+            "is": "Smámynd úr bók #84"
+          },
+          "thumbnail": "images\\eyetalk_augntal_1986_1998\\thumbs\\eyetalk_augntal_1986_1998-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": "1986"
+        },
         {
           "url": "images/eyetalk_augntal_1986_1998/medium/eyetalk_augntal_1986_1998-book-thumbnail-medium.jpeg",
           "caption": {
