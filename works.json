@@ -4473,13 +4473,23 @@
         "en": "Shaping of Land",
         "is": "Mótun Lands  / Sköpun Lands"
       },
-      "year": 2009,
+      "year": 2010,
       "dimensions": "11 x 3.3 m",
       "description": {
         "en": "A comprehensive work by Magnús Pálsson from 2010. This extensive piece demonstrates his artistic development and exploration during this significant period of his career.",
         "is": ""
       },
       "images": [
+        {
+          "url": "images\\motun-lands-askja-2010-2010\\medium\\motun-lands-askja-2010-2010-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #141",
+            "is": "Smámynd úr bók #141"
+          },
+          "thumbnail": "images\\motun-lands-askja-2010-2010\\thumbs\\motun-lands-askja-2010-2010-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "2010"
+        },
         {
           "url": "images/motun-lands-askja-2010-2010/medium/motun-01-medium.jpg",
           "caption": {
@@ -4575,7 +4585,8 @@
       ],
       "tags": [
         "nature",
-        "language"
+        "language",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -4588,7 +4599,7 @@
           "granít"
         ]
       },
-      "searchText": "mótun lands askja 2010 2010 magnús pálsson",
+      "searchText": "mótun lands askja 2010 2010 magnús pálsson book thumbnail #141 added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -15715,13 +15726,23 @@
         "en": "Litlar myndir (Small drawings)",
         "is": "Litlar myndir"
       },
-      "year": "1976",
+      "year": 1996,
       "dimensions": "8 x 12, 11 x 8.5 cm",
       "description": {
         "en": "A work by Magnús Pálsson from Unknown. This piece demonstrates his artistic exploration and creative development during this period.",
         "is": ""
       },
       "images": [
+        {
+          "url": "images\\small-sketches-with-veiga-and-palli\\medium\\small-sketches-with-veiga-and-palli-book-thumbnail-medium.JPG",
+          "caption": {
+            "en": "Book thumbnail #106",
+            "is": "Smámynd úr bók #106"
+          },
+          "thumbnail": "images\\small-sketches-with-veiga-and-palli\\thumbs\\small-sketches-with-veiga-and-palli-book-thumbnail-thumb.JPG",
+          "photographer": "Book publication",
+          "year": "1996"
+        },
         {
           "url": "images/small-sketches-with-veiga-and-palli/medium/small-sketches-with-veiga-and-palli-book-thumbnail-b-medium.jpg",
           "caption": {
