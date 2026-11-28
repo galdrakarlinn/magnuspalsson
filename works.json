@@ -13974,16 +13974,26 @@
     {
       "id": "hundur_adrir_1971",
       "title": {
-        "en": "Dogs other",
-        "is": "Hundur aðrir"
+        "en": "Dogs",
+        "is": "Hundar"
       },
-      "year": 1968,
+      "year": 1970,
       "dimensions": "42 x 31 x 21 cm",
       "description": {
         "en": "A collection of individual dog sculptures created separately from the Hundljóð series. These dogs feature various materials including plaster, paper, plastic, cloth, and fabric elements like jacket and shirt. Dog with plastic is owned by Safnasafnið (Icelandic Folk and Outsider Art Museum), three dogs with cloth are owned by Pétur Arason, two dogs with paper are owned by Nýlistasafnið (Reykjavík Art Museum), while dog with jacket and dog with shirt are in the artist's collection. These works were exhibited at Lund Konsthall, Sweden in 2012.",
         "is": "Safn einstakra hundamynda sem gerðar voru aðskildar frá Hundljóða verkröðinni. Þessir hundar nota ýmis efni þar á meðal gifs, pappír, plast, klút og fatnaðarefni eins og jakki og skyrta. Hundur með plasti er í eigu Safnasafns, þrír hundar með klút eru í eigu Péturs Arasonar, tveir hundar með pappír eru í eigu Nýlistasafns (Listasafn Reykjavíkur), en hundur með jakka og hundur með skyrtu eru í safni listamannsins. Þessi verk voru sýnd á Lund Konsthall, Svíþjóð árið 2012."
       },
       "images": [
+        {
+          "url": "images\\hundur_adrir_1971\\medium\\hundur_adrir_1971-book-thumbnail-medium.JPG",
+          "caption": {
+            "en": "Book thumbnail #32",
+            "is": "Smámynd úr bók #32"
+          },
+          "thumbnail": "images\\hundur_adrir_1971\\thumbs\\hundur_adrir_1971-book-thumbnail-thumb.JPG",
+          "photographer": "Book publication",
+          "year": "1970"
+        },
         {
           "url": "images/hundur-adrir-1971/medium/dogs-other-jacket-medium.jpg",
           "caption": {
@@ -14083,7 +14093,8 @@
         }
       ],
       "tags": [
-        "animals"
+        "animals",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "manuscripts-and-sculptures-2012"
@@ -14106,7 +14117,7 @@
           "klútur"
         ]
       },
-      "searchText": "hundur aðrir dogs other plaster various 1971 magnús pálsson",
+      "searchText": "hundur aðrir dogs other plaster various 1971 magnús pálsson book thumbnail #32 added",
       "ownership": {
         "owner": "Various collections: Artist (dogs with jacket and shirt), Safnasafnið (dog with plastic), Pétur Arason (3 dogs with cloth), Nýlistasafnið (2 dogs with paper)",
         "owner_is": "Ýmis söfn: Listamaður (hundar með jakka og skyrtu), Safnasafnið (hundur með plasti), Pétur Arason (3 hundar með klút), Nýlistasafnið (2 hundar með pappír)",
