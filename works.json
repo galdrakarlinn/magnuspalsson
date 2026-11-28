@@ -407,10 +407,10 @@
     {
       "id": "thrigaldur-thursavaenn-2000",
       "title": {
-        "en": "Three Spells friendly to giants",
+        "en": "Triple Magic Fit for Giants",
         "is": "Þrígaldur Þursavænn"
       },
-      "year": "2000/2013",
+      "year": "2000",
       "dimensions": null,
       "description": {
         "en": "\"Þrígaldur (Þursavænn)\" (Three Spells / Giant's Waft) is a complex installation by Magnús Pálsson that deals with the imperfection of video recording and listening. The artist deliberately divides the space and transforms it through sound.\n\nThe work is related to the artist's use of video footage and elements from spaces he has utilized or has been put in charge of. It is described as a dramaturgical performance set up in Hafnarhús: ordinary floor sculptures and a rescue boat in the hall are performances that open the space to the outside sphere, through doors. This circulation acts as a technical supplement – deus ex machina.\n\nMagnús utilizes a video perspective that shows a person, another reality, that disrupts the familiar approach and rushes into the whole picture with an unexpected experience. He shifts the videos so they replace computer language, or the internet, urging us to listen to sounds in plaster walls. The artist points out that nothing is fully perfect, as video recordings are inherently imperfect.",
@@ -522,7 +522,7 @@
     {
       "id": "einsemd-2013",
       "title": {
-        "en": "Isolation",
+        "en": "Solitude",
         "is": "Einsemd"
       },
       "year": 2013,
@@ -650,7 +650,7 @@
       ],
       "materials": {
         "en": [
-          "plaster"
+          "performance, plaster casts, music"
         ],
         "is": [
           "gifs"
@@ -659,7 +659,7 @@
       "ownership": {
         "owner": "Reykjavík art museum",
         "owner_is": "Listasafn Reykjavíkur",
-        "owner_en": "Reykjavík art museum",
+        "owner_en": "Reykjavík Art Museum",
         "url": "https://listasafnreykjavikur.is/safneign/listamadur/id/11525A97-BA7F-4B3C-B035-603961A0E971",
         "catalogNumber": "107748",
         "notes": "Sculpture, 2013. H: 120cm, W: 350cm"
@@ -951,8 +951,7 @@
       "exhibitions": [],
       "materials": {
         "en": [
-          "paper",
-          "watercolor"
+          "paper, watercolour"
         ],
         "is": [
           "pappír",
@@ -965,7 +964,7 @@
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
-        "owner_en": "owned by the artist"
+        "owner_en": "private collections and the artist"
       },
       "medium": {
         "en": [
@@ -3082,8 +3081,8 @@
     {
       "id": "mutations-stokkbreytingar-dada-tate-hackney-empire-2005",
       "title": {
-        "en": "Mutations Dada (Car piece)",
-        "is": "Stökkbreytingar Dada (Bílatal)"
+        "en": "Mutations",
+        "is": "Stökkbreytingar"
       },
       "year": 2005,
       "dimensions": null,
@@ -4330,8 +4329,8 @@
       "mediaStatus": "images draft",
       "ownership": {
         "owner": "owned by the artist",
-        "owner_is": "í eigu höfundar",
-        "owner_en": "owned by the artist"
+        "owner_is": "einkasöfn og listamaðurinn",
+        "owner_en": "private collection and the artist"
       },
       "medium": {
         "en": [
@@ -10859,7 +10858,7 @@
         "is": "Dulargervi Málnigarbakki"
       },
       "year": 1966,
-      "dimensions": null,
+      "dimensions": "50 x 30 cm",
       "description": {
         "en": "PLACEHOLDER: Early work from 1966 exploring camouflage themes at Malnigarbakki. This entry needs review and completion by assistant - please add proper description, exhibition details, and context for this camouflage work.",
         "is": ""
@@ -10906,14 +10905,10 @@
       ],
       "materials": {
         "en": [
-          "paint tray",
-          "paint brushes",
-          "paint"
+          "paint tray, paint brushes, paint"
         ],
         "is": [
-          "málningarbakki",
-          "penslar",
-          "málning"
+          "málningarbakki, málningarpenslar, málning"
         ]
       },
       "searchText": "dulargervi malnigarbakki camouflage early work 1966 magnús pálsson placeholder needs review book thumbnail added",
@@ -12173,11 +12168,11 @@
     {
       "id": "freyskatla_1992",
       "title": {
-        "en": "The saga of Freyr",
+        "en": "Hrafnkell's Saga",
         "is": "Freyskatla"
       },
       "year": 1992,
-      "dimensions": "42 x 29,3 cm",
+      "dimensions": "bound manuscript 42 x 29.3 cm",
       "description": {
         "en": "Second iteration of Freyskatla, a large-scale installation addressing geological and mythological themes. This 1992 version features audio and text work with radio elements, developed in collaboration with Steingrímur. The work explores Iceland's volcanic landscape through both physical and conceptual layers, building upon the earlier 1982 installation while incorporating evolved understanding of geological forces and cultural mythology.",
         "is": ""
@@ -12264,7 +12259,7 @@
       "ownership": {
         "owner": "owned by the artist, text with The Living Art Museum",
         "owner_is": "í eigu höfundar, texti hjá NÝLÓ",
-        "owner_en": "owned by the artist, text with The Living Art Museum",
+        "owner_en": "owned by the artist",
         "url": "https://sarpur.is/Adfang.aspx?AdfangID=1452456",
         "notes": "Sound sculpture version - raddskúlptúr"
       },
@@ -14050,7 +14045,7 @@
         "is": "Hrognkelsaveifa"
       },
       "year": 1998,
-      "dimensions": "~ 4 x 2 x 1 m",
+      "dimensions": "~400 x 200 x 100 cm",
       "description": {
         "en": "A significant beach sculpture installation created at Ægissíða in 1998, also known as Strandlegjan (Beach Play). The work involved creating sculptural interventions on the beach, exploring the relationship between natural forms and artistic intervention in the coastal landscape.",
         "is": ""
@@ -14212,8 +14207,7 @@
       ],
       "materials": {
         "en": [
-          "metal",
-          "chains"
+          "metal farm equipment, chains, small metal plates"
         ],
         "is": [
           "málmur",
@@ -14797,8 +14791,8 @@
         "en": "Jón Nýpur",
         "is": "Jón Nýpur"
       },
-      "year": "2008/2022",
-      "dimensions": "~ 20 x 15 m",
+      "year": "2008",
+      "dimensions": "~2000 x 1500 cm",
       "description": {
         "en": "",
         "is": ""
@@ -14822,7 +14816,7 @@
       "exhibitions": [],
       "materials": {
         "en": [
-          "grass"
+          "cut in grass with added wood at Mjóaból, Haukadal"
         ],
         "is": [
           "gras"
@@ -15139,10 +15133,10 @@
     {
       "id": "eyetalk_augntal_1986_1998",
       "title": {
-        "en": "Eyetalk, Eyetalk II, Eyetalk before eyetalk",
-        "is": "Augntal, Augntal II, Augntal fyrir Augntal"
+        "en": "Eyetalk preceding Eyetalk",
+        "is": "Augntal fyrir Augntal"
       },
-      "year": "1986-1998",
+      "year": "1986",
       "dimensions": "30 mín (vídeó)",
       "description": {
         "en": "Magnús's trilogy, Talk Preceding Eye Talk, Eye Talk, and Eye Talk II, is structured in a similar manner each time, with the artist's voice in the foreground and he himself delivering the text in the video. There is always some characteristic that makes the narration strange and it seems to be plucked from thin air. In the first video, Magnús plays a man who picks his nose excessively with accompanying disruption in the narration. The second time, his face is not visible, only the neck, in front of footage from a sewage system. Finally, he positions himself tightly against a woman's breast and fully enjoys the woman's consolation during the narration. None of the works are edited or composed; they move slowly forward without progression or coherence.",
@@ -15213,7 +15207,7 @@
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
-        "owner_en": "owned by the artist",
+        "owner_en": "Reykjavík Art Museum and the artist",
         "url": "https://www.listasafn.is/list/safneign/li-7392/",
         "catalogNumber": "LÍ-7392",
         "notes": "Video work, 1993"
@@ -16484,8 +16478,7 @@
       "exhibitions": [],
       "materials": {
         "en": [
-          "playing cards",
-          "paper"
+          "playing cards, paper"
         ],
         "is": [
           "spil",
@@ -16688,7 +16681,7 @@
       "ownership": {
         "owner": "owned by the artist, text with The Living Art Museum",
         "owner_is": "í eigu höfundar, texti hjá Nýlistasafni",
-        "owner_en": "owned by the artist, text with The Living Art Museum"
+        "owner_en": "owned by the artist, manuscript with The Living Art Museum"
       },
       "medium": {
         "en": [
