@@ -6831,6 +6831,16 @@
       },
       "images": [
         {
+          "url": "images\\nott-i-london-2000\\medium\\nott-i-london-2000-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #118",
+            "is": "Smámynd úr bók #118"
+          },
+          "thumbnail": "images\\nott-i-london-2000\\thumbs\\nott-i-london-2000-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "2000"
+        },
+        {
           "url": "images/nott-i-london-2000/medium/nott-i-london-01-medium.jpg",
           "caption": {
             "en": "Two cassette copies and original DAT master tape",
@@ -6839,7 +6849,9 @@
           "thumbnail": "images/nott-i-london-2000/thumbs/nott-i-london-01-thumb.jpg"
         }
       ],
-      "tags": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
       "exhibitions": [],
       "materials": {
         "en": [
@@ -6858,7 +6870,7 @@
       "relatedWorks": [
         "kuplingsdiskur-clutch-disc-1999-1999"
       ],
-      "searchText": "nótt í london night in london kúplingsdiskur clutch disc framhald continuation 2000 magnús pálsson hljóðverk sound dat kassetta cassette",
+      "searchText": "nótt í london night in london kúplingsdiskur clutch disc framhald continuation 2000 magnús pálsson hljóðverk sound dat kassetta cassette book thumbnail #118 added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "medium": {
@@ -7072,6 +7084,16 @@
         "is": "Listabók í ritstjórn Magnúsar Pálssonar, með framlögum frá Robert Filliou, Philip Corner, Ingólfi Arnarssyni, Douwe Jan Bakker, Rheu Gaisner og fleiri. Teikningar eftir Steingrím E. Kristmundsson. Gefin út sem Hong Kong Press nr. 2, Reykjavík 1986. 128 blaðsíður. Texti á ensku, dönsku og sænsku."
       },
       "images": [
+        {
+          "url": "images\\mob_shop_dummy_1986\\medium\\mob_shop_dummy_1986-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #82",
+            "is": "Smámynd úr bók #82"
+          },
+          "thumbnail": "images\\mob_shop_dummy_1986\\thumbs\\mob_shop_dummy_1986-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "1986"
+        },
         {
           "url": "images/mob_shop_dummy_1986/medium/mob_shop_dummy_1986-book-thumbnail-medium.jpg",
           "caption": {
@@ -13155,6 +13177,16 @@
         "is": ""
       },
       "images": [
+        {
+          "url": "images\\grad_og_bu_2002\\medium\\grad_og_bu_2002-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail #121",
+            "is": "Smámynd úr bók #121"
+          },
+          "thumbnail": "images\\grad_og_bu_2002\\thumbs\\grad_og_bu_2002-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": "2002"
+        },
         {
           "url": "images/grad_og_bu_2002/medium/grad_og_bu_2002-book-thumbnail-medium.jpeg",
           "caption": {
