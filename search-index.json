@@ -618,14 +618,14 @@
     {
       "type": "work",
       "title": {
-        "en": "Untitled (Gerður)",
-        "is": "Án titils (Verk hjá Gerði)"
+        "en": "Untitled",
+        "is": "Án titils"
       },
       "snippet": {
         "en": "book-thumbnail-added",
         "is": "book-thumbnail-added"
       },
-      "content": "Untitled (Gerður) Án titils (Verk hjá Gerði) 1963 book-thumbnail-added screen print, watercolour, monotype prent, vatnslitir kál Book thumbnail #3 Smamynd ur bok #3 detail view nánari mynd at Gerður's home heima hjá Gerði at Gerður's home (close-up) heima hjá Gerði (nánari)",
+      "content": "Untitled Án titils 1963 book-thumbnail-added screen print, watercolour, monotype prent, vatnslitir kál Book thumbnail #3 Smamynd ur bok #3 detail view nánari mynd at Gerður's home heima hjá Gerði at Gerður's home (close-up) heima hjá Gerði (nánari)",
       "url": "works.html?work=an_titils_gerdur_1963_66",
       "year": "1963",
       "page": "works"
