@@ -18511,7 +18511,18 @@
         "en": "Various lengths of 60cm height",
         "is": "breytilegar  lengdir, 400-600 cm af 60 cm hæd"
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images\\vending-i-and-ii-1965\\medium\\vending-i-and-ii-1965-book-thumbnail-medium.JPG",
+          "caption": {
+            "en": "Book thumbnail #9",
+            "is": "Smámynd úr bók #9"
+          },
+          "thumbnail": "images\\vending-i-and-ii-1965\\thumbs\\vending-i-and-ii-1965-book-thumbnail-thumb.JPG",
+          "photographer": "Book publication",
+          "year": "1965"
+        }
+      ],
       "tags": [
         "book-thumbnail-added"
       ],
@@ -19003,7 +19014,28 @@
         "en": "mixed materials. Dimensions: ~10 x 10 x 40 cm",
         "is": ""
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images\\small-object-1998\\medium\\small-object-1998-book-thumbnail-b-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #112b",
+            "is": "Smámynd úr bók #112b"
+          },
+          "thumbnail": "images\\small-object-1998\\thumbs\\small-object-1998-book-thumbnail-b-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "1998"
+        },
+        {
+          "url": "images\\small-object-1998\\medium\\small-object-1998-book-thumbnail-a-medium.jpg",
+          "caption": {
+            "en": "Small Objects - Additional view #112a",
+            "is": "Smáhlutir - Viðbótarmynd #112a"
+          },
+          "thumbnail": "images\\small-object-1998\\thumbs\\small-object-1998-book-thumbnail-a-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "1998"
+        }
+      ],
       "tags": [
         "book-thumbnail-added"
       ],
