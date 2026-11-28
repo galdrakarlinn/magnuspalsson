@@ -142,26 +142,8 @@
     ]
   },
   {
-    "number": "29",
-    "title_en": "Mountains",
-    "year": "1969",
-    "materials": [
-      "ceramic, paint, 1 rubber, many variations"
-    ],
-    "dimensions": "~12 x 12 x 35 cm",
-    "location": "The National Gallery of Iceland, The Living Art Museum, private collections and the artist",
-    "details": [],
-    "title_is": "Fjöll",
-    "materials_is": [
-      "keramik, málning, 1 gúmmí, mörg afbrigði"
-    ],
-    "dimensions_is": "~12 x 12 x 35 cm",
-    "location_is": "Listasafn Íslands, Nýlistasafnið, einkasöfn og listamaðurinn",
-    "details_is": []
-  },
-  {
     "number": "32",
-    "title_en": "Hundljóð (Dog Poem)",
+    "title_en": "Hundar (Dogs)",
     "year": "1970",
     "materials": [
       "plaster, plastic, paper, clothes"
@@ -169,7 +151,7 @@
     "dimensions": "42 x 31 x 21 cm",
     "location": "private collections and the artist",
     "details": [],
-    "title_is": "Hundljóð",
+    "title_is": "Hundar",
     "materials_is": [
       "gifs, plast, pappír, föt"
     ],

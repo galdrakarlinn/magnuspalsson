@@ -11291,97 +11291,6 @@
       ]
     },
     {
-      "id": "edda_text_works_ancestry_malmo_1978",
-      "title": {
-        "en": "Edda text works, Eddic games",
-        "is": "Edda"
-      },
-      "year": 1978,
-      "dimensions": "29,3x40 cm",
-      "description": {
-        "en": "PLACEHOLDER: Text works from 1978 exploring ancestry themes with 11 artists in Malmö, Sweden. Features Edda-related content and group collaboration. This entry needs review and completion by assistant - please add proper description, exhibition details, and context.",
-        "is": ""
-      },
-      "images": [
-        {
-          "url": "images/edda-text-works-ancestry-malmo-1978/medium/edda-text-works-ancestry-malmo-1978-01-medium.jpg",
-          "caption": {
-            "en": "11 artists Malmö 1978-9 - Group exhibition documentation [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1978"
-        },
-        {
-          "url": "images/edda-text-works-ancestry-malmo-1978/medium/edda-text-works-ancestry-malmo-1978-02-medium.jpg",
-          "caption": {
-            "en": "11 artists MP1 - Magnús Pálsson contribution [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1978"
-        },
-        {
-          "url": "images/edda-text-works-ancestry-malmo-1978/medium/edda-text-works-ancestry-malmo-1978-03-medium.jpg",
-          "caption": {
-            "en": "11 artists forward - Exhibition catalog [NEEDS REVIEW]",
-            "is": ""
-          },
-          "photographer": "Unknown",
-          "year": "1978"
-        }
-      ],
-      "tags": [
-        "mythology",
-        "language"
-      ],
-      "exhibitions": [
-        {
-          "title": {
-            "en": "11 Artists - Ancestry",
-            "is": "11 Artists - Ancestry"
-          },
-          "venue": {
-            "en": "PLACEHOLDER - Malmö Venue [NEEDS RESEARCH]",
-            "is": "PLACEHOLDER - Malmö Venue [NEEDS RESEARCH]"
-          },
-          "location": "Malmö",
-          "year": 1978
-        }
-      ],
-      "materials": {
-        "en": [
-          "paper",
-          "watercolor"
-        ],
-        "is": [
-          "pappír",
-          "vatnslitur"
-        ]
-      },
-      "searchText": "edda text works ancestry 11 artists malmö sweden 1978 magnús pálsson placeholder needs review",
-      "contentStatus": "draft",
-      "mediaStatus": "images draft",
-      "ownership": {
-        "owner": "owned by the artist",
-        "owner_is": "í eigu höfundar",
-        "owner_en": "owned by the artist"
-      },
-      "medium": {
-        "en": [
-          "watercolor",
-          "text art"
-        ],
-        "is": [
-          "vatnslitur",
-          "textalist"
-        ]
-      },
-      "category": [
-        "painting"
-      ]
-    },
-    {
       "id": "engin_glypir_solina_1983",
       "title": {
         "en": "No one swallows the sun",
@@ -16524,8 +16433,8 @@
       "id": "spud-bern-mp-rg-ob-1998",
       "contentStatus": "draft",
       "title": {
-        "en": "Spud  (Bern)",
-        "is": "Spud  (Bern)"
+        "en": "Spud",
+        "is": "Spud"
       },
       "year": 1998,
       "dimensions": null,
