@@ -321,17 +321,17 @@
   },
   {
     "number": "17",
-    "title_en": "Flæðarmál (Beach)",
+    "title_en": "Miami Beach",
     "year": "1967",
     "materials": [
-      "domed acrylic glass, mixed media"
+      "cuboid of acrylic glass, mixed media"
     ],
     "dimensions": "~27 x 27 x 26 cm",
     "location": "whereabouts unknown",
     "details": [],
-    "title_is": "Flæðarmál",
+    "title_is": "Miami Beach",
     "materials_is": [
-      "kúpt akrýlgler, blönduð tækni"
+      "kassalaga akrýlgler, blönduð tækni"
     ],
     "dimensions_is": "~27 x 27 x 26 cm",
     "location_is": "",
@@ -361,17 +361,17 @@
   },
   {
     "number": "19",
-    "title_en": "Untitled (Gerður)",
+    "title_en": "Untitled plaster sculpture",
     "year": "1967",
     "materials": [
-      "plaster, paint"
+      "plaster"
     ],
     "dimensions": "~25 x 25 cm",
     "location": "whereabouts unknown",
     "details": [],
-    "title_is": "Án titils (Verk hjá Gerði)",
+    "title_is": "Án titils, gifsskúlptúrar",
     "materials_is": [
-      "gibs, málning"
+      "gibs"
     ],
     "dimensions_is": "25 x 25 cm",
     "location_is": "",
@@ -381,17 +381,17 @@
   },
   {
     "number": "20",
-    "title_en": "Untitled (Gerður)",
+    "title_en": "Untitled plaster sculpture",
     "year": "1967",
     "materials": [
-      "plaster, paint"
+      "plaster"
     ],
     "dimensions": "~20 x 25 cm",
     "location": "whereabouts unknown",
     "details": [],
-    "title_is": "Án titils (Verk hjá Gerði)",
+    "title_is": "Án titils, gifsskúlptúrar",
     "materials_is": [
-      "gibs, málning"
+      "gibs"
     ],
     "dimensions_is": "~20 x 25 cm",
     "location_is": "",
@@ -1972,7 +1972,7 @@
   },
   {
     "number": "110",
-    "title_en": "Spud  (Bern)",
+    "title_en": "Spud",
     "year": "1998",
     "materials": [],
     "dimensions": "",
@@ -1980,7 +1980,7 @@
     "details": [
       "performance"
     ],
-    "title_is": "Spud  (Bern)"
+    "title_is": "Spud"
   },
   {
     "number": "111",
