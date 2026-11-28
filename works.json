@@ -5062,8 +5062,8 @@
     {
       "id": "kal_series_1963_66",
       "title": {
-        "en": "Cabbage (Kál) series",
-        "is": "Kál sería"
+        "en": "Cabbage",
+        "is": "Kál"
       },
       "year": "1963-66",
       "dimensions": "91 x 101 cm (each / hvert)",
@@ -5139,7 +5139,8 @@
       ],
       "tags": [
         "nature",
-        "book-thumbnail-added"
+        "book-thumbnail-added",
+        "series"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -5166,182 +5167,6 @@
         "owner_en": "various owners"
       },
       "thumbnail": "images/kal-1-1963/thumbs/kal-1-1963-spessi-01-thumb.jpg",
-      "medium": {
-        "en": [
-          "print",
-          "watercolor"
-        ],
-        "is": [
-          "prentgrafík",
-          "vatnslitur"
-        ]
-      },
-      "category": [
-        "print",
-        "painting"
-      ]
-    },
-    {
-      "id": "kal-1-1963",
-      "title": {
-        "en": "Kál 1-4 (Cabbage 1-4)",
-        "is": "Kál 1-4"
-      },
-      "year": "1963",
-      "dimensions": "91 x 101 cm",
-      "description": {
-        "en": "Part of the Kál (Cabbage) series. Watercolor and silkscreen on paper.",
-        "is": "Hluti af Kál seríunni. Vatnslitur og silkiþrykk á pappír."
-      },
-      "images": [
-        {
-          "url": "images/kal-1-1963/medium/kal-1-1963-book-thumbnail-a-medium.jpg",
-          "caption": {
-            "en": "Book thumbnail - Kál 1-4 (Cabbage 1-4) (Kál 1)",
-            "is": "Smámynd úr bók - Kál 1-4 (Kál 1)"
-          },
-          "thumbnail": "images/kal-1-1963/thumbs/kal-1-1963-book-thumbnail-a-thumb.jpg",
-          "photographer": "Book publication",
-          "year": "1963"
-        },
-        {
-          "url": "images/kal-1-1963/medium/kal-1-photo-01-medium.jpg",
-          "caption": {
-            "en": "eigið þrykk",
-            "is": "eigið þrykk"
-          },
-          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-01-thumb.jpg"
-        },
-        {
-          "url": "images/kal-1-1963/medium/kal-1-photo-02-medium.jpg",
-          "caption": {
-            "en": "signature detail / undirskrift",
-            "is": "undirskrift"
-          },
-          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-02-thumb.jpg"
-        },
-        {
-          "url": "images/kal-1-1963/medium/kal-1-photo-03-medium.jpg",
-          "caption": {
-            "en": "coloured copy, Árni Geir Magnússon",
-            "is": "lituð útgáfa, Árni Geir Magnússon"
-          },
-          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-03-thumb.jpg"
-        },
-        {
-          "url": "images/kal-1-1963/medium/kal-1-photo-04-medium.jpg",
-          "caption": {
-            "en": "uncoloured copy, Gutti",
-            "is": "unlituð útgáfa, Gutti"
-          },
-          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-04-thumb.jpg"
-        },
-        {
-          "url": "images/kal-1-1963/medium/kal-1-photo-05-medium.jpg",
-          "caption": {
-            "en": "copy owned by GG",
-            "is": "eintök í eigu GG"
-          },
-          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-05-thumb.jpg"
-        },
-        {
-          "url": "images/kal-1-1963/medium/kal-1-photo-06-medium.jpg",
-          "caption": {
-            "en": "copy owned by Árni Heiðar Karlsson",
-            "is": "eintök í eigu Árni Heiðar Karlsson"
-          },
-          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-06-thumb.jpg"
-        },
-        {
-          "url": "images/kal-1-1963/medium/kal-1-photo-07-medium.jpg",
-          "caption": {
-            "en": "at Háskóli Íslands, 2019",
-            "is": "í Háskóla Íslands, 2019"
-          },
-          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-07-thumb.jpg"
-        },
-        {
-          "url": "images/kal-1-1963/medium/kal-1-photo-08-medium.jpg",
-          "caption": {
-            "en": "copy owned by LÍ",
-            "is": "eintök í eigu LÍ"
-          },
-          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-08-thumb.jpg"
-        },
-        {
-          "url": "images/kal-1-1963/medium/kal-1-photo-09-medium.jpg",
-          "caption": {
-            "en": "copy owned by Tóta Sigga",
-            "is": "eintök í eigu Tóta Sigga"
-          },
-          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-09-thumb.jpg"
-        },
-        {
-          "url": "images/kal-1-1963/medium/kal-1-photo-10-medium.jpg",
-          "caption": {
-            "en": "copy owned by Steinþór Pálsson",
-            "is": "eintök í eigu Steinþór Pálsson"
-          },
-          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-10-thumb.jpg"
-        },
-        {
-          "url": "images/kal-1-1963/medium/kal-1-photo-11-medium.jpg",
-          "caption": {
-            "en": "copy owned by Steinþór Pálsson",
-            "is": "eintök í eigu Steinþór Pálsson"
-          },
-          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-11-thumb.jpg"
-        },
-        {
-          "url": "images/kal-1-1963/medium/kal-1-photo-12-medium.jpg",
-          "caption": {
-            "en": "copy owned by Páll Ásgeirsson, in USA",
-            "is": "eintök í eigu Páll Ásgeirsson, í Bandaríkjunum"
-          },
-          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-12-thumb.jpg"
-        },
-        {
-          "url": "images/kal-1-1963/medium/kal-1-photo-13-medium.jpg",
-          "caption": {
-            "en": "copy owned by Páll Ásgeirsson, in USA",
-            "is": "eintök í eigu Páll Ásgeirsson, í Bandaríkjunum"
-          },
-          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-13-thumb.jpg"
-        },
-        {
-          "url": "images/kal-1-1963/medium/kal-1-photo-14-medium.jpg",
-          "caption": {
-            "en": "copy owned by Páll Ásgeirsson, in USA",
-            "is": "eintök í eigu Páll Ásgeirsson, í Bandaríkjunum"
-          },
-          "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-14-thumb.jpg"
-        }
-      ],
-      "tags": [
-        "nature",
-        "book-thumbnail-added"
-      ],
-      "exhibitions": [
-        "something-from-nothing-the-visual-realm-of-magnús-2019"
-      ],
-      "materials": {
-        "en": [
-          "silkscreen print, watercolour"
-        ],
-        "is": [
-          "silkiþrykk, vatnslitir"
-        ]
-      },
-      "searchText": "Kál 1-4 (Cabbage 1-4) Kál 1-4 1963 silkscreen print, watercolour silkiþrykk, vatnslitir print watercolor prentgrafík vatnslitur print painting nature Part of the Kál (Cabbage) series. Watercolor and silkscreen on paper. book thumbnail added",
-      "contentStatus": "draft",
-      "mediaStatus": "needs identification",
-      "series": "kál",
-      "ownership": {
-        "owner": "private collections and the artist",
-        "owner_is": "einkasöfn og listamaðurinn",
-        "owner_en": "private collections and the artist"
-      },
-      "thumbnail": "images/kal-1-1963/thumbs/kal-1-photo-01-thumb.jpg",
       "medium": {
         "en": [
           "print",
