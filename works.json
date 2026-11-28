@@ -18498,6 +18498,662 @@
         "owner_en": "The National Gallery of Iceland",
         "owner_is": "Listasafn Íslands"
       }
+    },
+    {
+      "id": "vending-i-and-ii-1965",
+      "title": {
+        "en": "Vending I and II  (Twist I and II)",
+        "is": "Vending I og II"
+      },
+      "year": 1965,
+      "dimensions": null,
+      "description": {
+        "en": "Various lengths of 60cm height",
+        "is": "breytilegar  lengdir, 400-600 cm af 60 cm hæd"
+      },
+      "images": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
+      "category": [
+        "drawing"
+      ],
+      "searchText": "vending i and ii  (twist i and ii) vending i og ii 1965 book thumbnail #9 added",
+      "materials": {
+        "en": [
+          "photosensitive paper (ammonia print)"
+        ],
+        "is": [
+          "ljósnæmur pappír (ammoníakprent)"
+        ]
+      },
+      "medium": {
+        "en": [
+          "photosensitive paper (ammonia print)"
+        ],
+        "is": [
+          "ljósnæmur pappír (ammoníakprent)"
+        ]
+      },
+      "ownership": {
+        "owner": "owned by the artist",
+        "owner_en": "owned by the artist",
+        "owner_is": "eign listamannsins"
+      }
+    },
+    {
+      "id": "egg-1967",
+      "title": {
+        "en": "Egg",
+        "is": "Egg"
+      },
+      "year": 1967,
+      "dimensions": "~27 x 27 x 26 cm",
+      "description": {
+        "en": "",
+        "is": "ekki vitað hvar. Mál: ~27 x 27 x 26 cm"
+      },
+      "images": [
+        {
+          "url": "images\\egg-1967\\medium\\egg-1967-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #15",
+            "is": "Smámynd úr bók #15"
+          },
+          "thumbnail": "images\\egg-1967\\thumbs\\egg-1967-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "1967"
+        }
+      ],
+      "tags": [
+        "book-thumbnail-added"
+      ],
+      "category": [
+        "sculpture"
+      ],
+      "searchText": "egg egg 1967 book thumbnail #15 added",
+      "materials": {
+        "en": [
+          "cuboid of acrylic glass, mixed media"
+        ],
+        "is": [
+          "kassalaga akrýlgler, blönduð tækni"
+        ]
+      },
+      "medium": {
+        "en": [
+          "cuboid of acrylic glass, mixed media"
+        ],
+        "is": [
+          "kassalaga akrýlgler, blönduð tækni"
+        ]
+      },
+      "ownership": {
+        "owner": "whereabouts unknown",
+        "owner_en": "whereabouts unknown",
+        "owner_is": "eign listamannsins"
+      }
+    },
+    {
+      "id": "króksfjarðarnes-1967",
+      "title": {
+        "en": "Króksfjarðarnes",
+        "is": "Króksfjarðarnes"
+      },
+      "year": 1967,
+      "dimensions": "~27 x 27 x 26 cm",
+      "description": {
+        "en": "",
+        "is": "ekki vitað hvar. Mál: ~27 x 27 x 26 cm"
+      },
+      "images": [
+        {
+          "url": "images\\króksfjarðarnes-1967\\medium\\króksfjarðarnes-1967-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #16",
+            "is": "Smámynd úr bók #16"
+          },
+          "thumbnail": "images\\króksfjarðarnes-1967\\thumbs\\króksfjarðarnes-1967-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "1967"
+        }
+      ],
+      "tags": [
+        "book-thumbnail-added"
+      ],
+      "category": [
+        "sculpture"
+      ],
+      "searchText": "króksfjarðarnes króksfjarðarnes 1967 book thumbnail #16 added",
+      "materials": {
+        "en": [
+          "domed acrylic glass, mixed media"
+        ],
+        "is": [
+          "kúpt akrýlgler, blönduð tækni"
+        ]
+      },
+      "medium": {
+        "en": [
+          "domed acrylic glass, mixed media"
+        ],
+        "is": [
+          "kúpt akrýlgler, blönduð tækni"
+        ]
+      },
+      "ownership": {
+        "owner": "whereabouts unknown",
+        "owner_en": "whereabouts unknown",
+        "owner_is": "eign listamannsins"
+      }
+    },
+    {
+      "id": "miami-beach-1967",
+      "title": {
+        "en": "Miami Beach",
+        "is": "Miami Beach"
+      },
+      "year": 1967,
+      "dimensions": "~27 x 27 x 26 cm",
+      "description": {
+        "en": "",
+        "is": "ekki vitað hvar. Mál: ~27 x 27 x 26 cm"
+      },
+      "images": [
+        {
+          "url": "images\\miami-beach-1967\\medium\\miami-beach-1967-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail #17",
+            "is": "Smámynd úr bók #17"
+          },
+          "thumbnail": "images\\miami-beach-1967\\thumbs\\miami-beach-1967-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": "1967"
+        }
+      ],
+      "tags": [
+        "book-thumbnail-added"
+      ],
+      "category": [
+        "sculpture"
+      ],
+      "searchText": "miami beach miami beach 1967 book thumbnail #17 added",
+      "materials": {
+        "en": [
+          "cuboid of acrylic glass, mixed media"
+        ],
+        "is": [
+          "kassalaga akrýlgler, blönduð tækni"
+        ]
+      },
+      "medium": {
+        "en": [
+          "cuboid of acrylic glass, mixed media"
+        ],
+        "is": [
+          "kassalaga akrýlgler, blönduð tækni"
+        ]
+      },
+      "ownership": {
+        "owner": "whereabouts unknown",
+        "owner_en": "whereabouts unknown",
+        "owner_is": "eign listamannsins"
+      }
+    },
+    {
+      "id": "untitled-plaster-sculpture-1967",
+      "title": {
+        "en": "Untitled plaster sculpture",
+        "is": "Án titils, gifsskúlptúrar"
+      },
+      "year": 1967,
+      "dimensions": "~25 x 25 cm",
+      "description": {
+        "en": "",
+        "is": "ekki vitað hvar. Mál: 25 x 25 cm"
+      },
+      "images": [
+        {
+          "url": "images\\untitled-plaster-sculpture-1967\\medium\\untitled-plaster-sculpture-1967-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #19",
+            "is": "Smámynd úr bók #19"
+          },
+          "thumbnail": "images\\untitled-plaster-sculpture-1967\\thumbs\\untitled-plaster-sculpture-1967-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "1967"
+        }
+      ],
+      "tags": [
+        "book-thumbnail-added"
+      ],
+      "category": [
+        "sculpture"
+      ],
+      "searchText": "untitled plaster sculpture án titils, gifsskúlptúrar 1967 book thumbnail #19 added",
+      "materials": {
+        "en": [
+          "plaster"
+        ],
+        "is": [
+          "gibs"
+        ]
+      },
+      "medium": {
+        "en": [
+          "plaster"
+        ],
+        "is": [
+          "gibs"
+        ]
+      },
+      "ownership": {
+        "owner": "whereabouts unknown",
+        "owner_en": "whereabouts unknown",
+        "owner_is": "eign listamannsins"
+      }
+    },
+    {
+      "id": "untitled-plaster-sculpture-1967",
+      "title": {
+        "en": "Untitled plaster sculpture",
+        "is": "Án titils, gifsskúlptúrar"
+      },
+      "year": 1967,
+      "dimensions": "~20 x 25 cm",
+      "description": {
+        "en": "",
+        "is": "ekki vitað hvar. Mál: ~20 x 25 cm"
+      },
+      "images": [
+        {
+          "url": "images\\untitled-plaster-sculpture-1967\\medium\\untitled-plaster-sculpture-1967-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #20",
+            "is": "Smámynd úr bók #20"
+          },
+          "thumbnail": "images\\untitled-plaster-sculpture-1967\\thumbs\\untitled-plaster-sculpture-1967-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "1967"
+        }
+      ],
+      "tags": [
+        "book-thumbnail-added"
+      ],
+      "category": [
+        "sculpture"
+      ],
+      "searchText": "untitled plaster sculpture án titils, gifsskúlptúrar 1967 book thumbnail #20 added",
+      "materials": {
+        "en": [
+          "plaster"
+        ],
+        "is": [
+          "gibs"
+        ]
+      },
+      "medium": {
+        "en": [
+          "plaster"
+        ],
+        "is": [
+          "gibs"
+        ]
+      },
+      "ownership": {
+        "owner": "whereabouts unknown",
+        "owner_en": "whereabouts unknown",
+        "owner_is": "eign listamannsins"
+      }
+    },
+    {
+      "id": "eddic-games-for-everyone-part-i-and-ii-1979",
+      "title": {
+        "en": "Eddic Games for Everyone Part I and II",
+        "is": "Eddic Games for Everyone I og II"
+      },
+      "year": 1979,
+      "dimensions": "21 x 15 cm",
+      "description": {
+        "en": "texts and drawings for Sondern magazine 4 & 5, each 21 pages. Seedorn Verlag, Zürich. Dimensions: 21 x 15 cm",
+        "is": "textar og teikningar fyrir tímaritið Sondern 4 & 5, 21 bls. hvor hluti. Seedorn Verlag, Zürich. Mál: 21 x 15 cm"
+      },
+      "images": [
+        {
+          "url": "images\\eddic-games-for-everyone-part-i-and-ii-1979\\medium\\eddic-games-for-everyone-part-i-and-ii-1979-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #64",
+            "is": "Smámynd úr bók #64"
+          },
+          "thumbnail": "images\\eddic-games-for-everyone-part-i-and-ii-1979\\thumbs\\eddic-games-for-everyone-part-i-and-ii-1979-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "1979"
+        }
+      ],
+      "tags": [
+        "book-thumbnail-added"
+      ],
+      "category": [
+        "mixed-media"
+      ],
+      "searchText": "eddic games for everyone part i and ii eddic games for everyone i og ii 1979 book thumbnail #64 added",
+      "ownership": {
+        "owner": "owned by the artist",
+        "owner_en": "owned by the artist",
+        "owner_is": "eign listamannsins"
+      }
+    },
+    {
+      "id": "eyetalk-1990",
+      "title": {
+        "en": "Eyetalk",
+        "is": "Augntal"
+      },
+      "year": 1990,
+      "dimensions": null,
+      "description": {
+        "en": "video, spoken text",
+        "is": ""
+      },
+      "images": [
+        {
+          "url": "images\\eyetalk-1990\\medium\\eyetalk-1990-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail #87",
+            "is": "Smámynd úr bók #87"
+          },
+          "thumbnail": "images\\eyetalk-1990\\thumbs\\eyetalk-1990-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": "1990"
+        }
+      ],
+      "tags": [
+        "book-thumbnail-added"
+      ],
+      "category": [
+        "video"
+      ],
+      "searchText": "eyetalk augntal 1990 book thumbnail #87 added",
+      "ownership": {
+        "owner": "Reykjavík Art Museum and the artist",
+        "owner_en": "Reykjavík Art Museum and the artist",
+        "owner_is": "eign listamannsins"
+      }
+    },
+    {
+      "id": "the-wyrm-or-what-1995",
+      "title": {
+        "en": "The Wyrm or what?",
+        "is": "Ormurinn hva?"
+      },
+      "year": 1995,
+      "dimensions": null,
+      "description": {
+        "en": "log, rope, carved wingding lettering. outdoor sculpture, Hallormsstaður",
+        "is": ""
+      },
+      "images": [
+        {
+          "url": "images\\the-wyrm-or-what-1995\\medium\\the-wyrm-or-what-1995-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail #103",
+            "is": "Smámynd úr bók #103"
+          },
+          "thumbnail": "images\\the-wyrm-or-what-1995\\thumbs\\the-wyrm-or-what-1995-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": "1995"
+        }
+      ],
+      "tags": [
+        "book-thumbnail-added"
+      ],
+      "category": [
+        "mixed-media"
+      ],
+      "searchText": "the wyrm or what? ormurinn hva? 1995 book thumbnail #103 added",
+      "ownership": {
+        "owner": "owned by the artist",
+        "owner_en": "owned by the artist",
+        "owner_is": "eign listamannsins"
+      }
+    },
+    {
+      "id": "eyetalk-ii-1998",
+      "title": {
+        "en": "Eyetalk II",
+        "is": "Augntal II"
+      },
+      "year": 1998,
+      "dimensions": null,
+      "description": {
+        "en": "video, spoken text",
+        "is": ""
+      },
+      "images": [
+        {
+          "url": "images\\eyetalk-ii-1998\\medium\\eyetalk-ii-1998-book-thumbnail-medium.png",
+          "caption": {
+            "en": "Book thumbnail #108",
+            "is": "Smámynd úr bók #108"
+          },
+          "thumbnail": "images\\eyetalk-ii-1998\\thumbs\\eyetalk-ii-1998-book-thumbnail-thumb.png",
+          "photographer": "Book publication",
+          "year": "1998"
+        }
+      ],
+      "tags": [
+        "book-thumbnail-added"
+      ],
+      "category": [
+        "video"
+      ],
+      "searchText": "eyetalk ii augntal ii 1998 book thumbnail #108 added",
+      "ownership": {
+        "owner": "Reykjavík Art Museum and the artist",
+        "owner_en": "Reykjavík Art Museum and the artist",
+        "owner_is": "eign listamannsins"
+      }
+    },
+    {
+      "id": "göngur-1998",
+      "title": {
+        "en": "Göngur (Round Ups)",
+        "is": "Göngur"
+      },
+      "year": 1998,
+      "dimensions": null,
+      "description": {
+        "en": "sound sculpture",
+        "is": ""
+      },
+      "images": [
+        {
+          "url": "images\\göngur-1998\\medium\\göngur-1998-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #111",
+            "is": "Smámynd úr bók #111"
+          },
+          "thumbnail": "images\\göngur-1998\\thumbs\\göngur-1998-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "1998"
+        }
+      ],
+      "tags": [
+        "book-thumbnail-added"
+      ],
+      "category": [
+        "mixed-media"
+      ],
+      "searchText": "göngur (round ups) göngur 1998 book thumbnail #111 added",
+      "ownership": {
+        "owner": "owned by the artist",
+        "owner_en": "owned by the artist",
+        "owner_is": "eign listamannsins"
+      }
+    },
+    {
+      "id": "small-object-1998",
+      "title": {
+        "en": "Small Object",
+        "is": "Smáhlutir"
+      },
+      "year": 1998,
+      "dimensions": "~10 x 10 x 40 cm",
+      "description": {
+        "en": "mixed materials. Dimensions: ~10 x 10 x 40 cm",
+        "is": ""
+      },
+      "images": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
+      "category": [
+        "mixed-media"
+      ],
+      "searchText": "small object smáhlutir 1998 book thumbnail #112 added",
+      "ownership": {
+        "owner": "private collection",
+        "owner_en": "private collection",
+        "owner_is": "eign listamannsins"
+      }
+    },
+    {
+      "id": "i-2006",
+      "title": {
+        "en": "I",
+        "is": "Ég"
+      },
+      "year": 2006,
+      "dimensions": null,
+      "description": {
+        "en": "broadcast performance",
+        "is": ""
+      },
+      "images": [
+        {
+          "url": "images\\i-2006\\medium\\i-2006-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail #134",
+            "is": "Smámynd úr bók #134"
+          },
+          "thumbnail": "images\\i-2006\\thumbs\\i-2006-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": "2006"
+        }
+      ],
+      "tags": [
+        "book-thumbnail-added"
+      ],
+      "category": [
+        "mixed-media"
+      ],
+      "searchText": "i ég 2006 book thumbnail #134 added",
+      "ownership": {
+        "owner": "owned by the artist",
+        "owner_en": "owned by the artist",
+        "owner_is": "eign listamannsins"
+      }
+    },
+    {
+      "id": "jazz-night-at-pete-and-steves-2006",
+      "title": {
+        "en": "Jazz night at Pete and Steve´s",
+        "is": "Jazz night at Pete and Steve´s"
+      },
+      "year": 2006,
+      "dimensions": null,
+      "description": {
+        "en": "22 cm diameter",
+        "is": ""
+      },
+      "images": [
+        {
+          "url": "images\\jazz-night-at-pete-and-steves-2006\\medium\\jazz-night-at-pete-and-steves-2006-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail #135",
+            "is": "Smámynd úr bók #135"
+          },
+          "thumbnail": "images\\jazz-night-at-pete-and-steves-2006\\thumbs\\jazz-night-at-pete-and-steves-2006-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": "2006"
+        }
+      ],
+      "tags": [
+        "book-thumbnail-added"
+      ],
+      "category": [
+        "drawing"
+      ],
+      "searchText": "jazz night at pete and steve´s  2006 book thumbnail #135 added",
+      "materials": {
+        "en": [
+          "Paper plate, watercolour"
+        ],
+        "is": [
+          "Paper plate, watercolour"
+        ]
+      },
+      "medium": {
+        "en": [
+          "Paper plate, watercolour"
+        ],
+        "is": [
+          "Paper plate, watercolour"
+        ]
+      },
+      "ownership": {
+        "owner": "private collection",
+        "owner_en": "private collection",
+        "owner_is": "eign listamannsins"
+      }
+    },
+    {
+      "id": "jói-minn-2011",
+      "title": {
+        "en": "Jói minn",
+        "is": "Jói minn"
+      },
+      "year": 2011,
+      "dimensions": "21 x 30cm",
+      "description": {
+        "en": "Private ownership. Dimensions: 21 x 30cm",
+        "is": ""
+      },
+      "images": [
+        {
+          "url": "images\\jói-minn-2011\\medium\\jói-minn-2011-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #142",
+            "is": "Smámynd úr bók #142"
+          },
+          "thumbnail": "images\\jói-minn-2011\\thumbs\\jói-minn-2011-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": "2011"
+        }
+      ],
+      "tags": [
+        "book-thumbnail-added"
+      ],
+      "category": [
+        "drawing"
+      ],
+      "searchText": "jói minn  2011 book thumbnail #142 added",
+      "materials": {
+        "en": [
+          "touche pen, paper"
+        ],
+        "is": [
+          "touche pen, paper"
+        ]
+      },
+      "medium": {
+        "en": [
+          "touche pen, paper"
+        ],
+        "is": [
+          "touche pen, paper"
+        ]
+      }
     }
   ],
   "exhibitions": [
