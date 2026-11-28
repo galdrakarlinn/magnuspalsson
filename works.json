@@ -299,6 +299,16 @@
       },
       "images": [
         {
+          "url": "images/thraetubalkur-1990/medium/thraetubalkur-1990-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #90",
+            "is": "Smamynd ur bok #90"
+          },
+          "thumbnail": "images/thraetubalkur-1990/thumbs/thraetubalkur-1990-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/thraetubalkur-1990/thraetubalkur-1990-preview.mp4",
           "caption": {
             "en": "Þrætubálkur - video documentation (1 minute preview)",
@@ -356,7 +366,8 @@
         }
       ],
       "tags": [
-        "mythology"
+        "mythology",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "something-from-nothing-the-visual-realm-of-magnús-2019"
@@ -371,7 +382,7 @@
           "kórnótur"
         ]
       },
-      "searchText": "þrætubálkur thraetubalkur dispute pole 1990 sound sculpture iliad homer nýlistasafnið magnús pálsson",
+      "searchText": "þrætubálkur thraetubalkur dispute pole 1990 sound sculpture iliad homer nýlistasafnið magnús pálsson book thumbnail added",
       "contentStatus": "needs review",
       "mediaStatus": "images review",
       "ownership": {
@@ -406,6 +417,16 @@
         "is": "\"Þrígaldur (Þursavænn)\" er flókin innsetning sem vinnur með ófullkomleika vídeóupptöku og hlustunar. Magnús Pálsson beitir sér fyrir því að skipta rýminu upp og umbreyta því með hljóði.\n\nVerkið er hluti af vinnu listamannsins með vídeóum og hlutum úr rými sem hann hefur notað eða hefur verið umráðalaus um. Þetta er lýst sem leikrænni gjörningi sem var settur upp í Hafnarhúsinu: venjulegum skólflúrum og björgunarbátar í salnum eru gjörningar sem opna rýmið á ytra sviði, en gegnum hurðir. Þessi hringrás virkar sem tæknilegt viðbót – deus ex machina.\n\nMagnús notar sjónarhorn í vídeóinu sem sýnir manneskju, annan veruleika, sem skekur til nálgunina og ryðst inn í heildarmyndina með óvæntri upplifun. Hann færir vídeóin svo þau skipta út tölvumáli, eða veraldarvefinum, og fær okkur til að hlusta á hljóð í gipsveggjum. Listamaðurinn er að benda á að ekkert sé fullkomið, þar sem vídeóupptökur eru í eðli sínu ófullkomnar."
       },
       "images": [
+        {
+          "url": "images/thrigaldur-thursavaenn-2000/medium/thrigaldur-thursavaenn-2000-book-thumbnail-medium.JPG",
+          "caption": {
+            "en": "Book thumbnail #117",
+            "is": "Smamynd ur bok #117"
+          },
+          "thumbnail": "images/thrigaldur-thursavaenn-2000/thumbs/thrigaldur-thursavaenn-2000-book-thumbnail-thumb.JPG",
+          "photographer": "Book publication",
+          "year": ""
+        },
         {
           "url": "images/thrigaldur-thursavaenn-2013/medium/thrigaldur-thursavaenn-2013-01-medium.jpg",
           "caption": {
@@ -456,7 +477,8 @@
         }
       ],
       "tags": [
-        "folklore"
+        "folklore",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"
@@ -471,7 +493,7 @@
           "vídeó"
         ]
       },
-      "searchText": "þrígaldur thrigaldur þursavænn thursavaenn three spells giants waft 2000 video sound installation hafnarhús magnús pálsson",
+      "searchText": "þrígaldur thrigaldur þursavænn thursavaenn three spells giants waft 2000 video sound installation hafnarhús magnús pálsson book thumbnail added",
       "contentStatus": "needs review",
       "mediaStatus": "images draft",
       "ownership": {
@@ -510,6 +532,16 @@
         "is": "Höggmynd tengd \"Tónleikum Andfélagsbandalagsins\" frá 1982. Listamaðurinn stjórnaði tónleikaflutningi þar sem meðlimir stöðvuðust og stóðu kyrrir á tilteknu augnabliki. Hann gerði síðan gifs af tómu rýminu - neikvæða rýminu í staðnum - og efnisgerði þannig tónlistina og andrúmsloftið. Búið til fyrir Listahátíð í Reykjavík 2013, flutt af íslenska hljómsveitinni MUCK."
       },
       "images": [
+        {
+          "url": "images/einsemd-2013/medium/einsemd-2013-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #146",
+            "is": "Smamynd ur bok #146"
+          },
+          "thumbnail": "images/einsemd-2013/thumbs/einsemd-2013-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": ""
+        },
         {
           "url": "images/einsemd-2013/medium/einsemd-01-medium.jpg",
           "caption": {
@@ -610,7 +642,8 @@
       ],
       "tags": [
         "positive/negative space",
-        "collaboration"
+        "collaboration",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"
@@ -631,7 +664,7 @@
         "catalogNumber": "107748",
         "notes": "Sculpture, 2013. H: 120cm, W: 350cm"
       },
-      "searchText": "einsemd isolation 2013 höggmynd tengd \"tónleikum andfélagsbandalagsins\" frá 1982. listamaðurinn stjórnaði tónleikaflutningi þar sem meðlimir stöðvuðust og stóðu kyrrir á tilteknu augnabliki. hann gerði síðan gifs af tómu rýminu - neikvæða rýminu í staðnum - og efnisgerði þannig tónlistina og andrúmsloftið. búið til fyrir listahátíð í reykjavík 2013, flutt af íslenska hljómsveitinni muck. sculpture work related to 'the anti-society league concert' from 1982. the artist orchestrated a band performance where members would stop and remain still at a specific moment. he then created a plaster cast of the empty space—the negative room in the venue—thereby materializing the music and atmosphere. created for reykjavík arts festival 2013, performed by icelandic band muck. sculpture 2013 performance negative space plaster cast muck gjörningur gifsmót tónlist performance plaster moulds music the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013",
+      "searchText": "einsemd isolation 2013 höggmynd tengd \"tónleikum andfélagsbandalagsins\" frá 1982. listamaðurinn stjórnaði tónleikaflutningi þar sem meðlimir stöðvuðust og stóðu kyrrir á tilteknu augnabliki. hann gerði síðan gifs af tómu rýminu - neikvæða rýminu í staðnum - og efnisgerði þannig tónlistina og andrúmsloftið. búið til fyrir listahátíð í reykjavík 2013, flutt af íslenska hljómsveitinni muck. sculpture work related to 'the anti-society league concert' from 1982. the artist orchestrated a band performance where members would stop and remain still at a specific moment. he then created a plaster cast of the empty space—the negative room in the venue—thereby materializing the music and atmosphere. created for reykjavík arts festival 2013, performed by icelandic band muck. sculpture 2013 performance negative space plaster cast muck gjörningur gifsmót tónlist performance plaster moulds music the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013 book thumbnail added",
       "contentStatus": "needs review",
       "mediaStatus": "images review",
       "source": {
@@ -852,6 +885,16 @@
       },
       "images": [
         {
+          "url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #152",
+            "is": "Smamynd ur bok #152"
+          },
+          "thumbnail": "images/watercolours-2016-2018/thumbs/watercolours-2016-2018-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/watercolours-2016-2018/medium/watercolours-2016-2018-01-medium.jpg",
           "caption": {
             "en": "Watercolour 1",
@@ -901,7 +944,8 @@
         }
       ],
       "tags": [
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -914,7 +958,7 @@
           "vatnslitur"
         ]
       },
-      "searchText": "watercolours 2016 2017 2018 painting magnús pálsson",
+      "searchText": "watercolours 2016 2017 2018 painting magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -1323,6 +1367,16 @@
       },
       "images": [
         {
+          "url": "images/vakning-2015/medium/vakning-2015-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #149",
+            "is": "Smamynd ur bok #149"
+          },
+          "thumbnail": "images/vakning-2015/thumbs/vakning-2015-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/vakning-2015/medium/vakning-2015-03-medium.jpg",
           "caption": {
             "en": "Installation view 3",
@@ -1356,7 +1410,8 @@
         }
       ],
       "tags": [
-        "time"
+        "time",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -1369,7 +1424,7 @@
           "blandað efni"
         ]
       },
-      "searchText": "vakning 2015 installation clocks akureyri magnús pálsson",
+      "searchText": "vakning 2015 installation clocks akureyri magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -3037,6 +3092,16 @@
       },
       "images": [
         {
+          "url": "images/mutations-stokkbreytingar-dada-tate-hackney-empire-2005/medium/mutations-stokkbreytingar-dada-tate-hackney-empire-2005-book-thumbnail-medium.JPG",
+          "caption": {
+            "en": "Book thumbnail #131",
+            "is": "Smamynd ur bok #131"
+          },
+          "thumbnail": "images/mutations-stokkbreytingar-dada-tate-hackney-empire-2005/thumbs/mutations-stokkbreytingar-dada-tate-hackney-empire-2005-book-thumbnail-thumb.JPG",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/mutations-stokkbreytingar-dada-tate-hackney-empire-2005/hackney-empire-dada-performance-preview.mp4",
           "caption": {
             "en": "DADA performance at Hackney Empire London - 1 minute video documentation",
@@ -3048,7 +3113,8 @@
       "tags": [
         "fluxus",
         "language",
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -3059,7 +3125,7 @@
           "blandað efni"
         ]
       },
-      "searchText": "mutations stökkbreytingar dada tate hackney empire 2005 performance video london magnús pálsson",
+      "searchText": "mutations stökkbreytingar dada tate hackney empire 2005 performance video london magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -3227,6 +3293,16 @@
       },
       "images": [
         {
+          "url": "images/pendull-student-performance-121999/medium/pendull-student-performance-121999-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail #114",
+            "is": "Smamynd ur bok #114"
+          },
+          "thumbnail": "images/pendull-student-performance-121999/thumbs/pendull-student-performance-121999-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/pendull-student-performance-121999/pendull-preview.mp4",
           "caption": {
             "en": "Pendúll student performance - video documentation (1 minute preview)",
@@ -3236,7 +3312,8 @@
         }
       ],
       "tags": [
-        "teaching"
+        "teaching",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -3247,7 +3324,7 @@
           "vídeó"
         ]
       },
-      "searchText": "pendúll student performance 1.2.1999 1999 magnús pálsson performance video documentation",
+      "searchText": "pendúll student performance 1.2.1999 1999 magnús pálsson performance video documentation book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -4142,6 +4219,16 @@
       },
       "images": [
         {
+          "url": "images/myrkur-darkness-solskin-photos-1977-1977/medium/myrkur-darkness-solskin-photos-1977-1977-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #56",
+            "is": "Smamynd ur bok #56"
+          },
+          "thumbnail": "images/myrkur-darkness-solskin-photos-1977-1977/thumbs/myrkur-darkness-solskin-photos-1977-1977-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/myrkur-darkness-solskin-photos-1977-1977/medium/myrkur-01-medium.jpg",
           "caption": {
             "en": "Myrkur - view 1",
@@ -4223,7 +4310,8 @@
         }
       ],
       "tags": [
-        "positive/negative space"
+        "positive/negative space",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "odur-til-nidarins-fjardabyggd-2026",
@@ -4237,7 +4325,7 @@
           "gifs"
         ]
       },
-      "searchText": "myrkur sólskin darkness sunlight plaster sculpture conceptual positive negative space opposites 1977 magnús pálsson",
+      "searchText": "myrkur sólskin darkness sunlight plaster sculpture conceptual positive negative space opposites 1977 magnús pálsson book thumbnail added",
       "mediaStatus": "images draft",
       "ownership": {
         "owner": "owned by the artist",
@@ -5724,6 +5812,16 @@
       },
       "images": [
         {
+          "url": "images/kross-2013-performance-2013/medium/kross-2013-performance-2013-book-thumbnail-medium.JPG",
+          "caption": {
+            "en": "Book thumbnail #105",
+            "is": "Smamynd ur bok #105"
+          },
+          "thumbnail": "images/kross-2013-performance-2013/thumbs/kross-2013-performance-2013-book-thumbnail-thumb.JPG",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/kross-2013-performance-2013/kross-2013-performance-preview.mp4",
           "caption": {
             "en": "Kross - performance at Hróarskelda (Roskilde). Dir. Þórhildur Þorleifsdóttir, choir dir. Hörður Áskelsson. From the documentary by Þór Elís Pálsson",
@@ -5781,7 +5879,9 @@
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
       "exhibitions": [
         "volcanic-attitude-2026",
         "cross-1996",
@@ -5795,7 +5895,7 @@
           "blandað efni"
         ]
       },
-      "searchText": "kross 2013 performance 2013 magnús pálsson",
+      "searchText": "kross 2013 performance 2013 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -6647,6 +6747,16 @@
       },
       "images": [
         {
+          "url": "images/kjotkassan-og-brasiliufraenkan-19934-1993/medium/kjotkassan-og-brasiliufraenkan-19934-1993-book-thumbnail-medium.JPG",
+          "caption": {
+            "en": "Book thumbnail #95",
+            "is": "Smamynd ur bok #95"
+          },
+          "thumbnail": "images/kjotkassan-og-brasiliufraenkan-19934-1993/thumbs/kjotkassan-og-brasiliufraenkan-19934-1993-book-thumbnail-thumb.JPG",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/kjotkassan-og-brasiliufraenkan-19934-1993/medium/kjotkassan-01-medium.jpg",
           "caption": {
             "en": "Kjötkássan - view 1",
@@ -6655,7 +6765,8 @@
         }
       ],
       "tags": [
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -6666,7 +6777,7 @@
           "blandað efni"
         ]
       },
-      "searchText": "kjötkássan og brasilíufrænkan 1993-4 1993 magnús pálsson",
+      "searchText": "kjötkássan og brasilíufrænkan 1993-4 1993 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -8374,6 +8485,16 @@
       },
       "images": [
         {
+          "url": "images/yxn_2002/medium/yxn_2002-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #125",
+            "is": "Smamynd ur bok #125"
+          },
+          "thumbnail": "images/yxn_2002/thumbs/yxn_2002-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/yxn-2002/medium/yxn-medium.jpg",
           "caption": {
             "en": "YXN - Video still showing cows in field",
@@ -8410,7 +8531,8 @@
       "tags": [
         "animals",
         "language",
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "odur-til-nidarins-fjardabyggd-2026",
@@ -8425,7 +8547,7 @@
           "vídeó"
         ]
       },
-      "searchText": "yxn sound video cows poetry nature boy country headphones hafnarhús sculptors union anniversary reykjavik selfoss ingólfsfjall steinþór birgisson",
+      "searchText": "yxn sound video cows poetry nature boy country headphones hafnarhús sculptors union anniversary reykjavik selfoss ingólfsfjall steinþór birgisson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -8461,6 +8583,16 @@
         "is": ""
       },
       "images": [
+        {
+          "url": "images/100_years_war_mokka_1995/medium/100_years_war_mokka_1995-book-thumbnail-medium.JPG",
+          "caption": {
+            "en": "Book thumbnail #101",
+            "is": "Smamynd ur bok #101"
+          },
+          "thumbnail": "images/100_years_war_mokka_1995/thumbs/100_years_war_mokka_1995-book-thumbnail-thumb.JPG",
+          "photographer": "Book publication",
+          "year": ""
+        },
         {
           "url": "images/100-years-war-mokka-1995/medium/100-years-war-mokka-1995-01-medium.jpg",
           "caption": {
@@ -8509,7 +8641,8 @@
       ],
       "tags": [
         "humor",
-        "time"
+        "time",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -8533,7 +8666,7 @@
           "blandað efni"
         ]
       },
-      "searchText": "100 ára stríðið 100 years war conflict time history society culture café mokka reykjavik conceptual installation mixed media 1990s magnús pálsson",
+      "searchText": "100 ára stríðið 100 years war conflict time history society culture café mokka reykjavik conceptual installation mixed media 1990s magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -9465,6 +9598,16 @@
       },
       "images": [
         {
+          "url": "images/bref_til_djonna_1994/medium/bref_til_djonna_1994-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #98",
+            "is": "Smamynd ur bok #98"
+          },
+          "thumbnail": "images/bref_til_djonna_1994/thumbs/bref_til_djonna_1994-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/bref-til-djonna-1994/medium/bref-til-djonna-medium.jpg",
           "caption": {
             "en": "Audio waveform visualization of 'Bréf til Djonna'",
@@ -9475,7 +9618,8 @@
         }
       ],
       "tags": [
-        "letters"
+        "letters",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -9499,7 +9643,7 @@
           "hljóðband"
         ]
       },
-      "searchText": "bréf til djonna letter audio personal sound art spoken word intimacy communication 1994 magnús pálsson",
+      "searchText": "bréf til djonna letter audio personal sound art spoken word intimacy communication 1994 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -10721,6 +10865,16 @@
       },
       "images": [
         {
+          "url": "images/dulargervi_malnigarbakki_camouflage_1966/medium/dulargervi_malnigarbakki_camouflage_1966-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #12",
+            "is": "Smamynd ur bok #12"
+          },
+          "thumbnail": "images/dulargervi_malnigarbakki_camouflage_1966/thumbs/dulargervi_malnigarbakki_camouflage_1966-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/dulargervi-malnigarbakki-camouflage-1966/medium/dulargervi-malnigarbakki-camouflage-1966-01-medium.jpg",
           "caption": {
             "en": "Dulargervi Katrín G. documentation [NEEDS REVIEW]",
@@ -10731,7 +10885,8 @@
         }
       ],
       "tags": [
-        "camouflage"
+        "camouflage",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -10760,7 +10915,7 @@
           "málning"
         ]
       },
-      "searchText": "dulargervi malnigarbakki camouflage early work 1966 magnús pálsson placeholder needs review",
+      "searchText": "dulargervi malnigarbakki camouflage early work 1966 magnús pálsson placeholder needs review book thumbnail added",
       "ownership": {
         "owner": "private collection",
         "owner_is": "einkaeign",
@@ -11419,6 +11574,16 @@
       },
       "images": [
         {
+          "url": "images/engin_glypir_solina_1983/medium/engin_glypir_solina_1983-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail #94",
+            "is": "Smamynd ur bok #94"
+          },
+          "thumbnail": "images/engin_glypir_solina_1983/thumbs/engin_glypir_solina_1983-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/engin-glypir-solina-1983/medium/engin-glypir-solina-1983-01-medium.jpg",
           "caption": {
             "en": "7321 - Work documentation [NEEDS REVIEW]",
@@ -11459,7 +11624,8 @@
       "tags": [
         "folklore",
         "childhood",
-        "positive/negative space"
+        "positive/negative space",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "enginn-gleypir-sólina-no-one-swallows-the-sun-1993"
@@ -11478,7 +11644,7 @@
           "pappír"
         ]
       },
-      "searchText": "enginn gleypir sólina engin glypir solina sound sculpture hljóðskúlptúr audio installation memory childhood icelandic humor gallery one-one skólavörðustígur snuff tobacco speakers multi-channel 1983 1993 magnús pálsson eiríkur þorláksson morgunblaðið",
+      "searchText": "enginn gleypir sólina engin glypir solina sound sculpture hljóðskúlptúr audio installation memory childhood icelandic humor gallery one-one skólavörðustígur snuff tobacco speakers multi-channel 1983 1993 magnús pálsson eiríkur þorláksson morgunblaðið book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -12017,6 +12183,16 @@
       },
       "images": [
         {
+          "url": "images/freyskatla_1992/medium/freyskatla_1992-book-thumbnail-medium.png",
+          "caption": {
+            "en": "Book thumbnail #92",
+            "is": "Smamynd ur bok #92"
+          },
+          "thumbnail": "images/freyskatla_1992/thumbs/freyskatla_1992-book-thumbnail-thumb.png",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/freyskatla-1992/freyskatla-1992-preview.mp4",
           "caption": {
             "en": "Freyskatla - video documentation from NÝLÓ performance, 2009",
@@ -12053,7 +12229,8 @@
         }
       ],
       "tags": [
-        "sagas"
+        "sagas",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -12082,7 +12259,7 @@
           "pappír"
         ]
       },
-      "searchText": "freyskatla audio radio steingrímur collaboration text 1992 magnús pálsson placeholder needs review",
+      "searchText": "freyskatla audio radio steingrímur collaboration text 1992 magnús pálsson placeholder needs review book thumbnail added",
       "ownership": {
         "owner": "owned by the artist, text with The Living Art Museum",
         "owner_is": "í eigu höfundar, texti hjá NÝLÓ",
@@ -13609,6 +13786,16 @@
       },
       "images": [
         {
+          "url": "images/ad_juda_ser_rangsaelis_2000/medium/ad_juda_ser_rangsaelis_2000-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail #116",
+            "is": "Smamynd ur bok #116"
+          },
+          "thumbnail": "images/ad_juda_ser_rangsaelis_2000/thumbs/ad_juda_ser_rangsaelis_2000-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/ad-juda-ser-rangsaelis-2000/medium/ad-juda-ser-rangsaelis-2000-01-medium.jpg",
           "caption": {
             "en": "Performance at Iðnó theater - video frame documentation",
@@ -13662,7 +13849,9 @@
           "type": "mp4"
         }
       ],
-      "tags": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
       "exhibitions": [
         {
           "title": {
@@ -13685,7 +13874,7 @@
           "vídeó"
         ]
       },
-      "searchText": "að juða sér rangsælis video performance iðnó ragga speaking theater 2000 magnús pálsson placeholder needs review",
+      "searchText": "að juða sér rangsælis video performance iðnó ragga speaking theater 2000 magnús pálsson placeholder needs review book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -13867,6 +14056,16 @@
       },
       "images": [
         {
+          "url": "images/hrognkelsaveifa_strandlegjan_1998/medium/hrognkelsaveifa_strandlegjan_1998-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #109",
+            "is": "Smamynd ur bok #109"
+          },
+          "thumbnail": "images/hrognkelsaveifa_strandlegjan_1998/thumbs/hrognkelsaveifa_strandlegjan_1998-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/hrognkelsaveifa-strandlegjan-1998/hrognkelsaveifa-strandlegjan-1998-preview.mp4",
           "caption": {
             "en": "Hrognkelsaveifa (Strandlegjan) - video documentation (1 minute preview)",
@@ -13993,7 +14192,8 @@
         }
       ],
       "tags": [
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -14019,7 +14219,7 @@
           "keðjur"
         ]
       },
-      "searchText": "hrognkelsaveifa strandlegjan beach sculpture installation ægissíða skerjafirði landscape intervention site-specific coastal environmental 1998 magnús pálsson",
+      "searchText": "hrognkelsaveifa strandlegjan beach sculpture installation ægissíða skerjafirði landscape intervention site-specific coastal environmental 1998 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -14602,9 +14802,21 @@
         "en": "",
         "is": ""
       },
-      "images": [],
+      "images": [
+        {
+          "url": "images/jon_nypur_2008_2022/medium/jon_nypur_2008_2022-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail #137",
+            "is": "Smamynd ur bok #137"
+          },
+          "thumbnail": "images/jon_nypur_2008_2022/thumbs/jon_nypur_2008_2022-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": ""
+        }
+      ],
       "tags": [
-        "nature"
+        "nature",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -14615,7 +14827,7 @@
           "gras"
         ]
       },
-      "searchText": "jón nýpur grass gras landscape 2008 2022 magnús pálsson",
+      "searchText": "jón nýpur grass gras landscape 2008 2022 magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
@@ -14814,6 +15026,16 @@
       },
       "images": [
         {
+          "url": "images/jorgen_bruun_hansen_1984/medium/jorgen_bruun_hansen_1984-book-thumbnail-medium.JPG",
+          "caption": {
+            "en": "Book thumbnail #144",
+            "is": "Smamynd ur bok #144"
+          },
+          "thumbnail": "images/jorgen_bruun_hansen_1984/thumbs/jorgen_bruun_hansen_1984-book-thumbnail-thumb.JPG",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/jorgen-bruun-hansen-2013/jorgen-bruun-hansen-2013-preview.mp4",
           "caption": {
             "en": "Jörgen Bruun Hansen performance - video documentation (1 minute preview)",
@@ -14861,7 +15083,8 @@
         }
       ],
       "tags": [
-        "collaboration"
+        "collaboration",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -14889,7 +15112,7 @@
           "pappír"
         ]
       },
-      "searchText": "jörgen bruun hansen collaboration living art museum baldvina pencil sketch video murari portraiture 2013 magnús pálsson",
+      "searchText": "jörgen bruun hansen collaboration living art museum baldvina pencil sketch video murari portraiture 2013 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -14926,6 +15149,16 @@
       },
       "images": [
         {
+          "url": "images/eyetalk_augntal_1986_1998/medium/eyetalk_augntal_1986_1998-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail #84",
+            "is": "Smamynd ur bok #84"
+          },
+          "thumbnail": "images/eyetalk_augntal_1986_1998/thumbs/eyetalk_augntal_1986_1998-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/eyetalk-augntal-1986-1998/medium/eye-talk-thumb-medium.jpg",
           "caption": {
             "en": "Eyetalk video still - main work documentation",
@@ -14936,7 +15169,8 @@
         }
       ],
       "tags": [
-        "language"
+        "language",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         {
@@ -14974,7 +15208,7 @@
           "vídeó"
         ]
       },
-      "searchText": "augntal, augntal ii, augntal fyrir augntal eyetalk, eyetalk ii, eyetalk before eyetalk 1986-1998 þríleikur magnúsar, talk preceding eye talk, eye talk og eye talk ii, er uppbyggður með áþekkum hætti hverju sinni, rödd listamannsins er í fyrirrúmi og hann fer sjálfur með textann í mynd. alltaf er til staðar einhver eiginleiki sem gerir frásögnina framandlega og hún virðist úr lausu lofti gripin. í fyrsta myndskeiði er magnús í hlutverki manns sem tekur óhóflega í nefið með tilheyrandi truflun í frásögninni. öðru sinni sést andlit hans ekki, eingöngu hálsinn, fyrir framan upptöku úr skólpræsakerfi. loks stillir hann sér upp þétt við kvenmannsbrjóst og nýtur fulltingis konunnar við frásögnina. ekkert verkanna er klippt eða samsett, þau líða hægt áfram án framvindu eða samhengis. magnús's trilogy, talk preceding eye talk, eye talk, and eye talk ii, is structured in a similar manner each time, with the artist's voice in the foreground and he himself delivering the text in the video. there is always some characteristic that makes the narration strange and it seems to be plucked from thin air. in the first video, magnús plays a man who picks his nose excessively with accompanying disruption in the narration. the second time, his face is not visible, only the neck, in front of footage from a sewage system. finally, he positions himself tightly against a woman's breast and fully enjoys the woman's consolation during the narration. none of the works are edited or composed; they move slowly forward without progression or coherence. video multimedia communication perception language eyes speech augntal multi-temporal 1980s 1990s vídeó texti video text {'title': {'en': 'video installations', 'is': 'video installations'}, 'venue': {'en': 'various venues', 'is': 'various venues'}, 'location': 'iceland', 'year': '1986-1998'} {'title': {'en': 'eyetalk discussion', 'is': 'eyetalk discussion'}, 'venue': {'en': 'various venues', 'is': 'various venues'}, 'location': 'iceland', 'year': 2017} something-from-nothing-the-visual-realm-of-magnús-2019",
+      "searchText": "augntal, augntal ii, augntal fyrir augntal eyetalk, eyetalk ii, eyetalk before eyetalk 1986-1998 þríleikur magnúsar, talk preceding eye talk, eye talk og eye talk ii, er uppbyggður með áþekkum hætti hverju sinni, rödd listamannsins er í fyrirrúmi og hann fer sjálfur með textann í mynd. alltaf er til staðar einhver eiginleiki sem gerir frásögnina framandlega og hún virðist úr lausu lofti gripin. í fyrsta myndskeiði er magnús í hlutverki manns sem tekur óhóflega í nefið með tilheyrandi truflun í frásögninni. öðru sinni sést andlit hans ekki, eingöngu hálsinn, fyrir framan upptöku úr skólpræsakerfi. loks stillir hann sér upp þétt við kvenmannsbrjóst og nýtur fulltingis konunnar við frásögnina. ekkert verkanna er klippt eða samsett, þau líða hægt áfram án framvindu eða samhengis. magnús's trilogy, talk preceding eye talk, eye talk, and eye talk ii, is structured in a similar manner each time, with the artist's voice in the foreground and he himself delivering the text in the video. there is always some characteristic that makes the narration strange and it seems to be plucked from thin air. in the first video, magnús plays a man who picks his nose excessively with accompanying disruption in the narration. the second time, his face is not visible, only the neck, in front of footage from a sewage system. finally, he positions himself tightly against a woman's breast and fully enjoys the woman's consolation during the narration. none of the works are edited or composed; they move slowly forward without progression or coherence. video multimedia communication perception language eyes speech augntal multi-temporal 1980s 1990s vídeó texti video text {'title': {'en': 'video installations', 'is': 'video installations'}, 'venue': {'en': 'various venues', 'is': 'various venues'}, 'location': 'iceland', 'year': '1986-1998'} {'title': {'en': 'eyetalk discussion', 'is': 'eyetalk discussion'}, 'venue': {'en': 'various venues', 'is': 'various venues'}, 'location': 'iceland', 'year': 2017} something-from-nothing-the-visual-realm-of-magnús-2019 book thumbnail added",
       "ownership": {
         "owner": "owned by the artist",
         "owner_is": "í eigu höfundar",
@@ -15086,6 +15320,16 @@
       },
       "images": [
         {
+          "url": "images/silfur-egils-1985/medium/silfur-egils-1985-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #99",
+            "is": "Smamynd ur bok #99"
+          },
+          "thumbnail": "images/silfur-egils-1985/thumbs/silfur-egils-1985-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/silfur-egils-1985/medium/silfur-01-medium.jpg",
           "caption": {
             "en": "Silfur Egils 1985 - view 1",
@@ -15115,7 +15359,8 @@
         }
       ],
       "tags": [
-        "sagas"
+        "sagas",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -15126,7 +15371,7 @@
           "keramík"
         ]
       },
-      "searchText": "silfur egils 1985 1985 magnús pálsson",
+      "searchText": "silfur egils 1985 1985 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -16198,6 +16443,16 @@
       },
       "images": [
         {
+          "url": "images/spilaborg-card-house-nh-for-ferdafuda-2003/medium/spilaborg-card-house-nh-for-ferdafuda-2003-book-thumbnail-medium.jpeg",
+          "caption": {
+            "en": "Book thumbnail #120",
+            "is": "Smamynd ur bok #120"
+          },
+          "thumbnail": "images/spilaborg-card-house-nh-for-ferdafuda-2003/thumbs/spilaborg-card-house-nh-for-ferdafuda-2003-book-thumbnail-thumb.jpeg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/spilaborg-card-house-nh-for-ferdafuda-2003/medium/spilaborg-01-medium.jpg",
           "caption": {
             "en": "Spilaborg Card house NH for Ferðafuða 2003 - view 1",
@@ -16222,7 +16477,8 @@
         }
       ],
       "tags": [
-        "humor"
+        "humor",
+        "book-thumbnail-added"
       ],
       "exhibitions": [],
       "materials": {
@@ -16235,7 +16491,7 @@
           "pappír"
         ]
       },
-      "searchText": "spilaborg card house nh for ferðafuða 2003 2003 magnús pálsson",
+      "searchText": "spilaborg card house nh for ferðafuða 2003 2003 magnús pálsson book thumbnail added",
       "ownership": {
         "owner": "Icelandic Folk and Outsider Art Museum",
         "owner_is": "Safnasafnið",
@@ -16337,6 +16593,16 @@
       },
       "images": [
         {
+          "url": "images/sprengd-hljodhimna-burst-eardrum-1991-2012/medium/sprengd-hljodhimna-burst-eardrum-1991-2012-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #91",
+            "is": "Smamynd ur bok #91"
+          },
+          "thumbnail": "images/sprengd-hljodhimna-burst-eardrum-1991-2012/thumbs/sprengd-hljodhimna-burst-eardrum-1991-2012-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/sprengd-hljodhimna-burst-eardrum-1991-2012/sprengd-hljodhimna-burst-eardrum-1991-preview.mp4",
           "caption": {
             "en": "Sprengd hljóðhimna (Burst Eardrum) - video documentation (1 minute preview)",
@@ -16401,7 +16667,9 @@
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
       "exhibitions": [
         "the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"
       ],
@@ -16413,7 +16681,7 @@
           "blandað efni"
         ]
       },
-      "searchText": "sprengd hljóðhimna _ burst eardrum 1991 & 2012 1991 magnús pálsson",
+      "searchText": "sprengd hljóðhimna _ burst eardrum 1991 & 2012 1991 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
@@ -16447,6 +16715,16 @@
         "is": ""
       },
       "images": [
+        {
+          "url": "images/spud-bern-mp-rg-ob-1998/medium/spud-bern-mp-rg-ob-1998-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #110",
+            "is": "Smamynd ur bok #110"
+          },
+          "thumbnail": "images/spud-bern-mp-rg-ob-1998/thumbs/spud-bern-mp-rg-ob-1998-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": ""
+        },
         {
           "url": "images/spud-bern-mp-rg-ob-1998/medium/spud-01-medium.jpg",
           "caption": {
@@ -16504,7 +16782,9 @@
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
       "exhibitions": [],
       "materials": {
         "en": [
@@ -16514,7 +16794,7 @@
           "blandað efni"
         ]
       },
-      "searchText": "spud  bern  mp rg ob 1998 1998 magnús pálsson",
+      "searchText": "spud  bern  mp rg ob 1998 1998 magnús pálsson book thumbnail added",
       "mediaStatus": "images draft",
       "ownership": {
         "owner": "owned by the artist",
@@ -16872,6 +17152,16 @@
       },
       "images": [
         {
+          "url": "images/struns-2002/medium/struns-2002-book-thumbnail-medium.jpg",
+          "caption": {
+            "en": "Book thumbnail #122",
+            "is": "Smamynd ur bok #122"
+          },
+          "thumbnail": "images/struns-2002/thumbs/struns-2002-book-thumbnail-thumb.jpg",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/struns-2002/medium/struns-01-medium.jpg",
           "caption": {
             "en": "Installation view: upside-down bicycles, video projection, and thumb sculptures",
@@ -16924,7 +17214,8 @@
       ],
       "tags": [
         "social",
-        "death"
+        "death",
+        "book-thumbnail-added"
       ],
       "exhibitions": [
         "strunz-2002"
@@ -16943,7 +17234,7 @@
           "vídeó"
         ]
       },
-      "searchText": "struns 2002 gerðarsafn ásta guðrún eyvindardóttir minningarsýning reiðhjól bicycles video thumbs þumalskúlptúr gámur container magnús pálsson",
+      "searchText": "struns 2002 gerðarsafn ásta guðrún eyvindardóttir minningarsýning reiðhjól bicycles video thumbs þumalskúlptúr gámur container magnús pálsson book thumbnail added",
       "contentStatus": "needs review",
       "mediaStatus": "images review",
       "ownership": {
@@ -17728,6 +18019,16 @@
       },
       "images": [
         {
+          "url": "images/stuna-2013/medium/stuna-2013-book-thumbnail-medium.JPG",
+          "caption": {
+            "en": "Book thumbnail #145",
+            "is": "Smamynd ur bok #145"
+          },
+          "thumbnail": "images/stuna-2013/thumbs/stuna-2013-book-thumbnail-thumb.JPG",
+          "photographer": "Book publication",
+          "year": ""
+        },
+        {
           "url": "images/stuna-2013/stuna-preview.mp4",
           "caption": {
             "en": "Stuna - performance at Hafnarhúsið, Reykjavík Arts Festival 2013. Video: Steinþór Birgisson",
@@ -17736,7 +18037,9 @@
           "thumbnail": "images/stuna-2013/thumbs/stuna-thumb.jpg"
         }
       ],
-      "tags": [],
+      "tags": [
+        "book-thumbnail-added"
+      ],
       "exhibitions": [
         "the-sound-of-a-bugle-in-a-shoebox-magnús-pálsson-a-2013"
       ],
@@ -17748,7 +18051,7 @@
           "vídeó"
         ]
       },
-      "searchText": "stuna 2013 magnús pálsson",
+      "searchText": "stuna 2013 magnús pálsson book thumbnail added",
       "contentStatus": "draft",
       "mediaStatus": "images draft",
       "ownership": {
