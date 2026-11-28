@@ -14253,12 +14253,12 @@
       },
       "images": [
         {
-          "url": "images/hviskur_whisper_1_1975/medium/hviskur_whisper_1_1975-book-thumbnail-medium.tif",
+          "url": "images\\hviskur_whisper_1_1975\\medium\\hviskur_whisper_1_1975-book-thumbnail-medium.jpg",
           "caption": {
             "en": "Book thumbnail - Hvískur 1, 2, 3 (Whisper 1, 2, 3)",
             "is": "Smámynd úr bók - Hvískur 1, 2, 3"
           },
-          "thumbnail": "images/hviskur_whisper_1_1975/thumbs/hviskur_whisper_1_1975-book-thumbnail-thumb.tif",
+          "thumbnail": "images\\hviskur_whisper_1_1975\\thumbs\\hviskur_whisper_1_1975-book-thumbnail-medium.jpg",
           "photographer": "Book publication",
           "year": "1975"
         },
@@ -18292,12 +18292,12 @@
       },
       "images": [
         {
-          "url": "images/hundljod_1970/medium/hundljod_1970-book-thumbnail-medium.tif",
+          "url": "images\\hundljod_1970\\medium\\hundljod_1970-book-thumbnail-medium.jpg",
           "caption": {
             "en": "Book thumbnail - Hundljóð (Dog Poem)",
             "is": "Smámynd úr bók - Hundljóð"
           },
-          "thumbnail": "images/hundljod_1970/thumbs/hundljod_1970-book-thumbnail-thumb.tif",
+          "thumbnail": "images\\hundljod_1970\\thumbs\\hundljod_1970-book-thumbnail-medium.jpg",
           "photographer": "Book publication",
           "year": "1970"
         },
