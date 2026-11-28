@@ -17012,6 +17012,16 @@
       },
       "images": [
         {
+          "url": "images\\staerdfraedi-maths-1976\\medium\\staerdfraedi-maths-1976-book-thumbnail-medium.JPG",
+          "caption": {
+            "en": "Book thumbnail #48",
+            "is": "Smámynd úr bók #48"
+          },
+          "thumbnail": "images\\staerdfraedi-maths-1976\\thumbs\\staerdfraedi-maths-1976-book-thumbnail-thumb.JPG",
+          "photographer": "Book publication",
+          "year": "1976"
+        },
+        {
           "url": "images/staerdfraedi-maths-1976/medium/staerdfraedi-maths-1976-book-thumbnail-medium.JPG",
           "caption": {
             "en": "Book thumbnail - Stærðfræði 2 (Mathematics 2)",
